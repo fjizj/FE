@@ -33,26 +33,26 @@
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
                    "q":  "次のベン図の網掛け部分(\u003cspan class=\"bb\" style=\"background-color:#999\"\u003e　\u003c/span\u003e)の集合を表す式はどれか。ここで，X∪Yは XとYの和集合， X∩Yは XとYの積集合，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの補集合を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/07.png\" alt=\"問7画像\"\u003e",
                    "op":  [
-                              "\u003cspan class=\"ol\"\u003e(A∩B∩C)",
-                              "(A∪B)∩\u003cspan class=\"ol\"\u003eC",
-                              "(\u003cspan class=\"ol\"\u003eA",
-                              "\u003cspan class=\"ol\"\u003eA∪B∪C"
+                              "<span style=\"text-decoration: overline;\">(A ∩ B ∩ C)</span> ∩ B",
+                              "(A∪B)∩<span style=\"text-decoration: overline;\">C</span>",
+                              "(<span style=\"text-decoration: overline;\">A</span>∩B∩C)∪(A∩B∩<span style=\"text-decoration: overline;\">C</span>)",
+                              "<span style=\"text-decoration: overline;\">A∪B∪C</span>"
                           ],
                    "an":  3,
-                   "al":  "それぞれの式が示す集合をベン図で表すことで正解を導きます。"
+                   "al":  "それぞれの式が示す集合をベン図で表すことで正解を導きます。[1]<img src=\"https://www.fe-siken.com/kakomon/18_haru/img/07a.png\" />[2]<img src=\"https://www.fe-siken.com/kakomon/18_haru/img/07i.png\" />[3]<img src=\"https://www.fe-siken.com/kakomon/18_haru/img/07u.png\" />[4]<img src=\"https://www.fe-siken.com/kakomon/18_haru/img/07e.png\" />"
                },
         "zh":  {
                    "ti":  "平成18年春期 問7",
                    "ca":  "科技 » 基础理论 » 离散数学",
                    "q":  "以下文氏图中阴影部分（\u003cspan class=\"bb\" style=\"background-color:#999\"\u003e　\u003c/span\u003e）所表示的集合是哪个表达式？其中，X∪Y表示X与Y的并集，X∩Y表示X与Y的交集，\u003cspan class=\"ol\"\u003eX\u003c/span\u003e表示X的补集。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/07.png\" alt=\"問7画像\"\u003e\u003c/div\u003e",
                    "op":  [
-                              "\u003cspan class=\"ol\"\u003e(A∩B∩C)",
-                              "(A∪B)∩\u003cspan class=\"ol\"\u003eC",
-                              "(\u003cspan class=\"ol\"\u003eA",
-                              "\u003cspan class=\"ol\"\u003eA∪B∪C"
+                              "<span style=\"text-decoration: overline;\">(A ∩ B ∩ C)</span> ∩ B",
+                              "(A∪B)∩<span style=\"text-decoration: overline;\">C</span>",
+                              "(<span style=\"text-decoration: overline;\">A</span>∩B∩C)∪(A∩B∩<span style=\"text-decoration: overline;\">C</span>)",
+                              "<span style=\"text-decoration: overline;\">A∪B∪C</span>"
                           ],
                    "an":  3,
-                   "al":  "通过将每个表达式所表示的集合用文氏图表示来推导出正确答案。"
+                   "al":  "通过将每个表达式所表示的集合用文氏图表示来推导出正确答案。[1]<img src=\"https://www.fe-siken.com/kakomon/18_haru/img/07a.png\" />[2]<img src=\"https://www.fe-siken.com/kakomon/18_haru/img/07i.png\" />[3]<img src=\"https://www.fe-siken.com/kakomon/18_haru/img/07u.png\" />[4]<img src=\"https://www.fe-siken.com/kakomon/18_haru/img/07e.png\" />"
                }
     },
     {
@@ -311,7 +311,7 @@
         "ja":  {
                    "ti":  "令和3年度　問4",
                    "ca":  "テクノロジ系 » 基礎理論 » 応用数学",
-                   "q":  "連立一次方程式\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/04_1.png\" alt=\"04_1.png\"\u003e",
+                   "q":  "聯立一次方程式\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/04_1.png\" alt=\"04_1.png\"\u003e\nから，xの項の係数，yの項の係数，及び定数項だけを取り出した表(行列)を作り，基本操作(1)～(3)のいずれかを順次施すことによって，解\n\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/04_2.png\" alt=\"04_1.png\"\u003e\nが得られた。表(行列)が次のように左から右に推移する場合，同じ種類の基本操作が施された箇所の組合せはどれか。\n\n〔基本操作〕\nある行に0でない数を掛ける。\nある行と他の行を入れ替える。\nある行に他の行の定数倍を加える。\n〔表(行列)の推移〕\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/04_3.png\" alt=\"04_1.png\"\u003e",
                    "op":  [
                               "a と b",
                               "a と c",
@@ -324,12 +324,12 @@
         "zh":  {
                    "ti":  "令和3年度 問4",
                    "ca":  "技術系 » 基礎理論 » 應用數學",
-                   "q":  "聯立一次方程式\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/04_1.png\" alt=\"04_1.png\"\u003e",
+				   "q":  "從聯立一次方程式\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/04_1.png\" alt=\"04_1.png\"\u003e\n出發，萃取出 x 項係數、y 項係數及常數項建立表格（矩陣），並依序施作基本操作 (1) ～ (3) 的其中一項，從而得到解\n\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/04_2.png\" alt=\"04_1.png\"\u003e\n。當表格（矩陣）如下所示由左向右推移時，施作了相同種類基本操作之處的組合為何？\n\n〔基本操作〕\n將某行乘以一個非零的數。\n將某行與另一行互換。\n將某行加上另一行的常數倍。\n〔表格（矩陣）的推移〕\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/04_3.png\" alt=\"04_1.png\"\u003e",
                    "op":  [
-                              "a 與 b",
-                              "a 與 c",
-                              "b 與 c",
-                              "b 與 d"
+                            "a 與 b",
+                            "a 與 c",
+                            "b 與 c",
+                            "b 與 d"
                           ],
                    "an":  2,
                    "al":  "針對 a 到 d 各階段的處理，思考其對應基本操作 (1) 到 (3) 中的哪一項。上行的值沒有改變，下行的值分別較前一個矩陣的值減少了 4、6、8。由於下行的值是透過將上行的值（2、3、4）乘以 -2 後加到原始值上所得到，因此對應基本操作的 (3)。由於上下行進行了對調，因此對應基本操作的 (2)。上行的值沒有改變，下行的值較前一個矩陣的值從左列開始分別進行了 -2、±0、+2 的變動。與 a 相同，由於下行的值是透過將上行的值（1、0、-1）乘以 -2 後加到原始值上所得到，因此對應基本操作的 (3)。上行的值沒有改變，下行的值分別變為原來的 1/3，因此對應基本操作的 (1)。在 a 到 d 四個處理中，進行了兩次的操作是 (3)。因此正確答案為「イ（選項 2）」。"
