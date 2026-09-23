@@ -315,7 +315,6 @@ function utilGotoQuiz(finalQuestions, groupName, startQ, isRandom, isIndex=false
 	else
 		params =  "?" + params.toString();
 
-
     // 跳轉到測驗頁面
 	if(isIndex)
 		window.location.href = 'quiz.html'+params;
