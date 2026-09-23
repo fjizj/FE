@@ -1,0 +1,1990 @@
+[
+    {
+        "ja":  {
+                   "ti":  "平成26年春期　問22",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "入力XとYの値が同じときにだけ，出力Zに1を出力する回路はどれか。",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22a.png\" alt=\"問22ア\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22i.png\" alt=\"問22イ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22u.png\" alt=\"問22ウ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22e.png\" alt=\"問22エ\"\u003e"
+                          ],
+                   "an":  3,
+                   "al":  "「入力XとYの値が同じときにだけ，出力Zに1を出力する」ということは、裏を返せば「入力XとYの値が異なるときには1を出力しない」ということです。このため、(X，Y)が(0，0)と(1，1)のときに1を出力するかどうかだけでなく、それ以外の(1，0)と(0，1)のときに出力が0になっているかどうかも確認する必要があります。それぞれの論理回路に(0，0)、(1，0)、(0，1)、(1，1)の4つを入力して得られる結果は次のようになります。XとYが同じときに1を出力しているもの、XとYが異なるときに1を出力していないものには○を、そうではないものには×を付けてあります。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22a.png\" alt=\"問22ア\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22_1.png\" alt=\"\"\u003e [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22i.png\" alt=\"問22イ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22_2.png\" alt=\"\"\u003e [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22u.png\" alt=\"問22ウ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22_3.png\" alt=\"\"\u003e [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22e.png\" alt=\"問22エ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22_4.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成26年春期　題22",
+                   "ca":  "科技類 » 硬體 » 硬體",
+                   "q":  "只有當輸入X和Y的值相同時，才將1輸出至輸出Z的電路是哪一個？",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22a.png\" alt=\"問22ア\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22i.png\" alt=\"問22イ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22u.png\" alt=\"問22ウ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22e.png\" alt=\"問22エ\"\u003e"
+                          ],
+                   "an":  3,
+                   "al":  "「只有當輸入X和Y的值相同時，才將1輸出至輸出Z」，換句話說，也就是「當輸入X和Y的值不同時，不輸出1」。因此，不僅需要確認(X，Y)在(0，0)和(1，1)時是否輸出1，還需要確認在其餘的(1，0)和(0，1)時輸出是否為0。分別將(0，0)、(1，0)、(0，1)、(1，1)四個輸入各個邏輯電路所得到的結果如下所示。將X和Y相同時輸出1，以及X和Y不同時不輸出1的標記○，否則標記×。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22a.png\" alt=\"問22ア\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22_1.png\" alt=\"\"\u003e [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22i.png\" alt=\"問22イ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22_2.png\" alt=\"\"\u003e [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22u.png\" alt=\"問22ウ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22_3.png\" alt=\"\"\u003e [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22e.png\" alt=\"問22エ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22_4.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "令和2年度　問22",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "図の回路が実現する論理式はどれか。ここで，論理式中の\"・\"は論理積，\"＋\"は論理和を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/22.png\" alt=\"22.png\"\u003e",
+                   "op":  [
+                              "F＝A",
+                              "F＝B",
+                              "F＝A・B",
+                              "F＝A＋B"
+                          ],
+                   "an":  2,
+                   "al":  "設問中の上下2つのAND回路からの出力を論理式で表すと、\"A・B\"と\"A・B\"になります。\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/22_1.png\" alt=\"22_1.png\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "令和2年度 問22",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "下圖電路所實現的邏輯式為何？在此，邏輯式中的「・」代表邏輯積（AND），「＋」代表邏輯和（OR）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/22.png\" alt=\"22.png\"\u003e",
+                   "op":  [
+                              "F＝A",
+                              "F＝B",
+                              "F＝A・B",
+                              "F＝A＋B"
+                          ],
+                   "an":  2,
+                   "al":  "題目中上下兩個 AND 電路的輸出，用邏輯式表示為「A・B」與「A・B」。\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/22_1.png\" alt=\"22_1.png\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成22年秋期　問25",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "次の条件を満足する論理回路はどれか。\u003cbr\u003e\u003cbr\u003e〔条件〕\u003cbr\u003e　階段の上下にあるスイッチA又はBで，一つの照明を点灯・消灯する。すなわち，一方のスイッチの状態にかかわらず，他方のスイッチで照明を点灯・消灯できる。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/25.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "AND ",
+                              "NAND ",
+                              "NOR ",
+                              "XOR "
+                          ],
+                   "an":  4,
+                   "al":  "階段の上と下に設置されているスイッチを思い浮かべてみればわかるように、各スイッチにはON/OFFの区別があるわけではなく、どちらのスイッチ押しても現在の照明の状態を変えることができます。つまりスイッチを押すと(1を入力すると)相手スイッチ状態(0または1)にかかわらず、照明の状態を反転する(0→1, 1→0)ことが求められます。XOR回路には、特定のビットと1でXORをとると、そのビットを反転できるという特徴があり、この目的に合う論理回路として最適です。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/25_1.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成22年秋季 問25",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "下列哪一個邏輯電路滿足以下條件？\u003cbr\u003e\u003cbr\u003e〔條件〕\u003cbr\u003e　使用樓梯上下方的開關A或B來開關同一盞燈。換句話說，無論另一側的開關狀態為何，都可以透過其中一側的開關來開啟或關閉照明。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/25.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "AND ",
+                              "NAND ",
+                              "NOR ",
+                              "XOR "
+                          ],
+                   "an":  4,
+                   "al":  "正如聯想樓梯上下方安裝的開關一樣，各個開關並沒有固定的開／關區別，無論按哪一個開關，都能改變照明目前的狀態。也就是說，當按下開關（輸入1）時，無論另一個開關的狀態為何（0或1），照明的狀態都會反轉（0→1, 1→0）。XOR電路具有「將特定位元與1進行XOR運算時，該位元會反轉」的特性，因此是符合此目的的最佳邏輯電路。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/25_1.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成28年秋期　問23",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "真理値表に示す3入力多数決回路はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23e.png\" alt=\"\"\u003e"
+                          ],
+                   "an":  1,
+                   "al":  "3入力多数決回路なので、真理値表にあるように3つの入力中2つ以上が\"1\"（＝\"1\"が多数）であれば結果に\"1\"を出力、そして2つ以上が\"0\"（＝\"0\"が多数）であれば結果に\"0\"を出力するものになっている必要があります。回路ごとにA、B、Cの値を与えた場合の出力を照合していくと、正しいのは「ア」の回路とわかります。「ア」の回路は、論理的には次のような演算を行う回路と考えられます。まず「A，B」「A，C」「B，C」それぞれの論理積を求める。3つの論理積演算の結果に\"1\"が現れれば、3つの入力中に\"1\"が2つ以上あることが確定する。逆に\"1\"が現れなければ3つの入力中の\"1\"の個数は1以下ということになる。3つの論理積演算の結果の中に少なくとも\"1\"が1つ以上ある場合には\"1\"(可決)、そうでなければ\"0\"(否決)を出力すればよいので、3つの演算結果を論理和演算した結果を最終的な出力とする。 [1]まず「A，B」「A，C」「B，C」それぞれの論理積を求める。 [2]3つの論理積演算の結果に\"1\"が現れれば、3つの入力中に\"1\"が2つ以上あることが確定する。逆に\"1\"が現れなければ3つの入力中の\"1\"の個数は1以下ということになる。 [3]3つの論理積演算の結果の中に少なくとも\"1\"が1つ以上ある場合には\"1\"(可決)、そうでなければ\"0\"(否決)を出力すればよいので、3つの演算結果を論理和演算した結果を最終的な出力とする。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23a.png\" alt=\"\"\u003e正しい。"
+               },
+        "zh":  {
+                   "ti":  "平成28年秋季 問23",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "下圖中的真值表對應的是哪一個3輸入多數決電路？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23e.png\" alt=\"\"\u003e"
+                          ],
+                   "an":  1,
+                   "al":  "由於是3輸入多數決電路，如真值表所示，當3個輸入中有2個以上為\"1\"（即\"1\"佔多數）時，輸出結果必須為\"1\"；反之，若有2個以上為\"0\"（即\"0\"佔多數）時，輸出結果則必須為\"0\"。透過檢查各個電路在輸入A、B、C時的輸出，可知正確的電路為「ア」。\n\n「ア」電路在邏輯上可以被視為進行以下運算的電路：\n首先，求出「A與B」、「A與C」、「B與C」各自的邏輯積（AND）。如果這三個邏輯積運算結果中出現\"1\"，即代表3個輸入中有2個以上為\"1\"。反之，如果沒有出現\"1\"，則代表輸入中\"1\"的個數為1個以下。只要三個邏輯積運算結果中至少有一個\"1\"，就輸出\"1\"（通過），否則輸出\"0\"（否決），因此將三個運算結果進行邏輯和（OR）運算即可得到最終輸出。\n\n[1] 首先求出「A與B」、「A與C」、「B與C」各自的邏輯積。\n[2] 如果這三個邏輯積運算結果中出現\"1\"，即確定3個輸入中有2個以上為\"1\"。反之，若未出現\"1\"，則代表輸入中\"1\"的個數為1個以下。\n[3] 因為只要三個邏輯積運算結果中至少有一個\"1\"就輸出\"1\"（通過），否則輸出\"0\"（否決），所以將三個運算結果進行邏輯和運算作為最終輸出。\n[4] \u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23a.png\" alt=\"\"\u003e 正確。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成18年春期　問16",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "NAND回路による次の組合せ回路の出力Zを表す式はどれか。ここで，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/nand.png\" alt=\"NAND回路\"\u003e は NAND 回路，・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eは X の否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/16.png\" alt=\"論理回路図\"\u003e",
+                   "op":  [
+                              "X・Y",
+                              "X＋Y",
+                              "\u003cspan class=\"ol\"\u003eX＋Y",
+                              "\u003cspan class=\"ol\"\u003eX・Y"
+                          ],
+                   "an":  2,
+                   "al":  "NAND回路は、NAND(Not AND)の名称どおりAND回路の逆を出力する回路で、2つの入力がともに\"1\"のときだけ\"0\"を出力し、それ以外の入力では\"1\"を出力します。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/16_1.png\" alt=\"NAND回路図\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成18年春季 問16",
+                   "ca":  "科技系 » 硬體 » 硬體",
+                   "q":  "下圖由 NAND 電路組成的組合邏輯電路，其輸出 Z 的邏輯式為何？在此，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/nand.png\" alt=\"NAND電路\"\u003e 代表 NAND 電路，・代表邏輯乘（AND），＋代表邏輯加（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e 代表 X 的反相（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/16.png\" alt=\"邏輯電路圖\"\u003e",
+                   "op":  [
+                              "X・Y",
+                              "X＋Y",
+                              "\u003cspan class=\"ol\"\u003eX＋Y",
+                              "\u003cspan class=\"ol\"\u003eX・Y"
+                          ],
+                   "an":  2,
+                   "al":  "NAND 電路正如其名（Not AND），是將 AND 電路的輸出取反的電路。當兩個輸入皆為 \"1\" 時輸出為 \"0\"，其他情況下輸出均為 \"1\"。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/16_1.png\" alt=\"NAND電路圖\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成25年秋期　問22",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "分解能が8ビットのD/A変換器に，デジタル値0を入力したときの出力電圧が0Vとなり，デジタル値128を入力したときの出力電圧が2.5Vとなるとき，最下位の1ビットの変化によるこのD/A変換器の出力電圧の変化は何Vか。",
+                   "op":  [
+                              "2.5／128",
+                              "2.5／255",
+                              "2.5／256",
+                              "2.5／512"
+                          ],
+                   "an":  1,
+                   "al":  "分解能とは、器械装置等がアナログ信号をどの程度細かく表現できるかの性能を表すものです。この設問では分解能が8ビットなので、このD/A変換器は0～最大出力までの電圧を28＝256階調で任意に出力可能であるとわかります。入力値を表すビット列の最下位1ビットが変化すると入力値は1だけ増減します。設問のD/A変換器に0を与えたときの出力電圧は0V、そして128を与えたときの出力電圧は2.5Vですから、1ビットの変化によって増減する出力電圧は2.5Vを128等分した量になります。つまり最下位の1ビットが変化したとき、このD/A変換器の出力電圧は2.5／128Vだけ変化します。"
+               },
+        "zh":  {
+                   "ti":  "平成25年秋季 問22",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "當一個解析度為8位元的D/A轉換器，輸入數位值0時輸出電壓為0V，輸入數位值128時輸出電壓為2.5V，請問該D/A轉換器因最末位（LSB）1位元變化所導致的輸出電壓變化量為多少V？",
+                   "op":  [
+                              "2.5／128",
+                              "2.5／255",
+                              "2.5／256",
+                              "2.5／512"
+                          ],
+                   "an":  1,
+                   "al":  "解析度是指機器設備等能將類比訊號表現得有多細緻的效能指標。本題中解析度為8位元，表示該D/A轉換器可將從0到最大輸出的電壓範圍，以2^8＝256個階調進行任意輸出。當代表輸入值的位元序列最末位（LSB）發生變化時，輸入值會增加或減少1。根據題目，當輸入數位值為0時輸出電壓為0V，輸入128時輸出電壓為2.5V，因此由1位元變化所引起的輸出電壓增減量，即為將2.5V進行128等分所得的數值。換言之，當最末位1位元變化時，該D/A轉換器的輸出電壓會改變 2.5／128 V。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成25年春期　問24",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "図の論理回路と等価な回路はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24.png\" alt=\"問24画像\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24a.png\" alt=\"問24ア\"\u003e(論理和素子)",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24i.png\" alt=\"問24イ\"\u003e(論理積素子)",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24u.png\" alt=\"問24ウ\"\u003e(排他的論理和素子)",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24e.png\" alt=\"問24エ\"\u003e(否定論理和素子)"
+                          ],
+                   "an":  3,
+                   "al":  "設問の回路素子はNAND回路を表しています。設問の回路図にAとBにそれぞれ0または1の値を与えたとき、各回路の出力であるYの値がどうなるかを考えます。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24_1.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成25年春季 問24",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "下列哪一個是與圖中邏輯電路等效的電路？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24.png\" alt=\"問24圖片\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24a.png\" alt=\"問24ア\"\u003e(或閘)",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24i.png\" alt=\"問24イ\"\u003e(及閘)",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24u.png\" alt=\"問24ウ\"\u003e(互斥或閘)",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24e.png\" alt=\"問24エ\"\u003e(反或閘)"
+                          ],
+                   "an":  3,
+                   "al":  "設問中的電路元件代表NAND（反及）閘。當我們在設問電路圖的A與B輸入0或1的值時，請思考各電路輸出的Y值為何。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24_1.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成25年秋期　問25",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "論理式X＝\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・B＋A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・\u003cspan class=\"ol\"\u003eB\u003c/span\u003eと同じ結果が得られる論理回路はどれか。ここで，論理式中の・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの否定を表す。",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25e.png\" alt=\"\"\u003e"
+                          ],
+                   "an":  2,
+                   "al":  "集合演算則を用いて解く方法と、ベン図を用いて解く方法の2通りを解説します。[集合演算則を用いた解法] A・B＋A・B＋A・B＝ A・(B＋B)＋A・B //第1項と第3項をAでくくる＝ A＋A・B //B＋Bは1，1・X＝X＝ A・(A＋B) //ド・モルガン則を逆に適用する＝ A・A＋A・B //分配の法則＝ A・B //A・Aは0，0＋X＝XA・Bは、NAND(not AND)回路の出力と同じなので正解は「イ」になります。[ベン図を用いた解法]第1項～第3項の論理式をベン図で表すと次のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25_1.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成25年秋季 問25",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "與邏輯式 X＝\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・B＋A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e 得到相同結果的邏輯電路為何？在此，邏輯式中的「・」表示邏輯積（AND），「＋」表示邏輯和（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e 表示 X 的反相（NOT）。",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25e.png\" alt=\"\"\u003e"
+                          ],
+                   "an":  2,
+                   "al":  "在此說明使用集合運算法則與使用文氏圖法兩種解法。[使用集合運算法則的解法] A・B＋A・B＋A・B＝ A・(B＋B)＋A・B //將第1項與第3項提取A＝ A＋A・B //B＋B為1，1・X＝X＝ A・(A＋B) //逆向應用德摩根定律＝ A・A＋A・B //分配律＝ A・B //A・A為0，0＋X＝XA・B 與 NAND (not AND) 電路的輸出相同，故正解為「イ」（選項2）。[使用文氏圖的解法] 將第1項至第3項的邏輯式以文氏圖表示如下。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25_1.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成26年春期　問20",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "メモリセルにフリップフロップ回路を利用したものはどれか。",
+                   "op":  [
+                              "DRAM ",
+                              "EEPROM ",
+                              "SDRAM",
+                              "SRAM"
+                          ],
+                   "an":  4,
+                   "al":  "フリップフロップ回路は、2つの安定状態をもつことで1ビットの状態を表現することが可能な順序回路で、キャッシュメモリに使用されるSRAMの記憶セルに使用されています。DRAMと比較してリフレッシュ動作が不要、消費電力が少ないなどの理由で読み書きを高速化しやすい長所があります。 [1]DRAM Dynamic Random Access Memoryの略。コンデンサに電荷を蓄えることにより情報を記憶するメモリで、コンピュータの主記憶装置として使用されています。 [2]EEPROM Electrically Erasable Programmable ROMの略。利用者が記憶内容を電気的に書き込み・消去できる不揮発性メモリです。フラッシュメモリはEEPROMの一種です。 [3]SDRAMSynchronous DRAMの略。システムバスに同期して動作しデータ転送の待ち時間を少なくすることで高速に動作するDRAMです。 [4]SRAM正しい。"
+               },
+        "zh":  {
+                   "ti":  "平成26年春季 問20",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "下列何者在記憶單元中使用了正反器（Flip-Flop）電路？",
+                   "op":  [
+                              "DRAM",
+                              "EEPROM",
+                              "SDRAM",
+                              "SRAM"
+                          ],
+                   "an":  4,
+                   "al":  "正反器電路是一種透過擁有兩個穩定狀態來表現 1 位元狀態的循序電路，被用於快取記憶體所使用的 SRAM 記憶單元中。相較於 DRAM，其優點包括不需要更新（Refresh）動作、耗電量較低，且較容易實現高速讀寫。 [1] DRAM：Dynamic Random Access Memory 的縮寫。是透過在電容器中儲存電荷來記憶資訊的記憶體，被用作電腦的主記憶體。 [2] EEPROM：Electrically Erasable Programmable ROM 的縮寫。是一種使用者可以透過電氣方式寫入及抹除記憶內容的非揮發性記憶體。快閃記憶體是 EEPROM 的一種。 [3] SDRAM：Synchronous DRAM 的縮寫。是一種與系統匯流排同步運作，透過減少資料傳輸等待時間來實現高速運作的 DRAM。 [4] SRAM：正確。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成31年春期　問22",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "二つの入力と一つの出力をもつ論理回路で，二つの入力A，Bがともに1のときだけ，出力Xが0になるものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/22.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "AND回路",
+                              "NAND回路",
+                              "OR回路",
+                              "XOR回路"
+                          ],
+                   "an":  2,
+                   "al":  "NAND回路の\"NAND\"はNot ANDを表し、AND回路の出力を反転させた回路です。したがってNAND回路は、二つの入力がともに1のときだけ0を出力し、その他の場合は1を出力します。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/22i.png\" alt=\"NAND回路の真理値表\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成31年春季 問22",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "這是一個擁有兩個輸入和一個輸出的邏輯電路，請問僅在兩個輸入 A、B 皆為 1 時，輸出 X 為 0 的電路是哪一個？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/22.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "AND 電路",
+                              "NAND 電路",
+                              "OR 電路",
+                              "XOR 電路"
+                          ],
+                   "an":  2,
+                   "al":  "NAND 電路的「NAND」代表 Not AND，是將 AND 電路的輸出進行反轉後的電路。因此，NAND 電路僅在兩個輸入皆為 1 時輸出 0，其他情況下則輸出 1。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/22i.png\" alt=\"NAND 電路的真值表\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "令和4年度　問22",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "図に示す全加算器の入力xに1，yに0，zに1を入力したとき，出力となるc(けた上げ数)，s(和)の値の組合せとして，正しいものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/22_1.png\" alt=\"22_1.png\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/22_2.png\" alt=\"22_2.png\"\u003e",
+                   "op":  [
+                              "ア",
+                              "イ",
+                              "ウ",
+                              "エ"
+                          ],
+                   "an":  3,
+                   "al":  "全加算器は、2進数の加算を行う論理回路で、2進数の1桁分の加算を下位からの桁上がりを含めて計算できます。図中の出力cは「Carry out」の略で桁上がり数を示し、sは「Sum」の略で合計を表しています。3つの入力値（x=1、y=0、z=1）を合計すると2です。10進数では10で1つ上の桁に繰り上がるように2進数では2で1つ上の桁に繰り上がるので、10進数の 2 を2進数で表すと 10 となります。よって、c(けた上げ数)には1、s(和)は0が出力されます。したがって「ウ」の組合せが適切です。"
+               },
+        "zh":  {
+                   "ti":  "令和4年度 問22",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "如下圖所示的全加法器，當輸入 x 為 1，y 為 0，z 為 1 時，其輸出 c（進位）與 s（和）的數值組合，正確的是哪一個？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/22_1.png\" alt=\"22_1.png\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/22_2.png\" alt=\"22_2.png\"\u003e",
+                   "op":  [
+                              "ア",
+                              "イ",
+                              "ウ",
+                              "エ"
+                          ],
+                   "an":  3,
+                   "al":  "全加法器是一種執行二進位加法的邏輯電路，能夠計算二進位中 1 個位數的加法，包含來自低位的進位。圖中的輸出 c 是「Carry out」的縮寫，表示進位數；s 是「Sum」的縮寫，表示總和。將這 3 個輸入值（x=1、y=0、z=1）相加結果為 2。在十進位中，數字 2 會進位為 10，而在二進位中，逢 2 進位（即十進位的 2 在二進位中表示為 10）。因此，c（進位數）輸出 1，s（和）輸出 0。故「ウ」的組合是正確的。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成17年春期　問17",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "図の論理回路と同じ出力が得られる論理回路はどれか。ここで，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/and.png\" alt=\"\"\u003e は論理積(AND)，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/or.png\" alt=\"\"\u003e は論理和(OR)，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/not.png\" alt=\"\"\u003e は否定(NOT)を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17.png\" alt=\"問17画像\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17a.png\" alt=\"問17ア\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17i.png\" alt=\"問17イ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17u.png\" alt=\"問17ウ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17e.png\" alt=\"問17エ\"\u003e"
+                          ],
+                   "an":  2,
+                   "al":  "設問の論理回路に(A=0，B=0)，(A=1，B=0)，(A=0，B=1)，(A=1，B=1)の4つの値を入力するとXには次の値が出力されます。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17_1.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成17年春季 問17",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "下列哪一個邏輯電路與圖中的邏輯電路輸出結果相同？在此，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/and.png\" alt=\"\"\u003e 代表邏輯積 (AND)，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/or.png\" alt=\"\"\u003e 代表邏輯和 (OR)，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/not.png\" alt=\"\"\u003e 代表否定 (NOT)。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17.png\" alt=\"問17圖片\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17a.png\" alt=\"問17ア\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17i.png\" alt=\"問17イ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17u.png\" alt=\"問17ウ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17e.png\" alt=\"問17エ\"\u003e"
+                          ],
+                   "an":  2,
+                   "al":  "若將 (A=0, B=0), (A=1, B=0), (A=0, B=1), (A=1, B=1) 四種值輸入至題目所示的邏輯電路中，X 的輸出結果如下：\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17_1.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成22年春期　問26",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "入力XとYの値が同じときにだけ，出力Zに1を出力する回路はどれか。",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26a.png\" alt=\"問26ア\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26i.png\" alt=\"問26イ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26u.png\" alt=\"問26ウ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26e.png\" alt=\"問26エ\"\u003e"
+                          ],
+                   "an":  3,
+                   "al":  "「入力XとYの値が同じときにだけ，出力Zに1を出力する」ということは、裏を返せば「入力XとYの値が異なるときには1を出力しない」ということです。このため、(X，Y)が(0，0)と(1，1)のときに1を出力するかどうかだけでなく、それ以外の(1，0)と(0，1)のときに出力が0になっているかどうかも確認する必要があります。それぞれの論理回路に(0，0)、(1，0)、(0，1)、(1，1)の4つを入力して得られる結果は次のようになります。XとYが同じときに1を出力しているもの、XとYが異なるときに1を出力していないものには○を、そうではないものには×を付けてあります。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26a.png\" alt=\"問26ア\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26_1.png\" alt=\"\"\u003e [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26i.png\" alt=\"問26イ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26_2.png\" alt=\"\"\u003e [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26u.png\" alt=\"問26ウ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26_3.png\" alt=\"\"\u003e [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26e.png\" alt=\"問26エ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26_4.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成22年春季 問26",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "僅在輸入 X 與 Y 的值相同時，輸出 Z 為 1 的電路為何？",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26a.png\" alt=\"問26ア\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26i.png\" alt=\"問26イ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26u.png\" alt=\"問26ウ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26e.png\" alt=\"問26エ\"\u003e"
+                          ],
+                   "an":  3,
+                   "al":  "「僅在輸入 X 與 Y 的值相同時，輸出 Z 為 1」，換言之，即「在輸入 X 與 Y 的值不同時，不輸出 1」。因此，不僅要確認 (X, Y) 為 (0, 0) 與 (1, 1) 時輸出是否為 1，還需要確認除此之外的 (1, 0) 與 (0, 1) 時輸出是否為 0。將 (0, 0)、(1, 0)、(0, 1)、(1, 1) 四種情況輸入至各邏輯電路所得的結果如下。符合 X 與 Y 相同時輸出 1、且 X 與 Y 不同時輸出不為 1 的電路標記為○，不符合者標記為×。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26a.png\" alt=\"問26ア\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26_1.png\" alt=\"\"\u003e [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26i.png\" alt=\"問26イ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26_2.png\" alt=\"\"\u003e [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26u.png\" alt=\"問26ウ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26_3.png\" alt=\"\"\u003e [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26e.png\" alt=\"問26エ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26_4.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成29年秋期　問21",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "コンデンサに蓄えた電荷の有無で情報を記憶するメモリはどれか。",
+                   "op":  [
+                              "EEPROM",
+                              "SDRAM",
+                              "SRAM",
+                              "フラッシュメモリ"
+                          ],
+                   "an":  2,
+                   "al":  "DRAM(Dynamic Random Access Memory)は、コンデンサに電荷を蓄えることにより情報を記憶し、電源供給が無くなると記憶情報も失われる揮発性メモリです。DRAMは、メモリセルと呼ばれるトランジスタ1個とコンデンサ1個の組ごとに1ビットの情報を記憶します。コンデンサに蓄えた電荷は時間がたつと失われてしまうため、データ保持を目的とした定期的なリフレッシュ操作が必要です。SDRAM(Synchronous DRAM)は、同期式のDRAMで、現在、PCの主記憶として一般的に使用されているタイプです。 [1]EEPROMEEPROM(Electrically Erasable Programmable ROM)は、フローティングゲートと呼ばれる部位に電荷を蓄え、周囲を絶縁体で囲うことによって情報を記憶しています。 [2]SDRAM正しい。 [3]SRAMSRAM(Static RAM)は、4～6個のトランジスタでフリップフロップ回路を構成し、フリップフロップ回路の状態で1ビットの情報を記憶します。 [4]フラッシュメモリフラッシュメモリは、フローティングゲートと呼ばれる部位に電荷を蓄え、周囲を絶縁体で囲うことによって情報を記憶しています。EEPROMの一種ですが、データの書き換えをブロック単位（EEPROMはバイト単位）で行う点が異なります。"
+               },
+        "zh":  {
+                   "ti":  "平成29年秋期　問21",
+                   "ca":  "技術類 » 硬體 » 硬體",
+                   "q":  "利用電容器中電荷的有無來記憶資訊的記憶體為何？",
+                   "op":  [
+                              "EEPROM",
+                              "SDRAM",
+                              "SRAM",
+                              "快閃記憶體 (Flash Memory)"
+                          ],
+                   "an":  2,
+                   "al":  "DRAM (Dynamic Random Access Memory) 是一種透過在電容器中儲存電荷來記憶資訊，且在電源供應中斷後記憶內容會消失的揮發性記憶體。DRAM 的記憶單元由 1 個電晶體與 1 個電容器組成，用以儲存 1 位元的資訊。由於電容器儲存的電荷會隨時間流失，因此需要定期進行更新 (Refresh) 操作以維持資料。SDRAM (Synchronous DRAM) 是同步式的 DRAM，也是目前個人電腦主記憶體普遍使用的類型。 [1] EEPROM：EEPROM (Electrically Erasable Programmable ROM) 是在稱為浮動閘極 (Floating Gate) 的部位儲存電荷，並透過周圍的絕緣體包覆來記憶資訊。 [2] SDRAM：正確。 [3] SRAM：SRAM (Static RAM) 是由 4 到 6 個電晶體構成正反器 (Flip-flop) 電路，並透過正反器電路的狀態來儲存 1 位元的資訊。 [4] 快閃記憶體：快閃記憶體是在稱為浮動閘極的部位儲存電荷，並透過周圍的絕緣體包覆來記憶資訊。它屬於 EEPROM 的一種，但與 EEPROM 以位元組 (Byte) 為單位的資料寫入不同，快閃記憶體是以區塊 (Block) 為單位進行資料覆寫。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成16年秋期　問17",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "図の論理回路において，A＝1，B＝0，C＝1のとき，P，Q，Rの値の適切な組合せはどれか。ここで，\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/and.png\" alt=\"\"\u003eは AND回路，\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/or.png\" alt=\"\"\u003eは OR回路，\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/not.png\" alt=\"\"\u003eは NOT回路を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/17.png\" alt=\"問17画像\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/17a.png\" alt=\"問17選択肢\"\u003e",
+                   "op":  [
+                              "ア",
+                              "イ",
+                              "ウ",
+                              "エ"
+                          ],
+                   "an":  1,
+                   "al":  "P＝A AND B＝1 AND 0＝0Q＝P OR C＝0 OR 1＝1R＝NOT Q＝NOT 1＝0したがって正解は「ア」になります。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/17_1.png\" alt=\"問17解説\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成16年秋季 問17",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "在圖示的邏輯電路中，當 A＝1、B＝0、C＝1 時，P、Q、R 的值的組合何者正確？此處，\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/and.png\" alt=\"\"\u003e 代表 AND 電路，\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/or.png\" alt=\"\"\u003e 代表 OR 電路，\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/not.png\" alt=\"\"\u003e 代表 NOT 電路。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/17.png\" alt=\"問17圖像\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/17a.png\" alt=\"問17選択肢\"\u003e",
+                   "op":  [
+                              "ア",
+                              "イ",
+                              "ウ",
+                              "エ"
+                          ],
+                   "an":  1,
+                   "al":  "P＝A AND B＝1 AND 0＝0Q＝P OR C＝0 OR 1＝1R＝NOT Q＝NOT 1＝0因此正確答案為「ア」。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/17_1.png\" alt=\"問17解析\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成29年春期　問20",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "分解能が8ビットのD/A変換器に，デジタル値0を入力したときの出力電圧が0Vとなり，デジタル値128を入力したときの出力電圧が2.5Vとなる場合，最下位の1ビットの変化による当該D/A変換器の出力電圧の変化は何Vか。",
+                   "op":  [
+                              "2.5／128",
+                              "2.5／255",
+                              "2.5／256",
+                              "2.5／512"
+                          ],
+                   "an":  1,
+                   "al":  "分解能とは、器械装置等がアナログ信号をどの程度細かく表現できるかの性能を表すものです。この設問では分解能が8ビットなので、このD/A変換器は0～最大出力までの電圧を28＝256階調で任意に出力可能であるとわかります。入力値を表すビット列の最下位1ビットが変化すると入力値は1だけ増減します。設問のD/A変換器に0を与えたときの出力電圧は0V、そして128を与えたときの出力電圧は2.5Vですから、1ビットの変化によって増減する出力電圧は2.5Vを128等分した量になります。つまり最下位の1ビットが変化したとき、このD/A変換器の出力電圧は2.5／128Vだけ変化します。"
+               },
+        "zh":  {
+                   "ti":  "平成29年春季 問20",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "對於解析度為 8 位元的 D/A 轉換器，當輸入數位值 0 時輸出電壓為 0V，輸入數位值 128 時輸出電壓為 2.5V，請問因最低有效位元（LSB）變動 1 位元所導致的該 D/A 轉換器輸出電壓變化量為多少 V？",
+                   "op":  [
+                              "2.5／128",
+                              "2.5／255",
+                              "2.5／256",
+                              "2.5／512"
+                          ],
+                   "an":  1,
+                   "al":  "解析度代表儀器設備等能將類比訊號表現得有多細緻的效能。本題解析度為 8 位元，意即該 D/A 轉換器能將 0 到最大輸出之間的電壓以 2^8 = 256 個階調進行任意輸出。當代表輸入值的位元序列中，最低位的 1 位元發生變化時，輸入值會增加或減少 1。根據題意，輸入 0 時輸出電壓為 0V，輸入 128 時輸出電壓為 2.5V，因此由 1 位元變化所導致的輸出電壓增減量，即為將 2.5V 等分為 128 份的數值。換句話說，當最低位元的 1 位元發生變化時，該 D/A 轉換器的輸出電壓會改變 2.5／128 V。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成21年春期　問25",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "図に示す1けたの2進数xとyを加算し，z(和の1けた目)及び c(けた上げ)を出力する半加算器において，AとBの素子の組合せとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/25.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/25a.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "ア",
+                              "イ",
+                              "ウ",
+                              "エ"
+                          ],
+                   "an":  1,
+                   "al":  "桁上げの出力cは入力される2つの数値がともに\"1\"のときにだけ\"1\"を出力します。この関係はAND回路(論理積)の真理値表と一致します。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/25_1.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成21年春季 問25",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "如圖所示，將1位元的二進位數 x 與 y 相加，並輸出 z（和的第1位）及 c（進位）的半加法器中，下列關於 A 與 B 組件組合的敘述，何者最為適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/25.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/25a.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "ア",
+                              "イ",
+                              "ウ",
+                              "エ"
+                          ],
+                   "an":  1,
+                   "al":  "進位輸出 c 僅在輸入的兩個數值皆為 \"1\" 時才會輸出 \"1\"。此關係與 AND 電路（邏輯積）的真值表一致。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/25_1.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成19年秋期　問16",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "フリップフロップ回路を利用した高速なメモリはどれか。",
+                   "op":  [
+                              "DRAM ",
+                              "RDRAM ",
+                              "SDRAM",
+                              "SRAM"
+                          ],
+                   "an":  4,
+                   "al":  "フリップフロップ回路は、2つの安定状態をもつことで1ビットの状態を表現することができる順序回路で、SRAMの記憶セルに使用されています。DRAMと比較してリフレッシュ動作が不要、消費電力が少ないなどの理由で読み書きを高速化しやすい長所があります。 [1]DRAM Dynamic Random Access Memoryの略。コンデンサに電荷を蓄えることにより情報を記憶するメモリで、コンピュータの主記憶装置として使用されています。 [2]RDRAM Rambus DRAMの略。アメリカの電気機器メーカーであるラムバス社によって設計された高速に動作するDRAMです。 [3]SDRAMSynchronous DRAMの略。システムバスに同期して動作しデータ転送の待ち時間を少なくすることで高速に動作するDRAMです。 [4]SRAM正しい。"
+               },
+        "zh":  {
+                   "ti":  "平成19年秋季 問16",
+                   "ca":  "技術系統 » 硬體 » 硬體",
+                   "q":  "下列何者是利用正反器（Flip-flop）電路所構成的高速記憶體？",
+                   "op":  [
+                              "DRAM",
+                              "RDRAM",
+                              "SDRAM",
+                              "SRAM"
+                          ],
+                   "an":  4,
+                   "al":  "正反器電路是一種透過具備兩個穩定狀態來表示 1 位元狀態的順序電路，被用於 SRAM 的記憶單元中。與 DRAM 相比，它具有無需更新（Refresh）動作、耗電量低等優點，因此容易實現讀寫高速化。\n\n[1] DRAM：Dynamic Random Access Memory 的縮寫。透過在電容器中儲存電荷來記憶資訊的記憶體，被用作電腦的主記憶體裝置。\n[2] RDRAM：Rambus DRAM 的縮寫。由美國電機設備製造商 Rambus 公司所設計，運作速度較快的 DRAM。\n[3] SDRAM：Synchronous DRAM 的縮寫。與系統匯流排同步運作，透過減少資料傳輸的等待時間來實現高速運作的 DRAM。\n[4] SRAM：正確。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成23年秋期　問24",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "RFIDの活用事例として，適切なものはどれか。",
+                   "op":  [
+                              "紙に印刷されたデジタルコードをリーダーで読み取ることによる情報の入力",
+                              "携帯電話とヘッドフォンとの間の音声データ通信",
+                              "赤外線を利用した近距離データ通信",
+                              "微小な無線チップによる人又は物の識別及び管理"
+                          ],
+                   "an":  4,
+                   "al":  "RFID(Radio Frequency IDentification)は、ID情報を埋め込んだRFタグ(ICタグ)と電磁界や電波を用いることで、数cm～数mの範囲で情報のやり取りを行う技術です。特徴として「見えなくても読める」ことが挙げられ、RFタグが目に見えない隠れた位置にあっても、タグ表面がホコリ、泥などで汚れていても読み取り可能です。この利点を活かし乗車カード（Suica, PASMOなど)、電子マネー、電子荷札、野生動物の調査、自動レジ、家畜の管理などに利用されています。 [1]紙に印刷されたデジタルコードをリーダーで読み取ることによる情報の入力OMR(Optical Mark Reader，光学式マーク読取装置)やバーコードリーダーの活用事例です。 [2]携帯電話とヘッドフォンとの間の音声データ通信Bluetoothの活用事例です。 [3]赤外線を利用した近距離データ通信IrDA(Infrared Data Association)の活用事例です。RFIDは赤外線ではなく電波を用います。 [4]微小な無線チップによる人又は物の識別及び管理正しい。RFIDの活用事例です。"
+               },
+        "zh":  {
+                   "ti":  "平成23年秋季 問24",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "關於 RFID 的應用案例，下列何者正確？",
+                   "op":  [
+                              "藉由讀取器讀取紙張上印刷的數位代碼來輸入資訊",
+                              "手機與耳機之間的語音資料傳輸",
+                              "利用紅外線進行的短距離資料傳輸",
+                              "利用微小無線晶片進行人或物品的識別及管理"
+                          ],
+                   "an":  4,
+                   "al":  "RFID (Radio Frequency IDentification) 是一種利用嵌入 ID 資訊的 RF 標籤（IC 標籤）與電磁場或無線電波，在數公分至數公尺範圍內進行資訊交換的技術。其特徵在於「即使看不見也能讀取」，即使 RF 標籤位於隱蔽處，或標籤表面沾染灰塵、泥土，仍可進行讀取。利用此優點，它被應用於乘車卡（如 Suica、PASMO 等）、電子錢包、電子標籤、野生動物調查、自動結帳、家畜管理等方面。[1] 藉由讀取器讀取紙張上印刷的數位代碼來輸入資訊：這是 OMR（光學標記讀取器）或條碼讀取器的應用案例。[2] 手機與耳機之間的語音資料傳輸：這是 Bluetooth（藍牙）的應用案例。[3] 利用紅外線進行的短距離資料傳輸：這是 IrDA（紅外線資料傳輸協會）的應用案例。RFID 使用的是電波而非紅外線。[4] 利用微小無線晶片進行人或物品的識別及管理：正確。這是 RFID 的應用案例。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成27年春期　問23",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "図に示すデジタル回路と等価な論理式はどれか。ここで，論理式中の・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/23.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA・B",
+                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA",
+                              "X＝A・\u003cspan class=\"ol\"\u003eB",
+                              "X＝(\u003cspan class=\"ol\"\u003eA"
+                          ],
+                   "an":  3,
+                   "al":  "複雑な論理回路図の問題では、手間はかかりますが確実に答えがでる方法で解くのがおすすめです。まず(A=0, B=0),(A=1, B=0),(A=0, B=1),(A=1, B=1)の4つのケースについて回路図を追跡し、結果Xを真理値表にまとめます。\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/23a.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成27年春季 問23",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "下列何者為圖示數位電路之等效邏輯式？在此，邏輯式中的「・」代表邏輯乘（AND），「＋」代表邏輯和（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/23.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA・B\u003c/span\u003e",
+                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e",
+                              "X＝A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e",
+                              "X＝(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e"
+                          ],
+                   "an":  3,
+                   "al":  "對於複雜的邏輯電路圖問題，雖然較為費時，但建議使用能確保得到答案的方法來解題。首先，針對(A=0, B=0)、(A=1, B=0)、(A=0, B=1)、(A=1, B=1)這四種情況追蹤電路圖，並將結果X整理成真值表。\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/23a.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成27年秋期　問23",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "図のNANDゲートの組合せ回路で，入力A，B，C，Dに対する出力Xの論理式はどれか。ここで，論理式中の\"・\"は論理積，\"＋\"は論理和を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/23.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "(A＋B)・(C＋D)",
+                              "A＋B＋C＋D",
+                              "A・B＋C・D",
+                              "A・B・C・D"
+                          ],
+                   "an":  3,
+                   "al":  "NAND回路のNANDは\"NOT AND\"を表していて、AND回路の出力を反転させた回路です。したがって、二つの入力が共に1の時だけ0を出力し、その他の場合は1を出力します。\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/23_1.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成27年秋季 問23",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "在圖示的NAND閘組合電路中，關於輸入A、B、C、D對應的輸出X之邏輯式為何？在此，邏輯式中的「・」代表邏輯積（AND），「＋」代表邏輯和（OR）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/23.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "(A＋B)・(C＋D)",
+                              "A＋B＋C＋D",
+                              "A・B＋C・D",
+                              "A・B・C・D"
+                          ],
+                   "an":  3,
+                   "al":  "NAND電路的NAND代表「NOT AND」，即將AND電路的輸出進行反相的電路。因此，只有當兩個輸入皆為1時輸出0，其他情況皆輸出1。\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/23_1.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "令和4年度　問21",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "ワンチップマイコンの内蔵メモリとしてフラッシュメモリが採用されている理由として、適切なものはどれか。",
+                   "op":  [
+                              "ソフトウェアのコードサイズを小さくできる。",
+                              "マイコン出荷後もソフトウェアの書換えが可能である。",
+                              "マイコンの処理性能が向上する。",
+                              "マスク ROM よりも信頼性が向上する。"
+                          ],
+                   "an":  2,
+                   "al":  "組込みシステムの内蔵メモリとして従来からあるマスクROMはデータ保護ができる反面、出荷後に書きかえることはできず、アップデートにはROMの交換などの莫大なコストを要することになります。フラッシュメモリの登場により、機器のふたを開けなくてもユーザーが電子的な操作だけでデータ書換えができるISP(In-System Programming)が可能になり、出荷後のアップデートが以前よりも容易に行えるようになっています。"
+               },
+        "zh":  {
+                   "ti":  "令和4年度 問21",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "單晶片微控制器（One-chip Microcomputer）採用快閃記憶體（Flash Memory）作為內建記憶體的理由，下列何者最適當？",
+                   "op":  [
+                              "可以縮小軟體的程式碼大小。",
+                              "微控制器出貨後仍可對軟體進行改寫。",
+                              "提升微控制器的處理效能。",
+                              "相較於遮罩唯讀記憶體（Mask ROM），可靠性更高。"
+                          ],
+                   "an":  2,
+                   "al":  "作為嵌入式系統內建記憶體，傳統的遮罩唯讀記憶體（Mask ROM）雖然能夠保護資料，但無法在出貨後進行改寫，若要進行更新，則需要更換 ROM 等高昂成本。隨著快閃記憶體的出現，實現了無需拆開設備外殼，僅透過電子操作即可重寫資料的 ISP（In-System Programming）技術，使得出貨後的軟體更新變得比以往更加容易。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成29年秋期　問22",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "アクチュエーターの機能として，適切なものはどれか。",
+                   "op":  [
+                              "アナログ電気信号を，コンピュータが処理可能なデジタル信号に変える。",
+                              "キーボード，タッチパネルなどに使用され，コンピュータに情報を入力する。",
+                              "コンピュータが出力した電気信号を力学的な運動に変える。",
+                              "物理量を検出して，電気信号に変える。"
+                          ],
+                   "an":  3,
+                   "al":  "アクチュエーター(Actuator)は、機械や電気回路の構成要素のうち、入力された電気信号を力学的な運動に変換する駆動機構です。電気エネルギーを回転運動へ変換するDC（直流）モーターやAC（交流）モーター、空気圧エネルギーや油圧エネルギーをシリンダの運動に変換する空気圧シリンダ（バスや電車の開閉に用いられている）や油圧シリンダ（油圧ジャッキや工業機械などで用いられている)、ロボットの関節などに用いられるサーボモーターなど様々な種類があります。IoT関連だと、電子錠システムにおける回転ラッチのようなハンドルやレバー、ロボットの関節部、電子弁などコンピュータからの指示を受けて伸縮・屈伸・回転する部分が該当します。したがって、電気信号を力学的運動に変える「ウ」がアクチュエーターの役割になります。 [1]アナログ電気信号を，コンピュータが処理可能なデジタル信号に変える。A/Dコンバータ(アナログ・デジタル変換器)の説明です。 [2]キーボード，タッチパネルなどに使用され，コンピュータに情報を入力する。静電センサーの説明です。アクチュエーターは入力デバイスではありません。 [3]コンピュータが出力した電気信号を力学的な運動に変える。正しい。アクチュエーターの説明です。 [4]物理量を検出して，電気信号に変える。センサーの説明です。"
+               },
+        "zh":  {
+                   "ti":  "平成29年秋期 問22",
+                   "ca":  "科技類 » 硬體 » 硬體",
+                   "q":  "關於執行器的功能，適當的選項是哪一個？",
+                   "op":  [
+                              "將類比電信號轉換為電腦可處理的數位信號。",
+                              "用於鍵盤、觸控面板等，將資訊輸入電腦。",
+                              "將電腦輸出的電信號轉換為力學運動。",
+                              "檢測物理量並轉換為電信號。"
+                          ],
+                   "an":  3,
+                   "al":  "執行器（Actuator）是機械或電路構成元件中，將輸入的電信號轉換為力學運動的驅動機構。包含將電氣能量轉換為旋轉運動的DC（直流）馬達或AC（交流）馬達、將空氣壓能量或油壓能量轉換為缸體運動的空氣壓缸（用於公車或電車的開閉）和油壓缸（用於油壓千斤頂或工業機械等）、以及用於機器人關節等的伺服馬達等多種種類。在IoT相關方面，像是電子鎖系統中的旋轉鎖止機構這樣的把手或槓桿、機器人的關節部位、電子閥等，這些接收電腦指示而進行伸縮、屈伸或旋轉的部分都屬於此。因此，將電信號轉換為力學運動的「ウ」就是執行器的功能。[1]將類比電信號轉換為電腦可處理的數位信號。这是A/D轉換器（類比/數位轉換器）的說明。[2]用於鍵盤、觸控面板等，將資訊輸入電腦。这是靜電傳感器的說明。執行器並非輸入裝置。[3]將電腦輸出的電信號轉換為力學運動。正確。这是執行器的說明。[4]檢測物理量並轉換為電信號。这是傳感器的說明。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成28年春期　問22",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "RFIDの活用事例として，適切なものはどれか。",
+                   "op":  [
+                              "紙に印刷されたデジタルコードをリーダーで読み取ることによる情報の入力",
+                              "携帯電話とヘッドフォンとの間の音声データ通信",
+                              "赤外線を利用した近距離データ通信",
+                              "微小な無線チップによる人又は物の識別及び管理"
+                          ],
+                   "an":  4,
+                   "al":  "RFID(Radio Frequency IDentification)は、ID情報を埋め込んだRFタグ(ICタグ)と電磁界や電波を用いることで、数cm～数mの範囲で情報のやり取りを行う技術です。特徴として「見えなくても読める」ことが挙げられ、RFタグが目に見えない隠れた位置にあっても、タグ表面がホコリ、泥などで汚れていても読み取り可能です。この利点を活かし乗車カード（Suica, PASMOなど)、電子マネー、電子荷札、野生動物の調査、自動レジ、家畜の管理などに利用されています。 [1]紙に印刷されたデジタルコードをリーダーで読み取ることによる情報の入力OMR(Optical Mark Reader，光学式マーク読取装置)やバーコードリーダーの活用事例です。 [2]携帯電話とヘッドフォンとの間の音声データ通信Bluetoothの活用事例です。 [3]赤外線を利用した近距離データ通信IrDA(Infrared Data Association)の活用事例です。RFIDは赤外線ではなく電波を用います。 [4]微小な無線チップによる人又は物の識別及び管理正しい。RFIDの活用事例です。"
+               },
+        "zh":  {
+                   "ti":  "平成28年春季 問22",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "關於RFID的應用案例，下列何者正確？",
+                   "op":  [
+                              "透過讀取器讀取紙張上印刷的數位條碼來進行資訊輸入",
+                              "手機與耳機之間的語音資料傳輸",
+                              "利用紅外線進行的近距離資料傳輸",
+                              "透過微小的無線晶片進行人員或物品的識別及管理"
+                          ],
+                   "an":  4,
+                   "al":  "RFID (Radio Frequency IDentification) 是一種利用內建 ID 資訊的 RF 標籤 (IC 標籤)，並透過電磁場或無線電波，在數公分至數公尺範圍內進行資訊傳輸的技術。其特徵為「即便看不見也能讀取」，即使 RF 標籤位於視線之外的隱蔽處，或標籤表面沾滿灰塵、泥土，也能正常讀取。利用此優點，它被廣泛應用於乘車卡 (如 Suica、PASMO 等)、電子錢包、電子標籤、野生動物調查、自動結帳及家畜管理等。 [1] 透過讀取器讀取紙張上印刷的數位條碼來進行資訊輸入：這是 OMR (光學標記閱讀器) 或條碼掃描器的應用案例。 [2] 手機與耳機之間的語音資料傳輸：這是藍牙 (Bluetooth) 的應用案例。 [3] 利用紅外線進行的近距離資料傳輸：這是 IrDA (紅外線資料協會) 的應用案例。RFID 使用的是無線電波而非紅外線。 [4] 透過微小的無線晶片進行人員或物品的識別及管理：正確。這是 RFID 的應用案例。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成30年秋期　問23",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "二次電池(充電式電池)はどれか。",
+                   "op":  [
+                              "アルカリマンガン乾電池",
+                              "酸化銀電池",
+                              "燃料電池",
+                              "リチウムイオン電池"
+                          ],
+                   "an":  4,
+                   "al":  "小型の二次電池(充電式電池)には、ニカド電池、ニッケル水素電池、リチウムイオン電池があります。リチウムイオン電池は、正極と負極の間をリチウムイオンが行き来することによって電力を生みだす充電式の電池です。エネルギー密度が高い、充電／放電効率が高い、高出力、寿命が長いなどの特徴があり、モバイル機器や電動工具のバッテリーや家庭用蓄電池として使用されています。したがって「エ」が正解です。 [1]アルカリマンガン乾電池アルカリマンガン乾電池は、乾電池の一種で一次電池(放電のみ可)です。 [2]酸化銀電池酸化銀電池は、正極の材料に酸化銀を使った電池です。充電式ではありません。 [3]燃料電池燃料電池は、水素、酸素、アルコールなどを化学反応させ、その化学エネルギーから電力を取り出す電池です。充電はできません。 [4]リチウムイオン電池正しい。リチウムイオン電池は、二次電池(充電と放電が可能)です。"
+               },
+        "zh":  {
+                   "ti":  "平成30年秋季 問23",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "下列何者為二次電池（充電式電池）？",
+                   "op":  [
+                              "鹼性錳乾電池",
+                              "氧化銀電池",
+                              "燃料電池",
+                              "鋰離子電池"
+                          ],
+                   "an":  4,
+                   "al":  "小型二次電池（充電式電池）包含鎳鎘電池、鎳氫電池及鋰離子電池。鋰離子電池是透過鋰離子在正極與負極之間往返移動來產生電力的充電式電池。具有能量密度高、充放電效率高、高輸出功率、壽命長等特點，廣泛應用於行動裝置、電動工具電池及家用儲能電池。因此，「4」為正確答案。\n\n[1] 鹼性錳乾電池：鹼性錳乾電池屬於乾電池的一種，為一次電池（僅能放電）。\n[2] 氧化銀電池：氧化銀電池是以氧化銀作為正極材料的電池，不可重複充電。\n[3] 燃料電池：燃料電池是讓氫、氧、酒精等進行化學反應，並從該化學能中取出電力的電池，無法充電。\n[4] 鋰離子電池：正確。鋰離子電池屬於二次電池（可進行充電與放電）。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成17年秋期　問16",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "4ビットの入力データに対し，1の入力数が0個又は偶数個のとき出力が1に，奇数個のとき出力が0になる回路はどれか。ここで，図中の\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/and.png\" alt=\"\"\u003eはAND素子，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/or.png\" alt=\"\"\u003eはOR素子，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/xor.png\" alt=\"\"\u003eはXOR素子，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/not.png\" alt=\"\"\u003eはNOT素子を表す。",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16a.png\" alt=\"問16ア\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16i.png\" alt=\"問16イ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16u.png\" alt=\"問16ウ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16e.png\" alt=\"問16エ\"\u003e"
+                          ],
+                   "an":  4,
+                   "al":  "論理回路に使われている論理演算を次の表にまとめておきます。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16_1.png\" alt=\"論理演算\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成17年秋季 問16",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "針對4位元的輸入數據，當輸入的「1」的個數為0個或偶數個時輸出為1，為奇數個時輸出為0的電路為何？在此，圖中的\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/and.png\" alt=\"\"\u003e代表AND閘，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/or.png\" alt=\"\"\u003e代表OR閘，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/xor.png\" alt=\"\"\u003e代表XOR閘，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/not.png\" alt=\"\"\u003e代表NOT閘。",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16a.png\" alt=\"問16ア\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16i.png\" alt=\"問16イ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16u.png\" alt=\"問16ウ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16e.png\" alt=\"問16エ\"\u003e"
+                          ],
+                   "an":  4,
+                   "al":  "邏輯電路中所使用的邏輯運算彙整如下表。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16_1.png\" alt=\"邏輯運算\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "令和5年度　問16",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "ワンチップマイコンにおける内部クロック発生器のブロック図を示す。15MHzの発振器と，内部のPLL1，PLL2及び分周器の組合せでCPUに240MHz，シリアル通信(SIO)に115kHzのクロック信号を供給する場合の分周器の値は幾らか。ここで，シリアル通信のクロック精度は±5%以内とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/16.png\" alt=\"16.png\"\u003e",
+                   "op":  [
+                              "1／2\u003csup\u003e4\u003c/sup\u003e",
+                              "1／2\u003csup\u003e6\u003c/sup\u003e",
+                              "1／2\u003csup\u003e8\u003c/sup\u003e",
+                              "1／2\u003csup\u003e10\u003c/sup\u003e"
+                          ],
+                   "an":  4,
+                   "al":  "発振器から出力された15MHzは、PLL1で8倍にされて120MHzになります。その後、PLL2でさらに2倍されて240MHzのクロック信号がCPUに届けられます。\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/16a.png\" alt=\"16a.png\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "令和5年度 問16",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "下圖為單晶片微電腦內部的時脈產生器方塊圖。若利用15MHz的振盪器，並配合內部的PLL1、PLL2及分頻器，以供給CPU 240MHz以及序列通訊（SIO）115kHz的時脈訊號，請問分頻器的數值應為多少？此外，序列通訊的時脈精度需在±5%以內。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/16.png\" alt=\"16.png\"\u003e",
+                   "op":  [
+                              "1／2\u003csup\u003e4\u003c/sup\u003e",
+                              "1／2\u003csup\u003e6\u003c/sup\u003e",
+                              "1／2\u003csup\u003e8\u003c/sup\u003e",
+                              "1／2\u003csup\u003e10\u003c/sup\u003e"
+                          ],
+                   "an":  4,
+                   "al":  "從振盪器輸出的15MHz訊號，經由PLL1倍頻8倍後變為120MHz。隨後，再經由PLL2倍頻2倍，供給CPU 240MHz的時脈訊號。\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/16a.png\" alt=\"16a.png\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成30年春期　問23",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "真理値表に示す3入力多数決回路はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23e.png\" alt=\"\"\u003e"
+                          ],
+                   "an":  1,
+                   "al":  "3入力多数決回路なので、真理値表にあるように3つの入力中2つ以上が\"1\"（＝\"1\"が多数）であれば結果に\"1\"を出力、そして2つ以上が\"0\"（＝\"0\"が多数）であれば結果に\"0\"を出力するものになっている必要があります。回路ごとにA、B、Cの値を与えた場合の出力を照合していくと、正しいのは「ア」の回路とわかります。「ア」の回路は、論理的には次のような演算を行う回路と考えられます。まず「A，B」「A，C」「B，C」それぞれの論理積を求める。3つの論理積演算の結果に\"1\"が現れれば、3つの入力中に\"1\"が2つ以上あることが確定する。逆に\"1\"が現れなければ3つの入力中の\"1\"の個数は1以下ということになる。3つの論理積演算の結果の中に少なくとも\"1\"が1つ以上ある場合には\"1\"(可決)、そうでなければ\"0\"(否決)を出力すればよいので、3つの演算結果を論理和演算した結果を最終的な出力とする。 [1]まず「A，B」「A，C」「B，C」それぞれの論理積を求める。 [2]3つの論理積演算の結果に\"1\"が現れれば、3つの入力中に\"1\"が2つ以上あることが確定する。逆に\"1\"が現れなければ3つの入力中の\"1\"の個数は1以下ということになる。 [3]3つの論理積演算の結果の中に少なくとも\"1\"が1つ以上ある場合には\"1\"(可決)、そうでなければ\"0\"(否決)を出力すればよいので、3つの演算結果を論理和演算した結果を最終的な出力とする。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23a.png\" alt=\"\"\u003e正しい。"
+               },
+        "zh":  {
+                   "ti":  "平成30年春季 問23",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "真值表所示的3輸入多數決電路為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23e.png\" alt=\"\"\u003e"
+                          ],
+                   "an":  1,
+                   "al":  "由於是3輸入多數決電路，如真值表所示，必須滿足當3個輸入中有2個以上為\"1\"（即\"1\"佔多數）時輸出\"1\"，而當2個以上為\"0\"（即\"0\"佔多數）時輸出\"0\"的特性。針對各個電路輸入A、B、C的值進行輸出對照，可知正確的是「亞」電路。 「亞」電路在邏輯上可視為執行以下運算的電路：首先分別求出「A與B」、「A與C」、「B與C」的邏輯積（AND）。若3個邏輯積運算的結果中出現\"1\"，即可確定3個輸入中至少有2個\"1\"。反之，若未出現\"1\"，則代表輸入中\"1\"的個數為1個或以下。在3個邏輯積運算結果中，只要至少有1個\"1\"就輸出\"1\"（通過），否則輸出\"0\"（否決），因此將3個運算結果進行邏輯和（OR）運算作為最終輸出。 [1]首先分別求出「A與B」、「A與C」、「B與C」的邏輯積。 [2]若3個邏輯積運算結果出現\"1\"，表示3個輸入中有2個以上為\"1\"。反之，若未出現\"1\"，則表示輸入中\"1\"的個數在1個以下。 [3]因3個邏輯積運算結果中只要有1個以上為\"1\"即輸出\"1\"（通過），否則輸出\"0\"（否決），故將3個運算結果進行邏輯和運算作為最終輸出。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23a.png\" alt=\"\"\u003e正確。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "令和3年度　問21",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "8ビットD/A変換器を使って，負でない電圧を発生させる。使用するD/A変換器は，最下位の1ビットの変化で出力が10ミリV変化する。データに0を与えたときの出力は0ミリVである。データに16進数で82を与えたときの出力は何ミリVか。",
+                   "op":  [
+                              "820",
+                              "1,024",
+                              "1,300",
+                              "1,312"
+                          ],
+                   "an":  3,
+                   "al":  "D/A変換器では、マイコンやプロセッサなどのデジタル回路がポート（I/O端子）にビット列を書き込むことで、出力を制御します。設問では16進数で82をD/A変換器に書き込んだときの出力電圧が問われています。まず、設問の条件を整理すると次のようになります。 [1]データ0のとき ⇒ 出力0ミリV [2]最下位の1ビット（LSB）の変化で10ミリV変化 ⇒ 分解能※は10ミリV※D/A変換器が区別できる最小の電圧差"
+               },
+        "zh":  {
+                   "ti":  "令和3年度 問21",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "使用 8 位元 D/A 轉換器來產生非負電壓。所使用的 D/A 轉換器，最低位元 (LSB) 變化 1 位元時，輸出會變化 10 毫伏特 (mV)。當數據輸入為 0 時，輸出為 0 毫伏特。當輸入數據為十六進制的 82 時，輸出為多少毫伏特？",
+                   "op":  [
+                              "820",
+                              "1,024",
+                              "1,300",
+                              "1,312"
+                          ],
+                   "an":  3,
+                   "al":  "在 D/A 轉換器中，微控制器或處理器等數位電路是透過向埠（I/O 端子）寫入位元串來控制輸出的。本題詢問的是向 D/A 轉換器寫入十六進制 82 時的輸出電壓。首先，將題目條件整理如下： [1] 數據為 0 時 ⇒ 輸出 0 毫伏特 [2] 最低位元 (LSB) 變化時 ⇒ 輸出變化 10 毫伏特 ⇒ 解析度※為 10 毫伏特 ※D/A 轉換器所能區別的最小電壓差"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "令和元年秋期　問22",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "次の回路の入力と出力の関係として，正しいものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22e.png\" alt=\"\"\u003e"
+                          ],
+                   "an":  2,
+                   "al":  "設問中の各回路とその意味は次の通りです。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22_1.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "令和元年秋季 問22",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "下列電路的輸入與輸出的關係，何者正確？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22e.png\" alt=\"\"\u003e"
+                          ],
+                   "an":  2,
+                   "al":  "題目中的各電路及其意義如下所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22_1.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成31年春期　問21",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "メモリセルにフリップフロップ回路を利用したものはどれか。",
+                   "op":  [
+                              "DRAM ",
+                              "EEPROM ",
+                              "SDRAM",
+                              "SRAM"
+                          ],
+                   "an":  4,
+                   "al":  "フリップフロップ回路は、2つの安定状態をもつことで1ビットの状態を表現することが可能な順序回路で、キャッシュメモリを構成するSRAMの記憶セルに使用されています。DRAMと比較してリフレッシュ動作が不要、消費電力が少ないなどの理由で読み書きを高速化しやすい長所があります。 [1]DRAM Dynamic Random Access Memoryの略。コンデンサに電荷を蓄えることにより情報を記憶するメモリで、コンピュータの主記憶装置として使用されています。 [2]EEPROM Electrically Erasable Programmable ROMの略。利用者が記憶内容を電気的に書き込み・消去できる不揮発性メモリです。フラッシュメモリはEEPROMの一種です。 [3]SDRAMSynchronous DRAMの略。システムバスに同期して動作しデータ転送の待ち時間を少なくすることで高速に動作するDRAMです。 [4]SRAM正しい。SRAMは、メモリセルにフリップフロップ回路を利用しています。"
+               },
+        "zh":  {
+                   "ti":  "平成31年春季 問21",
+                   "ca":  "技術類 » 硬體 » 硬體",
+                   "q":  "下列何者在記憶單元中使用正反器（Flip-flop）電路？",
+                   "op":  [
+                              "DRAM",
+                              "EEPROM",
+                              "SDRAM",
+                              "SRAM"
+                          ],
+                   "an":  4,
+                   "al":  "正反器電路是一種透過擁有兩個穩定狀態來表示 1 位元狀態的循序電路，被用於構成快取記憶體的 SRAM 記憶單元中。與 DRAM 相比，它具有無需刷新（Refresh）操作、功耗較低等優點，因此容易實現高速讀寫。 [1] DRAM：Dynamic Random Access Memory 的縮寫。是一種透過在電容器中儲存電荷來記憶資訊的記憶體，被用作電腦的主記憶體。 [2] EEPROM：Electrically Erasable Programmable ROM 的縮寫。是一種使用者可以透過電氣方式寫入及抹除記憶內容的非揮發性記憶體。快閃記憶體是 EEPROM 的一種。 [3] SDRAM：Synchronous DRAM 的縮寫。是一種與系統匯流排同步運作，透過減少資料傳輸等待時間來實現高速運作的 DRAM。 [4] SRAM：正確。SRAM 的記憶單元使用了正反器電路。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成26年秋期　問21",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "図の論理回路と等価な回路はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21a.png\" alt=\"\"\u003e(論理和素子)",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21i.png\" alt=\"\"\u003e(論理積素子)",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21u.png\" alt=\"\"\u003e(排他的論理和素子)",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21e.png\" alt=\"\"\u003e(否定論理和素子)"
+                          ],
+                   "an":  3,
+                   "al":  "設問の回路素子はNAND回路を表しています。設問の回路図にAとBにそれぞれ0または1の値を与えたとき、各回路の出力であるYの値がどうなるかを考えます。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21_1.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成26年秋季 問21",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "下列何者與圖中的邏輯電路等效？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21a.png\" alt=\"\"\u003e(或閘/OR)",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21i.png\" alt=\"\"\u003e(及閘/AND)",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21u.png\" alt=\"\"\u003e(互斥或閘/XOR)",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21e.png\" alt=\"\"\u003e(反或閘/NOR)"
+                          ],
+                   "an":  3,
+                   "al":  "題目中的電路元件表示為NAND（反及閘）電路。思考當分別給予題目電路圖中的A與B值為0或1時，各電路輸出Y的值為何。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21_1.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成26年秋期　問23",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "家庭用の100V電源で動作し，運転中に10Aの電流が流れる機器を，図のとおりに0分から120分まで運転した。このとき消費する電力量は何Whか。ここで，電圧及び電流の値は実効値であり，停止時に電流は流れないものとする。また，力率は1とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/23.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "1,000",
+                              "1,200",
+                              "1,500",
+                              "2,000"
+                          ],
+                   "an":  3,
+                   "al":  "電流(A)・電圧(V)・電力(W)の間には以下の関係式が成り立ちます。 電流(A)×電圧(V)＝電力(W)電力は電流と電圧の積で表されます。また答えの単位である「Wh」は、電力量の単位で1Wの電力を1時間使用した場合すると1Whになります。 電力量＝電力(W)×使用時間次に設問にある力率とは、流れる電流が実際に機器で使用された割合を示す数値です。この設問では力率が1(100%)で、流れた電流の全てが機器で消費されるという条件なので計算上は特に考慮する必要ありません。上記を踏まえて設問に戻ります。100V電源で動作し、10Aの電流が流れる機器なので、電力(W)は、 10A×100V＝1,000W図を見ると通電している時間は1.5時間とわかるので、消費する電力量(Wh)は 1,000W×1.5時間＝1,500Whしたがって「ウ」が正解です。"
+               },
+        "zh":  {
+                   "ti":  "平成26年秋期 問23",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "一台使用家用100V電源運作，運轉時電流為10A的設備，依據圖示從0分鐘運轉至120分鐘。此時消耗的電力量為多少Wh？在此，電壓及電流數值為有效值，停止時電流不流動。此外，功率因數設為1。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/23.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "1,000",
+                              "1,200",
+                              "1,500",
+                              "2,000"
+                          ],
+                   "an":  3,
+                   "al":  "電流(A)、電壓(V)與功率(W)之間存在以下關係式：電流(A)×電壓(V)＝功率(W)。功率由電流與電壓的乘積表示。此外，答案單位「Wh」是電力量單位，指1W的功率使用1小時即為1Wh。電力量＝功率(W)×使用時間。接著，題目中的功率因數是指流動電流中實際被設備利用的比例數值。本題中功率因數為1(100%)，代表所有流動電流皆被設備消耗，因此在計算上無需特別考量。基於上述說明回到題目：由於設備以100V電源運作且電流為10A，功率(W)為：10A×100V＝1,000W。觀察圖表可知通電時間為1.5小時，故消耗的電力量(Wh)為：1,000W×1.5小時＝1,500Wh。因此「ウ」為正確答案。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成18年秋期　問17",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "図の論理回路において，A＝1，B＝0，C＝1のとき，P，Q，Rの値の適切な組合せはどれか。ここで，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/and.png\" alt=\"AND回路\"\u003eは AND回路，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/or.png\" alt=\"OR回路\"\u003eは OR回路，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/not.png\" alt=\"NOT回路\"\u003eは NOT回路を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/17.png\" alt=\"問17画像\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/17a.png\" alt=\"問17選択肢\"\u003e",
+                   "op":  [
+                              "ア",
+                              "イ",
+                              "ウ",
+                              "エ"
+                          ],
+                   "an":  1,
+                   "al":  "P＝A AND B＝1 AND 0＝0Q＝P OR C＝0 OR 1＝1R＝NOT Q＝NOT 1＝0したがって正解は「ア」になります。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/17_1.png\" alt=\"問17解説\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成18年秋季 問17",
+                   "ca":  "技術系統 » 硬體 » 硬體",
+                   "q":  "在圖示的邏輯電路中，當 A＝1，B＝0，C＝1 時，P、Q、R 的值的組合何者正確。其中，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/and.png\" alt=\"AND電路\"\u003e代表 AND 電路，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/or.png\" alt=\"OR電路\"\u003e代表 OR 電路，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/not.png\" alt=\"NOT電路\"\u003e代表 NOT 電路。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/17.png\" alt=\"問17圖片\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/17a.png\" alt=\"問17選択肢\"\u003e",
+                   "op":  [
+                              "ア",
+                              "イ",
+                              "ウ",
+                              "エ"
+                          ],
+                   "an":  1,
+                   "al":  "P＝A AND B＝1 AND 0＝0Q＝P OR C＝0 OR 1＝1R＝NOT Q＝NOT 1＝0因此正確答案為「ア」。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/17_1.png\" alt=\"問17解析\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成19年春期　問17",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "二つの入力と一つの出力をもつ論理回路で，二つの入力A，Bがともに1のときだけ，出力Xが0になるものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/17.png\" alt=\"問17画像\"\u003e",
+                   "op":  [
+                              "AND回路",
+                              "NAND回路",
+                              "OR回路",
+                              "XOR回路"
+                          ],
+                   "an":  2,
+                   "al":  "NAND回路の\"NAND\"はNOT ANDを表し、AND回路の出力を反転させた回路です。したがってNAND回路は、二つの入力が共に1のときだけ0を出力し、その他の場合は1を出力します。\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/17i.png\" alt=\"NAND回路の真理値表\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成19年春季 問17",
+                   "ca":  "科技系 » 硬體 » 硬體",
+                   "q":  "一個具有兩個輸入與一個輸出的邏輯電路，當兩個輸入 A 與 B 皆為 1 時，輸出 X 才會變為 0，請問這是哪一種電路？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/17.png\" alt=\"問17圖片\"\u003e",
+                   "op":  [
+                              "AND 電路",
+                              "NAND 電路",
+                              "OR 電路",
+                              "XOR 電路"
+                          ],
+                   "an":  2,
+                   "al":  "NAND 電路的「NAND」代表 NOT AND，是將 AND 電路的輸出進行反轉後的電路。因此，NAND 電路僅在兩個輸入皆為 1 時輸出 0，其他情況下皆輸出 1。\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/17i.png\" alt=\"NAND 電路的真值表\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成29年春期　問21",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "変形を感知するセンサーを用いると，高架道路などの状態を監視してメンテナンスすることが可能である。この目的で使用されているセンサーはどれか。",
+                   "op":  [
+                              "サーミスタ",
+                              "ジャイロ",
+                              "ひずみゲージ",
+                              "ホール素子"
+                          ],
+                   "an":  3,
+                   "al":  "ひずみゲージは、物体のひずみを測定するためのセンサーです。薄い絶縁体上にジグザグ形状にレイアウトされた金属の抵抗体(金属箔)が取り付けられた構造をしており、変形による電気抵抗の変化を測定することによりひずみ量に換算します。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/21.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成29年春季 第21題",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "使用感測變形的感測器，可以監視高架道路等設施的狀態並進行維護。請問用於此目的的感測器是哪一個？",
+                   "op":  [
+                              "熱敏電阻",
+                              "陀螺儀",
+                              "應變規",
+                              "霍爾元件"
+                          ],
+                   "an":  3,
+                   "al":  "應變規是用於測量物體應變（形變）的感測器。其結構是在薄絕緣體上呈鋸齒狀排列的金屬電阻體（金屬箔），透過測量因形變所導致的電阻變化來換算成應變量。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/21.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成23年特別　問26",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "機械式接点の押しボタンスイッチを1回押すことに対して，押してから数ミリ秒の間，複数回のON，OFFが発生する現象はどれか。",
+                   "op":  [
+                              "サンプリング",
+                              "シェアリング",
+                              "チャタリング",
+                              "バッファリング"
+                          ],
+                   "an":  3,
+                   "al":  "チャタリング(chattering)とは、リレーやスイッチの接点が切り替わった際に、微細で非常に速い機械的振動によって、電気信号が断続を繰り返す現象です。PC用の古いキーボードを操作したとき、キーを一度押しただけなのに、複数回入力されることがある。あるいは、マウスのシングルクリックが、意図せずダブルクリックとして入力されてしまう。これは、接点の劣化によってチャタリングが発生し、細かいオンオフがキー入力と判定されるためです。"
+               },
+        "zh":  {
+                   "ti":  "平成23年特別 問26",
+                   "ca":  "技術類 » 硬體 » 硬體",
+                   "q":  "針對機械式接點的按鈕開關，在按下去的數毫秒內，發生多次 ON、OFF 的現象稱為什麼？",
+                   "op":  [
+                              "採樣 (Sampling)",
+                              "共享 (Sharing)",
+                              "彈跳 (Chattering)",
+                              "緩衝 (Buffering)"
+                          ],
+                   "an":  3,
+                   "al":  "彈跳 (chattering) 是指當繼電器或開關的接點切換時，由於細微且極快速的機械振動，導致電氣訊號反覆斷續的現象。操作舊型電腦鍵盤時，明明只按了一次按鍵，卻輸入了多次字元；或是滑鼠的單擊被誤判為雙擊，這些都是因為接點老化導致發生彈跳，使得細微的開關動作被判定為多次按鍵輸入所致。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成22年春期　問23",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "7セグメントLED点灯回路で，出力ポートに16進数で6Dを出力したときの表示状態はどれか。ここで，P7を最上位ビット(MSB)，P0を最下位ビット(LSB)とし，ポート出力が1のとき，LEDは点灯する。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23e.png\" alt=\"\"\u003e"
+                          ],
+                   "an":  3,
+                   "al":  "まず入力値である16進数 6D を2進数に変換します。16進数を2進数に基数変換するときには、16進数を各桁ごとに2進数4桁に変えていくだけです。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23_2.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成22年春季 問23",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "在7段顯示器（7-segment LED）驅動電路中，當輸出埠輸出十六進制數值 6D 時，其顯示狀態為何？在此，P7 為最高有效位（MSB），P0 為最低有效位（LSB），且當埠輸出為 1 時，LED 會點亮。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23e.png\" alt=\"\"\u003e"
+                          ],
+                   "an":  3,
+                   "al":  "首先將輸入值十六進制數 6D 轉換為二進制。在將十六進制轉換為二進制時，只需將十六進制的每一位數分別轉換為 4 位二進制數即可。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23_2.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "令和4年度　問20",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "16進数 ABCD1234 をリトルエンディアンで4バイトのメモリに配置したものはどれか。ここで， 0～＋3はバイトアドレスのオフセット値である。",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20a.png\" alt=\"20a.png\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20i.png\" alt=\"20i.png\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20u.png\" alt=\"20u.png\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20e.png\" alt=\"20e.png\"\u003e"
+                          ],
+                   "an":  2,
+                   "al":  "エンディアンとは、複数のバイトで構成されるデータをメモリに保存するときに、各バイトをどの順番で並べるかを決める方式です。リトルエンディアンは、データの下位バイトを先に、メモリ上の小さいアドレスへ格納していく方式です。この方式に該当するのが「イ」です。\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20_1.png\" alt=\"20_1.png\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "令和4年度 問20",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "將十六進位數 ABCD1234 以小端序（Little-endian）配置在 4 位元組的記憶體中，下列何者正確？在此，0～＋3 為位元組位址的偏移量。",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20a.png\" alt=\"20a.png\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20i.png\" alt=\"20i.png\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20u.png\" alt=\"20u.png\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20e.png\" alt=\"20e.png\"\u003e"
+                          ],
+                   "an":  2,
+                   "al":  "「位元組序」（Endianness）是指在記憶體中儲存由多個位元組構成的資料時，決定各個位元組排列順序的方式。小端序（Little-endian）是一種將資料的低位位元組優先儲存到記憶體中較小位址的格式。符合此方式的為「イ」。\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20_1.png\" alt=\"20_1.png\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成27年秋期　問22",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "機械式接点の押しボタンスイッチを1回押したときに，押してから数ミリ秒の間，複数回のON，OFFが発生する現象はどれか。",
+                   "op":  [
+                              "サンプリング",
+                              "シェアリング",
+                              "チャタリング",
+                              "バッファリング"
+                          ],
+                   "an":  3,
+                   "al":  "チャタリング(chattering)とは、リレーやスイッチの接点が切り替わった際に、微細で非常に速い機械的振動によって、電気信号が断続を繰り返す現象です。PC用の古いキーボードを操作したとき、キーを一度押しただけなのに、複数回入力されることがある。あるいは、マウスのシングルクリックが、意図せずダブルクリックとして入力されてしまう。これは、接点の劣化によってチャタリングが発生し、細かいオンオフがキー入力と判定されるためです。"
+               },
+        "zh":  {
+                   "ti":  "平成27年秋季 問22",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "當機械式接點的按鈕開關被按下一次時，在按下後的幾毫秒內，發生多次ON、OFF切換的現象稱為什麼？",
+                   "op":  [
+                              "取樣 (Sampling)",
+                              "共享 (Sharing)",
+                              "彈跳 (Chattering)",
+                              "緩衝 (Buffering)"
+                          ],
+                   "an":  3,
+                   "al":  "彈跳 (Chattering) 是指繼電器或開關在接點切換時，因細微且極快的機械震動，導致電氣訊號發生斷續重複的現象。例如操作舊式電腦鍵盤時，明明只按了一次按鍵，卻輸入了多次字元；或是滑鼠的單擊意外被辨識為雙擊。這就是因為接點老化產生彈跳，細微的開關動作被系統判定為多次按鍵輸入所致。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成25年秋期　問24",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "定格出力電力500Wで効率80%の電源ユニットがある。この電源ユニットから500Wの出力電力を得るのに最低限必要な入力電力の大きさは何Wか。",
+                   "op":  [
+                              "100",
+                              "400",
+                              "625",
+                              "900"
+                          ],
+                   "an":  3,
+                   "al":  "効率が80%なのでこの電源ユニットは入力電力の80％を出力できます。入力電力を文字\"W\"とすると、 W×0.8＝500 W＝625入力電力が625W以上であれば500Wが出力可能となります。定格出力電力指定された条件下で機器類が安全に動作できる最大出力"
+               },
+        "zh":  {
+                   "ti":  "平成25年秋季 問24",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "有一個額定輸出功率為500W、效率為80%的電源供應器。若要從該電源供應器獲得500W的輸出功率，所需的最低輸入功率為多少W？",
+                   "op":  [
+                              "100",
+                              "400",
+                              "625",
+                              "900"
+                          ],
+                   "an":  3,
+                   "al":  "由於效率為80%，該電源供應器可輸出輸入功率的80%。若將輸入功率設為 \"W\"，則 W×0.8＝500，W＝625。當輸入功率為625W以上時，即可輸出500W。額定輸出功率是指在指定條件下，設備類能夠安全運作的最大輸出。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成23年特別　問25",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "図に示す1けたの2進数xとyを加算し，z(和の1けた目)及びc(けた上げ)を出力する半加算器において，AとBの素子の組合せとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/25.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/25a.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "ア",
+                              "イ",
+                              "ウ",
+                              "エ"
+                          ],
+                   "an":  1,
+                   "al":  "桁上げの出力cは入力される2つの数値がともに\"1\"のときにだけ\"1\"を出力します。この関係はAND回路(論理積)の真理値表と一致します。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/25_1.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成23年特別 問25",
+                   "ca":  "技術類 » 硬體 » 硬體",
+                   "q":  "在圖中所示的半加算器中，將1位元的二進位數 x 與 y 相加，並輸出 z（和的第1位）及 c（進位）。下列關於 A 與 B 邏輯元件組合的敘述，何者最為適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/25.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/25a.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "ア",
+                              "イ",
+                              "ウ",
+                              "エ"
+                          ],
+                   "an":  1,
+                   "al":  "進位輸出 c 僅在兩個輸入數值皆為 \"1\" 時才會輸出 \"1\"。此關係與 AND 電路（邏輯積）的真值表一致。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/25_1.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成31年春期　問23",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "データセンターなどで採用されているサーバ，ネットワーク機器に対する直流給電の利点として，適切なものはどれか。",
+                   "op":  [
+                              "交流から直流への変換，直流から交流への変換で生じる電力損失を低減できる。",
+                              "受電設備からCPUなどのLSIまで，同じ電圧のまま給電できる。",
+                              "停電の危険がないので，電源バックアップ用のバッテリを不要にできる。",
+                              "トランスを用いて容易に昇圧，降圧ができる。"
+                          ],
+                   "an":  1,
+                   "al":  "直流給電とは、屋内配線を直流化し、電気製品への電源供給を直流で行うことです。サーバやネットワーク機器などのコンピュータをはじめ、家庭内のほとんどの電気製品は直流電源で動作しています。一方、家庭やオフィスでは交流電源が供給されています。電気機器は、内部のコンバータで交流を直流に変換するのですが、この変換効率は80%程度しかありません。もしそのまま直流で給電できれば、変換による電力の損失を低減できることになります。データセンターでは大量の電力を必要とする上、電源の瞬断に備えてUPSが設置されています。UPSは直流で蓄電するので交流と直流の変換回数はさらに多くなります。データセンターが直流給電を採用するのには、無駄な電力ロスを抑える目的があります。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/23.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成31年春季 問23",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "關於資料中心等地所採用的伺服器、網路設備直流供電之優點，下列敘述何者正確？",
+                   "op":  [
+                              "可減少交流轉直流，以及直流轉交流過程中產生的電力損耗。",
+                              "從受電設備到CPU等LSI，皆能維持相同電壓進行供電。",
+                              "由於沒有停電風險，因此不需要電源備援用的電池。",
+                              "可以使用變壓器輕易地進行升壓與降壓。"
+                          ],
+                   "an":  1,
+                   "al":  "直流供電是指將室內配線直流化，並以直流形式對電氣產品進行供電。伺服器、網路設備等電腦，以及家庭中大多數的電器產品都是以直流電源運作。然而，家庭與辦公室通常是供應交流電源。電氣設備內部會透過轉換器將交流電轉換為直流電，但此轉換效率僅約80%。若能直接以直流供電，便能減少因轉換而產生的電力損耗。資料中心因需要大量電力，且為了應對電源瞬斷，通常會設置不斷電系統（UPS）。由於UPS是以直流形式儲存電力，因此交流與直流之間的轉換次數會更多。資料中心採用直流供電的目的，即是為了抑制無謂的電力損耗。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/23.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成28年秋期　問21",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "アノードコモン型7セグメントLEDの点灯回路で，出力ポートに16進数で92を出力したときの表示状態はどれか。ここで，P7を最上位ビット(MSB)，P0を最下位ビット(LSB)とし，ポート出力が0のとき，LEDは点灯する。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21e.png\" alt=\"\"\u003e"
+                          ],
+                   "an":  3,
+                   "al":  "まず入力値である16進数 92 を2進数に変換します。16進数を2進数に基数変換するときには、16進数を各桁ごとに2進数4桁に変えていくだけです。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21_2.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成28年秋季 問21",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "在共陽極型7段顯示器LED的點燈電路中，當輸出埠輸出十六進制數值 92 時，顯示狀態為何？在此，P7 為最高位元 (MSB)，P0 為最低位元 (LSB)，且當埠輸出為 0 時，LED 會點亮。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21e.png\" alt=\"\"\u003e"
+                          ],
+                   "an":  3,
+                   "al":  "首先將輸入值的十六進制數 92 轉換為二進制數。當將十六進制轉換為二進制時，只需將十六進制的每一位數分別轉換為四位二進制數即可。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21_2.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成20年秋期　問17",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "4ビットの入力データに対し，1の入力数が0個又は偶数個のとき出力が1に，奇数個のとき出力が0になる回路はどれか。ここで，図中の\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/and.png\" alt=\"\"\u003eはAND素子，\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/or.png\" alt=\"\"\u003eはOR素子，\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/xor.png\" alt=\"\"\u003eはXOR素子，\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/not.png\" alt=\"\"\u003eはNOT素子を表す。",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17a.png\" alt=\"問17ア\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17i.png\" alt=\"問17イ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17u.png\" alt=\"問17ウ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17e.png\" alt=\"問17エ\"\u003e"
+                          ],
+                   "an":  4,
+                   "al":  "論理回路に使われている論理演算を次の表にまとめておきます。\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17_1.png\" alt=\"論理演算\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成20年秋季 問17",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "針對4位元的輸入資料，當輸入「1」的個數為0個或偶數個時輸出為1，為奇數個時輸出為0的電路為何？在此，圖中的\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/and.png\" alt=\"\"\u003e為AND閘，\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/or.png\" alt=\"\"\u003e為OR閘，\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/xor.png\" alt=\"\"\u003e為XOR閘，\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/not.png\" alt=\"\"\u003e為NOT閘。",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17a.png\" alt=\"問17ア\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17i.png\" alt=\"問17イ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17u.png\" alt=\"問17ウ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17e.png\" alt=\"問17エ\"\u003e"
+                          ],
+                   "an":  4,
+                   "al":  "邏輯電路中所使用的邏輯運算整理如下表。\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17_1.png\" alt=\"邏輯運算\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "令和2年度　問20",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "DRAMのメモリセルにおいて，情報を記憶するために利用されているものはどれか。",
+                   "op":  [
+                              "コイル",
+                              "コンデンサ",
+                              "抵抗",
+                              "フリップフロップ"
+                          ],
+                   "an":  2,
+                   "al":  "DRAM(Dynamic Random Access Memory)のメモリセルは、トランジスタ1個とコンデンサ(キャパシタともいう)1個の組で構成され、コンデンサに蓄えた電荷の有無により1ビットの情報を保持する仕組みになっています。電源供給が無くなると記憶情報も失われるため揮発性メモリに分類されます。コンデンサに蓄えた電荷は時間がたつと失われてしまうため、データ保持を目的とした定期的なリフレッシュ操作が必要です。 [1]コイルコイルはDRAMで使用されていません。 [2]コンデンサ正しい。 [3]抵抗抵抗を情報保持に利用するのは抵抗変化メモリ(ReRAM)です。 [4]フリップフロップメモリセルにフリップフロップ回路を使用しているのはSRAMです。"
+               },
+        "zh":  {
+                   "ti":  "令和2年度 問20",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "在 DRAM 的記憶體單元中，用於儲存資訊的是下列哪一項？",
+                   "op":  [
+                              "線圈",
+                              "電容器",
+                              "電阻",
+                              "正反器"
+                          ],
+                   "an":  2,
+                   "al":  "DRAM (Dynamic Random Access Memory) 的記憶體單元由 1 個電晶體和 1 個電容器（也稱為電容）組成，透過電容器中所儲存電荷的有或無來保存 1 位元的資訊。由於電源中斷後記憶資訊會消失，因此被歸類為揮發性記憶體。存儲在電容器中的電荷會隨時間流失，因此為了保持數據，需要進行定期的刷新操作。 [1] 線圈：DRAM 並未使用線圈。 [2] 電容器：正確。 [3] 電阻：使用電阻進行資訊保存的是電阻式記憶體 (ReRAM)。 [4] 正反器：在記憶體單元中使用正反器電路的是 SRAM。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "令和8年度　問6",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "図の回路のA及びBに信号を入力したときに，Yに出力される信号のタイミングチャートとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06e.png\" alt=\"\"\u003e"
+                          ],
+                   "an":  2,
+                   "al":  "A・Bが入力信号、Yが出力信号であるため、回路図にA・Bの各信号を入力したときの出力Yを求め、その関係に一致するタイミングチャートを選びます。図の論理素子\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06_1.png\" alt=\"\"\u003eはNAND素子です。NAND素子は、2つの入力がともに1のときだけ0を出力し、それ以外の場合は1を出力します。これを踏まえて、回路図に「A=0・B=0」「A=1・B=0」「A=0・B=1」「A=1・B=1」のそれぞれを与えた場合の出力Yを考えます。\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06_2.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "令和8年度 問6",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "當訊號輸入至圖中電路的 A 及 B 時，下列何者為 Y 輸出的正確時序圖？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06e.png\" alt=\"\"\u003e"
+                          ],
+                   "an":  2,
+                   "al":  "由於 A 與 B 為輸入訊號，Y 為輸出訊號，因此需先求出將 A、B 各訊號輸入電路圖時的輸出 Y，並選擇符合該關係的時序圖。圖中的邏輯閘 \u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06_1.png\" alt=\"\"\u003e 為 NAND 閘。NAND 閘的特性是：僅在兩個輸入皆為 1 時輸出 0，其餘情況皆輸出 1。基於此，思考當電路圖輸入分別為「A=0・B=0」、「A=1・B=0」、「A=0・B=1」、「A=1・B=1」時的輸出 Y。\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06_2.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "令和3年度　問20",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "モーターの速度制御などにPWM(Pulse Width Modulation)制御が用いられる。PWMの駆動波形を示したものはどれか。ここで，波形は制御回路のポート出力であり，低域通過フィルターを通していないものとする。",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20a.png\" alt=\"20a.png\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20i.png\" alt=\"20i.png\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20u.png\" alt=\"20u.png\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20e.png\" alt=\"20e.png\"\u003e"
+                          ],
+                   "an":  2,
+                   "al":  "PWM(Pulse Width Modulation，パルス幅変調)は、信号の強度は一定のまま、パルス信号を出力する時間(width)を長くしたり短くしたりすることで電流・電圧を制御する方式で、インバータの制御方式として用いられています。PWMとは別に、パルス信号を出力する時間は一定で、信号の強度(振幅)によって制御する方式をPAM(Pulse Amplitude Modulation，パルス振幅変調)といいます。選択肢の波形のうち、波形の振幅が一定なのは「イ」のみなので、これがPWMの駆動波形として適切です。\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20.png\" alt=\"20.png\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "令和3年度 問20",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "在馬達速度控制等方面會使用 PWM (Pulse Width Modulation，脈衝寬度調變) 控制。下列何者為 PWM 的驅動波形？在此假設波形為控制電路的連接埠輸出，且未經過低通濾波器。",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20a.png\" alt=\"20a.png\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20i.png\" alt=\"20i.png\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20u.png\" alt=\"20u.png\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20e.png\" alt=\"20e.png\"\u003e"
+                          ],
+                   "an":  2,
+                   "al":  "PWM (Pulse Width Modulation，脈衝寬度調變) 是一種在維持訊號強度不變的情況下，透過加長或縮短脈衝訊號輸出時間 (width) 來控制電流或電壓的方式，常被用作變頻器的控制方式。與 PWM 不同的是，有一種方式是脈衝訊號的輸出時間固定，並根據訊號強度 (振幅) 來進行控制，這稱為 PAM (Pulse Amplitude Modulation，脈衝振幅調變)。在選項的波形中，僅有「イ」的振幅是固定的，因此這是適合作為 PWM 驅動波形的選項。\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20.png\" alt=\"20.png\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成30年秋期　問22",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "2入力NAND素子を用いて4入力NAND回路を構成したものはどれか。",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22e.png\" alt=\"\"\u003e"
+                          ],
+                   "an":  2,
+                   "al":  "否定論理積(2入力NAND)は、2つの入力がともに1のときにだけ結果が0、その他の場合は1となる論理演算です。NAND素子を組み合わせることによってAND、OR、XOR、NOT、NORなどの回路を構成することができます。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22_1.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成30年秋季 問22",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "下列何者為使用 2 輸入 NAND 元件所構成的 4 輸入 NAND 電路？",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22e.png\" alt=\"\"\u003e"
+                          ],
+                   "an":  2,
+                   "al":  "反及閘（2 輸入 NAND）是一種僅在兩個輸入皆為 1 時結果才為 0，其餘情況皆為 1 的邏輯運算。透過組合 NAND 元件，可以構成 AND、OR、XOR、NOT、NOR 等邏輯電路。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22_1.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "令和元年秋期　問21",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "クロックの立上りエッジで，8ビットのシリアル入力パラレル出力シフトレジスタの内容を上位方向ヘシフトすると同時に正論理のデータをレジスタの最下位ビットに取り込む。また，ストローブの立上りエッジで値を確定する。各信号の波形を観測した結果が図のとおりであるとき，確定後のシフトレジスタの値はどれか。ここで，数値は16進数で表記している。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/21.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "63",
+                              "8D",
+                              "B1",
+                              "C6"
+                          ],
+                   "an":  2,
+                   "al":  "設問の図に、クロックの立上りエッジで取り込まれるビット(0 or 1)を書き込むと次のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/21a.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "令和元年秋季 問21",
+                   "ca":  "技術類 » 硬體 » 硬體",
+                   "q":  "在時脈（Clock）的上升緣，將 8 位元的串列輸入並列輸出移位暫存器的內容向高位元方向移位，同時將正邏輯資料讀入暫存器的最低位元。此外，在選通訊號（Strobe）的上升緣確定數值。當觀察各訊號波形的結果如圖所示時，確定後的移位暫存器之值為何？在此，數值以 16 進位表示。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/21.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "63",
+                              "8D",
+                              "B1",
+                              "C6"
+                          ],
+                   "an":  2,
+                   "al":  "若在題目的圖中標記時脈上升緣所讀入的位元（0 或 1），如下圖所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/21a.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成26年秋期　問22",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "二つの安定状態をもつ順序回路はどれか。",
+                   "op":  [
+                              "NANDゲート",
+                              "加算器",
+                              "コンデンサ",
+                              "フリップフロップ"
+                          ],
+                   "an":  4,
+                   "al":  "フリップフロップは、2つの安定状態をもつことで1ビットの状態を表現することができる順序回路で、SRAMの記憶セルに使用されています。DRAMのような定期的なリフレッシュ動作が必要ないため高速な処理が可能です。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/22.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成26年秋季 問22",
+                   "ca":  "技術類 » 硬體 » 硬體",
+                   "q":  "具有兩個穩定狀態的順序電路為何？",
+                   "op":  [
+                              "NAND 閘",
+                              "加法器",
+                              "電容器",
+                              "正反器"
+                          ],
+                   "an":  4,
+                   "al":  "正反器（Flip-flop）是一種順序電路，透過具有兩個穩定狀態來表示 1 位元的狀態，被用於 SRAM 的記憶單元中。由於不需要像 DRAM 那樣進行定期刷新操作，因此可以進行高速處理。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/22.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成23年特別　問24",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "4ビットの入力データに対し，1の入力数が0個又は偶数個のとき出力が1に，奇数個のとき出力が0になる回路はどれか。",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24a.png\" alt=\"問24ア\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24i.png\" alt=\"問24イ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24u.png\" alt=\"問24ウ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24e.png\" alt=\"問24エ\"\u003e"
+                          ],
+                   "an":  4,
+                   "al":  "論理回路に使われている論理演算を次の表にまとめておきます。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24_1.png\" alt=\"論理演算\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成23年特別 問24",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "針對4位元的輸入資料，當輸入的1的個數為0個或偶數個時輸出為1，為奇數個時輸出為0，請問是哪一個電路？",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24a.png\" alt=\"問24ア\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24i.png\" alt=\"問24イ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24u.png\" alt=\"問24ウ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24e.png\" alt=\"問24エ\"\u003e"
+                          ],
+                   "an":  4,
+                   "al":  "將邏輯電路中所使用的邏輯運算整理如下表。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24_1.png\" alt=\"邏輯運算\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成21年秋期　問24",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "二つの入力と一つの出力をもつ論理回路で，二つの入力A，Bがともに1のときだけ，出力xが0になるものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/24.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "AND回路",
+                              "NAND回路",
+                              "OR回路",
+                              "XOR回路"
+                          ],
+                   "an":  2,
+                   "al":  "NAND回路の\"NAND\"はNOT ANDを表し、AND回路の出力を反転させた回路です。したがってNAND回路は、二つの入力が共に1のときだけ0を出力し、その他の場合は1を出力します。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/24i.png\" alt=\"NAND回路の真理値表\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成21年秋季 問24",
+                   "ca":  "技術類 » 硬體 » 硬體",
+                   "q":  "具有兩個輸入與一個輸出的邏輯電路中，僅在兩個輸入 A、B 皆為 1 時，輸出 x 為 0 的是哪一個？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/24.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "AND 電路",
+                              "NAND 電路",
+                              "OR 電路",
+                              "XOR 電路"
+                          ],
+                   "an":  2,
+                   "al":  "NAND 電路的「NAND」代表 NOT AND，是將 AND 電路的輸出進行反轉的電路。因此，NAND 電路僅在兩個輸入皆為 1 時輸出 0，其他情況下則輸出 1。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/24i.png\" alt=\"NAND 電路的真值表\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成29年秋期　問23",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "図に示すデジタル回路と等価な論理式はどれか。ここで，論理式中の\"・\"は論理積，\"＋\"は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/23.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA・B",
+                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA",
+                              "X＝A・\u003cspan class=\"ol\"\u003eB",
+                              "X＝(\u003cspan class=\"ol\"\u003eA"
+                          ],
+                   "an":  3,
+                   "al":  "複雑な論理回路図の問題では、手間はかかりますが確実に答えがでる方法で解くのがおすすめです。まず(A=0, B=0),(A=1, B=0),(A=0, B=1),(A=1, B=1)の4つのケースについて回路図を追跡し、結果Xを真理値表にまとめます。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/23a.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成29年秋季 問23",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "圖中所示的數位電路，其等價的邏輯式為何？在此，邏輯式中的「・」代表邏輯積（AND），「＋」代表邏輯和（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/23.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA・B\u003c/span\u003e",
+                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e",
+                              "X＝A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e",
+                              "X＝(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e"
+                          ],
+                   "an":  3,
+                   "al":  "面對複雜的邏輯電路圖題目，雖然較花時間，但建議採用能確保得出正確答案的方法。首先，針對 (A=0, B=0)、(A=1, B=0)、(A=0, B=1)、(A=1, B=1) 這四種情況追蹤電路圖，並將結果 X 整理成真值表。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/23a.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成30年春期　問21",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "アクチュエーターの説明として，適切なものはどれか。",
+                   "op":  [
+                              "与えられた目標量と，センサーから得られた制御量を比較し，制御量を目標量に一致させるように操作量を出力する。",
+                              "位置，角度，速度，加速度，力，温度などを検出し，電気的な情報に変換する。",
+                              "エネルギー発生源からのパワーを，制御信号に基づき，回転，並進などの動きに変換する。",
+                              "マイクロフォン，センサーなどが出力する微小な電気信号を増幅する。"
+                          ],
+                   "an":  3,
+                   "al":  "アクチュエーター(Actuator)は、入力された電気信号を力学的な運動に変換する駆動機構で、機械や電気回路の構成要素です。制御システムにおいては、コントローラーから制御信号を受けとり、制御対象に与える操作量を変化させる部位のことをいいます。具体的には、温度管理システムにおけるファン、自動ドアシステムのドア、工場におけるロボットアームなど、物理的なアクションを起こす部分の駆動機構がこれに該当します。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/21.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成30年春季 問21",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "下列關於致動器（Actuator）的敘述，何者最為適當？",
+                   "op":  [
+                              "將給定的目標量與從感測器獲得的控制量進行比較，並輸出操作量以使控制量與目標量一致。",
+                              "檢測位置、角度、速度、加速度、力、溫度等，並將其轉換為電氣資訊。",
+                              "根據控制訊號，將來自能源產生源的動力轉換為旋轉、平移等動作。",
+                              "放大麥克風、感測器等所輸出的微弱電氣訊號。"
+                          ],
+                   "an":  3,
+                   "al":  "致動器（Actuator）是一種將輸入的電氣訊號轉換為力學運動的驅動機構，屬於機械或電路構成要素。在控制系統中，它是指從控制器接收控制訊號，並改變施加於控制對象之操作量的部位。具體而言，溫度管理系統中的風扇、自動門系統的門、工廠中的機械手臂等，執行物理動作的驅動機構均屬於此類。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/21.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成21年春期　問10",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "シングルチップマイコンの特徴として，最も適切なものはどれか。",
+                   "op":  [
+                              "PCのメインCPUに適している。",
+                              "ROMは内蔵されているが，RAMは内蔵されていない。",
+                              "高速処理システム又は大規模なシステムに適している。",
+                              "入出力機能が内蔵されている。"
+                          ],
+                   "an":  4,
+                   "al":  "マイコンとは、マイクロコンピュータの略で組み込みシステムで使用されるCPUをいいます。シングルチップマイコンにはRAMとROMの記憶装置が内蔵されていて、入出力機能も備わっています。炊飯器や自動車の制御システムに採用されていて、マイコンには小規模なプログラムが内蔵されています。 [1]PCのメインCPUに適している。PC向けではありません。 [2]ROMは内蔵されているが，RAMは内蔵されていない。両方とも内蔵されています。 [3]高速処理システム又は大規模なシステムに適している。特定用途向けの組込みシステムに向いています。 [4]入出力機能が内蔵されている。正しい。"
+               },
+        "zh":  {
+                   "ti":  "平成21年春季　問10",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "關於單晶片微控制器（Single-chip microcomputer）的特徵，下列何者最為適切？",
+                   "op":  [
+                              "適合用於PC的主CPU。",
+                              "內建ROM，但未內建RAM。",
+                              "適合用於高速處理系統或大規模系統。",
+                              "內建輸入輸出功能。"
+                          ],
+                   "an":  4,
+                   "al":  "微控制器（Microcomputer）為微型計算機的簡稱，是指嵌入式系統中所使用的CPU。單晶片微控制器內部整合了RAM與ROM記憶裝置，並具備輸入輸出功能。它被應用於電子鍋或汽車的控制系統中，微控制器內建了小規模的程式。 [1] 適合用於PC的主CPU。並不適用於PC。 [2] 內建ROM，但未內建RAM。兩者皆有內建。 [3] 適合用於高速處理系統或大規模系統。適用於特定用途的嵌入式系統。 [4] 內建輸入輸出功能。正確。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成24年秋期　問22",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "NAND素子を用いた次の組合せ回路の出力Zを表す式はどれか。ここで，論理式中の\"・\"は論理積，\"＋\"は論理和，\"\u003cspan class=\"ol\"\u003eX\u003c/span\u003e\"はXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/22.png\" alt=\"問22画像\"\u003e",
+                   "op":  [
+                              "X・Y",
+                              "X＋Y",
+                              "\u003cspan class=\"ol\"\u003eX・Y",
+                              "\u003cspan class=\"ol\"\u003eX＋Y"
+                          ],
+                   "an":  2,
+                   "al":  "NAND回路は、NAND(Not AND)の名称どおりAND回路の逆を出力する回路で、2つの入力がともに\"1\"のときだけ\"0\"を出力し、それ以外の入力では\"1\"を出力します。\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/22_1.png\" alt=\"NAND回路図\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成24年秋季 問22",
+                   "ca":  "科技系 » 硬體 » 硬體",
+                   "q":  "使用NAND元件的下列組合邏輯電路，表示輸出Z的算式為何？在此，邏輯式中的「・」代表邏輯積（AND），「＋」代表邏輯和（OR），「\u003cspan class=\"ol\"\u003eX\u003c/span\u003e」代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/22.png\" alt=\"問22圖片\"\u003e",
+                   "op":  [
+                              "X・Y",
+                              "X＋Y",
+                              "\u003cspan class=\"ol\"\u003eX・Y",
+                              "\u003cspan class=\"ol\"\u003eX＋Y"
+                          ],
+                   "an":  2,
+                   "al":  "NAND電路正如其名（Not AND），是將AND電路的輸出進行反相的電路。只有在兩個輸入皆為「1」時才會輸出「0」，除此之外的輸入組合則皆輸出「1」。\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/22_1.png\" alt=\"NAND電路圖\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成21年秋期　問25",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "図は全加算器を表す論理回路である。図中のxに1，yに0，zに1を入力したとき，出力となるc(けた上げ数)，s(和)の値はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/25_1.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/25_2.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "ア",
+                              "イ",
+                              "ウ",
+                              "エ"
+                          ],
+                   "an":  3,
+                   "al":  "全加算器は、2進数の加算を行う論理回路で、2進数の1桁分の加算を下位からの桁上がりを含めて計算できます。図中の出力cは「Carry out」の略で桁上がり数を示し、sは「Sum」の略で合計を表しています。3つの入力値（x=1、y=0、z=1）を合計すると2です。10進数では10で1つ上の桁に繰り上がるように2進数では2で1つ上の桁に繰り上がるので、10進数の 2 を2進数で表すと 10 となります。よって、c(けた上げ数)には1、s(和)は0が出力されます。したがって「ウ」の組合せが適切です。"
+               },
+        "zh":  {
+                   "ti":  "平成21年秋季 問25",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "圖示為表示全加算器（Full Adder）的邏輯電路。當圖中的 x 輸入 1，y 輸入 0，z 輸入 1 時，輸出結果 c（進位）與 s（和）的值分別為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/25_1.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/25_2.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "ア",
+                              "イ",
+                              "ウ",
+                              "エ"
+                          ],
+                   "an":  3,
+                   "al":  "全加算器是一種進行二進位加法的邏輯電路，能夠計算二進位中 1 個位元的加法，並包含來自低位的進位。圖中的輸出 c 是「Carry out」的縮寫，表示進位數；s 是「Sum」的縮寫，表示總和。將 3 個輸入值（x=1、y=0、z=1）相加後總和為 2。在十進位中，數值到達 10 時會向更高位進位；而在二進位中，數值到達 2 時會向更高位進位，因此十進位的 2 以二進位表示為 10。故 c（進位數）輸出為 1，s（和）輸出為 0。因此「ウ」的組合是正確的。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "令和6年度　問16",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "コンデンサに蓄えた電荷の有無で情報を記憶するメモリはどれか。",
+                   "op":  [
+                              "EEPROM",
+                              "SDRAM",
+                              "SRAM",
+                              "フラッシュメモリ"
+                          ],
+                   "an":  2,
+                   "al":  "DRAM(Dynamic Random Access Memory)は、コンデンサに電荷を蓄えることにより情報を記憶し、電源供給が無くなると記憶情報も失われる揮発性メモリです。DRAMは、メモリセルと呼ばれるトランジスタ1個とコンデンサ1個の組ごとに1ビットの情報を記憶します。コンデンサに蓄えた電荷は時間がたつと失われてしまうため、データ保持を目的とした定期的なリフレッシュ操作が必要です。SDRAM(Synchronous DRAM)は、同期式のDRAMで、現在、PCの主記憶として一般的に使用されているタイプです。 [1]EEPROMEEPROM(Electrically Erasable Programmable ROM)は、フローティングゲートと呼ばれる部位に電荷を蓄え、周囲を絶縁体で囲うことによって情報を記憶しています。 [2]SDRAM正しい。 [3]SRAMSRAM(Static RAM)は、4～6個のトランジスタでフリップフロップ回路を構成し、フリップフロップ回路の状態で1ビットの情報を記憶します。 [4]フラッシュメモリフラッシュメモリは、フローティングゲートと呼ばれる部位に電荷を蓄え、周囲を絶縁体で囲うことによって情報を記憶しています。EEPROMの一種ですが、データの書き換えをブロック単位（EEPROMはバイト単位）で行う点が異なります。"
+               },
+        "zh":  {
+                   "ti":  "令和6年度 問16",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "透過電容器內儲存電荷的有無線來記憶資訊的記憶體是哪一個？",
+                   "op":  [
+                              "EEPROM",
+                              "SDRAM",
+                              "SRAM",
+                              "快閃記憶體"
+                          ],
+                   "an":  2,
+                   "al":  "DRAM (Dynamic Random Access Memory) 是一種藉由在電容器中儲存電荷來記憶資訊，且在電源中斷後記憶內容便會消失的揮發性記憶體。DRAM 的記憶單元是由 1 個電晶體與 1 個電容器所組成，每個單元儲存 1 位元的資訊。由於儲存在電容器中的電荷會隨時間流失，因此為了保持資料，需要定期進行更新 (Refresh) 操作。SDRAM (Synchronous DRAM) 是一種同步式 DRAM，是目前廣泛用於電腦主記憶體的類型。 [1] EEPROM：EEPROM (Electrically Erasable Programmable ROM) 透過在稱為浮動閘極的部位儲存電荷，並將其周圍以絕緣體包覆的方式來記憶資訊。 [2] SDRAM：正確。 [3] SRAM：SRAM (Static RAM) 由 4 至 6 個電晶體構成正反器 (Flip-flop) 電路，藉由該電路的狀態來儲存 1 位元的資訊。 [4] 快閃記憶體：快閃記憶體是透過在稱為浮動閘極的部位儲存電荷，並將其周圍以絕緣體包覆的方式來記憶資訊。它屬於 EEPROM 的一種，但與 EEPROM 不同之處在於它是以區塊 (Block) 為單位進行資料抹寫（EEPROM 則是以位元組 (Byte) 為單位）。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成24年春期　問25",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "7セグメントLED点灯回路で，出力ポートに16進数で6Dを出力したときの表示状態はどれか。ここで，P7を最上位ビット(MSB)，P0を最下位ビット(LSB)とし，ポート出力が1のとき，LEDは点灯する。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25.png\" alt=\"問25画像\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25e.png\" alt=\"\"\u003e"
+                          ],
+                   "an":  3,
+                   "al":  "まず入力値である16進数 6D を2進数に変換します。16進数を2進数に基数変換するときには、16進数を各桁ごとに2進数4桁に変えていくだけです。\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25_2.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成24年春季 問25",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "在 7 段顯示器（7-segment LED）點燈電路中，當輸出埠輸出十六進位數值 6D 時，其顯示狀態為何？在此，P7 為最高有效位元 (MSB)，P0 為最低有效位元 (LSB)，當埠輸出為 1 時，LED 點亮。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25.png\" alt=\"問25圖片\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25e.png\" alt=\"\"\u003e"
+                          ],
+                   "an":  3,
+                   "al":  "首先將輸入值十六進位數 6D 轉換為二進位數。將十六進位數轉換為二進位數時，只需將每個十六進位位數分別轉換為 4 位元的二進位數即可。\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25_2.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成23年秋期　問26",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "論理式X＝\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・B＋A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・\u003cspan class=\"ol\"\u003eB\u003c/span\u003eと同じ結果が得られる論理回路はどれか。\u003cbr\u003eここで，論理式中の・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの否定を表す。",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26a.png\" alt=\"問26ア\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26i.png\" alt=\"問26イ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26u.png\" alt=\"問26ウ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26e.png\" alt=\"問26エ\"\u003e"
+                          ],
+                   "an":  2,
+                   "al":  "集合演算則を用いて解く方法と、ベン図を用いて解く方法の2通りを解説します。[集合演算則を用いた解法] A・B＋A・B＋A・B＝ A・(B＋B)＋A・B //第1項と第3項をAでくくる＝ A＋A・B //B＋Bは1，1・X＝X＝ A・(A＋B) //ド・モルガン則を逆に適用する＝ A・A＋A・B //分配の法則＝ A・B //A・Aは0，0＋X＝XA・Bは、NAND(not AND)回路の出力と同じなので正解は「イ」になります。[ベン図を用いた解法]第1項～第3項の論理式をベン図で表すと次のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26_1.png\" alt=\"問26解説画像1\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成23年秋季 第26題",
+                   "ca":  "技術類 » 硬體 » 硬體",
+                   "q":  "下列哪一個邏輯電路能得到與邏輯式X＝\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・B＋A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e相同的結果？\u003cbr\u003e在此，邏輯式中的・代表邏輯積，＋代表邏輯和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003e代表X的反相（否定）。",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26a.png\" alt=\"問26選項A\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26i.png\" alt=\"問26選項B\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26u.png\" alt=\"問26選項C\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26e.png\" alt=\"問26選項D\"\u003e"
+                          ],
+                   "an":  2,
+                   "al":  "以下說明兩種解法：利用集合運算律與利用文氏圖。[利用集合運算律的解法] A・B＋A・B＋A・B＝ A・(B＋B)＋A・B //提出第1項與第3項的A＝ A＋A・B //B＋B為1，1・X＝X＝ A・(A＋B) //反向套用摩根定律＝ A・A＋A・B //分配律＝ A・B //A・A為0，0＋X＝XA・B與NAND(not AND)電路的輸出相同，因此正確答案為「イ」（選項B）。[利用文氏圖的解法]將第1項～第3項的邏輯式以文氏圖表示如下。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26_1.png\" alt=\"問26解說圖片1\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成19年秋期　問17",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "入力XとYの値が同じときにだけ，出力Zに1を出力する回路はどれか。ここで，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/and.png\" alt=\"\"\u003eはAND回路，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/or.png\" alt=\"\"\u003eはOR回路，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/nand.png\" alt=\"\"\u003eはNAND回路，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/nor.png\" alt=\"\"\u003eはNOR回路，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/not.png\" alt=\"\"\u003eはNOT回路を表す。",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17a.png\" alt=\"問17ア\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17i.png\" alt=\"問17イ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17u.png\" alt=\"問17ウ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17e.png\" alt=\"問17エ\"\u003e"
+                          ],
+                   "an":  3,
+                   "al":  "「入力XとYの値が同じときにだけ，出力Zに1を出力する」ということは、裏を返せば「入力XとYの値が異なるときには1を出力しない」ということです。このため、(X，Y)が(0，0)と(1，1)のときに1を出力するかどうかだけでなく、それ以外の(1，0)と(0，1)のときに出力が0になっているかどうかも確認する必要があります。それぞれの論理回路に(0，0)、(1，0)、(0，1)、(1，1)の4つを入力して得られる結果は次のようになります。XとYが同じときに1を出力しているもの、XとYが異なるときに1を出力していないものには○を、そうではないものには×を付けてあります。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17a.png\" alt=\"問17ア\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17_1.png\" alt=\"\"\u003e [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17i.png\" alt=\"問17イ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17_2.png\" alt=\"\"\u003e [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17u.png\" alt=\"問17ウ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17_3.png\" alt=\"\"\u003e [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17e.png\" alt=\"問17エ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17_4.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成19年秋季 問17",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "下列何者為僅在輸入X與Y的值相同時，輸出Z才會輸出1的電路？在此，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/and.png\" alt=\"\"\u003e代表AND電路，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/or.png\" alt=\"\"\u003e代表OR電路，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/nand.png\" alt=\"\"\u003e代表NAND電路，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/nor.png\" alt=\"\"\u003e代表NOR電路，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/not.png\" alt=\"\"\u003e代表NOT電路。",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17a.png\" alt=\"問17ア\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17i.png\" alt=\"問17イ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17u.png\" alt=\"問17ウ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17e.png\" alt=\"問17エ\"\u003e"
+                          ],
+                   "an":  3,
+                   "al":  "所謂「僅在輸入X與Y的值相同時，輸出Z才輸出1」，反過來說就是「當輸入X與Y的值不同時，輸出不為1」。因此，不僅需要確認(X, Y)為(0, 0)與(1, 1)時是否輸出1，還必須確認在除此之外的(1, 0)與(0, 1)時，輸出是否為0。將(0, 0)、(1, 0)、(0, 1)、(1, 1)這四種組合分別輸入各個邏輯電路後，結果如下所示。X與Y相同時輸出1，且X與Y不同時不輸出1者標記為○，反之則標記為×。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17a.png\" alt=\"問17ア\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17_1.png\" alt=\"\"\u003e [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17i.png\" alt=\"問17イ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17_2.png\" alt=\"\"\u003e [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17u.png\" alt=\"問17ウ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17_3.png\" alt=\"\"\u003e [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17e.png\" alt=\"問17エ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17_4.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成21年春期　問24",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "図の論理回路と同じ出力が得られる論理回路はどれか。ここで，\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/and.png\" alt=\"\"\u003eは，論理積(AND)，\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/or.png\" alt=\"\"\u003eは論理和(OR)，\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/not.png\" alt=\"\"\u003eは否定(NOT)を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24a.png\" alt=\"問24ア\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24i.png\" alt=\"問24イ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24u.png\" alt=\"問24ウ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24e.png\" alt=\"問24エ\"\u003e"
+                          ],
+                   "an":  2,
+                   "al":  "設問の論理回路に(A=0，B=0)，(A=1，B=0)，(A=0，B=1)，(A=1，B=1)の4つの値を入力するとXには次の値が出力されます。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24_1.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成21年春季 問24",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "下列哪一個邏輯電路能得到與圖中邏輯電路相同的輸出？在此，\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/and.png\" alt=\"\"\u003e代表邏輯乘（AND），\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/or.png\" alt=\"\"\u003e代表邏輯和（OR），\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/not.png\" alt=\"\"\u003e代表否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24a.png\" alt=\"問24ア\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24i.png\" alt=\"問24イ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24u.png\" alt=\"問24ウ\"\u003e",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24e.png\" alt=\"問24エ\"\u003e"
+                          ],
+                   "an":  2,
+                   "al":  "將 (A=0, B=0)、(A=1, B=0)、(A=0, B=1)、(A=1, B=1) 這四種數值分別輸入題目中的邏輯電路後，X 將輸出如下數值。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24_1.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成21年秋期　問23",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "SoC(System on a Chip)の説明として，適切なものはどれか。",
+                   "op":  [
+                              "CPU，チップセット，ビデオチップ，メモリなどコンピュータを構成するための電子回路基板",
+                              "CPU，メモリ，周辺装置などの間で発生するデータの受渡しを管理する一連の回路群を搭載した半導体チップ",
+                              "必要とされるすべての機能(システム)を同一プロセスで集積した半導体チップ",
+                              "プロセスが異なる機能は，個別に最適化されたプロセスで製造し，パッケージ上でそれぞれのチップを適切に配線した半導体チップ"
+                          ],
+                   "an":  3,
+                   "al":  "SoC(System on a Chip)は、1つの半導体チップ上にシステムに必要な一連の機能を集積する回路の設計方法です。SoCには「占有面積の削減」「高速化」「低消費電力化」「コスト削減」などのメリットがあるとされています。 [1]CPU，チップセット，ビデオチップ，メモリなどコンピュータを構成するための電子回路基板マイクロコントローラーの説明です。 [2]CPU，メモリ，周辺装置などの間で発生するデータの受渡しを管理する一連の回路群を搭載した半導体チップチップセットの説明です。 [3]必要とされるすべての機能(システム)を同一プロセスで集積した半導体チップ正しい。SoCの説明です。 [4]プロセスが異なる機能は，個別に最適化されたプロセスで製造し，パッケージ上でそれぞれのチップを適切に配線した半導体チップSiP(System In Package)の説明です。"
+               },
+        "zh":  {
+                   "ti":  "平成21年秋季 問23",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "關於 SoC (System on a Chip) 的說明，下列何者正確？",
+                   "op":  [
+                              "構成電腦所需的電子電路基板，包含 CPU、晶片組、視訊晶片、記憶體等",
+                              "搭載一組電路群的半導體晶片，用於管理 CPU、記憶體、周邊裝置之間產生的資料傳遞",
+                              "將所需的所有功能（系統）集成在同一製程中的半導體晶片",
+                              "將不同製程的功能分別以最佳化的製程製造，並在封裝上將各晶片進行適當配線的半導體晶片"
+                          ],
+                   "an":  3,
+                   "al":  "SoC (System on a Chip) 是將系統所需的一系列功能集成在單一半導體晶片上的電路設計方法。SoC 具有「縮減佔用面積」、「高速化」、「低功耗化」、「降低成本」等優點。 [1] 這是微控制器 (Microcontroller) 的說明。 [2] 這是晶片組 (Chipset) 的說明。 [3] 將所需的所有功能（系統）集成在同一製程中的半導體晶片。正確，這是 SoC 的說明。 [4] 這是 SiP (System In Package) 的說明。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成22年秋期　問24",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "図に示すデジタル回路と等価な論理式はどれか。ここで，論理式中の・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/24.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA・B",
+                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA",
+                              "X＝A・\u003cspan class=\"ol\"\u003eB",
+                              "X＝(\u003cspan class=\"ol\"\u003eA"
+                          ],
+                   "an":  3,
+                   "al":  "複雑な論理回路図の問題では、手間はかかりますが確実に答えがでる方法で解くのがおすすめです。まず(A=0, B=0),(A=1, B=0),(A=0, B=1),(A=1, B=1)の4つのケースについて回路図を追跡し、結果Xを真理値表にまとめます。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/24a.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成22年秋期　問24",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "與圖中所示數位電路等效的邏輯運算式為何？在此，邏輯運算式中的「・」代表邏輯乘（AND），「＋」代表邏輯和（OR），「\u003cspan class=\"ol\"\u003eX\u003c/span\u003e」代表X的非（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/24.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA・B\u003c/span\u003e",
+                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e",
+                              "X＝A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e",
+                              "X＝(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e)"
+                          ],
+                   "an":  3,
+                   "al":  "對於複雜的邏輯電路圖問題，建議使用雖然費時但能準確得出答案的方法來解題。首先針對(A=0, B=0), (A=1, B=0), (A=0, B=1), (A=1, B=1)這4種情況追蹤電路圖，並將結果X整理成真值表。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/24a.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成29年春期　問22",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "図に示す，1桁の2進数xとyを加算して，z(和の1桁目)及びc(桁上げ)を出力する半加算器において，AとBの素子の組合せとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/22.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/22a.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "ア",
+                              "イ",
+                              "ウ",
+                              "エ"
+                          ],
+                   "an":  1,
+                   "al":  "桁上げの出力cは入力される2つの数値がともに\"1\"のときにだけ\"1\"を出力します。この関係はAND回路(論理積)の真理値表と一致します。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/22_1.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成29年春季 問22",
+                   "ca":  "科技系統 » 硬體 » 硬體",
+                   "q":  "如圖所示，在一個將 1 位元二進位數 x 與 y 相加，並輸出 z（和的個位數）及 c（進位）的半加法器中，下列關於元件 A 與 B 的組合，何者最為適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/22.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/22a.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "ア",
+                              "イ",
+                              "ウ",
+                              "エ"
+                          ],
+                   "an":  1,
+                   "al":  "進位輸出 c 僅在輸入的兩個數值皆為「1」時才會輸出「1」。此關係與 AND 電路（邏輯積）的真值表一致。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/22_1.png\" alt=\"\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "令和3年度　問22",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "家庭用の100V電源で動作し，運転中に10Aの電流が流れる機器を，図のとおりに0分から120分まで運転した。このとき消費する電力量は何Whか。ここで，電圧及び電流の値は実効値であり，停止時に電流は流れないものとする。また，力率は1とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/22.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "1,000",
+                              "1,200",
+                              "1,500",
+                              "2,000"
+                          ],
+                   "an":  3,
+                   "al":  "電流(A)・電圧(V)・電力(W)の間には以下の関係式が成り立ちます。 電流(A)×電圧(V)＝電力(W)電力は電流と電圧の積で表されます。また答えの単位である「Wh」は、電力量の単位で1Wの電力を1時間使用した場合すると1Whになります。 電力量＝電力(W)×使用時間次に設問にある力率とは、流れる電流が実際に機器で使用された割合を示す数値です。この設問では力率が1(100%)で、流れた電流の全てが機器で消費されるという条件なので計算上は特に考慮する必要ありません。上記を踏まえて設問に戻ります。100V電源で動作し、10Aの電流が流れる機器なので、電力(W)は、 10A×100V＝1,000W図を見ると通電している時間は1.5時間とわかるので、消費する電力量(Wh)は 1,000W×1.5時間＝1,500Whしたがって「ウ」が正解です。"
+               },
+        "zh":  {
+                   "ti":  "令和3年度 問22",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "一台使用家用100V電源運作，且運作時流經電流為10A的設備，依下圖所示從0分鐘運作至120分鐘。此時消耗的電力量為多少Wh？在此，電壓與電流的值均為實效值，且停止時電流不流動。此外，功率因數設為1。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/22.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "1,000",
+                              "1,200",
+                              "1,500",
+                              "2,000"
+                          ],
+                   "an":  3,
+                   "al":  "電流(A)、電壓(V)與電力(W)之間存在以下關係式：\n電流(A)×電壓(V)＝電力(W)\n電力由電流與電壓的乘積表示。此外，答案的單位「Wh」是電力量的單位，意指使用1W的電力持續1小時即為1Wh。\n電力量＝電力(W)×使用時間\n\n接著，題目提到的功率因數，是指流經的電流實際被設備使用的比例數值。本題中功率因數為1(100%)，代表所有流經的電流皆被設備消耗，因此在計算上無需特別考量。\n\n根據上述說明回到題目：\n由於是使用100V電源運作，且流經10A電流的設備，電力(W)為：\n10A×100V＝1,000W\n\n觀察圖表可知，通電時間為1.5小時，因此消耗的電力量(Wh)為：\n1,000W×1.5小時＝1,500Wh\n\n因此「ウ」為正確答案。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成28年秋期　問22",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "メモリセルにフリップフロップ回路を利用したものはどれか。",
+                   "op":  [
+                              "DRAM ",
+                              "EEPROM ",
+                              "SDRAM",
+                              "SRAM"
+                          ],
+                   "an":  4,
+                   "al":  "フリップフロップ回路は、2つの安定状態をもつことで1ビットの状態を表現することが可能な順序回路で、キャッシュメモリに使用されるSRAMの記憶セルに使用されています。DRAMと比較してリフレッシュ動作が不要、消費電力が少ないなどの理由で読み書きを高速化しやすい長所があります。 [1]DRAM Dynamic Random Access Memoryの略。コンデンサに電荷を蓄えることにより情報を記憶するメモリで、コンピュータの主記憶装置として使用されています。 [2]EEPROM Electrically Erasable Programmable ROMの略。利用者が記憶内容を電気的に書き込み・消去できる不揮発性メモリです。フラッシュメモリはEEPROMの一種です。 [3]SDRAMSynchronous DRAMの略。システムバスに同期して動作しデータ転送の待ち時間を少なくすることで高速に動作するDRAMです。 [4]SRAM正しい。"
+               },
+        "zh":  {
+                   "ti":  "平成28年秋季 問22",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "下列何者在記憶單元中使用了正反器（Flip-flop）電路？",
+                   "op":  [
+                              "DRAM",
+                              "EEPROM",
+                              "SDRAM",
+                              "SRAM"
+                          ],
+                   "an":  4,
+                   "al":  "正反器電路是一種透過具備兩個穩定狀態來表示 1 位元狀態的循序電路，被用於快取記憶體所使用的 SRAM 記憶單元中。相較於 DRAM，它具有無需刷新動作（Refresh）、功耗較低等優點，因此較容易實現高速讀寫。 [1] DRAM：Dynamic Random Access Memory 的縮寫。是一種藉由在電容器中儲存電荷來記憶資訊的記憶體，被用作電腦的主記憶體。 [2] EEPROM：Electrically Erasable Programmable ROM 的縮寫。是一種使用者可以透過電子方式寫入及刪除記憶內容的非揮發性記憶體。快閃記憶體即為 EEPROM 的一種。 [3] SDRAM：Synchronous DRAM 的縮寫。是一種與系統匯流排同步運作，透過減少資料傳輸等待時間來實現高速運作的 DRAM。 [4] SRAM：正確。"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成24年秋期　問23",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "二つの安定状態をもつ順序回路はどれか。",
+                   "op":  [
+                              "NANDゲート",
+                              "加算器",
+                              "コンデンサ",
+                              "フリップフロップ"
+                          ],
+                   "an":  4,
+                   "al":  "フリップフロップは、2つの安定状態をもつことで1ビットの状態を表現することができる順序回路で、SRAMの記憶セルに使用されています。DRAMのような定期的なリフレッシュ動作が必要ないため高速な処理が可能です。\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/23.png\" alt=\"フリップフロップ回路\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成24年秋季 問23",
+                   "ca":  "技術類 » 硬體 » 硬體",
+                   "q":  "具有兩種穩定狀態的順序電路為何？",
+                   "op":  [
+                              "NAND 閘",
+                              "加法器",
+                              "電容器",
+                              "正反器 (Flip-flop)"
+                          ],
+                   "an":  4,
+                   "al":  "正反器 (Flip-flop) 是一種順序電路，透過保持兩種穩定狀態來表現 1 位元的狀態，被用於 SRAM 的記憶單元中。由於不需要像 DRAM 那樣進行定期的刷新 (Refresh) 動作，因此能進行高速處理。\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/23.png\" alt=\"正反器電路\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成22年春期　問25",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "二つの安定状態をもつ回路で，SRAMの記憶セルに使用される順序回路の基本構成要素はどれか。",
+                   "op":  [
+                              "ANDゲート",
+                              "加算器",
+                              "キャパシタ",
+                              "フリップフロップ"
+                          ],
+                   "an":  4,
+                   "al":  "フリップフロップは、2つの安定状態をもつことで1ビットの状態を表現することができる順序回路で、SRAMの記憶セルに使用されています。DRAMのようなリフレッシュ動作が必要ないため高速な処理が可能です。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/25a.png\" alt=\"フリップフロップ回路\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成22年春季 問25",
+                   "ca":  "技術系 » 硬體 » 硬體",
+                   "q":  "具有兩個穩定狀態的電路中，作為SRAM記憶單元使用的時序電路基本構成元件為何？",
+                   "op":  [
+                              "AND閘",
+                              "加法器",
+                              "電容器",
+                              "正反器"
+                          ],
+                   "an":  4,
+                   "al":  "正反器（Flip-flop）是一種具有兩個穩定狀態，可用來表示1位元狀態的時序電路，被用於SRAM的記憶單元中。由於不像DRAM那樣需要重新整理（Refresh）操作，因此能夠進行高速處理。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/25a.png\" alt=\"正反器電路\"\u003e"
+               }
+    },
+    {
+        "ja":  {
+                   "ti":  "平成28年春期　問23",
+                   "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
+                   "q":  "図の論理回路と等価な回路はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23a.png\" alt=\"\"\u003e(論理和素子)",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23i.png\" alt=\"\"\u003e(論理積素子)",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23u.png\" alt=\"\"\u003e(排他的論理和素子)",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23e.png\" alt=\"\"\u003e(否定論理和素子)"
+                          ],
+                   "an":  3,
+                   "al":  "設問の回路素子はNAND回路を表しています。設問の回路図にAとBにそれぞれ0または1の値を与えたとき、各回路の出力であるYの値がどうなるかを考えます。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23_1.png\" alt=\"\"\u003e"
+               },
+        "zh":  {
+                   "ti":  "平成28年春季 問23",
+                   "ca":  "技術類 » 硬體 » 硬體",
+                   "q":  "下列何者與圖中的邏輯電路等價？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23.png\" alt=\"\"\u003e",
+                   "op":  [
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23a.png\" alt=\"\"\u003e(或閘)",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23i.png\" alt=\"\"\u003e(及閘)",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23u.png\" alt=\"\"\u003e(互斥或閘)",
+                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23e.png\" alt=\"\"\u003e(反或閘)"
+                          ],
+                   "an":  3,
+                   "al":  "題目中的電路元件表示為反及閘（NAND）。當我們將 0 或 1 的值分別賦予題目電路圖中的 A 和 B 時，即可推導出各電路輸出 Y 的值。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23_1.png\" alt=\"\"\u003e"
+               }
+    }
+]
