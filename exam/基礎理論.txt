@@ -31,7 +31,7 @@
         "ja":  {
                    "ti":  "平成18年春期　問7",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "次のベン図の網掛け部分(\u003cspan class=\"bb\" style=\"background-color:#999\"\u003e　\u003c/span\u003e)の集合を表す式はどれか。ここで，X∪Yは XとYの和集合， X∩Yは XとYの積集合，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの補集合を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/07.png\" alt=\"問7画像\"\u003e",
+                   "q":  "次のベン図の網掛け部分(\u003cspan class=\"bb\" style=\"background-color:#999\"\u003e　\u003c/span\u003e)の集合を表す式はどれか。ここで，X∪Yは XとYの和集合， X∩Yは XとYの積集合，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの補集合を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/07.png\" alt=\"問7画像\"\u003e",
                    "op":  [
                               "\u003cspan class=\"ol\"\u003e(A∩B∩C)",
                               "(A∪B)∩\u003cspan class=\"ol\"\u003eC",
@@ -44,7 +44,7 @@
         "zh":  {
                    "ti":  "平成18年春期 問7",
                    "ca":  "科技 » 基础理论 » 离散数学",
-                   "q":  "以下文氏图中阴影部分（\u003cspan class=\"bb\" style=\"background-color:#999\"\u003e　\u003c/span\u003e）所表示的集合是哪个表达式？其中，X∪Y表示X与Y的并集，X∩Y表示X与Y的交集，\u003cspan class=\"ol\"\u003eX\u003c/span\u003e表示X的补集。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/07.png\" alt=\"問7画像\"\u003e\u003c/div\u003e",
+                   "q":  "以下文氏图中阴影部分（\u003cspan class=\"bb\" style=\"background-color:#999\"\u003e　\u003c/span\u003e）所表示的集合是哪个表达式？其中，X∪Y表示X与Y的并集，X∩Y表示X与Y的交集，\u003cspan class=\"ol\"\u003eX\u003c/span\u003e表示X的补集。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/07.png\" alt=\"問7画像\"\u003e\u003c/div\u003e",
                    "op":  [
                               "\u003cspan class=\"ol\"\u003e(A∩B∩C)",
                               "(A∪B)∩\u003cspan class=\"ol\"\u003eC",
@@ -67,7 +67,7 @@
                               "xを3ビット左にシフトした値にxを加算し，更に1ビット左にシフトする。"
                           ],
                    "an":  1,
-                   "al":  "ビットシフトを使用した乗算に関する問題です。2進数のビット列は、左にnビットシフトすると元の値と比べて「2n倍」、右にnビットシフトすると「1／2n倍（2-n倍）」になるという性質があります。\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/04.png\" alt=\"\"\u003e"
+                   "al":  "ビットシフトを使用した乗算に関する問題です。2進数のビット列は、左にnビットシフトすると元の値と比べて「2n倍」、右にnビットシフトすると「1／2n倍（2-n倍）」になるという性質があります。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/04.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成20年春期 第4題",
@@ -80,7 +80,7 @@
                               "將x向左移動3位元後加上x，再向左移動1位元。"
                           ],
                    "an":  1,
-                   "al":  "這是關於使用位元移位進行乘法的問題。二進位的位元串列向左移動n位元時，會變成原來的「2^n倍」，向右移動n位元時，會變成「1／2^n倍（2^(-n)倍）」的性質。\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/04.png\" alt=\"\"\u003e"
+                   "al":  "這是關於使用位元移位進行乘法的問題。二進位的位元串列向左移動n位元時，會變成原來的「2^n倍」，向右移動n位元時，會變成「1／2^n倍（2^(-n)倍）」的性質。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/04.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -115,7 +115,7 @@
         "ja":  {
                    "ti":  "平成26年春期　問5",
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
-                   "q":  "次の表は，文字列を検査するための状態遷移表である。検査では，初期状態をaとし，文字列の検査中に状態がeになれば不合格とする。\u003cbr\u003e　解答群で示される文字列のうち，不合格となるものはどれか。ここで，文字列は左端から検査し，解答群中の△は空白を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/05.png\" alt=\"問5画像\"\u003e",
+                   "q":  "次の表は，文字列を検査するための状態遷移表である。検査では，初期状態をaとし，文字列の検査中に状態がeになれば不合格とする。\u003cbr\u003e　解答群で示される文字列のうち，不合格となるものはどれか。ここで，文字列は左端から検査し，解答群中の△は空白を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/05.png\" alt=\"問5画像\"\u003e",
                    "op":  [
                               "＋0010",
                               "－1",
@@ -128,7 +128,7 @@
         "zh":  {
                    "ti":  "平成26年春季 問5",
                    "ca":  "科技類 » 基礎理論 » 資訊相關理論",
-                   "q":  "下表為用於檢查字串的狀態遷移表。在檢查中，初始狀態設為 a，若在字串檢查期間狀態變為 e，則判定為不合格。\u003cbr\u003e下列選項中的字串，何者會導致不合格？在此，字串由左端開始檢查，選項中的 △ 代表空白。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/05.png\" alt=\"問5圖片\"\u003e",
+                   "q":  "下表為用於檢查字串的狀態遷移表。在檢查中，初始狀態設為 a，若在字串檢查期間狀態變為 e，則判定為不合格。\u003cbr\u003e下列選項中的字串，何者會導致不合格？在此，字串由左端開始檢查，選項中的 △ 代表空白。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/05.png\" alt=\"問5圖片\"\u003e",
                    "op":  [
                               "＋0010",
                               "－1",
@@ -143,7 +143,7 @@
         "ja":  {
                    "ti":  "令和3年度　問6",
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
-                   "q":  "a，b，c，d の4文字から成るメッセージを符号化してビット列にする方法として表のア～エの4通りを考えた。この表は a，b，c，d の各1文字を符号化するときのビット列を表している。メッセージ中の a，b，c，d の出現頻度は，それぞれ，50%，30%，10%，10% であることが分かっている。符号化されたビット列から元のメッセージが一意に復号可能であって，ビット列の長さが最も短くなるものはどれか。\n\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/06.png\" alt=\"\"\u003e",
+                   "q":  "a，b，c，d の4文字から成るメッセージを符号化してビット列にする方法として表のア～エの4通りを考えた。この表は a，b，c，d の各1文字を符号化するときのビット列を表している。メッセージ中の a，b，c，d の出現頻度は，それぞれ，50%，30%，10%，10% であることが分かっている。符号化されたビット列から元のメッセージが一意に復号可能であって，ビット列の長さが最も短くなるものはどれか。\n\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/06.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -156,7 +156,7 @@
         "zh":  {
                    "ti":  "令和3年度 問6",
                    "ca":  "科技系 » 基礎理論 » 資訊相關理論",
-                   "q":  "考慮將由 a、b、c、d 四個字元組成的訊息編碼為位元串的四種方法（表中的ア～エ）。此表顯示了對 a、b、c、d 各單一字元編碼時的位元串。已知訊息中 a、b、c、d 的出現頻率分別為 50%、30%、10%、10%。若要求編碼後的位元串能唯一解碼回原始訊息，且位元串總長度最短，應選哪一個？\n\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/06.png\" alt=\"\"\u003e",
+                   "q":  "考慮將由 a、b、c、d 四個字元組成的訊息編碼為位元串的四種方法（表中的ア～エ）。此表顯示了對 a、b、c、d 各單一字元編碼時的位元串。已知訊息中 a、b、c、d 的出現頻率分別為 50%、30%、10%、10%。若要求編碼後的位元串能唯一解碼回原始訊息，且位元串總長度最短，應選哪一個？\n\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/06.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -263,7 +263,7 @@
                               "知識がルールに従って表現されており，演繹手法を利用した推論によって有意な結論を導く手法である。"
                           ],
                    "an":  1,
-                   "al":  "ディープラーニング(Deep Learning)は、人間や動物の脳神経をモデル化したアルゴリズムを多層化したものを用意し、それに「十分な量のデータを与えることで、人間の力なしに自動的に特徴点やパターンを学習させる」ことをいいます。人工知能の機械学習分野における要素技術の1つで、深層学習とも呼ばれます。従来の機械学習方式と異なり、中間層の多層化によって複雑なパターンの表現と計算を可能にしていることが特徴です。\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/05.png\" alt=\"05.png\"\u003e"
+                   "al":  "ディープラーニング(Deep Learning)は、人間や動物の脳神経をモデル化したアルゴリズムを多層化したものを用意し、それに「十分な量のデータを与えることで、人間の力なしに自動的に特徴点やパターンを学習させる」ことをいいます。人工知能の機械学習分野における要素技術の1つで、深層学習とも呼ばれます。従来の機械学習方式と異なり、中間層の多層化によって複雑なパターンの表現と計算を可能にしていることが特徴です。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/05.png\" alt=\"05.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和2年度 問5",
@@ -276,7 +276,7 @@
                               "知識係遵循規則進行表現，並透過利用演繹法進行推理以導出有意義結論的手法。"
                           ],
                    "an":  1,
-                   "al":  "深度學習（Deep Learning）是指將模仿人類或動物腦神經的演算法進行多層化，透過「提供足夠數量的資料，讓其無需人工介入即能自動學習特徵點或模式」的技術。它是人工智慧機器學習領域中的一種要素技術，也稱為深層學習。與傳統的機器學習方式不同，其特徵在於透過中間層的多層化，實現了對複雜模式的表現與運算。\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/05.png\" alt=\"05.png\"\u003e"
+                   "al":  "深度學習（Deep Learning）是指將模仿人類或動物腦神經的演算法進行多層化，透過「提供足夠數量的資料，讓其無需人工介入即能自動學習特徵點或模式」的技術。它是人工智慧機器學習領域中的一種要素技術，也稱為深層學習。與傳統的機器學習方式不同，其特徵在於透過中間層的多層化，實現了對複雜模式的表現與運算。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/05.png\" alt=\"05.png\"\u003e"
                }
     },
     {
@@ -311,7 +311,7 @@
         "ja":  {
                    "ti":  "令和3年度　問4",
                    "ca":  "テクノロジ系 » 基礎理論 » 応用数学",
-                   "q":  "連立一次方程式\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/04_1.png\" alt=\"04_1.png\"\u003e",
+                   "q":  "連立一次方程式\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/04_1.png\" alt=\"04_1.png\"\u003e",
                    "op":  [
                               "a と b",
                               "a と c",
@@ -324,7 +324,7 @@
         "zh":  {
                    "ti":  "令和3年度 問4",
                    "ca":  "技術系 » 基礎理論 » 應用數學",
-                   "q":  "聯立一次方程式\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/04_1.png\" alt=\"04_1.png\"\u003e",
+                   "q":  "聯立一次方程式\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/04_1.png\" alt=\"04_1.png\"\u003e",
                    "op":  [
                               "a 與 b",
                               "a 與 c",
@@ -367,7 +367,7 @@
         "ja":  {
                    "ti":  "平成19年秋期　問9",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "P，Q，Rはいずれも命題である。命題Pの真理値は真であり，命題(not P) or Q 及び命題(not Q) or R のいずれの真理値も真であることが分かっている。Q，Rの真理値はどれか。ここで，X or Y は X と Y の論理和，not X はXの否定を表す。\n\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/9.png\" alt=\"問9画像\"\u003e",
+                   "q":  "P，Q，Rはいずれも命題である。命題Pの真理値は真であり，命題(not P) or Q 及び命題(not Q) or R のいずれの真理値も真であることが分かっている。Q，Rの真理値はどれか。ここで，X or Y は X と Y の論理和，not X はXの否定を表す。\n\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/9.png\" alt=\"問9画像\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -380,7 +380,7 @@
         "zh":  {
                    "ti":  "平成19年秋季 問9",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "P、Q、R皆為命題。已知命題P的真值為真，且命題(not P) or Q 以及命題(not Q) or R 的真值皆為真。請問Q、R的真值為何？在此，X or Y 代表 X 與 Y 的邏輯加（OR），not X 代表 X 的否定（NOT）。\n\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/9.png\" alt=\"問9画像\"\u003e",
+                   "q":  "P、Q、R皆為命題。已知命題P的真值為真，且命題(not P) or Q 以及命題(not Q) or R 的真值皆為真。請問Q、R的真值為何？在此，X or Y 代表 X 與 Y 的邏輯加（OR），not X 代表 X 的否定（NOT）。\n\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/9.png\" alt=\"問9画像\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -703,7 +703,7 @@
         "ja":  {
                    "ti":  "平成30年秋期　問4",
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
-                   "q":  "出現頻度の異なるA，B，C，D，Eの5文字で構成される通信データを，ハフマン符号化を使って圧縮するために，符号表を作成した。aに入る符号として，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/04.png\" alt=\"\"\u003e",
+                   "q":  "出現頻度の異なるA，B，C，D，Eの5文字で構成される通信データを，ハフマン符号化を使って圧縮するために，符号表を作成した。aに入る符号として，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/04.png\" alt=\"\"\u003e",
                    "op":  [
                               "001",
                               "010",
@@ -716,7 +716,7 @@
         "zh":  {
                    "ti":  "平成30年秋季 問4",
                    "ca":  "技術系 » 基礎理論 » 資訊相關理論",
-                   "q":  "為了利用霍夫曼編碼（Huffman coding）來壓縮由出現頻率不同的 A、B、C、D、E 五個字元組成的通訊數據，製作了編碼表。下列何者為填入 a 的適當編碼？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/04.png\" alt=\"\"\u003e",
+                   "q":  "為了利用霍夫曼編碼（Huffman coding）來壓縮由出現頻率不同的 A、B、C、D、E 五個字元組成的通訊數據，製作了編碼表。下列何者為填入 a 的適當編碼？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/04.png\" alt=\"\"\u003e",
                    "op":  [
                               "001",
                               "010",
@@ -843,7 +843,7 @@
         "ja":  {
                    "ti":  "平成16年秋期　問7",
                    "ca":  "テクノロジ系 » 基礎理論 » 応用数学",
-                   "q":  "ある工場で製造している部品の長さの誤差は，平均0mm，標準偏差0.5mmの正規分布に従っている。誤差の許容範囲が±1mmのとき，不良品の発生率は何％になるか。標準正規分布表を用いて最も近い値を選べ。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/07.png\" alt=\"問7画像\"\u003e",
+                   "q":  "ある工場で製造している部品の長さの誤差は，平均0mm，標準偏差0.5mmの正規分布に従っている。誤差の許容範囲が±1mmのとき，不良品の発生率は何％になるか。標準正規分布表を用いて最も近い値を選べ。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/07.png\" alt=\"問7画像\"\u003e",
                    "op":  [
                               "2.3",
                               "4.5",
@@ -851,12 +851,12 @@
                               "15.9"
                           ],
                    "an":  2,
-                   "al":  "表中の数字は、全体の面積を1.0としたときの下図の斜線部分の割合を表しています。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/07_1.png\" alt=\"\"\u003e"
+                   "al":  "表中の数字は、全体の面積を1.0としたときの下図の斜線部分の割合を表しています。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/07_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成16年秋季 問7",
                    "ca":  "技術系 » 基礎理論 » 應用數學",
-                   "q":  "某工廠製造零件的長度誤差，遵循平均值為 0mm、標準差為 0.5mm 的常態分佈。當誤差的容許範圍為 ±1mm 時，不良品的發生率為多少百分比（%）？請利用標準常態分佈表選出最接近的值。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/07.png\" alt=\"問7圖片\"\u003e",
+                   "q":  "某工廠製造零件的長度誤差，遵循平均值為 0mm、標準差為 0.5mm 的常態分佈。當誤差的容許範圍為 ±1mm 時，不良品的發生率為多少百分比（%）？請利用標準常態分佈表選出最接近的值。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/07.png\" alt=\"問7圖片\"\u003e",
                    "op":  [
                               "2.3",
                               "4.5",
@@ -864,7 +864,7 @@
                               "15.9"
                           ],
                    "an":  2,
-                   "al":  "表中的數字代表當總面積為 1.0 時，下圖中斜線部分的比例。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/07_1.png\" alt=\"\"\u003e"
+                   "al":  "表中的數字代表當總面積為 1.0 時，下圖中斜線部分的比例。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/07_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -899,7 +899,7 @@
         "ja":  {
                    "ti":  "平成22年秋期　問3",
                    "ca":  "テクノロジ系 » 基礎理論 » 応用数学",
-                   "q":  "表は，ある地方の天気の移り変わりを示したものである。例えば，晴れの翌日の天気は，40%の確率で晴れ，40%の確率で曇り，20%の確率で雨であることを表している。天気の移り変わりが単純マルコフ過程であると考えたとき，雨の2日後が晴れである確率は何%か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/03.png\" alt=\"\"\u003e",
+                   "q":  "表は，ある地方の天気の移り変わりを示したものである。例えば，晴れの翌日の天気は，40%の確率で晴れ，40%の確率で曇り，20%の確率で雨であることを表している。天気の移り変わりが単純マルコフ過程であると考えたとき，雨の2日後が晴れである確率は何%か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/03.png\" alt=\"\"\u003e",
                    "op":  [
                               "15",
                               "27",
@@ -912,7 +912,7 @@
         "zh":  {
                    "ti":  "平成22年秋季 問3",
                    "ca":  "技術系 » 基礎理論 » 應用數學",
-                   "q":  "下表顯示了某地區的天氣變化情況。例如，晴天的隔天天氣，有40%的機率為晴天，40%的機率為陰天，20%的機率為雨天。若將天氣變化視為單純馬可夫過程（Simple Markov process），請問雨天的兩天後為晴天的機率是多少%？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/03.png\" alt=\"\"\u003e",
+                   "q":  "下表顯示了某地區的天氣變化情況。例如，晴天的隔天天氣，有40%的機率為晴天，40%的機率為陰天，20%的機率為雨天。若將天氣變化視為單純馬可夫過程（Simple Markov process），請問雨天的兩天後為晴天的機率是多少%？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/03.png\" alt=\"\"\u003e",
                    "op":  [
                               "15",
                               "27",
@@ -991,7 +991,7 @@
                               "(\u003cspan class=\"ol\"\u003eA"
                           ],
                    "an":  1,
-                   "al":  "最短で答えを導く方法は論理式にド・モルガンの法則を適用して変形することです。ド・モルガンの法則A＋B＝A・BA・B＝A＋Bこの場合の解法は以下のようになります。 (A＋B)・(A＋C)＝(A＋B)＋(A＋C)＝A・B＋A・Cこの変形により問題文の論理式は「A・B+A・C」と等しいことがわかります。また地道にベン図を描いて比較していく方法でも解いてみます。最初に(A＋B)・(A＋C)の表す集合をベン図で描いてみます。(A+B)・(A+C)は以下のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/01_2.png\" alt=\"\"\u003e"
+                   "al":  "最短で答えを導く方法は論理式にド・モルガンの法則を適用して変形することです。ド・モルガンの法則A＋B＝A・BA・B＝A＋Bこの場合の解法は以下のようになります。 (A＋B)・(A＋C)＝(A＋B)＋(A＋C)＝A・B＋A・Cこの変形により問題文の論理式は「A・B+A・C」と等しいことがわかります。また地道にベン図を描いて比較していく方法でも解いてみます。最初に(A＋B)・(A＋C)の表す集合をベン図で描いてみます。(A+B)・(A+C)は以下のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/01_2.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成23年特別 問1",
@@ -1004,7 +1004,7 @@
                               "(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e＋B)・C"
                           ],
                    "an":  1,
-                   "al":  "求出答案的最快方法是應用分配律將邏輯式展開。 (A＋B)・(A＋C) ＝ A・A＋A・C＋B・A＋B・C ＝ A＋A・C＋A・B＋B・C ＝ A(1＋C＋B)＋B・C ＝ A＋B・C。 另外，也可以透過繪製文氏圖（Venn diagram）進行比對來求解。首先繪製出 (A＋B)・(A＋C) 所代表的集合，結果如下。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/01_2.png\" alt=\"\"\u003e"
+                   "al":  "求出答案的最快方法是應用分配律將邏輯式展開。 (A＋B)・(A＋C) ＝ A・A＋A・C＋B・A＋B・C ＝ A＋A・C＋A・B＋B・C ＝ A(1＋C＋B)＋B・C ＝ A＋B・C。 另外，也可以透過繪製文氏圖（Venn diagram）進行比對來求解。首先繪製出 (A＋B)・(A＋C) 所代表的集合，結果如下。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/01_2.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1095,7 +1095,7 @@
         "ja":  {
                    "ti":  "平成28年春期　問2",
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
-                   "q":  "次の状態遷移図で表現されるオートマトンで受理されるビット列はどれか。ここで，ビット列は左から順に読み込まれるものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/02.png\" alt=\"\"\u003e",
+                   "q":  "次の状態遷移図で表現されるオートマトンで受理されるビット列はどれか。ここで，ビット列は左から順に読み込まれるものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/02.png\" alt=\"\"\u003e",
                    "op":  [
                               "0000",
                               "0111",
@@ -1108,7 +1108,7 @@
         "zh":  {
                    "ti":  "平成28年春季 問2",
                    "ca":  "技術系 » 基礎理論 » 資訊相關理論",
-                   "q":  "以下狀態轉移圖所表示的自動機，能被受理（Accepted）的位元字串為何？在此，位元字串係由左至右依序讀取。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/02.png\" alt=\"\"\u003e",
+                   "q":  "以下狀態轉移圖所表示的自動機，能被受理（Accepted）的位元字串為何？在此，位元字串係由左至右依序讀取。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/02.png\" alt=\"\"\u003e",
                    "op":  [
                               "0000",
                               "0111",
@@ -1151,7 +1151,7 @@
         "ja":  {
                    "ti":  "平成26年秋期　問4",
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
-                   "q":  "次に示す計算式と逆ポーランド表記法の組合せのうち，適切なものはどれか。\n\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/04.png\" alt=\"\"\u003e",
+                   "q":  "次に示す計算式と逆ポーランド表記法の組合せのうち，適切なものはどれか。\n\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/04.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -1164,7 +1164,7 @@
         "zh":  {
                    "ti":  "平成26年秋季 問4",
                    "ca":  "技術系 » 基礎理論 » 資訊相關理論",
-                   "q":  "下列關於運算式與逆波蘭表示法的組合中，何者正確？\n\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/04.png\" alt=\"\"\u003e",
+                   "q":  "下列關於運算式與逆波蘭表示法的組合中，何者正確？\n\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/04.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -1207,28 +1207,28 @@
         "ja":  {
                    "ti":  "令和4年度　問3",
                    "ca":  "テクノロジ系 » 基礎理論 » 応用数学",
-                   "q":  "隣接行列Aで表されるグラフはどれか。ここで，隣接行列とは，n個の節点から成るグラフの節点V\u003csub\u003ei\u003c/sub\u003eとV\u003csub\u003ej\u003c/sub\u003eを結ぶ枝が存在するときは第i行第j列と第j行第i列の要素が1となり，存在しないときは0となるn行n列の行列である。\u003cbr\u003e\u003cbr\u003e〔隣接行列A〕\u003cdiv class=\"img_margin left\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/03.png\" alt=\"\"\u003e",
+                   "q":  "隣接行列Aで表されるグラフはどれか。ここで，隣接行列とは，n個の節点から成るグラフの節点V\u003csub\u003ei\u003c/sub\u003eとV\u003csub\u003ej\u003c/sub\u003eを結ぶ枝が存在するときは第i行第j列と第j行第i列の要素が1となり，存在しないときは0となるn行n列の行列である。\u003cbr\u003e\u003cbr\u003e〔隣接行列A〕\u003cdiv class=\"img_margin left\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/03.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/03a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/03i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/03u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/03e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/03a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/03i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/03u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/03e.png\" alt=\"\"\u003e"
                           ],
                    "an":  4,
-                   "al":  "隣接行列と節点の関係を整理すると次のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/03_1.png\" alt=\"\"\u003e"
+                   "al":  "隣接行列と節点の関係を整理すると次のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/03_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "令和4年度 問3",
                    "ca":  "技術系 » 基礎理論 » 應用數學",
-                   "q":  "下列何者為鄰接矩陣A所表示的圖？在此，鄰接矩陣是指由n個節點組成的圖中，若節點V\u003csub\u003ei\u003c/sub\u003e與V\u003csub\u003ej\u003c/sub\u003e之間存在邊（連結），則第i列第j行與第j列第i行的元素為1，若不存在則為0的n×n矩陣。\u003cbr\u003e\u003cbr\u003e〔鄰接矩陣A〕\u003cdiv class=\"img_margin left\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/03.png\" alt=\"\"\u003e",
+                   "q":  "下列何者為鄰接矩陣A所表示的圖？在此，鄰接矩陣是指由n個節點組成的圖中，若節點V\u003csub\u003ei\u003c/sub\u003e與V\u003csub\u003ej\u003c/sub\u003e之間存在邊（連結），則第i列第j行與第j列第i行的元素為1，若不存在則為0的n×n矩陣。\u003cbr\u003e\u003cbr\u003e〔鄰接矩陣A〕\u003cdiv class=\"img_margin left\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/03.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/03a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/03i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/03u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/03e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/03a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/03i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/03u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/03e.png\" alt=\"\"\u003e"
                           ],
                    "an":  4,
-                   "al":  "整理鄰接矩陣與節點之間的關係如下所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/03_1.png\" alt=\"\"\u003e"
+                   "al":  "整理鄰接矩陣與節點之間的關係如下所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/03_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1355,7 +1355,7 @@
                               "2\u003csup\u003e6\u003c/sup\u003e＋2\u003csup\u003e4\u003c/sup\u003e＋2\u003csup\u003e2\u003c/sup\u003e＋2\u003csup\u003e-1\u003c/sup\u003e＋2\u003csup\u003e-4\u003c/sup\u003e＋2\u003csup\u003e-5\u003c/sup\u003e"
                           ],
                    "an":  1,
-                   "al":  "まず16進小数2A.4Cを2進数に変換します。16進数の1桁が2進数の4桁分に対応する（116→00012、F16→11112）ので、 0010 1010. 0100 1100になります。乗数の数え方は、小数点の1つ左が 20、小数点の1つ右は 2-1 となるので、答えは「ア」の25＋23＋21＋2-2＋2-5＋2-6となります。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/01.png\" alt=\"\"\u003e"
+                   "al":  "まず16進小数2A.4Cを2進数に変換します。16進数の1桁が2進数の4桁分に対応する（116→00012、F16→11112）ので、 0010 1010. 0100 1100になります。乗数の数え方は、小数点の1つ左が 20、小数点の1つ右は 2-1 となるので、答えは「ア」の25＋23＋21＋2-2＋2-5＋2-6となります。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/01.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成18年春季 問1",
@@ -1368,7 +1368,7 @@
                               "2\u003csup\u003e6\u003c/sup\u003e＋2\u003csup\u003e4\u003c/sup\u003e＋2\u003csup\u003e2\u003c/sup\u003e＋2\u003csup\u003e-1\u003c/sup\u003e＋2\u003csup\u003e-4\u003c/sup\u003e＋2\u003csup\u003e-5\u003c/sup\u003e"
                           ],
                    "an":  1,
-                   "al":  "首先將16進位小數 2A.4C 轉換為2進位。由於16進位的一位對應2進位的四位（1\u003csub\u003e16\u003c/sub\u003e→0001\u003csub\u003e2\u003c/sub\u003e，F\u003csub\u003e16\u003c/sub\u003e→1111\u003csub\u003e2\u003c/sub\u003e），因此變為 0010 1010. 0100 1100。乘冪的計算方式為：小數點左側第一位為 2\u003csup\u003e0\u003c/sup\u003e，小數點右側第一位為 2\u003csup\u003e-1\u003c/sup\u003e，依此類推，故答案為「A」的 2\u003csup\u003e5\u003c/sup\u003e+2\u003csup\u003e3\u003c/sup\u003e+2\u003csup\u003e1\u003c/sup\u003e+2\u003csup\u003e-2\u003c/sup\u003e+2\u003csup\u003e-5\u003c/sup\u003e+2\u003csup\u003e-6\u003c/sup\u003e。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/01.png\" alt=\"\"\u003e"
+                   "al":  "首先將16進位小數 2A.4C 轉換為2進位。由於16進位的一位對應2進位的四位（1\u003csub\u003e16\u003c/sub\u003e→0001\u003csub\u003e2\u003c/sub\u003e，F\u003csub\u003e16\u003c/sub\u003e→1111\u003csub\u003e2\u003c/sub\u003e），因此變為 0010 1010. 0100 1100。乘冪的計算方式為：小數點左側第一位為 2\u003csup\u003e0\u003c/sup\u003e，小數點右側第一位為 2\u003csup\u003e-1\u003c/sup\u003e，依此類推，故答案為「A」的 2\u003csup\u003e5\u003c/sup\u003e+2\u003csup\u003e3\u003c/sup\u003e+2\u003csup\u003e1\u003c/sup\u003e+2\u003csup\u003e-2\u003c/sup\u003e+2\u003csup\u003e-5\u003c/sup\u003e+2\u003csup\u003e-6\u003c/sup\u003e。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/01.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1411,7 +1411,7 @@
                               "(\u003cspan class=\"ol\"\u003eA"
                           ],
                    "an":  1,
-                   "al":  "集合の問題です。私はこの手の問題を解くときにはベン図を使って解くようにしています。まず論理式 (A＋B)・(A＋C)の左部分と右部分の関係をベン図で表すと下図のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/03_1.png\" alt=\"\"\u003e"
+                   "al":  "集合の問題です。私はこの手の問題を解くときにはベン図を使って解くようにしています。まず論理式 (A＋B)・(A＋C)の左部分と右部分の関係をベン図で表すと下図のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/03_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成21年春季　問3",
@@ -1424,14 +1424,14 @@
                               "\u003cspan class=\"ol\"\u003eA\u003c/span\u003e＋\u003cspan class=\"ol\"\u003eB\u003c/span\u003e・C"
                           ],
                    "an":  1,
-                   "al":  "這是一個集合問題。我在處理這類問題時，習慣使用文氏圖（Venn diagram）來解題。首先，將邏輯式 (A＋B)・(A＋C) 的左半部分與右半部分的關係用文氏圖表示，如下圖所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/03_1.png\" alt=\"\"\u003e"
+                   "al":  "這是一個集合問題。我在處理這類問題時，習慣使用文氏圖（Venn diagram）來解題。首先，將邏輯式 (A＋B)・(A＋C) 的左半部分與右半部分的關係用文氏圖表示，如下圖所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/03_1.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成18年秋期　問9",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "次の真理値表で，変数X，Y，Zに対する関数Fを表す式はどれか。ここで，“・”は論理積，“＋”は論理和，\u003cspan class=\"ol\"\u003eA\u003c/span\u003eはAの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/09.png\" alt=\"問9画像\"\u003e",
+                   "q":  "次の真理値表で，変数X，Y，Zに対する関数Fを表す式はどれか。ここで，“・”は論理積，“＋”は論理和，\u003cspan class=\"ol\"\u003eA\u003c/span\u003eはAの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/09.png\" alt=\"問9画像\"\u003e",
                    "op":  [
                               "X・Y＋Y・\u003cspan class=\"ol\"\u003eZ",
                               "X・Y・\u003cspan class=\"ol\"\u003eZ",
@@ -1444,7 +1444,7 @@
         "zh":  {
                    "ti":  "平成18年秋期 問9",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "下表為真值表，請問何者為變數 X、Y、Z 之函數 F 的表達式？在此，“・”代表邏輯積（AND），“＋”代表邏輯和（OR），\u003cspan class=\"ol\"\u003eA\u003c/span\u003e 代表 A 的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/09.png\" alt=\"問9圖片\"\u003e",
+                   "q":  "下表為真值表，請問何者為變數 X、Y、Z 之函數 F 的表達式？在此，“・”代表邏輯積（AND），“＋”代表邏輯和（OR），\u003cspan class=\"ol\"\u003eA\u003c/span\u003e 代表 A 的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/09.png\" alt=\"問9圖片\"\u003e",
                    "op":  [
                               "X・Y＋Y・\u003cspan class=\"ol\"\u003eZ",
                               "X・Y・\u003cspan class=\"ol\"\u003eZ",
@@ -1579,7 +1579,7 @@
                               "(S－T)∩(T－R)"
                           ],
                    "an":  1,
-                   "al":  "それぞれの集合をベン図で表現して比較します。まずはじめに基準となる集合S－(T∪R)は次のような集合になります。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/08.png\" alt=\"\"\u003e"
+                   "al":  "それぞれの集合をベン図で表現して比較します。まずはじめに基準となる集合S－(T∪R)は次のような集合になります。\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/08.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成17年春季 問8",
@@ -1592,7 +1592,7 @@
                               "(S－T)∩(T－R)"
                           ],
                    "an":  1,
-                   "al":  "透過文氏圖（Venn diagram）表示並比較各個集合。首先，基準集合 S－(T∪R) 的結果如下圖所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/08.png\" alt=\"\"\u003e"
+                   "al":  "透過文氏圖（Venn diagram）表示並比較各個集合。首先，基準集合 S－(T∪R) 的結果如下圖所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/08.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1627,28 +1627,28 @@
         "ja":  {
                    "ti":  "平成24年春期　問3",
                    "ca":  "テクノロジ系 » 基礎理論 » 応用数学",
-                   "q":  "隣接行列Aで表されるグラフはどれか。ここで，隣接行列とは，n個の節点から成るグラフの節点V\u003csub\u003ei\u003c/sub\u003eとV\u003csub\u003ej\u003c/sub\u003eを結ぶ枝が存在するときは第i行第j列と第j行第i列の要素が1となり，存在しないときは0となるn行n列の行列である。\u003cbr\u003e\u003cbr\u003e〔隣接行列A〕\u003cdiv class=\"img_margin left\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/03.png\" alt=\"\"\u003e",
+                   "q":  "隣接行列Aで表されるグラフはどれか。ここで，隣接行列とは，n個の節点から成るグラフの節点V\u003csub\u003ei\u003c/sub\u003eとV\u003csub\u003ej\u003c/sub\u003eを結ぶ枝が存在するときは第i行第j列と第j行第i列の要素が1となり，存在しないときは0となるn行n列の行列である。\u003cbr\u003e\u003cbr\u003e〔隣接行列A〕\u003cdiv class=\"img_margin left\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/03.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/03a.png\" alt=\"問3ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/03i.png\" alt=\"問3イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/03u.png\" alt=\"問3ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/03e.png\" alt=\"問3エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/03a.png\" alt=\"問3ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/03i.png\" alt=\"問3イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/03u.png\" alt=\"問3ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/03e.png\" alt=\"問3エ\"\u003e"
                           ],
                    "an":  4,
-                   "al":  "隣接行列と節点の関係を整理すると次のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/03_1.png\" alt=\"隣接行列の整理\"\u003e"
+                   "al":  "隣接行列と節点の関係を整理すると次のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/03_1.png\" alt=\"隣接行列の整理\"\u003e"
                },
         "zh":  {
                    "ti":  "平成24年春季 第3題",
                    "ca":  "技術系 » 基礎理論 » 應用數學",
-                   "q":  "由鄰接矩陣A表示的圖形是哪一個？此處，鄰接矩陣是指由n個節點構成的圖形中，當節點V\u003csub\u003ei\u003c/sub\u003e與V\u003csub\u003ej\u003c/sub\u003e之間存在連接邊時，第i行第j列及第j行第i列的元素為1，不存在時則為0的n行n列矩陣。\u003cbr\u003e\u003cbr\u003e〔鄰接矩陣A〕\u003cdiv class=\"img_margin left\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/03.png\" alt=\"\"\u003e\u003c/div\u003e",
+                   "q":  "由鄰接矩陣A表示的圖形是哪一個？此處，鄰接矩陣是指由n個節點構成的圖形中，當節點V\u003csub\u003ei\u003c/sub\u003e與V\u003csub\u003ej\u003c/sub\u003e之間存在連接邊時，第i行第j列及第j行第i列的元素為1，不存在時則為0的n行n列矩陣。\u003cbr\u003e\u003cbr\u003e〔鄰接矩陣A〕\u003cdiv class=\"img_margin left\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/03.png\" alt=\"\"\u003e\u003c/div\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/03a.png\" alt=\"問3A\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/03i.png\" alt=\"問3B\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/03u.png\" alt=\"問3C\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/03e.png\" alt=\"問3D\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/03a.png\" alt=\"問3A\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/03i.png\" alt=\"問3B\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/03u.png\" alt=\"問3C\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/03e.png\" alt=\"問3D\"\u003e"
                           ],
                    "an":  4,
-                   "al":  "整理鄰接矩陣與節點的關係如下。\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/03_1.png\" alt=\"鄰接矩陣整理\"\u003e"
+                   "al":  "整理鄰接矩陣與節點的關係如下。\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/03_1.png\" alt=\"鄰接矩陣整理\"\u003e"
                }
     },
     {
@@ -1683,7 +1683,7 @@
         "ja":  {
                    "ti":  "平成18年秋期　問12",
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
-                   "q":  "四則演算の式の書き方には，演算子をオペランドの前に書く方法(前置記法)，オペランドの間に書く方法(中置記法)，オペランドの後に書く方法(後置記法)の3通りがある。図は，2分木で表現された式のたどり方と，各記法によって表される式を例示したものである。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/12.png\" alt=\"問12画像\"\u003e",
+                   "q":  "四則演算の式の書き方には，演算子をオペランドの前に書く方法(前置記法)，オペランドの間に書く方法(中置記法)，オペランドの後に書く方法(後置記法)の3通りがある。図は，2分木で表現された式のたどり方と，各記法によって表される式を例示したものである。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/12.png\" alt=\"問12画像\"\u003e",
                    "op":  [
                               "前置記法：節から上に戻るときにそこの記号を書く。",
                               "中置記法：節に下りたときにそこの記号を書く。",
@@ -1696,7 +1696,7 @@
         "zh":  {
                    "ti":  "民國95年秋期　問12",
                    "ca":  "科技系 » 基礎理論 » 資訊相關的理論",
-                   "q":  "四則運算的式子寫法有三種：將運算子寫在操作數前面的方法（前置記法），寫在操作數之間的方法（中置記法），以及寫在操作數後面的方法（後置記法）。圖是利用二元樹來表達式子的走訪方式，並舉例說明各種記法所表示的式子。\n\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/12.png\" alt=\"問12圖像\"\u003e\u003c/div\u003e",
+                   "q":  "四則運算的式子寫法有三種：將運算子寫在操作數前面的方法（前置記法），寫在操作數之間的方法（中置記法），以及寫在操作數後面的方法（後置記法）。圖是利用二元樹來表達式子的走訪方式，並舉例說明各種記法所表示的式子。\n\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/12.png\" alt=\"問12圖像\"\u003e\u003c/div\u003e",
                    "op":  [
                               "前置記法：從節點向上返回時，寫下該位置的記號。",
                               "中置記法：下行至節點時，寫下該位置的記號。",
@@ -1711,12 +1711,12 @@
         "ja":  {
                    "ti":  "令和元年秋期　問3",
                    "ca":  "テクノロジ系 » 基礎理論 » 応用数学",
-                   "q":  "ノードとノードの間のエッジの有無を，隣接行列を用いて表す。ある無向グラフの隣接行列が次の場合，グラフで表現したものはどれか。ここで，ノードを隣接行列の行と列に対応させて，ノード間にエッジが存在する場合は1で，エッジが存在しない場合は0で示す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/03.png\" alt=\"\"\u003e",
+                   "q":  "ノードとノードの間のエッジの有無を，隣接行列を用いて表す。ある無向グラフの隣接行列が次の場合，グラフで表現したものはどれか。ここで，ノードを隣接行列の行と列に対応させて，ノード間にエッジが存在する場合は1で，エッジが存在しない場合は0で示す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/03.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/03a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/03i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/03u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/03e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/03a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/03i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/03u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/03e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
                    "al":  "設問の隣接行列でエッジが存在する(1になっている)組を抽出すると以下の6つが該当します。 a－b b－c [1]b－d [2]c－d [3]c－e [4]e－f"
@@ -1724,12 +1724,12 @@
         "zh":  {
                    "ti":  "令和元年秋季 問3",
                    "ca":  "技術系 » 基礎理論 » 應用數學",
-                   "q":  "利用鄰接矩陣來表示節點與節點之間是否存在邊（edge）。若某個無向圖的鄰接矩陣如下所示，則下列何者為該圖表的正確呈現方式？在此，將節點對應至鄰接矩陣的列與行，節點間若存在邊則以 1 表示，若不存在邊則以 0 表示。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/03.png\" alt=\"\"\u003e",
+                   "q":  "利用鄰接矩陣來表示節點與節點之間是否存在邊（edge）。若某個無向圖的鄰接矩陣如下所示，則下列何者為該圖表的正確呈現方式？在此，將節點對應至鄰接矩陣的列與行，節點間若存在邊則以 1 表示，若不存在邊則以 0 表示。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/03.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/03a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/03i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/03u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/03e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/03a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/03i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/03u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/03e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
                    "al":  "從題目中的鄰接矩陣提取出存在邊（值為 1）的組合，共有以下 6 組符合： a－b b－c [1]b－d [2]c－d [3]c－e [4]e－f"
@@ -1775,7 +1775,7 @@
                               "9"
                           ],
                    "an":  2,
-                   "al":  "10進法の引き算と同様に一番小さい位から計算していきます。1－5はできないので、ひとつ上の位から1を借りて11－5となります。この計算結果は3なので次の関係が成り立ちます。 11－5＝3→n＋1－5＝3 n＝7上の位から借りる値が7の時に式が成立するので、7進法で成立する式とわかります。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/02.png\" alt=\"問2画像\"\u003e"
+                   "al":  "10進法の引き算と同様に一番小さい位から計算していきます。1－5はできないので、ひとつ上の位から1を借りて11－5となります。この計算結果は3なので次の関係が成り立ちます。 11－5＝3→n＋1－5＝3 n＝7上の位から借りる値が7の時に式が成立するので、7進法で成立する式とわかります。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/02.png\" alt=\"問2画像\"\u003e"
                },
         "zh":  {
                    "ti":  "平成18年春季 問2",
@@ -1788,7 +1788,7 @@
                               "9"
                           ],
                    "an":  2,
-                   "al":  "如同十進位的減法，從個位數開始計算。1－5 不夠減，需從高位借 1，變為 11－5。該計算結果為 3，因此成立下列關係： 11－5＝3 → n＋1－5＝3 → n＝7。當從高位借位的值為 7 時，算式成立，因此可知是在七進位下成立的算式。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/02.png\" alt=\"問2圖片\"\u003e"
+                   "al":  "如同十進位的減法，從個位數開始計算。1－5 不夠減，需從高位借 1，變為 11－5。該計算結果為 3，因此成立下列關係： 11－5＝3 → n＋1－5＝3 → n＝7。當從高位借位的值為 7 時，算式成立，因此可知是在七進位下成立的算式。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/02.png\" alt=\"問2圖片\"\u003e"
                }
     },
     {
@@ -1907,7 +1907,7 @@
         "ja":  {
                    "ti":  "平成24年春期　問5",
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
-                   "q":  "図は70円切符の自動販売機に硬貨が投入されたときの状態遷移を表している。状態Q4から状態Eへ遷移する事象はどれか。ここで，状態Q\u003csub\u003e0\u003c/sub\u003eは硬貨が投入されていない状態であり，硬貨が1枚投入されるたびに状態は矢印の方向へ遷移するものとする。\u003cbr\u003e　なお，状態Eは投入された硬貨の合計が70円以上になった状態であり，自動販売機は切符を発行し，釣銭が必要な場合には釣銭を返す。また，自動販売機は10円硬貨，50円硬貨，100円硬貨だけを受け付けるようになっている。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/05.png\" alt=\"問5画像\"\u003e",
+                   "q":  "図は70円切符の自動販売機に硬貨が投入されたときの状態遷移を表している。状態Q4から状態Eへ遷移する事象はどれか。ここで，状態Q\u003csub\u003e0\u003c/sub\u003eは硬貨が投入されていない状態であり，硬貨が1枚投入されるたびに状態は矢印の方向へ遷移するものとする。\u003cbr\u003e　なお，状態Eは投入された硬貨の合計が70円以上になった状態であり，自動販売機は切符を発行し，釣銭が必要な場合には釣銭を返す。また，自動販売機は10円硬貨，50円硬貨，100円硬貨だけを受け付けるようになっている。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/05.png\" alt=\"問5画像\"\u003e",
                    "op":  [
                               "10円硬貨が投入された。",
                               "10円硬貨又は50円硬貨が投入された。",
@@ -1920,7 +1920,7 @@
         "zh":  {
                    "ti":  "平成24年春期 問5",
                    "ca":  "技術系 » 基礎理論 » 資訊相關理論",
-                   "q":  "圖示為70元車票自動販賣機在投入硬幣時的狀態遷移。從狀態Q4遷移到狀態E的事件為何？在此，狀態Q\u003csub\u003e0\u003c/sub\u003e為未投入硬幣的狀態，每投入一枚硬幣，狀態就會依照箭頭方向遷移。\u003cbr\u003e　此外，狀態E為投入的硬幣總額達到70元以上的狀態，自動販賣機會發行車票，並在需要找零時找零。另外，自動販賣機僅接受10元、50元及100元硬幣。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/05.png\" alt=\"問5圖片\"\u003e",
+                   "q":  "圖示為70元車票自動販賣機在投入硬幣時的狀態遷移。從狀態Q4遷移到狀態E的事件為何？在此，狀態Q\u003csub\u003e0\u003c/sub\u003e為未投入硬幣的狀態，每投入一枚硬幣，狀態就會依照箭頭方向遷移。\u003cbr\u003e　此外，狀態E為投入的硬幣總額達到70元以上的狀態，自動販賣機會發行車票，並在需要找零時找零。另外，自動販賣機僅接受10元、50元及100元硬幣。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/05.png\" alt=\"問5圖片\"\u003e",
                    "op":  [
                               "投入了10元硬幣。",
                               "投入了10元硬幣或50元硬幣。",
@@ -1965,10 +1965,10 @@
                    "ca":  "テクノロジ系 » 基礎理論 » 応用数学",
                    "q":  "N個の観測値の平均値を算出する式はどれか。ここで，SはN個の観測値の和(ただし，S＞0)とし，[X]は X以下で最大の整数とする。また，平均値は，小数第1位を四捨五入して整数値として求める。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/01a.png\" alt=\"問1ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/01i.png\" alt=\"問1イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/01u.png\" alt=\"問1ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/01e.png\" alt=\"問1エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/01a.png\" alt=\"問1ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/01i.png\" alt=\"問1イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/01u.png\" alt=\"問1ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/01e.png\" alt=\"問1エ\"\u003e"
                           ],
                    "an":  4,
                    "al":  "通常平均値を求めるには、観測値の和÷観測値の個数(S／N)となるのですが、平均値を四捨五入して整数値で求めるので計算に工夫が必要になります。具体的には小数第1位を四捨五入して、整数値で求めるということなので、小数部分が5以上の時は切り上げ、4以下は切り下げの処理を行うことが求められます。このようなことを行うには普通に計算された平均値(S／N)に0.5を足してから小数部分を切り捨てます。これにより四捨五入と同様の効果を得ることができます。例)小数第1位が 6, 5, 4の場合 2.6＋0.5＝3.1 (小数部分を切り捨て)→ 3 2.5＋0.5＝3 2.4＋0.5＝2.9 (小数部分を切り捨て)→ 2上の例を見ると四捨五入が行われ、整数での解になることが確認できます。したがって適切な式は「エ」になります。"
@@ -1978,10 +1978,10 @@
                    "ca":  "科技類 » 基礎理論 » 應用數學",
                    "q":  "下列何者為計算N個觀測值平均值的公式？此處，S為N個觀測值的總和（其中S＞0），而[X]表示不大於X的最大整數。此外，平均值需以四捨五入方式計算至整數。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/01a.png\" alt=\"問1ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/01i.png\" alt=\"問1イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/01u.png\" alt=\"問1ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/01e.png\" alt=\"問1エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/01a.png\" alt=\"問1ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/01i.png\" alt=\"問1イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/01u.png\" alt=\"問1ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/01e.png\" alt=\"問1エ\"\u003e"
                           ],
                    "an":  4,
                    "al":  "通常計算平均值是將觀測值總和除以觀測值數量（S／N），但由於要求將平均值四捨五入至整數，因此計算上需要一些技巧。具體而言，四捨五入至整數代表小數部分若為5以上需進位，4以下則需捨去。若要達成此效果，通常會將計算出的平均值（S／N）加上0.5後，再將小數部分捨去。如此即可獲得與四捨五入相同的效果。例如：當小數第一位分別為6、5、4時：2.6＋0.5＝3.1（捨去小數部分）→ 3；2.5＋0.5＝3.0（捨去小數部分）→ 3；2.4＋0.5＝2.9（捨去小數部分）→ 2。從上述例子可以看出達到了四捨五入的效果並得到整數解。因此，正確的公式為「エ」。"
@@ -2027,7 +2027,7 @@
                               "fを指数，eを基数，rを仮数という。"
                           ],
                    "an":  1,
-                   "al":  "浮動小数点表示方式は、コンピュータの数値表現で用いられる方式です。仮数部のけた数では表現しきれない非常に大きな数や非常に小さな数を、仮数部に指数部をかけることで表すことが可能です。正しいのは「ア」で、fが仮数、eが指数、rが基数(底ともいう)です。浮動小数点表現方式で最も広く採用されていて標準規格となっているIEEE754の形式(単精度）は、以下のようになっています。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/03.png\" alt=\"\"\u003e"
+                   "al":  "浮動小数点表示方式は、コンピュータの数値表現で用いられる方式です。仮数部のけた数では表現しきれない非常に大きな数や非常に小さな数を、仮数部に指数部をかけることで表すことが可能です。正しいのは「ア」で、fが仮数、eが指数、rが基数(底ともいう)です。浮動小数点表現方式で最も広く採用されていて標準規格となっているIEEE754の形式(単精度）は、以下のようになっています。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/03.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成16年春季 問3",
@@ -2040,7 +2040,7 @@
                               "f 稱為指數，e 稱為基數，r 稱為尾數。"
                           ],
                    "an":  1,
-                   "al":  "浮點數表示法是電腦數值表示中所採用的方式。透過將尾數乘以指數部分，可以表示僅靠尾數位數無法完全表達的極大數或極小數。正確選項為「1」，其中 f 為尾數，e 為指數，r 為基數（亦稱底數）。在浮點數表示法中最廣泛採用且作為標準規範的 IEEE 754 格式（單精度）如下圖所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/03.png\" alt=\"\"\u003e"
+                   "al":  "浮點數表示法是電腦數值表示中所採用的方式。透過將尾數乘以指數部分，可以表示僅靠尾數位數無法完全表達的極大數或極小數。正確選項為「1」，其中 f 為尾數，e 為指數，r 為基數（亦稱底數）。在浮點數表示法中最廣泛採用且作為標準規範的 IEEE 754 格式（單精度）如下圖所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/03.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2103,7 +2103,7 @@
         "ja":  {
                    "ti":  "平成23年特別　問2",
                    "ca":  "テクノロジ系 » 基礎理論 » 応用数学",
-                   "q":  "三つの実数X～Zとそれぞれの近似値が次の場合，相対誤差の小さい順に並べたものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/02.png\" alt=\"問2画像\"\u003e",
+                   "q":  "三つの実数X～Zとそれぞれの近似値が次の場合，相対誤差の小さい順に並べたものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/02.png\" alt=\"問2画像\"\u003e",
                    "op":  [
                               "X，Y，Z",
                               "Y，Z，X",
@@ -2116,7 +2116,7 @@
         "zh":  {
                    "ti":  "平成23年特別 問2",
                    "ca":  "技術系 » 基礎理論 » 應用數學",
-                   "q":  "三個實數 X～Z 及其各自的近似值如下所示，若依相對誤差由小到大的順序排列，下列何者正確？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/02.png\" alt=\"問2圖像\"\u003e",
+                   "q":  "三個實數 X～Z 及其各自的近似值如下所示，若依相對誤差由小到大的順序排列，下列何者正確？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/02.png\" alt=\"問2圖像\"\u003e",
                    "op":  [
                               "X，Y，Z",
                               "Y，Z，X",
@@ -2195,7 +2195,7 @@
                               "x と2進数 11110000 のビットごとの論理和をとった結果が0である。"
                           ],
                    "an":  1,
-                   "al":  "16の倍数ということは、xを16で割った時に余りが0になればよいわけです。符号なし2進数では、最下位ビットから 1, 2, 4, 8, 16, 32, 64, 128…と各ビットが値をもっていて、最下位ビットから5ビット目以降はすべて16の倍数になっていることがわかります。つまり下位4ビットがすべて0であれば、xは16の倍数と判断できます。あるビット列から任意の部分のビットを取り出したいときには、AND演算を使います。具体的には、取り出したい位置のビットを1、それ以外を0としたマスクビット列との論理積をとります。この問題では、8ビットで表されるビット列の中で、下位4ビットの値をチェックしたいので、上位4ビット 0000 、下位4ビット 1111であるマスクビットと論理積を取り、取り出した下位4ビットの値が 0であれば、16の倍数であると判断できることになります。下図に例としてすべての操作が、ビット列が16の倍数(ex.96)とそれ以外(ex.90)の時にそれぞれどのような結果になるのかを示しておきます。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/03.png\" alt=\"\"\u003e"
+                   "al":  "16の倍数ということは、xを16で割った時に余りが0になればよいわけです。符号なし2進数では、最下位ビットから 1, 2, 4, 8, 16, 32, 64, 128…と各ビットが値をもっていて、最下位ビットから5ビット目以降はすべて16の倍数になっていることがわかります。つまり下位4ビットがすべて0であれば、xは16の倍数と判断できます。あるビット列から任意の部分のビットを取り出したいときには、AND演算を使います。具体的には、取り出したい位置のビットを1、それ以外を0としたマスクビット列との論理積をとります。この問題では、8ビットで表されるビット列の中で、下位4ビットの値をチェックしたいので、上位4ビット 0000 、下位4ビット 1111であるマスクビットと論理積を取り、取り出した下位4ビットの値が 0であれば、16の倍数であると判断できることになります。下図に例としてすべての操作が、ビット列が16の倍数(ex.96)とそれ以外(ex.90)の時にそれぞれどのような結果になるのかを示しておきます。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/03.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成18年秋季 問3",
@@ -2208,7 +2208,7 @@
                               "將 x 與二進位數 11110000 進行位元運算的邏輯或（OR）運算，結果為 0。"
                           ],
                    "an":  1,
-                   "al":  "所謂16的倍數，即代表 x 除以 16 後餘數為 0。在無號二進位數中，從最低位元開始，各個位元的值分別為 1, 2, 4, 8, 16, 32, 64, 128…，可以發現從最低位元算起的第 5 個位元開始，所有位元的值都是 16 的倍數。換句話說，只要低 4 位元皆為 0，即可判斷 x 為 16 的倍數。當想要從位元串中取出任意部分的位元時，會使用 AND 運算。具體來說，是將想要取出的位置設為 1，其他位置設為 0，並與該遮罩（Mask）位元串進行邏輯與運算。在本題中，由於要檢查 8 位元資料中的低 4 位元，因此將其與高 4 位元為 0000、低 4 位元為 1111 的遮罩進行邏輯與運算，若取出的低 4 位元結果為 0，則可判斷其為 16 的倍數。下圖為運算範例，顯示了當位元串為 16 的倍數（例如 96）與非倍數（例如 90）時的運算結果。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/03.png\" alt=\"\"\u003e"
+                   "al":  "所謂16的倍數，即代表 x 除以 16 後餘數為 0。在無號二進位數中，從最低位元開始，各個位元的值分別為 1, 2, 4, 8, 16, 32, 64, 128…，可以發現從最低位元算起的第 5 個位元開始，所有位元的值都是 16 的倍數。換句話說，只要低 4 位元皆為 0，即可判斷 x 為 16 的倍數。當想要從位元串中取出任意部分的位元時，會使用 AND 運算。具體來說，是將想要取出的位置設為 1，其他位置設為 0，並與該遮罩（Mask）位元串進行邏輯與運算。在本題中，由於要檢查 8 位元資料中的低 4 位元，因此將其與高 4 位元為 0000、低 4 位元為 1111 的遮罩進行邏輯與運算，若取出的低 4 位元結果為 0，則可判斷其為 16 的倍數。下圖為運算範例，顯示了當位元串為 16 的倍數（例如 96）與非倍數（例如 90）時的運算結果。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/03.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2355,28 +2355,28 @@
         "ja":  {
                    "ti":  "平成22年春期　問2",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "X及びYはそれぞれ0又は1の値をとる変数である。 X□YをXとYの論理演算としたとき，次の真理値表が得られた。X□Yの真理値表はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/02.png\" alt=\"\"\u003e",
+                   "q":  "X及びYはそれぞれ0又は1の値をとる変数である。 X□YをXとYの論理演算としたとき，次の真理値表が得られた。X□Yの真理値表はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/02.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/02a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/02i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/02u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/02e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/02a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/02i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/02u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/02e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "真理値表の演算結果のうち次のうち着目します。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/02_1.png\" alt=\"\"\u003e"
+                   "al":  "真理値表の演算結果のうち次のうち着目します。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/02_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成22年春季 問2",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "X 與 Y 為分別取值 0 或 1 的變數。若將 X□Y 定義為 X 與 Y 的邏輯運算，且得到下列真值表。請問 X□Y 的真值表為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/02.png\" alt=\"\"\u003e",
+                   "q":  "X 與 Y 為分別取值 0 或 1 的變數。若將 X□Y 定義為 X 與 Y 的邏輯運算，且得到下列真值表。請問 X□Y 的真值表為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/02.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/02a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/02i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/02u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/02e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/02a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/02i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/02u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/02e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "針對真值表運算結果中的以下部分進行觀察。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/02_1.png\" alt=\"\"\u003e"
+                   "al":  "針對真值表運算結果中的以下部分進行觀察。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/02_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2391,7 +2391,7 @@
                               "全てのデータを2倍したものの標準偏差は，元の標準偏差の2倍になる。"
                           ],
                    "an":  4,
-                   "al":  "標準偏差は、数値データ群の散らばり度合いを表すものです。次のように求めます。x1, x2, x3, ... , xn のn個の数値データの平均を μ とするデータごとにμとの差（偏差）の2乗を求めて合計し、それをデータの個数で割る。これを分散と呼ぶ分散は元データを2乗しているため、平方根を求めることで元データと単位を揃える。この分散を標準偏差と呼ぶ設問では、①全てのデータに対して定数aを加えた場合、②全てのデータを2倍した場合の標準偏差が問われています。それぞれ検討します。①全てのデータに対して定数aを加えた場合全てのデータに定数aを加えると、平均もaだけ高くなります。データ群全体がaだけ移動しますが、分布の形状は変わらないため散らばり度合いは変化しません。したがって、標準偏差は元のデータ群と同じになります\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/03_1.png\" alt=\"\"\u003e"
+                   "al":  "標準偏差は、数値データ群の散らばり度合いを表すものです。次のように求めます。x1, x2, x3, ... , xn のn個の数値データの平均を μ とするデータごとにμとの差（偏差）の2乗を求めて合計し、それをデータの個数で割る。これを分散と呼ぶ分散は元データを2乗しているため、平方根を求めることで元データと単位を揃える。この分散を標準偏差と呼ぶ設問では、①全てのデータに対して定数aを加えた場合、②全てのデータを2倍した場合の標準偏差が問われています。それぞれ検討します。①全てのデータに対して定数aを加えた場合全てのデータに定数aを加えると、平均もaだけ高くなります。データ群全体がaだけ移動しますが、分布の形状は変わらないため散らばり度合いは変化しません。したがって、標準偏差は元のデータ群と同じになります\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/03_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "令和5年度 問3",
@@ -2404,7 +2404,7 @@
                               "將所有數據乘上 2 倍後的標準差，等於原始標準差的 2 倍。"
                           ],
                    "an":  4,
-                   "al":  "標準差是用來表示數值數據群分散程度的指標。計算方式如下：設有 n 個數值數據 x1, x2, x3, ... , xn，其平均值為 μ。計算每個數據與平均值 μ 的差（偏差）並取平方，加總後除以數據個數，即稱為變異數。由於變異數將原始數據平方，因此需開平方根以將單位與原始數據統一，此即稱為標準差。本題詢問的是：①對所有數據加上常數 a，以及 ②將所有數據乘以 2 倍時，標準差的變化。分別檢討如下：①當所有數據加上常數 a 時：數據群整體向平移了 a，平均值也隨之提高 a，但分佈形狀並未改變，因此散佈程度亦不改變。故標準差與原始數據群相同。\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/03_1.png\" alt=\"\"\u003e"
+                   "al":  "標準差是用來表示數值數據群分散程度的指標。計算方式如下：設有 n 個數值數據 x1, x2, x3, ... , xn，其平均值為 μ。計算每個數據與平均值 μ 的差（偏差）並取平方，加總後除以數據個數，即稱為變異數。由於變異數將原始數據平方，因此需開平方根以將單位與原始數據統一，此即稱為標準差。本題詢問的是：①對所有數據加上常數 a，以及 ②將所有數據乘以 2 倍時，標準差的變化。分別檢討如下：①當所有數據加上常數 a 時：數據群整體向平移了 a，平均值也隨之提高 a，但分佈形狀並未改變，因此散佈程度亦不改變。故標準差與原始數據群相同。\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/03_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2475,7 +2475,7 @@
                               "奇数パリティならば奇数個のビット誤りを，偶数パリティならば偶数個のビット誤りを検出できる。"
                           ],
                    "an":  1,
-                   "al":  "パリティチェックは、データ通信やメモリチェックなどにおいてデータのビット誤りを検出する最もシンプルな方法の一つです。一定長のビット列（通常は7～8ビット）ごとに1ビットの検査ビット（パリティビット）を付加し、検査側が受信データとパリティビットを照合することで誤りを検出します。パリティビットの付加方式としては、ビット列とパリティビットを合わせて\"1\"の個数が奇数になるようにパリティビットを付加する「奇数パリティ」と、\"1\"の個数が偶数になるよう付加する「偶数パリティ」があります（下図は偶数パリティ）。また付加位置としては、送信されるデータビット列に付加する「垂直パリティ」と、一定のデータブロックごとに特定位置のビットをまとめたビット列に対して付加する「水平パリティ」、および両者を併用した「垂直水平パリティ」があります。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/04.png\" alt=\"\"\u003e"
+                   "al":  "パリティチェックは、データ通信やメモリチェックなどにおいてデータのビット誤りを検出する最もシンプルな方法の一つです。一定長のビット列（通常は7～8ビット）ごとに1ビットの検査ビット（パリティビット）を付加し、検査側が受信データとパリティビットを照合することで誤りを検出します。パリティビットの付加方式としては、ビット列とパリティビットを合わせて\"1\"の個数が奇数になるようにパリティビットを付加する「奇数パリティ」と、\"1\"の個数が偶数になるよう付加する「偶数パリティ」があります（下図は偶数パリティ）。また付加位置としては、送信されるデータビット列に付加する「垂直パリティ」と、一定のデータブロックごとに特定位置のビットをまとめたビット列に対して付加する「水平パリティ」、および両者を併用した「垂直水平パリティ」があります。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/04.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成25年春期　問4",
@@ -2488,7 +2488,7 @@
                               "若是奇同位檢查可以偵測出奇數個位元錯誤，若是偶同位檢查則可以偵測出偶數個位元錯誤。"
                           ],
                    "an":  1,
-                   "al":  "同位檢查（Parity Check）是數據通訊或記憶體檢查中，偵測數據位元錯誤最簡單的方法之一。每隔固定長度的位元序列（通常為7～8位元）附加1位元的檢查位元（同位位元），檢查端藉由比對接收到的數據與同位位元來偵測錯誤。同位位元的附加方式分為：將位元序列與同位位元合計後，使「1」的個數為奇數的「奇同位檢查」；以及使「1」的個數為偶數的「偶同位檢查」（下圖為偶同位檢查）。此外，就附加位置而言，有附加在發送數據位元序列的「垂直同位檢查」、針對一定數據區塊中特定位置位元彙整後的位元序列進行附加的「水平同位檢查」，以及兩者併用的「垂直水平同位檢查」。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/04.png\" alt=\"\"\u003e"
+                   "al":  "同位檢查（Parity Check）是數據通訊或記憶體檢查中，偵測數據位元錯誤最簡單的方法之一。每隔固定長度的位元序列（通常為7～8位元）附加1位元的檢查位元（同位位元），檢查端藉由比對接收到的數據與同位位元來偵測錯誤。同位位元的附加方式分為：將位元序列與同位位元合計後，使「1」的個數為奇數的「奇同位檢查」；以及使「1」的個數為偶數的「偶同位檢查」（下圖為偶同位檢查）。此外，就附加位置而言，有附加在發送數據位元序列的「垂直同位檢查」、針對一定數據區塊中特定位置位元彙整後的位元序列進行附加的「水平同位檢查」，以及兩者併用的「垂直水平同位檢查」。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/04.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2497,26 +2497,26 @@
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
                    "q":  "集合(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e∩B∩C)∪(A∩B∩\u003cspan class=\"ol\"\u003eC\u003c/span\u003e)を網掛け部分(\u003cspan class=\"bb\" style=\"background-color:#999\"\u003e　\u003c/span\u003e)で表しているベン図はどれか。ここで，∩は積集合，∪は和集合，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの補集合を表す。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/01a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/01i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/01u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/01e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/01a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/01i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/01u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/01e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "設問のベン図で集合を表すと次のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/01_1.png\" alt=\"\"\u003e"
+                   "al":  "設問のベン図で集合を表すと次のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/01_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成25年秋季 問1",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
                    "q":  "下列哪一個文氏圖（Venn diagram）中的陰影部分（\u003cspan class=\"bb\" style=\"background-color:#999\"\u003e　\u003c/span\u003e）代表了集合(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e∩B∩C)∪(A∩B∩\u003cspan class=\"ol\"\u003eC\u003c/span\u003e)？在此，∩ 代表交集，∪ 代表聯集，\u003cspan class=\"ol\"\u003eX\u003c/span\u003e 代表 X 的補集。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/01a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/01i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/01u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/01e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/01a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/01i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/01u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/01e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "使用文氏圖表示該集合如下所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/01_1.png\" alt=\"\"\u003e"
+                   "al":  "使用文氏圖表示該集合如下所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/01_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2525,10 +2525,10 @@
                    "ca":  "テクノロジ系 » 基礎理論 » 応用数学",
                    "q":  "平均が60，標準偏差が10の正規分布を表すグラフはどれか。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/05a.png\" alt=\"問5ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/05i.png\" alt=\"問5イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/05u.png\" alt=\"問5ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/05e.png\" alt=\"問5エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/05a.png\" alt=\"問5ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/05i.png\" alt=\"問5イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/05u.png\" alt=\"問5ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/05e.png\" alt=\"問5エ\"\u003e"
                           ],
                    "an":  1,
                    "al":  "正規分布は、平均値を中心に左右対称の山のようなカーブを描く確率分布で、平均と標準偏差だけで分布に関する全ての特性が規定できるという特徴があります。標準偏差は、データの分布のばらつきを表す尺度で、正規分布では平均値と標準偏差(σ[シグマ])、および度数の間に次の関係が成り立っています。 [1]平均±σの範囲に全体の約68%が含まれる [2]平均±2σの範囲に全体の約95%が含まれる [3]平均±3σの範囲に全体の約99%が含まれる"
@@ -2538,10 +2538,10 @@
                    "ca":  "技術系 » 基礎理論 » 應用數學",
                    "q":  "代表平均值為60、標準差為10的常態分佈的圖表是哪一個？",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/05a.png\" alt=\"問5ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/05i.png\" alt=\"問5イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/05u.png\" alt=\"問5ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/05e.png\" alt=\"問5エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/05a.png\" alt=\"問5ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/05i.png\" alt=\"問5イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/05u.png\" alt=\"問5ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/05e.png\" alt=\"問5エ\"\u003e"
                           ],
                    "an":  1,
                    "al":  "常態分佈是一種以平均值為中心、呈現左右對稱山形曲線的機率分佈，其特徵是僅需平均值與標準差即可決定關於分佈的所有特性。標準差是表示數據分佈離散程度的尺度，在常態分佈中，平均值與標準差（σ [Sigma]）及次數之間存在以下關係： [1]平均值±σ的範圍內包含整體的約68% [2]平均值±2σ的範圍內包含整體的約95% [3]平均值±3σ的範圍內包含整體的約99%"
@@ -2559,7 +2559,7 @@
                               "16進数FCと論理和をとる。"
                           ],
                    "an":  3,
-                   "al":  "論理演算を利用したビット操作には、論理積(AND)を用いて特定位置のビットを取り出す操作と、排他的論理和(XOR)を用いて特定位置のビットを反転させる操作があります。排他的論理和の真理値表は次のようになっています。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/08.png\" alt=\"排他的論理和の真理値表\"\u003e"
+                   "al":  "論理演算を利用したビット操作には、論理積(AND)を用いて特定位置のビットを取り出す操作と、排他的論理和(XOR)を用いて特定位置のビットを反転させる操作があります。排他的論理和の真理値表は次のようになっています。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/08.png\" alt=\"排他的論理和の真理値表\"\u003e"
                },
         "zh":  {
                    "ti":  "平成16年秋季 問8",
@@ -2572,7 +2572,7 @@
                               "與十六進位數FC進行邏輯或（OR）運算。"
                           ],
                    "an":  3,
-                   "al":  "利用邏輯運算進行位元操作時，可使用邏輯積（AND）來取出特定位置的位元，並使用互斥或（XOR）來反轉特定位置的位元。互斥或的真值表如下所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/08.png\" alt=\"互斥或的真值表\"\u003e"
+                   "al":  "利用邏輯運算進行位元操作時，可使用邏輯積（AND）來取出特定位置的位元，並使用互斥或（XOR）來反轉特定位置的位元。互斥或的真值表如下所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/08.png\" alt=\"互斥或的真值表\"\u003e"
                }
     },
     {
@@ -2671,7 +2671,7 @@
                               "xを3ビット左にシフトした値にxを加算し，更に1ビット左にシフトする。"
                           ],
                    "an":  1,
-                   "al":  "ビットシフトを使用した乗算に関する問題です。2進数のビット列は、左にnビットシフトすると元の値と比べて「2n倍」、右にnビットシフトすると「1／2n倍（2-n倍）」になるという性質があります。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/01.png\" alt=\"\"\u003e"
+                   "al":  "ビットシフトを使用した乗算に関する問題です。2進数のビット列は、左にnビットシフトすると元の値と比べて「2n倍」、右にnビットシフトすると「1／2n倍（2-n倍）」になるという性質があります。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/01.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成29年秋期　問1",
@@ -2684,7 +2684,7 @@
                               "將 x 左移 3 位元的值加上 x，再將結果左移 1 位元。"
                           ],
                    "an":  1,
-                   "al":  "這是關於使用位元移位進行乘法的問題。二進位數的位元序列具有以下特性：向左位移 n 位元，數值會變成原來的「2^n 倍」；向右位移 n 位元，則會變成「1/2^n 倍（2^-n 倍）」。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/01.png\" alt=\"\"\u003e"
+                   "al":  "這是關於使用位元移位進行乘法的問題。二進位數的位元序列具有以下特性：向左位移 n 位元，數值會變成原來的「2^n 倍」；向右位移 n 位元，則會變成「1/2^n 倍（2^-n 倍）」。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/01.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2747,7 +2747,7 @@
         "ja":  {
                    "ti":  "平成27年春期　問4",
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
-                   "q":  "入力されたビットに対して出力されるビットが0か1のいずれかである確率を遷移確率という。遷移確率を表にしたとき，a，b，c，dの関係はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/04.png\" alt=\"\"\u003e",
+                   "q":  "入力されたビットに対して出力されるビットが0か1のいずれかである確率を遷移確率という。遷移確率を表にしたとき，a，b，c，dの関係はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/04.png\" alt=\"\"\u003e",
                    "op":  [
                               "a＋b＋c＋d＝1",
                               "a＋b＝1，c＋d＝1",
@@ -2760,7 +2760,7 @@
         "zh":  {
                    "ti":  "平成27年春季 問4",
                    "ca":  "技術系 » 基礎理論 » 資訊相關理論",
-                   "q":  "針對輸入位元，輸出位元為 0 或 1 的機率稱為轉移機率。將轉移機率列表表示時，a、b、c、d 之間的關係為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/04.png\" alt=\"\"\u003e",
+                   "q":  "針對輸入位元，輸出位元為 0 或 1 的機率稱為轉移機率。將轉移機率列表表示時，a、b、c、d 之間的關係為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/04.png\" alt=\"\"\u003e",
                    "op":  [
                               "a＋b＋c＋d＝1",
                               "a＋b＝1，c＋d＝1",
@@ -2867,7 +2867,7 @@
                               "0.8"
                           ],
                    "an":  3,
-                   "al":  "10進数の小数部をN進数の小数に変換する方法の一つとして、10進小数に基数Nを掛けて演算結果の整数部を取り出し、さらに演算結果の小数部に基数Nを掛けて整数部を取り出して…と繰り返すものがあります。この計算過程で小数部が0になれば有限小数であると言えます。例えば10進小数 0.8125 を8進小数にするには以下のように計算します。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/01.png\" alt=\"\"\u003e"
+                   "al":  "10進数の小数部をN進数の小数に変換する方法の一つとして、10進小数に基数Nを掛けて演算結果の整数部を取り出し、さらに演算結果の小数部に基数Nを掛けて整数部を取り出して…と繰り返すものがあります。この計算過程で小数部が0になれば有限小数であると言えます。例えば10進小数 0.8125 を8進小数にするには以下のように計算します。\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/01.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成17年秋季 問1",
@@ -2880,7 +2880,7 @@
                               "0.8"
                           ],
                    "an":  3,
-                   "al":  "將十進位小數轉換為 N 進位小數的方法之一，是將十進位小數乘以基數 N，取出運算結果的整數部分，再將剩餘的小數部分繼續乘以基數 N 並取出整數部分，以此類推。在此計算過程中，若小數部分變為 0，則可稱為有限小數。例如，將十進位小數 0.8125 轉換為八進位小數的計算方式如下：\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/01.png\" alt=\"\"\u003e"
+                   "al":  "將十進位小數轉換為 N 進位小數的方法之一，是將十進位小數乘以基數 N，取出運算結果的整數部分，再將剩餘的小數部分繼續乘以基數 N 並取出整數部分，以此類推。在此計算過程中，若小數部分變為 0，則可稱為有限小數。例如，將十進位小數 0.8125 轉換為八進位小數的計算方式如下：\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/01.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2915,7 +2915,7 @@
         "ja":  {
                    "ti":  "平成17年春期　問11",
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
-                   "q":  "図は1の数が偶数個のビット列を受理するオートマトンの状態遷移図であり，“偶”と書かれた二重丸が受理状態を表す。a，b の正しい組合せはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/11.png\" alt=\"問11画像\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/11a.png\" alt=\"問11選択肢\"\u003e",
+                   "q":  "図は1の数が偶数個のビット列を受理するオートマトンの状態遷移図であり，“偶”と書かれた二重丸が受理状態を表す。a，b の正しい組合せはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/11.png\" alt=\"問11画像\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/11a.png\" alt=\"問11選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -2928,7 +2928,7 @@
         "zh":  {
                    "ti":  "平成17年春季 問11",
                    "ca":  "技術系 » 基礎理論 » 資訊相關理論",
-                   "q":  "圖示為受理「1的個數為偶數」之位元序列的自動機狀態轉移圖，其中標示「偶」的雙圓圈代表受理狀態。請問 a 與 b 的正確組合為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/11.png\" alt=\"問11圖片\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/11a.png\" alt=\"問11選択肢\"\u003e",
+                   "q":  "圖示為受理「1的個數為偶數」之位元序列的自動機狀態轉移圖，其中標示「偶」的雙圓圈代表受理狀態。請問 a 與 b 的正確組合為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/11.png\" alt=\"問11圖片\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/11a.png\" alt=\"問11選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -3119,7 +3119,7 @@
                               "奇数パリティならば奇数個のビット誤りを，偶数パリティならば偶数個のビット誤りを検出できる。"
                           ],
                    "an":  1,
-                   "al":  "パリティチェックは、データ通信やメモリチェックなどにおいてデータのビット誤りを検出する最もシンプルな方法の一つです。一定長のビット列（通常は7～8ビット）ごとに1ビットの検査ビット（パリティビット）を付加し、検査側が受信データとパリティビットを照合することで誤りを検出します。パリティビットの付加方式としては、ビット列とパリティビットを合わせて\"1\"の個数が奇数になるようにパリティビットを付加する「奇数パリティ」と、\"1\"の個数が偶数になるよう付加する「偶数パリティ」があります（下図は偶数パリティ）。また付加位置としては、送信されるデータビット列に付加する「垂直パリティ」と、一定のデータブロックごとに特定位置のビットをまとめたビット列に対して付加する「水平パリティ」、および両者を併用した「垂直水平パリティ」があります。\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/06.png\" alt=\"06.png\"\u003e"
+                   "al":  "パリティチェックは、データ通信やメモリチェックなどにおいてデータのビット誤りを検出する最もシンプルな方法の一つです。一定長のビット列（通常は7～8ビット）ごとに1ビットの検査ビット（パリティビット）を付加し、検査側が受信データとパリティビットを照合することで誤りを検出します。パリティビットの付加方式としては、ビット列とパリティビットを合わせて\"1\"の個数が奇数になるようにパリティビットを付加する「奇数パリティ」と、\"1\"の個数が偶数になるよう付加する「偶数パリティ」があります（下図は偶数パリティ）。また付加位置としては、送信されるデータビット列に付加する「垂直パリティ」と、一定のデータブロックごとに特定位置のビットをまとめたビット列に対して付加する「水平パリティ」、および両者を併用した「垂直水平パリティ」があります。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/06.png\" alt=\"06.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和2年度 問6",
@@ -3132,14 +3132,14 @@
                               "若是奇同位檢查可檢測出奇數個位元錯誤，若是偶同位檢查則可檢測出偶數個位元錯誤。"
                           ],
                    "an":  1,
-                   "al":  "同位檢查（Parity check）是數據通信或記憶體檢查中，檢測數據位元錯誤最簡單的方法之一。其方式為在固定長度的位元序列（通常為 7～8 位元）中附加 1 位元的檢查位元（同位位元），接收端透過核對接收數據與同位位元來檢測錯誤。同位位元的附加方式分為：將數據位元序列與同位位元加總後，使「1」的個數為奇數的「奇同位檢查（Odd Parity）」，以及使「1」的個數為偶數的「偶同位檢查（Even Parity）」（下圖為偶同位檢查）。此外，就附加位置而言，有附加在傳輸數據位元序列的「垂直同位檢查」，以及對一定數據區塊中特定位置的位元所彙整之位元序列進行附加的「水平同位檢查」，以及兩者併用的「垂直水平同位檢查」。\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/06.png\" alt=\"06.png\"\u003e"
+                   "al":  "同位檢查（Parity check）是數據通信或記憶體檢查中，檢測數據位元錯誤最簡單的方法之一。其方式為在固定長度的位元序列（通常為 7～8 位元）中附加 1 位元的檢查位元（同位位元），接收端透過核對接收數據與同位位元來檢測錯誤。同位位元的附加方式分為：將數據位元序列與同位位元加總後，使「1」的個數為奇數的「奇同位檢查（Odd Parity）」，以及使「1」的個數為偶數的「偶同位檢查（Even Parity）」（下圖為偶同位檢查）。此外，就附加位置而言，有附加在傳輸數據位元序列的「垂直同位檢查」，以及對一定數據區塊中特定位置的位元所彙整之位元序列進行附加的「水平同位檢查」，以及兩者併用的「垂直水平同位檢查」。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/06.png\" alt=\"06.png\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成16年春期　問7",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "1ビットの数A，Bの和を2ビットで表現したとき，上位ビットCと下位ビットSを表す論理式の組合せはどれか。ここで，\"・\"は論理積，\"＋\"は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003e はXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/07.png\" alt=\"問7画像\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/07a.png\" alt=\"問7選択肢\"\u003e",
+                   "q":  "1ビットの数A，Bの和を2ビットで表現したとき，上位ビットCと下位ビットSを表す論理式の組合せはどれか。ここで，\"・\"は論理積，\"＋\"は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003e はXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/07.png\" alt=\"問7画像\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/07a.png\" alt=\"問7選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -3147,12 +3147,12 @@
                               "エ"
                           ],
                    "an":  1,
-                   "al":  "A、BとCの真理値表は次のようになり、論理積演算(A・B)と一致することがわかります。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/07_1.png\" alt=\"\"\u003e"
+                   "al":  "A、BとCの真理値表は次のようになり、論理積演算(A・B)と一致することがわかります。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/07_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成16年春季 問7",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "當將1位元的數A與B的和以2位元表示時，表示高位位元C與低位位元S的邏輯式組合為何？在此，「・」代表邏輯乘（AND），「＋」代表邏輯和（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e 代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/07.png\" alt=\"問7圖片\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/07a.png\" alt=\"問7選択肢\"\u003e",
+                   "q":  "當將1位元的數A與B的和以2位元表示時，表示高位位元C與低位位元S的邏輯式組合為何？在此，「・」代表邏輯乘（AND），「＋」代表邏輯和（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e 代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/07.png\" alt=\"問7圖片\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/07a.png\" alt=\"問7選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -3160,7 +3160,7 @@
                               "エ"
                           ],
                    "an":  1,
-                   "al":  "A、B與C的真值表如下所示，可知其與邏輯乘運算（A・B）一致。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/07_1.png\" alt=\"\"\u003e"
+                   "al":  "A、B與C的真值表如下所示，可知其與邏輯乘運算（A・B）一致。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/07_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -3231,7 +3231,7 @@
                               "量子化，符号化，標本化"
                           ],
                    "an":  1,
-                   "al":  "アナログ信号からデジタル信号への変換では標本化、量子化、符号化の3段階で処理をします。標本化時間的に連続したアナログ信号(振幅、周波数、電圧など)を一定の時間間隔で測定する量子化標本化で得られた数値を整数などの離散値で近似する符号化量子化で得られた整数値を2進数のビットに対応付ける\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/05.png\" alt=\"\"\u003e"
+                   "al":  "アナログ信号からデジタル信号への変換では標本化、量子化、符号化の3段階で処理をします。標本化時間的に連続したアナログ信号(振幅、周波数、電圧など)を一定の時間間隔で測定する量子化標本化で得られた数値を整数などの離散値で近似する符号化量子化で得られた整数値を2進数のビットに対応付ける\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/05.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成28年秋季 問5",
@@ -3244,14 +3244,14 @@
                               "量化、編碼、採樣"
                           ],
                    "an":  1,
-                   "al":  "從類比訊號轉換為數位訊號的過程分為採樣（Sampling）、量化（Quantization）及編碼（Encoding）三個階段處理。採樣：將時間上連續的類比訊號（振幅、頻率、電壓等）以固定的時間間隔進行測量。量化：將採樣所得的數值以整數等離散值進行近似。編碼：將量化所得的整數值轉換為二進位位元對應。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/05.png\" alt=\"\"\u003e"
+                   "al":  "從類比訊號轉換為數位訊號的過程分為採樣（Sampling）、量化（Quantization）及編碼（Encoding）三個階段處理。採樣：將時間上連續的類比訊號（振幅、頻率、電壓等）以固定的時間間隔進行測量。量化：將採樣所得的數值以整數等離散值進行近似。編碼：將量化所得的整數值轉換為二進位位元對應。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/05.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成20年秋期　問10",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "次の真理値表の演算結果を表す論理式はどれか。ここで，＋は論理和，・は論理積を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/10.png\" alt=\"\"\u003e",
+                   "q":  "次の真理値表の演算結果を表す論理式はどれか。ここで，＋は論理和，・は論理積を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/10.png\" alt=\"\"\u003e",
                    "op":  [
                               "(x・y)＋z",
                               "(x＋y)・z",
@@ -3264,7 +3264,7 @@
         "zh":  {
                    "ti":  "平成20年秋季 問10",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "下列真值表的運算結果所對應的邏輯式為何？在此，＋代表邏輯加（OR），・代表邏輯乘（AND）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/10.png\" alt=\"\"\u003e",
+                   "q":  "下列真值表的運算結果所對應的邏輯式為何？在此，＋代表邏輯加（OR），・代表邏輯乘（AND）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/10.png\" alt=\"\"\u003e",
                    "op":  [
                               "(x・y)＋z",
                               "(x＋y)・z",
@@ -3307,7 +3307,7 @@
         "ja":  {
                    "ti":  "平成19年秋期　問10",
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
-                   "q":  "次の状態遷移表をもつシステムの状態がS1であるときに，信号をt1，t2，t3，t4，t1，t2，t3，t4の順に入力すると，最後の状態はどれになるか。ここで，空欄は状態が変化しないことを表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/10.png\" alt=\"問10画像\"\u003e",
+                   "q":  "次の状態遷移表をもつシステムの状態がS1であるときに，信号をt1，t2，t3，t4，t1，t2，t3，t4の順に入力すると，最後の状態はどれになるか。ここで，空欄は状態が変化しないことを表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/10.png\" alt=\"問10画像\"\u003e",
                    "op":  [
                               "S1",
                               "S2",
@@ -3315,12 +3315,12 @@
                               "S4"
                           ],
                    "an":  1,
-                   "al":  "[状態S1，入力t1] 空欄なので変化しません。[状態S1，入力t2] S3に遷移します。[状態S3，入力t3] S4に遷移します。[状態S4，入力t4] S2に遷移します。[状態S2，入力t1] S3に遷移します。[状態S3，入力t2] S2に遷移します。[状態S2，入力t3] 空欄なので変化しません。[状態S2，入力t4] S1に遷移します。\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/10a.png\" alt=\"\"\u003e"
+                   "al":  "[状態S1，入力t1] 空欄なので変化しません。[状態S1，入力t2] S3に遷移します。[状態S3，入力t3] S4に遷移します。[状態S4，入力t4] S2に遷移します。[状態S2，入力t1] S3に遷移します。[状態S3，入力t2] S2に遷移します。[状態S2，入力t3] 空欄なので変化しません。[状態S2，入力t4] S1に遷移します。\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/10a.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成19年秋期　問10",
                    "ca":  "技術系 » 基礎理論 » 資訊相關理論",
-                   "q":  "當具有下列狀態轉移表的系統處於狀態S1時，若依序輸入訊號 t1, t2, t3, t4, t1, t2, t3, t4，最後的狀態為何？此外，空白處表示狀態不會改變。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/10.png\" alt=\"問10圖片\"\u003e",
+                   "q":  "當具有下列狀態轉移表的系統處於狀態S1時，若依序輸入訊號 t1, t2, t3, t4, t1, t2, t3, t4，最後的狀態為何？此外，空白處表示狀態不會改變。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/10.png\" alt=\"問10圖片\"\u003e",
                    "op":  [
                               "S1",
                               "S2",
@@ -3328,7 +3328,7 @@
                               "S4"
                           ],
                    "an":  1,
-                   "al":  "[狀態S1，輸入t1] 為空白，因此狀態不變。[狀態S1，輸入t2] 轉移至S3。[狀態S3，輸入t3] 轉移至S4。[狀態S4，輸入t4] 轉移至S2。[狀態S2，輸入t1] 轉移至S3。[狀態S3，輸入t2] 轉移至S2。[狀態S2，輸入t3] 為空白，因此狀態不變。[狀態S2，輸入t4] 轉移至S1。\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/10a.png\" alt=\"\"\u003e"
+                   "al":  "[狀態S1，輸入t1] 為空白，因此狀態不變。[狀態S1，輸入t2] 轉移至S3。[狀態S3，輸入t3] 轉移至S4。[狀態S4，輸入t4] 轉移至S2。[狀態S2，輸入t1] 轉移至S3。[狀態S3，輸入t2] 轉移至S2。[狀態S2，輸入t3] 為空白，因此狀態不變。[狀態S2，輸入t4] 轉移至S1。\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/10a.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -3455,7 +3455,7 @@
                               "2\u003csup\u003e6\u003c/sup\u003e＋2\u003csup\u003e4\u003c/sup\u003e＋2\u003csup\u003e2\u003c/sup\u003e＋2\u003csup\u003e-1\u003c/sup\u003e＋2\u003csup\u003e-4\u003c/sup\u003e＋2\u003csup\u003e-5\u003c/sup\u003e"
                           ],
                    "an":  1,
-                   "al":  "まず16進小数2A.4Cを2進数に変換します。16進数の1桁が2進数の4桁分に対応する（116→00012、F16→11112）ので、 0010 1010. 0100 1100になります。乗数の数え方は、小数点の1つ左が 20、小数点の1つ右は 2-1 となるので、答えは「ア」の25＋23＋21＋2-2＋2-5＋2-6となります。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/01.png\" alt=\"\"\u003e"
+                   "al":  "まず16進小数2A.4Cを2進数に変換します。16進数の1桁が2進数の4桁分に対応する（116→00012、F16→11112）ので、 0010 1010. 0100 1100になります。乗数の数え方は、小数点の1つ左が 20、小数点の1つ右は 2-1 となるので、答えは「ア」の25＋23＋21＋2-2＋2-5＋2-6となります。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/01.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成22年春季 問1",
@@ -3468,7 +3468,7 @@
                               "2\u003csup\u003e6\u003c/sup\u003e＋2\u003csup\u003e4\u003c/sup\u003e＋2\u003csup\u003e2\u003c/sup\u003e＋2\u003csup\u003e-1\u003c/sup\u003e＋2\u003csup\u003e-4\u003c/sup\u003e＋2\u003csup\u003e-5\u003c/sup\u003e"
                           ],
                    "an":  1,
-                   "al":  "首先將16進位小數2A.4C轉換為2進位。由於16進位的1位數對應2進位的4位數（1\u003csub\u003e16\u003c/sub\u003e→0001\u003csub\u003e2\u003c/sub\u003e，F\u003csub\u003e16\u003c/sub\u003e→1111\u003csub\u003e2\u003c/sub\u003e），因此變為 0010 1010. 0100 1100。指數的計算方式為，小數點左側第一位為 2\u003csup\u003e0\u003c/sup\u003e，小數點右側第一位為 2\u003csup\u003e-1\u003c/sup\u003e，故答案為選項「1」的 2\u003csup\u003e5\u003c/sup\u003e＋2\u003csup\u003e3\u003c/sup\u003e＋2\u003csup\u003e1\u003c/sup\u003e＋2\u003csup\u003e-2\u003c/sup\u003e＋2\u003csup\u003e-5\u003c/sup\u003e＋2\u003csup\u003e-6\u003c/sup\u003e。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/01.png\" alt=\"\"\u003e"
+                   "al":  "首先將16進位小數2A.4C轉換為2進位。由於16進位的1位數對應2進位的4位數（1\u003csub\u003e16\u003c/sub\u003e→0001\u003csub\u003e2\u003c/sub\u003e，F\u003csub\u003e16\u003c/sub\u003e→1111\u003csub\u003e2\u003c/sub\u003e），因此變為 0010 1010. 0100 1100。指數的計算方式為，小數點左側第一位為 2\u003csup\u003e0\u003c/sup\u003e，小數點右側第一位為 2\u003csup\u003e-1\u003c/sup\u003e，故答案為選項「1」的 2\u003csup\u003e5\u003c/sup\u003e＋2\u003csup\u003e3\u003c/sup\u003e＋2\u003csup\u003e1\u003c/sup\u003e＋2\u003csup\u003e-2\u003c/sup\u003e＋2\u003csup\u003e-5\u003c/sup\u003e＋2\u003csup\u003e-6\u003c/sup\u003e。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/01.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -3559,7 +3559,7 @@
         "ja":  {
                    "ti":  "平成16年秋期　問2",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "16ビットの2進数nを16進数の各けたに分けて，下位のけたから順にスタックに格納するために，次の手順を4回繰り返す。a，bに入る適切な語句の組合せはどれか。ここで，xxxx\u003csub\u003e16\u003c/sub\u003eは16進数xxxxを表す。\u003cbr\u003e\u003cbr\u003e〔手順〕\u003cul\u003e\u003cli class=\"li1\"\u003e\u003cspan class=\"bb\"\u003ea\u003c/span\u003eをxに代入する。\u003c/li\u003e\u003cli class=\"li2\"\u003exをスタックにプッシュする。\u003c/li\u003e\u003cli class=\"li3\"\u003enを\u003cspan class=\"bb\"\u003eb\u003c/span\u003e論理シフトする。\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/02a.png\" alt=\"問2選択肢\"\u003e",
+                   "q":  "16ビットの2進数nを16進数の各けたに分けて，下位のけたから順にスタックに格納するために，次の手順を4回繰り返す。a，bに入る適切な語句の組合せはどれか。ここで，xxxx\u003csub\u003e16\u003c/sub\u003eは16進数xxxxを表す。\u003cbr\u003e\u003cbr\u003e〔手順〕\u003cul\u003e\u003cli class=\"li1\"\u003e\u003cspan class=\"bb\"\u003ea\u003c/span\u003eをxに代入する。\u003c/li\u003e\u003cli class=\"li2\"\u003exをスタックにプッシュする。\u003c/li\u003e\u003cli class=\"li3\"\u003enを\u003cspan class=\"bb\"\u003eb\u003c/span\u003e論理シフトする。\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/02a.png\" alt=\"問2選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -3572,7 +3572,7 @@
         "zh":  {
                    "ti":  "平成16年秋季 問2",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "將16位元的二進位數 n 分割為16進位的各個位數，為了從低位數開始依序存入堆疊中，重複執行下列步驟4次。請問填入 a、b 的適當語句組合為何？在此，xxxx\u003csub\u003e16\u003c/sub\u003e 表示16進位數 xxxx。\u003cbr\u003e\u003cbr\u003e〔步驟〕\u003cul\u003e\u003cli class=\"li1\"\u003e將\u003cspan class=\"bb\"\u003ea\u003c/span\u003e代入 x。\u003c/li\u003e\u003cli class=\"li2\"\u003e將 x 推入 (push) 堆疊。\u003c/li\u003e\u003cli class=\"li3\"\u003e將 n 進行\u003cspan class=\"bb\"\u003eb\u003c/span\u003e邏輯位移。\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/02a.png\" alt=\"問2選択肢\"\u003e",
+                   "q":  "將16位元的二進位數 n 分割為16進位的各個位數，為了從低位數開始依序存入堆疊中，重複執行下列步驟4次。請問填入 a、b 的適當語句組合為何？在此，xxxx\u003csub\u003e16\u003c/sub\u003e 表示16進位數 xxxx。\u003cbr\u003e\u003cbr\u003e〔步驟〕\u003cul\u003e\u003cli class=\"li1\"\u003e將\u003cspan class=\"bb\"\u003ea\u003c/span\u003e代入 x。\u003c/li\u003e\u003cli class=\"li2\"\u003e將 x 推入 (push) 堆疊。\u003c/li\u003e\u003cli class=\"li3\"\u003e將 n 進行\u003cspan class=\"bb\"\u003eb\u003c/span\u003e邏輯位移。\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/02a.png\" alt=\"問2選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -3587,7 +3587,7 @@
         "ja":  {
                    "ti":  "平成20年春期　問1",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "16ビットの2進数nを16進数の各けたに分けて，下位のけたから順にスタックに格納するために，次の手順を4回繰り返す。a，bに入る適切な語句の組合せはどれか。ここで，xxxx\u003csub\u003e16\u003c/sub\u003eは16 進数xxxxを表す。\u003cbr\u003e\u003cbr\u003e〔手順〕\u003cul\u003e\u003cli class=\"li1\"\u003e\u003cspan class=\"bb\"\u003ea\u003c/span\u003eをxに代入する。\u003c/li\u003e\u003cli class=\"li2\"\u003exをスタックにプッシュする。\u003c/li\u003e\u003cli class=\"li3\"\u003enを\u003cspan class=\"bb\"\u003eb\u003c/span\u003e論理シフトする。\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/01.png\" alt=\"問1選択肢\"\u003e",
+                   "q":  "16ビットの2進数nを16進数の各けたに分けて，下位のけたから順にスタックに格納するために，次の手順を4回繰り返す。a，bに入る適切な語句の組合せはどれか。ここで，xxxx\u003csub\u003e16\u003c/sub\u003eは16 進数xxxxを表す。\u003cbr\u003e\u003cbr\u003e〔手順〕\u003cul\u003e\u003cli class=\"li1\"\u003e\u003cspan class=\"bb\"\u003ea\u003c/span\u003eをxに代入する。\u003c/li\u003e\u003cli class=\"li2\"\u003exをスタックにプッシュする。\u003c/li\u003e\u003cli class=\"li3\"\u003enを\u003cspan class=\"bb\"\u003eb\u003c/span\u003e論理シフトする。\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/01.png\" alt=\"問1選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -3600,7 +3600,7 @@
         "zh":  {
                    "ti":  "平成20年春季 問1",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "將16位元的二進數n分割為16進數的各個位數，為了依序從低位數開始存入堆疊（Stack），請重複進行以下步驟4次。請問填入a、b中合適的語句組合為何？在此，xxxx\u003csub\u003e16\u003c/sub\u003e表示16進數xxxx。\u003cbr\u003e\u003cbr\u003e〔步驟〕\u003cul\u003e\u003cli class=\"li1\"\u003e將\u003cspan class=\"bb\"\u003ea\u003c/span\u003e代入x。\u003c/li\u003e\u003cli class=\"li2\"\u003e將x推入（Push）堆疊。\u003c/li\u003e\u003cli class=\"li3\"\u003e將n進行\u003cspan class=\"bb\"\u003eb\u003c/span\u003e邏輯位移。\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/01.png\" alt=\"問1選択肢\"\u003e",
+                   "q":  "將16位元的二進數n分割為16進數的各個位數，為了依序從低位數開始存入堆疊（Stack），請重複進行以下步驟4次。請問填入a、b中合適的語句組合為何？在此，xxxx\u003csub\u003e16\u003c/sub\u003e表示16進數xxxx。\u003cbr\u003e\u003cbr\u003e〔步驟〕\u003cul\u003e\u003cli class=\"li1\"\u003e將\u003cspan class=\"bb\"\u003ea\u003c/span\u003e代入x。\u003c/li\u003e\u003cli class=\"li2\"\u003e將x推入（Push）堆疊。\u003c/li\u003e\u003cli class=\"li3\"\u003e將n進行\u003cspan class=\"bb\"\u003eb\u003c/span\u003e邏輯位移。\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/01.png\" alt=\"問1選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -3623,7 +3623,7 @@
                               "16進表記 0F のビット列との論理和をとる。"
                           ],
                    "an":  3,
-                   "al":  "各論理演算は次のような操作を意味しています。論理積(AND)2つのビットが両方とも1のときにだけ1を出力し、それ以外は0を出力する。論理和(OR)2つのビットのどちらかが1であれば1を出力し、両方とも0のときは0を出力する。排他的論理和(XOR)2つのビットが異なるときは1を出力し、同じときは0を出力する。否定論理積(NAND＝Not AND)AND演算の結果を反転した演算で、2つのビットが両方とも1のときにだけ0を出力し、それ以外は1を出力する。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/01.png\" alt=\"\"\u003e"
+                   "al":  "各論理演算は次のような操作を意味しています。論理積(AND)2つのビットが両方とも1のときにだけ1を出力し、それ以外は0を出力する。論理和(OR)2つのビットのどちらかが1であれば1を出力し、両方とも0のときは0を出力する。排他的論理和(XOR)2つのビットが異なるときは1を出力し、同じときは0を出力する。否定論理積(NAND＝Not AND)AND演算の結果を反転した演算で、2つのビットが両方とも1のときにだけ0を出力し、それ以外は1を出力する。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/01.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成28年秋季 問1",
@@ -3636,7 +3636,7 @@
                               "與十六進位 0F 的位元序列進行邏輯或（OR）運算。"
                           ],
                    "an":  3,
-                   "al":  "各邏輯運算代表的意義如下：邏輯與（AND）：僅在兩個位元皆為1時輸出1，否則輸出0。邏輯或（OR）：只要兩個位元中任一為1則輸出1，兩者皆為0時才輸出0。互斥或（XOR）：當兩個位元不同時輸出1，相同時輸出0。反及（NAND＝Not AND）：AND運算的相反，僅在兩個位元皆為1時輸出0，否則輸出1。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/01.png\" alt=\"\"\u003e"
+                   "al":  "各邏輯運算代表的意義如下：邏輯與（AND）：僅在兩個位元皆為1時輸出1，否則輸出0。邏輯或（OR）：只要兩個位元中任一為1則輸出1，兩者皆為0時才輸出0。互斥或（XOR）：當兩個位元不同時輸出1，相同時輸出0。反及（NAND＝Not AND）：AND運算的相反，僅在兩個位元皆為1時輸出0，否則輸出1。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/01.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -3651,7 +3651,7 @@
                               "奇数パリティなら奇数個のビット誤りを，偶数パリティならば偶数個のビット誤りを検出できる。"
                           ],
                    "an":  1,
-                   "al":  "パリティチェックは、データ通信やメモリチェックなどにおいてデータのビット誤りを検出する最もシンプルな方法の一つです。一定長のビット列（通常は7～8ビット）ごとに1ビットの検査ビット（パリティビット）を付加し、検査側が受信データとパリティビットを照合することで誤りを検出します。パリティビットの付加方式としては、ビット列とパリティビットを合わせて\"1\"の個数が奇数になるようにパリティビットを付加する「奇数パリティ」と、\"1\"の個数が偶数になるよう付加する「偶数パリティ」があります（下図は偶数パリティ）。また付加位置としては、送信されるデータビット列に付加する「垂直パリティ」と、一定のデータブロックごとに特定位置のビットをまとめたビット列に対して付加する「水平パリティ」、および両者を併用した「垂直水平パリティ」があります。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/53.png\" alt=\"\"\u003e"
+                   "al":  "パリティチェックは、データ通信やメモリチェックなどにおいてデータのビット誤りを検出する最もシンプルな方法の一つです。一定長のビット列（通常は7～8ビット）ごとに1ビットの検査ビット（パリティビット）を付加し、検査側が受信データとパリティビットを照合することで誤りを検出します。パリティビットの付加方式としては、ビット列とパリティビットを合わせて\"1\"の個数が奇数になるようにパリティビットを付加する「奇数パリティ」と、\"1\"の個数が偶数になるよう付加する「偶数パリティ」があります（下図は偶数パリティ）。また付加位置としては、送信されるデータビット列に付加する「垂直パリティ」と、一定のデータブロックごとに特定位置のビットをまとめたビット列に対して付加する「水平パリティ」、および両者を併用した「垂直水平パリティ」があります。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/53.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "2006年秋季 問53",
@@ -3664,14 +3664,14 @@
                               "若是奇同位則可偵測奇數個位元錯誤，若是偶同位則可偵測偶數個位元錯誤。"
                           ],
                    "an":  1,
-                   "al":  "同位檢查（Parity Check）是資料通信或記憶體檢查中，偵測資料位元錯誤最簡單的方法之一。在固定長度的位元串（通常為 7～8 位元）中附加 1 位元的檢查位元（同位位元），接收端透過核對接收到的資料與同位位元來偵測錯誤。同位位元的附加方式包含：使位元串與同位位元總和中 \"1\" 的個數為奇數的「奇同位」，以及使 \"1\" 的個數為偶數的「偶同位」（下圖為偶同位）。此外，就附加位置而言，有在傳送的資料位元串中附加的「垂直同位」，以及針對一定資料區塊中特定位置的位元所組成的位元串附加的「水平同位」，以及兩者併用的「垂直水平同位」。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/53.png\" alt=\"\"\u003e"
+                   "al":  "同位檢查（Parity Check）是資料通信或記憶體檢查中，偵測資料位元錯誤最簡單的方法之一。在固定長度的位元串（通常為 7～8 位元）中附加 1 位元的檢查位元（同位位元），接收端透過核對接收到的資料與同位位元來偵測錯誤。同位位元的附加方式包含：使位元串與同位位元總和中 \"1\" 的個數為奇數的「奇同位」，以及使 \"1\" 的個數為偶數的「偶同位」（下圖為偶同位）。此外，就附加位置而言，有在傳送的資料位元串中附加的「垂直同位」，以及針對一定資料區塊中特定位置的位元所組成的位元串附加的「水平同位」，以及兩者併用的「垂直水平同位」。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/53.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成19年春期　問11",
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
-                   "q":  "文字列“ET”をASCIIでコード化したものを16進表記したものはどれか。ここで，文字コードの8ビット目には，偶数パリティビットが付く。\u003cbr\u003e〔ASCIIコード表の一部〕\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/11.png\" alt=\"問11画像\"\u003e",
+                   "q":  "文字列“ET”をASCIIでコード化したものを16進表記したものはどれか。ここで，文字コードの8ビット目には，偶数パリティビットが付く。\u003cbr\u003e〔ASCIIコード表の一部〕\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/11.png\" alt=\"問11画像\"\u003e",
                    "op":  [
                               "4554",
                               "A32B",
@@ -3679,12 +3679,12 @@
                               "C5D4"
                           ],
                    "an":  4,
-                   "al":  "〔ASCIIコード表の一部〕を参照すると、\"E\"は100 0101、\"T\"は101 0100とわかります。\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/11a.png\" alt=\"EとTの位置\"\u003e"
+                   "al":  "〔ASCIIコード表の一部〕を参照すると、\"E\"は100 0101、\"T\"は101 0100とわかります。\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/11a.png\" alt=\"EとTの位置\"\u003e"
                },
         "zh":  {
                    "ti":  "平成19年春季 問11",
                    "ca":  "技術系 » 基礎理論 » 資訊相關理論",
-                   "q":  "將字串“ET”轉換為 ASCII 編碼，並以 16 進位表示，下列何者正確？在此，字元編碼的第 8 個位元為偶同位檢查位元（Even Parity Bit）。\u003cbr\u003e〔ASCII 編碼表局部〕\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/11.png\" alt=\"問11圖片\"\u003e",
+                   "q":  "將字串“ET”轉換為 ASCII 編碼，並以 16 進位表示，下列何者正確？在此，字元編碼的第 8 個位元為偶同位檢查位元（Even Parity Bit）。\u003cbr\u003e〔ASCII 編碼表局部〕\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/11.png\" alt=\"問11圖片\"\u003e",
                    "op":  [
                               "4554",
                               "A32B",
@@ -3692,14 +3692,14 @@
                               "C5D4"
                           ],
                    "an":  4,
-                   "al":  "參考〔ASCII 編碼表局部〕，可知“E”為 100 0101，“T”為 101 0100。\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/11a.png\" alt=\"E與T的位置\"\u003e"
+                   "al":  "參考〔ASCII 編碼表局部〕，可知“E”為 100 0101，“T”為 101 0100。\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/11a.png\" alt=\"E與T的位置\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成20年秋期　問7",
                    "ca":  "テクノロジ系 » 基礎理論 » 応用数学",
-                   "q":  "図の線上を，点Pから点Rを通って，点Qに至る最短経路は何通りあるか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/7.png\" alt=\"\"\u003e",
+                   "q":  "図の線上を，点Pから点Rを通って，点Qに至る最短経路は何通りあるか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/7.png\" alt=\"\"\u003e",
                    "op":  [
                               "16",
                               "24",
@@ -3712,7 +3712,7 @@
         "zh":  {
                    "ti":  "平成20年秋季 問7",
                    "ca":  "技術系 » 基礎理論 » 應用數學",
-                   "q":  "如下圖所示，從點P經過點R到達點Q，最短路徑共有幾種？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/7.png\" alt=\"\"\u003e",
+                   "q":  "如下圖所示，從點P經過點R到達點Q，最短路徑共有幾種？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/7.png\" alt=\"\"\u003e",
                    "op":  [
                               "16",
                               "24",
@@ -3727,7 +3727,7 @@
         "ja":  {
                    "ti":  "平成17年春期　問7",
                    "ca":  "テクノロジ系 » 基礎理論 » 応用数学",
-                   "q":  "次の図は，ある地方の日単位の天気の移り変わりを示したものであり，数値は翌日の天気の変化の確率を表している。ある日の天気が雨のとき，2日後の天気が晴れになる確率は幾らか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/07.png\" alt=\"問7画像\"\u003e",
+                   "q":  "次の図は，ある地方の日単位の天気の移り変わりを示したものであり，数値は翌日の天気の変化の確率を表している。ある日の天気が雨のとき，2日後の天気が晴れになる確率は幾らか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/07.png\" alt=\"問7画像\"\u003e",
                    "op":  [
                               "0.15",
                               "0.27",
@@ -3740,7 +3740,7 @@
         "zh":  {
                    "ti":  "平成17年春季 問7",
                    "ca":  "技術系 » 基礎理論 » 應用數學",
-                   "q":  "下圖顯示了某地區每日天氣的變化情況，數值代表隔天天氣變化的機率。若某天的天氣為雨天，則兩天後天氣為晴天的機率是多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/07.png\" alt=\"問7圖片\"\u003e",
+                   "q":  "下圖顯示了某地區每日天氣的變化情況，數值代表隔天天氣變化的機率。若某天的天氣為雨天，則兩天後天氣為晴天的機率是多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/07.png\" alt=\"問7圖片\"\u003e",
                    "op":  [
                               "0.15",
                               "0.27",
@@ -3783,7 +3783,7 @@
         "ja":  {
                    "ti":  "平成16年秋期　問11",
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
-                   "q":  "次の表は，入力文字列を検査するための状態遷移表である。この検査では，初期状態をaとし，文字列の入力中に状態がeになれば不合格とする。\u003cbr\u003e　解答群で示される文字列のうち，この検査で不合格となるものはどれか。ここで，解答群中の△は空白を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/11.png\" alt=\"問11画像\"\u003e",
+                   "q":  "次の表は，入力文字列を検査するための状態遷移表である。この検査では，初期状態をaとし，文字列の入力中に状態がeになれば不合格とする。\u003cbr\u003e　解答群で示される文字列のうち，この検査で不合格となるものはどれか。ここで，解答群中の△は空白を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/11.png\" alt=\"問11画像\"\u003e",
                    "op":  [
                               "＋0010",
                               "－1",
@@ -3796,7 +3796,7 @@
         "zh":  {
                    "ti":  "平成16年秋季 問11",
                    "ca":  "技術系 » 基礎理論 » 資訊相關理論",
-                   "q":  "下表為檢查輸入字串的狀態遷移表。在此檢查中，初始狀態設為 a，若在字串輸入過程中狀態變為 e，則視為不合格。\u003cbr\u003e　在解答群所示的字串中，哪一個會在此檢查中被判定為不合格？此外，解答群中的 △ 代表空白。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/11.png\" alt=\"問11圖片\"\u003e",
+                   "q":  "下表為檢查輸入字串的狀態遷移表。在此檢查中，初始狀態設為 a，若在字串輸入過程中狀態變為 e，則視為不合格。\u003cbr\u003e　在解答群所示的字串中，哪一個會在此檢查中被判定為不合格？此外，解答群中的 △ 代表空白。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/11.png\" alt=\"問11圖片\"\u003e",
                    "op":  [
                               "＋0010",
                               "－1",
@@ -3811,7 +3811,7 @@
         "ja":  {
                    "ti":  "平成30年春期　問4",
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
-                   "q":  "入力記号，出力記号の集合が{0，1}であり，状態遷移図で示されるオートマトンがある。0011001110 を入力記号とした場合の出力記号はどれか。ここで，S\u003csub\u003e1\u003c/sub\u003eは初期状態を表し，グラフの辺のラベルは，入力／出力を表している。\u003cbr\u003e\u003cbr\u003e〔状態遷移図〕\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/04.png\" alt=\"\"\u003e",
+                   "q":  "入力記号，出力記号の集合が{0，1}であり，状態遷移図で示されるオートマトンがある。0011001110 を入力記号とした場合の出力記号はどれか。ここで，S\u003csub\u003e1\u003c/sub\u003eは初期状態を表し，グラフの辺のラベルは，入力／出力を表している。\u003cbr\u003e\u003cbr\u003e〔状態遷移図〕\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/04.png\" alt=\"\"\u003e",
                    "op":  [
                               "0001000110",
                               "0001001110",
@@ -3819,12 +3819,12 @@
                               "0011111110"
                           ],
                    "an":  1,
-                   "al":  "オートマトンは、現在の状態と入力信号の組合せのみによって次に遷移する状態が決まるモデルです。設問の図の初期状態S1を例にすると、入力信号が0であれば再度S1に遷移し、入力信号が1であればS2に遷移するといった具合です。設問のオートマトンに 0011001110 の順に入力すると、以下のように遷移します。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/04a.png\" alt=\"\"\u003e"
+                   "al":  "オートマトンは、現在の状態と入力信号の組合せのみによって次に遷移する状態が決まるモデルです。設問の図の初期状態S1を例にすると、入力信号が0であれば再度S1に遷移し、入力信号が1であればS2に遷移するといった具合です。設問のオートマトンに 0011001110 の順に入力すると、以下のように遷移します。\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/04a.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成30年春季 問4",
                    "ca":  "技術系 » 基礎理論 » 資訊相關理論",
-                   "q":  "有一個自動機，其輸入符號與輸出符號的集合皆為 {0, 1}，並由狀態轉換圖表示。當輸入符號序列為 0011001110 時，其輸出符號序列為何？在此，S\u003csub\u003e1\u003c/sub\u003e 代表初始狀態，圖中邊上的標籤表示「輸入／輸出」。\u003cbr\u003e\u003cbr\u003e〔狀態轉換圖〕\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/04.png\" alt=\"\"\u003e",
+                   "q":  "有一個自動機，其輸入符號與輸出符號的集合皆為 {0, 1}，並由狀態轉換圖表示。當輸入符號序列為 0011001110 時，其輸出符號序列為何？在此，S\u003csub\u003e1\u003c/sub\u003e 代表初始狀態，圖中邊上的標籤表示「輸入／輸出」。\u003cbr\u003e\u003cbr\u003e〔狀態轉換圖〕\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/04.png\" alt=\"\"\u003e",
                    "op":  [
                               "0001000110",
                               "0001001110",
@@ -3832,7 +3832,7 @@
                               "0011111110"
                           ],
                    "an":  1,
-                   "al":  "自動機是一種僅根據當前狀態與輸入訊號的組合來決定下一個遷移狀態的模型。以題目圖中的初始狀態 S1 為例，若輸入訊號為 0，則再次遷移至 S1；若輸入訊號為 1，則遷移至 S2。將 0011001110 依序輸入該自動機時，其遷移過程如下：\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/04a.png\" alt=\"\"\u003e"
+                   "al":  "自動機是一種僅根據當前狀態與輸入訊號的組合來決定下一個遷移狀態的模型。以題目圖中的初始狀態 S1 為例，若輸入訊號為 0，則再次遷移至 S1；若輸入訊號為 1，則遷移至 S2。將 0011001110 依序輸入該自動機時，其遷移過程如下：\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/04a.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -3867,7 +3867,7 @@
         "ja":  {
                    "ti":  "平成18年秋期　問4",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "次の24ビットの浮動小数点形式で表現できる最大値を表すビット列を，16進数として表したものはどれか。ここで，この形式で表現される値は(－1)\u003csup\u003eS\u003c/sup\u003e×16\u003csup\u003eE-64\u003c/sup\u003e×0.M である。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/04.png\" alt=\"問4画像\"\u003e",
+                   "q":  "次の24ビットの浮動小数点形式で表現できる最大値を表すビット列を，16進数として表したものはどれか。ここで，この形式で表現される値は(－1)\u003csup\u003eS\u003c/sup\u003e×16\u003csup\u003eE-64\u003c/sup\u003e×0.M である。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/04.png\" alt=\"問4画像\"\u003e",
                    "op":  [
                               "3FFFFF",
                               "7FFFFF",
@@ -3880,7 +3880,7 @@
         "zh":  {
                    "ti":  "平成18年秋季 問4",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "下列以24位元浮點數格式表示的最大值，若以16進位表示，其位元序列為何？在此，該格式所表示的值為(-1)\u003csup\u003eS\u003c/sup\u003e×16\u003csup\u003eE-64\u003c/sup\u003e×0.M。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/04.png\" alt=\"問4圖片\"\u003e",
+                   "q":  "下列以24位元浮點數格式表示的最大值，若以16進位表示，其位元序列為何？在此，該格式所表示的值為(-1)\u003csup\u003eS\u003c/sup\u003e×16\u003csup\u003eE-64\u003c/sup\u003e×0.M。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/04.png\" alt=\"問4圖片\"\u003e",
                    "op":  [
                               "3FFFFF",
                               "7FFFFF",
@@ -3903,7 +3903,7 @@
                               "75"
                           ],
                    "an":  4,
-                   "al":  "製品全体に対するラインAで製造された不良品の割合は、 0.6×0.02＝0.012同様にラインBで製造された不良品の割合は、 0.4×0.01＝0.004不良品の比率は、 0.012：0.004＝3：1であるため、仮に不良品が4個あれば3つはラインAのもの、1つはラインBのものということになります。調べた不良品がラインAで製造された確率は、 3／(3＋1)＝75(%)したがって「エ」が正解です。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/02.png\" alt=\"\"\u003e"
+                   "al":  "製品全体に対するラインAで製造された不良品の割合は、 0.6×0.02＝0.012同様にラインBで製造された不良品の割合は、 0.4×0.01＝0.004不良品の比率は、 0.012：0.004＝3：1であるため、仮に不良品が4個あれば3つはラインAのもの、1つはラインBのものということになります。調べた不良品がラインAで製造された確率は、 3／(3＋1)＝75(%)したがって「エ」が正解です。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/02.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成28年秋季 問2",
@@ -3916,7 +3916,7 @@
                               "75"
                           ],
                    "an":  4,
-                   "al":  "相對於總產品，由生產線 A 製造出的不良品比例為：0.6 × 0.02 = 0.012；同樣地，由生產線 B 製造出的不良品比例為：0.4 × 0.01 = 0.004。不良品的比例為 0.012：0.004 = 3：1。因此，若假設有 4 個不良品，其中 3 個來自生產線 A，1 個來自生產線 B。檢查出的不良品是由生產線 A 製造的機率為：3 / (3 + 1) = 75 (%)。因此「エ」為正確答案。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/02.png\" alt=\"\"\u003e"
+                   "al":  "相對於總產品，由生產線 A 製造出的不良品比例為：0.6 × 0.02 = 0.012；同樣地，由生產線 B 製造出的不良品比例為：0.4 × 0.01 = 0.004。不良品的比例為 0.012：0.004 = 3：1。因此，若假設有 4 個不良品，其中 3 個來自生產線 A，1 個來自生產線 B。檢查出的不良品是由生產線 A 製造的機率為：3 / (3 + 1) = 75 (%)。因此「エ」為正確答案。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/02.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -3959,7 +3959,7 @@
                               "16進数FFとのXOR(排他的論理和)をとる。"
                           ],
                    "an":  3,
-                   "al":  "論理演算を利用したビット操作には、論理積(AND)を用いて特定位置のビットを取り出す操作と、排他的論理和(XOR)を用いて特定位置のビットを反転させる操作があります。論理積(AND)演算の真理値表は次のようになっています。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/02.png\" alt=\"AND演算の真理値表\"\u003e"
+                   "al":  "論理演算を利用したビット操作には、論理積(AND)を用いて特定位置のビットを取り出す操作と、排他的論理和(XOR)を用いて特定位置のビットを反転させる操作があります。論理積(AND)演算の真理値表は次のようになっています。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/02.png\" alt=\"AND演算の真理値表\"\u003e"
                },
         "zh":  {
                    "ti":  "平成26年春季 問2",
@@ -3972,7 +3972,7 @@
                               "與16進數FF進行XOR（互斥或）運算。"
                           ],
                    "an":  3,
-                   "al":  "利用邏輯運算的位元操作中，包含使用邏輯乘（AND）來取出特定位置位元的操作，以及使用互斥或（XOR）來反轉特定位置位元的操作。邏輯乘（AND）運算的真值表如下：\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/02.png\" alt=\"AND運算的真值表\"\u003e"
+                   "al":  "利用邏輯運算的位元操作中，包含使用邏輯乘（AND）來取出特定位置位元的操作，以及使用互斥或（XOR）來反轉特定位置位元的操作。邏輯乘（AND）運算的真值表如下：\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/02.png\" alt=\"AND運算的真值表\"\u003e"
                }
     },
     {
@@ -3987,7 +3987,7 @@
                               "16進表記 0F のビット列との否定論理積をとる。"
                           ],
                    "an":  1,
-                   "al":  "各論理演算は次のような操作を意味しています。論理積(AND)2つのビットが両方とも1のときにだけ1を出力し、それ以外は0を出力する。論理和(OR)2つのビットのどちらかが1であれば1を出力し、両方とも0のときは0を出力する。排他的論理和(XOR)2つのビットが異なるときは1を出力し、同じときは0を出力する。否定論理積(NAND＝Not AND)AND演算の結果を反転した演算で、2つのビットが両方とも1のときにだけ0を出力し、それ以外は1を出力する。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/09.png\" alt=\"\"\u003e"
+                   "al":  "各論理演算は次のような操作を意味しています。論理積(AND)2つのビットが両方とも1のときにだけ1を出力し、それ以外は0を出力する。論理和(OR)2つのビットのどちらかが1であれば1を出力し、両方とも0のときは0を出力する。排他的論理和(XOR)2つのビットが異なるときは1を出力し、同じときは0を出力する。否定論理積(NAND＝Not AND)AND演算の結果を反転した演算で、2つのビットが両方とも1のときにだけ0を出力し、それ以外は1を出力する。\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/09.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成17年春季 問9",
@@ -4000,7 +4000,7 @@
                               "與十六進位 0F 的位元串進行反及（NAND）運算。"
                           ],
                    "an":  1,
-                   "al":  "各邏輯運算代表的意義如下：邏輯與（AND）：僅在兩個位元皆為 1 時輸出 1，否則輸出 0。邏輯或（OR）：若兩個位元中任一個為 1 則輸出 1，若皆為 0 則輸出 0。互斥或（XOR）：當兩個位元不同時輸出 1，相同時輸出 0。反及（NAND＝Not AND）：將 AND 運算的結果反轉，僅在兩個位元皆為 1 時輸出 0，否則輸出 1。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/09.png\" alt=\"\"\u003e"
+                   "al":  "各邏輯運算代表的意義如下：邏輯與（AND）：僅在兩個位元皆為 1 時輸出 1，否則輸出 0。邏輯或（OR）：若兩個位元中任一個為 1 則輸出 1，若皆為 0 則輸出 0。互斥或（XOR）：當兩個位元不同時輸出 1，相同時輸出 0。反及（NAND＝Not AND）：將 AND 運算的結果反轉，僅在兩個位元皆為 1 時輸出 0，否則輸出 1。\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/09.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -4035,7 +4035,7 @@
         "ja":  {
                    "ti":  "平成25年春期　問1",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "16ビットの2進数nを16進数の各けたに分けて，下位のけたから順にスタックに格納するために，次の手順を4回繰り返す。a，b に入る適切な語句の組合せはどれか。ここで，XXXX\u003csub\u003e16\u003c/sub\u003eは16進数XXXXを表す。\u003cbr\u003e\u003cbr\u003e〔手順〕\u003cul\u003e\u003cli class=\"li1\"\u003e\u003cspan class=\"bb\"\u003ea\u003c/span\u003eをxに代入する。\u003c/li\u003e\u003cli class=\"li2\"\u003exをスタックにプッシュする。\u003c/li\u003e\u003cli class=\"li3\"\u003enを\u003cspan class=\"bb\"\u003eb\u003c/span\u003e論理シフトする。\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/01.png\" alt=\"\"\u003e",
+                   "q":  "16ビットの2進数nを16進数の各けたに分けて，下位のけたから順にスタックに格納するために，次の手順を4回繰り返す。a，b に入る適切な語句の組合せはどれか。ここで，XXXX\u003csub\u003e16\u003c/sub\u003eは16進数XXXXを表す。\u003cbr\u003e\u003cbr\u003e〔手順〕\u003cul\u003e\u003cli class=\"li1\"\u003e\u003cspan class=\"bb\"\u003ea\u003c/span\u003eをxに代入する。\u003c/li\u003e\u003cli class=\"li2\"\u003exをスタックにプッシュする。\u003c/li\u003e\u003cli class=\"li3\"\u003enを\u003cspan class=\"bb\"\u003eb\u003c/span\u003e論理シフトする。\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/01.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -4048,7 +4048,7 @@
         "zh":  {
                    "ti":  "平成25年春季 問1",
                    "ca":  "科技系 » 基礎理論 » 離散數學",
-                   "q":  "將16位元的二進位數 n 分割為十六進位的每個位數，並為了依照從低位數到高位數的順序存入堆疊中，需重複執行以下步驟4次。請問 a、b 中填入適當語句的組合為何？在此，XXXX\u003csub\u003e16\u003c/sub\u003e 表示十六進位數 XXXX。\u003cbr\u003e\u003cbr\u003e〔步驟〕\u003cul\u003e\u003cli class=\"li1\"\u003e將\u003cspan class=\"bb\"\u003ea\u003c/span\u003e賦值給 x。\u003c/li\u003e\u003cli class=\"li2\"\u003e將 x 推入 (push) 堆疊。\u003c/li\u003e\u003cli class=\"li3\"\u003e將 n 進行\u003cspan class=\"bb\"\u003eb\u003c/span\u003e邏輯位移。\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/01.png\" alt=\"\"\u003e",
+                   "q":  "將16位元的二進位數 n 分割為十六進位的每個位數，並為了依照從低位數到高位數的順序存入堆疊中，需重複執行以下步驟4次。請問 a、b 中填入適當語句的組合為何？在此，XXXX\u003csub\u003e16\u003c/sub\u003e 表示十六進位數 XXXX。\u003cbr\u003e\u003cbr\u003e〔步驟〕\u003cul\u003e\u003cli class=\"li1\"\u003e將\u003cspan class=\"bb\"\u003ea\u003c/span\u003e賦值給 x。\u003c/li\u003e\u003cli class=\"li2\"\u003e將 x 推入 (push) 堆疊。\u003c/li\u003e\u003cli class=\"li3\"\u003e將 n 進行\u003cspan class=\"bb\"\u003eb\u003c/span\u003e邏輯位移。\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/01.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -4071,7 +4071,7 @@
                               "0.84"
                           ],
                    "an":  3,
-                   "al":  "16進数の1桁は2進数の4桁に対応しています。16進数を10進数に変換する場合は、16進数→2進数→10進数というように、2進数を経由して考えるとわかりやすいです。\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/01.png\" alt=\"01.png\"\u003e"
+                   "al":  "16進数の1桁は2進数の4桁に対応しています。16進数を10進数に変換する場合は、16進数→2進数→10進数というように、2進数を経由して考えるとわかりやすいです。\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/01.png\" alt=\"01.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和5年度 問1",
@@ -4084,14 +4084,14 @@
                               "0.84"
                           ],
                    "an":  3,
-                   "al":  "16進位的1位數對應於2進位的4位數。若要將16進位轉換為10進位，經由2進位轉換（16進位→2進位→10進位）會較容易理解。\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/01.png\" alt=\"01.png\"\u003e"
+                   "al":  "16進位的1位數對應於2進位的4位數。若要將16進位轉換為10進位，經由2進位轉換（16進位→2進位→10進位）會較容易理解。\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/01.png\" alt=\"01.png\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成20年春期　問9",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "x，y，z を論理変数，Tを真，Fを偽とするとき，次の真理値表で示される関数 ƒ(x，y，z) を表す論理式はどれか。ここで∧は論理積，∨は論理和，\u003cspan class=\"ol\"\u003eA\u003c/span\u003eはAの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/9.png\" alt=\"問9画像\"\u003e",
+                   "q":  "x，y，z を論理変数，Tを真，Fを偽とするとき，次の真理値表で示される関数 ƒ(x，y，z) を表す論理式はどれか。ここで∧は論理積，∨は論理和，\u003cspan class=\"ol\"\u003eA\u003c/span\u003eはAの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/9.png\" alt=\"問9画像\"\u003e",
                    "op":  [
                               "(x∧y)∨(y∧z)",
                               "(x∧y)∨(\u003cspan class=\"ol\"\u003ey",
@@ -4104,7 +4104,7 @@
         "zh":  {
                    "ti":  "平成20年春季 問9",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "設 x、y、z 為邏輯變數，T 為真，F 為偽，下列哪一個邏輯式表示真值表所示的函數 ƒ(x，y，z)？其中 ∧ 表示邏輯乘（AND），∨ 表示邏輯加（OR），\u003cspan class=\"ol\"\u003eA\u003c/span\u003e 表示 A 的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/9.png\" alt=\"問9圖片\"\u003e",
+                   "q":  "設 x、y、z 為邏輯變數，T 為真，F 為偽，下列哪一個邏輯式表示真值表所示的函數 ƒ(x，y，z)？其中 ∧ 表示邏輯乘（AND），∨ 表示邏輯加（OR），\u003cspan class=\"ol\"\u003eA\u003c/span\u003e 表示 A 的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/9.png\" alt=\"問9圖片\"\u003e",
                    "op":  [
                               "(x∧y)∨(y∧z)",
                               "(x∧y)∨(\u003cspan class=\"ol\"\u003ey\u003c/span\u003e∧z)",
@@ -4203,12 +4203,12 @@
         "ja":  {
                    "ti":  "平成18年春期　問4",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "数値を図に示す16ビットの浮動小数点形式で表すとき，10進数0.25を正規化した表現はどれか。ここでの正規化は，仮数部の最上位けたが0にならないように指数部と仮数部を調節する操作とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/04.png\" alt=\"問4画像\"\u003e",
+                   "q":  "数値を図に示す16ビットの浮動小数点形式で表すとき，10進数0.25を正規化した表現はどれか。ここでの正規化は，仮数部の最上位けたが0にならないように指数部と仮数部を調節する操作とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/04.png\" alt=\"問4画像\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/04a.png\" alt=\"問4ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/04i.png\" alt=\"問4イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/04u.png\" alt=\"問4ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/04e.png\" alt=\"問4エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/04a.png\" alt=\"問4ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/04i.png\" alt=\"問4イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/04u.png\" alt=\"問4ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/04e.png\" alt=\"問4エ\"\u003e"
                           ],
                    "an":  3,
                    "al":  "10進数0.25は2進数に変換すると0.01です。この2進数0.01を問題文にあるように正規化すると0.1×2-1と表現することができます。この0.1×2－1 を浮動小数点形式の各桁に当てはめていきます。s:10進数0.25は正の値なので、s には0が入ります。e: 指数は －1なので、これを4ビットの2の補数であらわした1111が入ります。f: 仮数部は、0.1なので小数点の右側部分である1がそのまま入り 10000000000 になります。 (fの部分はすべての選択肢で共通なので考える必要はありませんが…)つまり答えは、0111110000000000で「ウ」となります。※正規化するとき2進数0.01を、0.1×2-1に変換する箇所について補足説明のご依頼がありましたので追記します。正規化は、仮数部の有効桁数を最大にするためにおこなう操作です。10進数0.25は2進数に変換すると0.01です。正規化するには、小数点第1位に1が来るようにしたいので、この問題の場合は小数点を1つ右へ移動したいわけです。0.01(2)は2進数なので2倍してやると0.1(2)になって小数第1位が適切な形式になります。 0.01(2)×2＝0.1(2)シフト演算のように考えて、小数点を{ n回右に移動すると2の n乗倍 n回左に移動すると2の －n乗倍}という関係です。0.1(2)は、0.01(2)を2倍した数ですから、0.01(2)は、0.1(2)の1/2倍という関係になります。 0.01(2)＝0.1(2)×1/2この1/2を2の累乗で表わすと2の-1乗ですので、 0.01(2)＝0.1(2)×2-1という表現に変換できるわけです。"
@@ -4216,12 +4216,12 @@
         "zh":  {
                    "ti":  "平成18年春季 問4",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "當使用下圖所示的16位元浮點數格式表示數值時，將十進位數 0.25 正規化後的表示方式為何？此處的正規化是指調整指數部與尾數部，使得尾數部的最高位數不為 0 的操作。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/04.png\" alt=\"問4圖片\"\u003e",
+                   "q":  "當使用下圖所示的16位元浮點數格式表示數值時，將十進位數 0.25 正規化後的表示方式為何？此處的正規化是指調整指數部與尾數部，使得尾數部的最高位數不為 0 的操作。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/04.png\" alt=\"問4圖片\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/04a.png\" alt=\"問4選項ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/04i.png\" alt=\"問4選項イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/04u.png\" alt=\"問4選項ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/04e.png\" alt=\"問4選項エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/04a.png\" alt=\"問4選項ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/04i.png\" alt=\"問4選項イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/04u.png\" alt=\"問4選項ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/04e.png\" alt=\"問4選項エ\"\u003e"
                           ],
                    "an":  3,
                    "al":  "十進位數 0.25 轉換為二進位數為 0.01。將此二進位數 0.01 依照題目要求進行正規化，可表示為 0.1 × 2⁻¹。接著將此 0.1 × 2⁻¹ 套用到浮點數格式的各個位數中：s：因十進位數 0.25 為正值，故 s 填入 0。e：指數為 -1，將其以 4 位元的 2 的補數表示，即為 1111。f：尾數部為 0.1，故小數點右側的 1 直接填入，變為 10000000000。（f 的部分在所有選項中皆相同，故無需考慮...）因此答案為 0111110000000000，即選項「ウ」。※關於正規化時將二進位數 0.01 轉換為 0.1 × 2⁻¹ 的部分，應補充說明如下：正規化是為了使尾數部的有效位數達到最大所進行的操作。十進位數 0.25 轉換為二進位數為 0.01。為了正規化，我們希望小數點後第一位為 1，因此在此題中需將小數點向右移動一位。由於 0.01(2) 是二進位數，乘以 2 後變為 0.1(2)，此時小數點後第一位符合所需格式。關於移位運算，存在著「將小數點向右移動 n 次等於乘以 2 的 n 次方，向左移動 n 次等於乘以 2 的 -n 次方」的關係。0.1(2) 是將 0.01(2) 乘以 2 的數，因此 0.01(2) 與 0.1(2) 的關係為 1/2 倍。即 0.01(2) = 0.1(2) × 1/2。將此 1/2 以 2 的冪次表示即為 2 的 -1 次方，故可轉換為 0.01(2) = 0.1(2) × 2⁻¹。"
@@ -4259,7 +4259,7 @@
         "ja":  {
                    "ti":  "平成29年秋期　問4",
                    "ca":  "テクノロジ系 » 基礎理論 » 計測・制御に関する理論",
-                   "q":  "図のような黒色で描かれた円に沿って車が走るように，左右の後輪に独立に取り付けられたモーターL及びRの回転速度を制御する。センサーL及びRは反射型光センサーであり，センサーが黒色に掛かる比率が大きいと出力値が小さくなり，黒色に掛かる比率が小さいと出力値が大きくなる。この車を円に沿って走行させるためのモーター回転速度の制御方法として，適切なものはどれか。ここで，二つのセンサーの出力値が一致するときには，二つのモーターの回転速度を初期値に戻すものとする。\u003cbr\u003e※ダークモードでは画像の白黒が反転しています。問題文の黒色は白色と読み替えてください。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/04.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/04a.png\" alt=\"\"\u003e",
+                   "q":  "図のような黒色で描かれた円に沿って車が走るように，左右の後輪に独立に取り付けられたモーターL及びRの回転速度を制御する。センサーL及びRは反射型光センサーであり，センサーが黒色に掛かる比率が大きいと出力値が小さくなり，黒色に掛かる比率が小さいと出力値が大きくなる。この車を円に沿って走行させるためのモーター回転速度の制御方法として，適切なものはどれか。ここで，二つのセンサーの出力値が一致するときには，二つのモーターの回転速度を初期値に戻すものとする。\u003cbr\u003e※ダークモードでは画像の白黒が反転しています。問題文の黒色は白色と読み替えてください。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/04.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/04a.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -4267,12 +4267,12 @@
                               "エ"
                           ],
                    "an":  2,
-                   "al":  "まず設問に係る条件を整理しておきます。[センサーと出力値の関係]センサーに掛かる黒色部分が大きくなる→出力値が減るセンサーに掛かる黒色部分が小さくなる→出力値が増える[車の制御]左方向に進行させる→左の回転を下げ、右の回転を上げる。右方向に進行させる→左の回転を上げ、右の回転を下げる。次に車が黒いラインから右にずれているケースと左にずれているケースの2つを考えます。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/04_1.png\" alt=\"\"\u003e"
+                   "al":  "まず設問に係る条件を整理しておきます。[センサーと出力値の関係]センサーに掛かる黒色部分が大きくなる→出力値が減るセンサーに掛かる黒色部分が小さくなる→出力値が増える[車の制御]左方向に進行させる→左の回転を下げ、右の回転を上げる。右方向に進行させる→左の回転を上げ、右の回転を下げる。次に車が黒いラインから右にずれているケースと左にずれているケースの2つを考えます。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/04_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成29年秋期 問4",
                    "ca":  "技術系 » 基礎理論 » 測量與控制相關理論",
-                   "q":  "為了讓車輛沿著如圖所示的黑色圓圈行駛，我們需要控制左右後輪獨立安裝的馬達 L 及 R 的轉速。傳感器 L 及 R 為反射式光學傳感器，當傳感器檢測到黑色區域的比率越大，輸出值越小；檢測到黑色區域的比率越小，輸出值越大。下列關於讓此車沿著圓圈行駛的馬達轉速控制方法，何者最適當？在此，當兩個傳感器的輸出值一致時，兩個馬達的轉速將恢復為初始值。\u003cbr\u003e※深色模式下影像的黑白會反轉。請將題目中的黑色讀作白色。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/04.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/04a.png\" alt=\"\"\u003e",
+                   "q":  "為了讓車輛沿著如圖所示的黑色圓圈行駛，我們需要控制左右後輪獨立安裝的馬達 L 及 R 的轉速。傳感器 L 及 R 為反射式光學傳感器，當傳感器檢測到黑色區域的比率越大，輸出值越小；檢測到黑色區域的比率越小，輸出值越大。下列關於讓此車沿著圓圈行駛的馬達轉速控制方法，何者最適當？在此，當兩個傳感器的輸出值一致時，兩個馬達的轉速將恢復為初始值。\u003cbr\u003e※深色模式下影像的黑白會反轉。請將題目中的黑色讀作白色。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/04.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/04a.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -4280,7 +4280,7 @@
                               "エ"
                           ],
                    "an":  2,
-                   "al":  "首先整理與題目相關的條件。[傳感器與輸出值的關係] 傳感器檢測到的黑色部分越多 → 輸出值減少；傳感器檢測到的黑色部分越少 → 輸出值增加。[車輛控制] 向左行駛 → 降低左側轉速，提高右側轉速。向右行駛 → 提高左側轉速，降低右側轉速。接著考慮車輛從黑色線條向右偏移，以及向左偏移這兩種情況。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/04_1.png\" alt=\"\"\u003e"
+                   "al":  "首先整理與題目相關的條件。[傳感器與輸出值的關係] 傳感器檢測到的黑色部分越多 → 輸出值減少；傳感器檢測到的黑色部分越少 → 輸出值增加。[車輛控制] 向左行駛 → 降低左側轉速，提高右側轉速。向右行駛 → 提高左側轉速，降低右側轉速。接著考慮車輛從黑色線條向右偏移，以及向左偏移這兩種情況。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/04_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -4295,7 +4295,7 @@
                               "16進表記 FF のビット列と論理和をとる。"
                           ],
                    "an":  3,
-                   "al":  "「ビットを反転する」とは、ビット列のうち1の部分を0にし、0の部分を1にすることです。各論理演算の特性を踏まえて答えを導きましょう。排他的論理和(XOR)と論理和(OR)の真理値表は次のようになっています。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/02.png\" alt=\"排他的論理和と論理和の真理値表\"\u003e"
+                   "al":  "「ビットを反転する」とは、ビット列のうち1の部分を0にし、0の部分を1にすることです。各論理演算の特性を踏まえて答えを導きましょう。排他的論理和(XOR)と論理和(OR)の真理値表は次のようになっています。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/02.png\" alt=\"排他的論理和と論理和の真理値表\"\u003e"
                },
         "zh":  {
                    "ti":  "令和元年秋季 問2",
@@ -4308,7 +4308,7 @@
                               "與十六進位表記 FF 的位元序列進行邏輯或（OR）運算。"
                           ],
                    "an":  3,
-                   "al":  "「位元反轉」是指將位元序列中的 1 變為 0，0 變為 1。根據各邏輯運算的特性來導出答案。互斥或（XOR）與邏輯或（OR）的真值表如下所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/02.png\" alt=\"互斥或與邏輯或的真值表\"\u003e"
+                   "al":  "「位元反轉」是指將位元序列中的 1 變為 0，0 變為 1。根據各邏輯運算的特性來導出答案。互斥或（XOR）與邏輯或（OR）的真值表如下所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/02.png\" alt=\"互斥或與邏輯或的真值表\"\u003e"
                }
     },
     {
@@ -4435,7 +4435,7 @@
                               "正解のデータを提示せずに，統計的性質や，ある種の条件によって入力パターンを判定したり，クラスタリングしたりする。"
                           ],
                    "an":  3,
-                   "al":  "機械学習とは、学習方法をプログラムしたコンピュータに大量の訓練データを与えることで、コンピュータ自らに事象の認識や分類方法を学習させ、未知のデータに対しても学習結果に基づく推論を行うシステムを作る手法の総称です。機械学習は、訓練データの性質によって「教師あり学習」「教師なし学習」「強化学習」の3つに大別できます（※強化学習を教師なし学習に含めることもあります）。教師あり学習訓練データとして、ラベル(正解)付きデータを使用する学習方法。入力に対する正しい出力の例を与えることで、入力と出力の関係を学習させる。教師なし学習訓練データとして、ラベルなしデータを使用する学習方法。クラスタリングなどのためにデータ構造を学習させる。強化学習正解データの代わりに、与えられた環境における個々の行動に対して得点や報酬を与える学習方法。一連の行動に対して評価値を与えることで、高い得点を取る、すなわち最良の行動を自律的に学習させる。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/04.png\" alt=\"\"\u003e"
+                   "al":  "機械学習とは、学習方法をプログラムしたコンピュータに大量の訓練データを与えることで、コンピュータ自らに事象の認識や分類方法を学習させ、未知のデータに対しても学習結果に基づく推論を行うシステムを作る手法の総称です。機械学習は、訓練データの性質によって「教師あり学習」「教師なし学習」「強化学習」の3つに大別できます（※強化学習を教師なし学習に含めることもあります）。教師あり学習訓練データとして、ラベル(正解)付きデータを使用する学習方法。入力に対する正しい出力の例を与えることで、入力と出力の関係を学習させる。教師なし学習訓練データとして、ラベルなしデータを使用する学習方法。クラスタリングなどのためにデータ構造を学習させる。強化学習正解データの代わりに、与えられた環境における個々の行動に対して得点や報酬を与える学習方法。一連の行動に対して評価値を与えることで、高い得点を取る、すなわち最良の行動を自律的に学習させる。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/04.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成31年春季 問4",
@@ -4448,35 +4448,35 @@
                               "在不提示正確答案數據的情況下，根據統計特性或特定條件，來判定輸入模式或進行分群（Clustering）。"
                           ],
                    "an":  3,
-                   "al":  "機器學習是指透過將大量訓練數據提供給程式化的電腦，讓電腦自行學習現象的識別或分類方法，並針對未知數據依據學習結果進行推論的系統建立方法之總稱。機器學習依據訓練數據的性質，大致可分為「監督式學習」、「非監督式學習」與「強化學習」三類（註：有時會將強化學習歸類於非監督式學習）。\n\n監督式學習：作為訓練數據，使用附帶標籤（正確答案）數據的學習方法。透過給予輸入對應的正確輸出範例，來學習輸入與輸出之間的關係。\n\n非監督式學習：作為訓練數據，使用不附帶標籤數據的學習方法。為了進行分群等目的，學習數據結構。\n\n強化學習：不使用正確答案數據，而是針對給定環境下的個別行為，給予分數或獎勵的學習方法。透過對一系列行為給予評價值，讓電腦自主學習如何取得高分，亦即學習最佳行為。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/04.png\" alt=\"\"\u003e"
+                   "al":  "機器學習是指透過將大量訓練數據提供給程式化的電腦，讓電腦自行學習現象的識別或分類方法，並針對未知數據依據學習結果進行推論的系統建立方法之總稱。機器學習依據訓練數據的性質，大致可分為「監督式學習」、「非監督式學習」與「強化學習」三類（註：有時會將強化學習歸類於非監督式學習）。\n\n監督式學習：作為訓練數據，使用附帶標籤（正確答案）數據的學習方法。透過給予輸入對應的正確輸出範例，來學習輸入與輸出之間的關係。\n\n非監督式學習：作為訓練數據，使用不附帶標籤數據的學習方法。為了進行分群等目的，學習數據結構。\n\n強化學習：不使用正確答案數據，而是針對給定環境下的個別行為，給予分數或獎勵的學習方法。透過對一系列行為給予評價值，讓電腦自主學習如何取得高分，亦即學習最佳行為。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/04.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "令和6年度　問1",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "X及びYはそれぞれ0又は1の値をとる変数である。X□YをXとYの論理演算としたとき，次の真理値表が得られた。X□Yの真理値表はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/01.png\" alt=\"01.png\"\u003e",
+                   "q":  "X及びYはそれぞれ0又は1の値をとる変数である。X□YをXとYの論理演算としたとき，次の真理値表が得られた。X□Yの真理値表はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/01.png\" alt=\"01.png\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/01a.png\" alt=\"01a.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/01i.png\" alt=\"01i.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/01u.png\" alt=\"01u.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/01e.png\" alt=\"01e.png\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/01a.png\" alt=\"01a.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/01i.png\" alt=\"01i.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/01u.png\" alt=\"01u.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/01e.png\" alt=\"01e.png\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "真理値表の演算結果のうち次のうち着目します。\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/01_1.png\" alt=\"01_1.png\"\u003e"
+                   "al":  "真理値表の演算結果のうち次のうち着目します。\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/01_1.png\" alt=\"01_1.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和6年度　問1",
                    "ca":  "技術類 » 基礎理論 » 離散數學",
-                   "q":  "X 與 Y 分別為取值 0 或 1 的變數。若 X□Y 為 X 與 Y 的邏輯運算，且得到下列真值表。請問 X□Y 的真值表為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/01.png\" alt=\"01.png\"\u003e",
+                   "q":  "X 與 Y 分別為取值 0 或 1 的變數。若 X□Y 為 X 與 Y 的邏輯運算，且得到下列真值表。請問 X□Y 的真值表為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/01.png\" alt=\"01.png\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/01a.png\" alt=\"01a.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/01i.png\" alt=\"01i.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/01u.png\" alt=\"01u.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/01e.png\" alt=\"01e.png\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/01a.png\" alt=\"01a.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/01i.png\" alt=\"01i.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/01u.png\" alt=\"01u.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/01e.png\" alt=\"01e.png\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "請注意真值表運算結果中的以下部分。\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/01_1.png\" alt=\"01_1.png\"\u003e"
+                   "al":  "請注意真值表運算結果中的以下部分。\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/01_1.png\" alt=\"01_1.png\"\u003e"
                }
     },
     {
@@ -4485,10 +4485,10 @@
                    "ca":  "テクノロジ系 » 基礎理論 » 応用数学",
                    "q":  "標本相関係数が－0.9，－0.7，0.7，0.9のいずれかとなる標本の分布と回帰直線を表したグラフのうち，標本相関係数が－0.9のものはどれか。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/8a.png\" alt=\"問8ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/8i.png\" alt=\"問8イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/8u.png\" alt=\"問8ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/8e.png\" alt=\"問8エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/8a.png\" alt=\"問8ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/8i.png\" alt=\"問8イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/8u.png\" alt=\"問8ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/8e.png\" alt=\"問8エ\"\u003e"
                           ],
                    "an":  3,
                    "al":  "相関係数は、2つの項目の関連度合いを示す値です。値として－1～＋1の間の実数値をとり、-1に近ければ負の相関があり回帰直線は右肩下がり、＋1に近ければ正の相関があり回帰直線は右肩上がりを描きます。値が0に近いときには2項目間の相関は弱いと判断されます。負の相関といっても、正に比べて関連性が弱いわけではありません。正負の方向は相関の強さには関係なく、より相関係数の絶対値が(1に近い)大きいものが強い相関性をもつことを表します。標本相関係数－0.9は負の相関ということになるので、選択肢の中で「ウ」と「エ」が候補となります。もう一方のグラフの標本相関係数は－0.7ということが問題文からわかっているので、2つのグラフのうちより2項目間の相関性が高い「ウ」のグラフが標本相関係数－0.9の回帰直線を表したグラフになります。"
@@ -4498,10 +4498,10 @@
                    "ca":  "科技系 » 基礎理論 » 應用數學",
                    "q":  "在樣本相關係數分別為－0.9、－0.7、0.7、0.9的樣本分佈與迴歸直線圖表中，哪一個圖代表樣本相關係數為－0.9？",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/8a.png\" alt=\"問8ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/8i.png\" alt=\"問8イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/8u.png\" alt=\"問8ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/8e.png\" alt=\"問8エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/8a.png\" alt=\"問8ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/8i.png\" alt=\"問8イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/8u.png\" alt=\"問8ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/8e.png\" alt=\"問8エ\"\u003e"
                           ],
                    "an":  3,
                    "al":  "相關係數是用來表示兩項目關聯程度的數值。其值為－1到＋1之間的實數；越接近－1表示負相關，迴歸直線向右下方傾斜；越接近＋1表示正相關，迴歸直線向右上方傾斜。當值接近0時，表示兩項目間的相關性較弱。所謂負相關，並不代表其關聯性比正相關弱。正負方向與相關強弱無關，相關係數的絕對值越大（越接近1）表示相關性越強。樣本相關係數－0.9屬於負相關，因此在選項中「ウ」與「エ」為候選。由於題目已知另一張圖的樣本相關係數為－0.7，在兩張圖中相關性較高（更接近直線）的「ウ」圖，即代表樣本相關係數為－0.9的迴歸直線圖。"
@@ -4511,7 +4511,7 @@
         "ja":  {
                    "ti":  "平成23年特別　問4",
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
-                   "q":  "次の表は，文字列を検査するための状態遷移表である。検査では，初期状態をaとし，文字列の検査中に状態がeになれば不合格とする。\u003cbr\u003e　解答群で示される文字列のうち，不合格となるものはどれか。ここで，文字列は左端から検査し，解答群中の△は空白を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/04.png\" alt=\"問4画像\"\u003e",
+                   "q":  "次の表は，文字列を検査するための状態遷移表である。検査では，初期状態をaとし，文字列の検査中に状態がeになれば不合格とする。\u003cbr\u003e　解答群で示される文字列のうち，不合格となるものはどれか。ここで，文字列は左端から検査し，解答群中の△は空白を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/04.png\" alt=\"問4画像\"\u003e",
                    "op":  [
                               "＋0010",
                               "－1",
@@ -4524,7 +4524,7 @@
         "zh":  {
                    "ti":  "平成23年特別 問4",
                    "ca":  "技術系 » 基礎理論 » 資訊相關理論",
-                   "q":  "下表為用於檢查字串的狀態遷移表。檢查時，初始狀態設為 a，若在字串檢查過程中狀態變為 e，則判定為不合格。\u003cbr\u003e在選項所示的字串中，哪一個會被判定為不合格？此處，字串從左端開始檢查，選項中的 △ 代表空白。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/04.png\" alt=\"問4圖片\"\u003e",
+                   "q":  "下表為用於檢查字串的狀態遷移表。檢查時，初始狀態設為 a，若在字串檢查過程中狀態變為 e，則判定為不合格。\u003cbr\u003e在選項所示的字串中，哪一個會被判定為不合格？此處，字串從左端開始檢查，選項中的 △ 代表空白。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/04.png\" alt=\"問4圖片\"\u003e",
                    "op":  [
                               "＋0010",
                               "－1",
@@ -4659,7 +4659,7 @@
                               "fを指数，eを基数，rを仮数という。"
                           ],
                    "an":  1,
-                   "al":  "浮動小数点表示方式は、コンピュータの数値表現で用いられる方式です。仮数部のけた数では表現しきれない非常に大きな数や非常に小さな数を、仮数部に指数部をかけることで表すことが可能です。正しいのは「ア」で、fが仮数、eが指数、rが基数(底ともいう)です。浮動小数点表現方式で最も広く採用されていて標準規格となっているIEEE754の形式(単精度）は、以下のようになっています。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/02.png\" alt=\"\"\u003e"
+                   "al":  "浮動小数点表示方式は、コンピュータの数値表現で用いられる方式です。仮数部のけた数では表現しきれない非常に大きな数や非常に小さな数を、仮数部に指数部をかけることで表すことが可能です。正しいのは「ア」で、fが仮数、eが指数、rが基数(底ともいう)です。浮動小数点表現方式で最も広く採用されていて標準規格となっているIEEE754の形式(単精度）は、以下のようになっています。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/02.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成21年秋期 問2",
@@ -4672,14 +4672,14 @@
                               "f 為指數，e 為基數，r 為尾數。"
                           ],
                    "an":  1,
-                   "al":  "浮點數表示方式是電腦數值表示所使用的方式。對於無法以尾數部分位數完整表示的極大或極小數值，可以透過將尾數乘以指數部分來進行表示。正確答案為「ア」，其中 f 為尾數 (mantissa)，e 為指數 (exponent)，r 為基數 (radix)。在浮點數表示方式中最被廣泛採用且作為標準規範的 IEEE 754 格式（單精度）結構如下：\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/02.png\" alt=\"\"\u003e"
+                   "al":  "浮點數表示方式是電腦數值表示所使用的方式。對於無法以尾數部分位數完整表示的極大或極小數值，可以透過將尾數乘以指數部分來進行表示。正確答案為「ア」，其中 f 為尾數 (mantissa)，e 為指數 (exponent)，r 為基數 (radix)。在浮點數表示方式中最被廣泛採用且作為標準規範的 IEEE 754 格式（單精度）結構如下：\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/02.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成18年春期　問9",
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
-                   "q":  "次の表は，文字列を検査するための状態遷移表である。検査では，初期状態をaとし，文字列の検査中に状態がeになれば不合格とする。\u003cbr\u003e　解答群で示される文字列のうち，不合格となるものはどれか。ここで，文字列は左端から検査し，解答群中の△は空白を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/09.png\" alt=\"問9画像\"\u003e",
+                   "q":  "次の表は，文字列を検査するための状態遷移表である。検査では，初期状態をaとし，文字列の検査中に状態がeになれば不合格とする。\u003cbr\u003e　解答群で示される文字列のうち，不合格となるものはどれか。ここで，文字列は左端から検査し，解答群中の△は空白を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/09.png\" alt=\"問9画像\"\u003e",
                    "op":  [
                               "＋0010",
                               "－1",
@@ -4692,7 +4692,7 @@
         "zh":  {
                    "ti":  "平成18年春季 問9",
                    "ca":  "技術系 » 基礎理論 » 資訊相關理論",
-                   "q":  "下表為檢查字串的狀態轉移表。檢查時，初始狀態設為a，若在檢查字串的過程中狀態變為e，則判定為不合格。\u003cbr\u003e　在解答選項所示的字串中，哪一個會被判定為不合格？此處，字串從左端開始檢查，解答選項中的△代表空白。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/09.png\" alt=\"問9圖片\"\u003e",
+                   "q":  "下表為檢查字串的狀態轉移表。檢查時，初始狀態設為a，若在檢查字串的過程中狀態變為e，則判定為不合格。\u003cbr\u003e　在解答選項所示的字串中，哪一個會被判定為不合格？此處，字串從左端開始檢查，解答選項中的△代表空白。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/09.png\" alt=\"問9圖片\"\u003e",
                    "op":  [
                               "＋0010",
                               "－1",
@@ -4707,7 +4707,7 @@
         "ja":  {
                    "ti":  "平成30年春期　問2",
                    "ca":  "テクノロジ系 » 基礎理論 » 応用数学",
-                   "q":  "図の線上を，点Pから点Rを通って，点Qに至る最短経路は何通りあるか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/02.png\" alt=\"\"\u003e",
+                   "q":  "図の線上を，点Pから点Rを通って，点Qに至る最短経路は何通りあるか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/02.png\" alt=\"\"\u003e",
                    "op":  [
                               "16",
                               "24",
@@ -4720,7 +4720,7 @@
         "zh":  {
                    "ti":  "平成30年春季 問2",
                    "ca":  "科技系 » 基礎理論 » 應用數學",
-                   "q":  "如圖所示，在線上從點P經過點R到達點Q，最短路徑共有幾種？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/02.png\" alt=\"\"\u003e",
+                   "q":  "如圖所示，在線上從點P經過點R到達點Q，最短路徑共有幾種？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/02.png\" alt=\"\"\u003e",
                    "op":  [
                               "16",
                               "24",
@@ -4763,7 +4763,7 @@
         "ja":  {
                    "ti":  "平成23年特別　問3",
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
-                   "q":  "表は，文字A～Eを符号化したときのビット表記と，それぞれの文字の出現確率を表したものである。1文字当たりの平均ビット数は幾らになるか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/03.png\" alt=\"問3画像\"\u003e",
+                   "q":  "表は，文字A～Eを符号化したときのビット表記と，それぞれの文字の出現確率を表したものである。1文字当たりの平均ビット数は幾らになるか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/03.png\" alt=\"問3画像\"\u003e",
                    "op":  [
                               "1.6",
                               "1.8",
@@ -4776,7 +4776,7 @@
         "zh":  {
                    "ti":  "平成23年特別 問3",
                    "ca":  "技術系 » 基礎理論 » 資訊相關理論",
-                   "q":  "下表顯示了將文字 A～E 進行編碼時的位元表示，以及各個文字的出現機率。請問每個文字的平均位元數為多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/03.png\" alt=\"問3圖片\"\u003e",
+                   "q":  "下表顯示了將文字 A～E 進行編碼時的位元表示，以及各個文字的出現機率。請問每個文字的平均位元數為多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/03.png\" alt=\"問3圖片\"\u003e",
                    "op":  [
                               "1.6",
                               "1.8",
@@ -4791,7 +4791,7 @@
         "ja":  {
                    "ti":  "令和8年度　問1",
                    "ca":  "テクノロジ系 » 基礎理論 » 応用数学",
-                   "q":  "入力されたビットに対して出力されるビットが0か1のいずれかである確率を遷移確率という。遷移確率を表にしたとき，a，b，c，dの関係はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/01.png\" alt=\"\"\u003e",
+                   "q":  "入力されたビットに対して出力されるビットが0か1のいずれかである確率を遷移確率という。遷移確率を表にしたとき，a，b，c，dの関係はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/08_haru/img/01.png\" alt=\"\"\u003e",
                    "op":  [
                               "a＋b＋c＋d＝1",
                               "a＋b＝1，c＋d＝1",
@@ -4804,7 +4804,7 @@
         "zh":  {
                    "ti":  "令和8年度 問1",
                    "ca":  "科技類 » 基礎理論 » 應用數學",
-                   "q":  "針對輸入的位元，輸出位元為0或1的機率稱為轉移機率。當以表格呈現轉移機率時，a、b、c、d之間的關係為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/01.png\" alt=\"\"\u003e",
+                   "q":  "針對輸入的位元，輸出位元為0或1的機率稱為轉移機率。當以表格呈現轉移機率時，a、b、c、d之間的關係為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/08_haru/img/01.png\" alt=\"\"\u003e",
                    "op":  [
                               "a＋b＋c＋d＝1",
                               "a＋b＝1，c＋d＝1",
@@ -4883,7 +4883,7 @@
                               "生物の進化を模倣した方法であり，与えられた問題の解の候補を記号列で表現して，それらを遺伝子に見立てて突然変異，交配，とう汰を繰り返して逐次的により良い解に近づける。"
                           ],
                    "an":  3,
-                   "al":  "ディープラーニング(DeepLearning)は、人間や動物の脳神経をモデル化したアルゴリズム(ニューラルネットワーク)を多層化したものを用意し、それに「十分な量のデータを与えることで、人間の力なしに自動的に特徴点やパターンを学習させる」ことをいいます。ディープラーニングでは、脳の神経細胞であるニューロンの信号伝達をパーセプトロンというアルゴリズムで模倣し、それを大量かつ幾層にもに繋ぎ合わせた疑似的な脳神経網ネットワークを使用して学習を行います。\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/03.png\" alt=\"03.png\"\u003e"
+                   "al":  "ディープラーニング(DeepLearning)は、人間や動物の脳神経をモデル化したアルゴリズム(ニューラルネットワーク)を多層化したものを用意し、それに「十分な量のデータを与えることで、人間の力なしに自動的に特徴点やパターンを学習させる」ことをいいます。ディープラーニングでは、脳の神経細胞であるニューロンの信号伝達をパーセプトロンというアルゴリズムで模倣し、それを大量かつ幾層にもに繋ぎ合わせた疑似的な脳神経網ネットワークを使用して学習を行います。\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/03.png\" alt=\"03.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和6年度 問3",
@@ -4896,7 +4896,7 @@
                               "一種模倣生物進化過程的方法，將給定問題的解候選以符號序列表示，並將其視為基因，透過反覆進行突變、交配與淘汰，逐步趨近更佳的解。"
                           ],
                    "an":  3,
-                   "al":  "深度學習（Deep Learning）是指準備將人類或動物的腦神經模型化後的演算法（類神經網路）進行多層化處理，並透過「給予足夠量的數據，使其在無需人力介入的情況下，自動學習特徵點或模式」的過程。在深度學習中，透過名為「感知器（Perceptron）」的演算法來模倣大腦神經細胞的訊號傳遞，並使用將其大量且多層連結而成的模擬腦神經網路來進行學習。\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/03.png\" alt=\"03.png\"\u003e"
+                   "al":  "深度學習（Deep Learning）是指準備將人類或動物的腦神經模型化後的演算法（類神經網路）進行多層化處理，並透過「給予足夠量的數據，使其在無需人力介入的情況下，自動學習特徵點或模式」的過程。在深度學習中，透過名為「感知器（Perceptron）」的演算法來模倣大腦神經細胞的訊號傳遞，並使用將其大量且多層連結而成的模擬腦神經網路來進行學習。\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/03.png\" alt=\"03.png\"\u003e"
                }
     },
     {
@@ -4967,7 +4967,7 @@
                               "if ((A XOR B) ＝ True) then …"
                           ],
                    "an":  4,
-                   "al":  "設問の条件文を論理式で書き換えると、 (A AND B) OR (A AND B)となります。次にこの論理式をベン図で表現すると次のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/09.png\" alt=\"ベン図\"\u003e"
+                   "al":  "設問の条件文を論理式で書き換えると、 (A AND B) OR (A AND B)となります。次にこの論理式をベン図で表現すると次のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/09.png\" alt=\"ベン図\"\u003e"
                },
         "zh":  {
                    "ti":  "平成19年春季 問9",
@@ -4980,7 +4980,7 @@
                               "if ((A XOR B) ＝ True) then …"
                           ],
                    "an":  4,
-                   "al":  "將題目的條件式改寫為邏輯運算式，即為 (A AND B) OR (A AND B)（註：原題意指互斥條件）。接著，將此邏輯運算式以文氏圖（Venn diagram）表示如下。\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/09.png\" alt=\"文氏圖\"\u003e"
+                   "al":  "將題目的條件式改寫為邏輯運算式，即為 (A AND B) OR (A AND B)（註：原題意指互斥條件）。接著，將此邏輯運算式以文氏圖（Venn diagram）表示如下。\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/09.png\" alt=\"文氏圖\"\u003e"
                }
     },
     {
@@ -5015,7 +5015,7 @@
         "ja":  {
                    "ti":  "平成27年秋期　問2",
                    "ca":  "テクノロジ系 » 基礎理論 » 応用数学",
-                   "q":  "図の線上を，点Pから点Rを通って，点Qに至る最短経路は何通りあるか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/02.png\" alt=\"\"\u003e",
+                   "q":  "図の線上を，点Pから点Rを通って，点Qに至る最短経路は何通りあるか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/02.png\" alt=\"\"\u003e",
                    "op":  [
                               "16",
                               "24",
@@ -5028,7 +5028,7 @@
         "zh":  {
                    "ti":  "平成27年秋季 第2題",
                    "ca":  "技術領域 » 基礎理論 » 應用數學",
-                   "q":  "沿著圖中的路線，從點P經過點R到達點Q的最短路徑共有幾種？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/02.png\" alt=\"\"\u003e",
+                   "q":  "沿著圖中的路線，從點P經過點R到達點Q的最短路徑共有幾種？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/02.png\" alt=\"\"\u003e",
                    "op":  [
                               "16",
                               "24",
@@ -5051,7 +5051,7 @@
                               "論理和の否定"
                           ],
                    "an":  1,
-                   "al":  "ビット列L1＝10101010，ビット列L2＝11110000 を例として操作の様子を確認していきます。[操作(1)]2つのビット列の論理和なので、2つのビットの一方または双方が\"1\"になっている部分を\"1\"としたビット列が変数Xに格納されます。\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/01_1.png\" alt=\"01_1.png\"\u003e"
+                   "al":  "ビット列L1＝10101010，ビット列L2＝11110000 を例として操作の様子を確認していきます。[操作(1)]2つのビット列の論理和なので、2つのビットの一方または双方が\"1\"になっている部分を\"1\"としたビット列が変数Xに格納されます。\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/01_1.png\" alt=\"01_1.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和3年度 第1題",
@@ -5064,14 +5064,14 @@
                               "邏輯或之否定"
                           ],
                    "an":  1,
-                   "al":  "以位元串 L1＝10101010、位元串 L2＝11110000 為例來確認操作過程。[操作(1)] 由於是兩個位元串的邏輯或，因此兩個位元中只要有一方或雙方為 \"1\" 的部分就會變成 \"1\"，並將該位元串儲存在變數 X 中。\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/01_1.png\" alt=\"01_1.png\"\u003e"
+                   "al":  "以位元串 L1＝10101010、位元串 L2＝11110000 為例來確認操作過程。[操作(1)] 由於是兩個位元串的邏輯或，因此兩個位元中只要有一方或雙方為 \"1\" 的部分就會變成 \"1\"，並將該位元串儲存在變數 X 中。\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/01_1.png\" alt=\"01_1.png\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "令和元年秋期　問4",
                    "ca":  "テクノロジ系 » 基礎理論 » 応用数学",
-                   "q":  "a及びbを定数とする関数 ƒ(t)＝\u003cspan class=\"frac\"\u003e\u003cspan\u003ea\u003c/span\u003et＋1\u003c/span\u003e 及び g(t)＝\u003cspan class=\"frac\"\u003e\u003cspan\u003eb\u003c/span\u003et\u003csup\u003e2\u003c/sup\u003e－t\u003c/span\u003e に対して，\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/04_3.png\" alt=\"\"\u003e はどれか。ここで，a≠0，b≠0，t＞1とする。",
+                   "q":  "a及びbを定数とする関数 ƒ(t)＝\u003cspan class=\"frac\"\u003e\u003cspan\u003ea\u003c/span\u003et＋1\u003c/span\u003e 及び g(t)＝\u003cspan class=\"frac\"\u003e\u003cspan\u003eb\u003c/span\u003et\u003csup\u003e2\u003c/sup\u003e－t\u003c/span\u003e に対して，\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/04_3.png\" alt=\"\"\u003e はどれか。ここで，a≠0，b≠0，t＞1とする。",
                    "op":  [
                               "0",
                               "1",
@@ -5079,12 +5079,12 @@
                               "∞"
                           ],
                    "an":  1,
-                   "al":  "まず、式中の lim について簡単な例を交えて少し説明しておきます。式中のある変数が限りなく0に近づいたときや、無限大(またはマイナスの無限大)に限りなく近づいたときの式の値を考えることを数列の極限といいます。極限値は lim の記号を用いて次の例のように表します。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/04_4.png\" alt=\"\"\u003e … hが限りなく0に近づいたとき 2＋h の極限値は2である。 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/04_5.png\" alt=\"\"\u003e … hが限りなく無限大(∞)に近づいたとき 2＋h の極限値は∞である。"
+                   "al":  "まず、式中の lim について簡単な例を交えて少し説明しておきます。式中のある変数が限りなく0に近づいたときや、無限大(またはマイナスの無限大)に限りなく近づいたときの式の値を考えることを数列の極限といいます。極限値は lim の記号を用いて次の例のように表します。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/04_4.png\" alt=\"\"\u003e … hが限りなく0に近づいたとき 2＋h の極限値は2である。 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/04_5.png\" alt=\"\"\u003e … hが限りなく無限大(∞)に近づいたとき 2＋h の極限値は∞である。"
                },
         "zh":  {
                    "ti":  "令和元年秋季 問4",
                    "ca":  "技術系 » 基礎理論 » 應用數學",
-                   "q":  "設 a 及 b 為常數，對於函數 ƒ(t)＝\u003cspan class=\"frac\"\u003e\u003cspan\u003ea\u003c/span\u003et＋1\u003c/span\u003e 以及 g(t)＝\u003cspan class=\"frac\"\u003e\u003cspan\u003eb\u003c/span\u003et\u003csup\u003e2\u003c/sup\u003e－t\u003c/span\u003e，\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/04_3.png\" alt=\"\"\u003e 之值為何？其中，a≠0，b≠0，t＞1。",
+                   "q":  "設 a 及 b 為常數，對於函數 ƒ(t)＝\u003cspan class=\"frac\"\u003e\u003cspan\u003ea\u003c/span\u003et＋1\u003c/span\u003e 以及 g(t)＝\u003cspan class=\"frac\"\u003e\u003cspan\u003eb\u003c/span\u003et\u003csup\u003e2\u003c/sup\u003e－t\u003c/span\u003e，\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/04_3.png\" alt=\"\"\u003e 之值為何？其中，a≠0，b≠0，t＞1。",
                    "op":  [
                               "0",
                               "1",
@@ -5092,7 +5092,7 @@
                               "∞"
                           ],
                    "an":  1,
-                   "al":  "首先，針對算式中的 lim 透過簡單的例子進行說明。當算式中的某個變數趨近於 0，或是趨近於無限大（或負無限大）時，考慮該算式數值的過程稱為數列的極限。極限值使用 lim 符號，表示如下例： [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/04_4.png\" alt=\"\"\u003e … 當 h 無限趨近於 0 時，2＋h 的極限值為 2。 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/04_5.png\" alt=\"\"\u003e … 當 h 無限趨近於無限大(∞)時，2＋h 的極限值為 ∞。"
+                   "al":  "首先，針對算式中的 lim 透過簡單的例子進行說明。當算式中的某個變數趨近於 0，或是趨近於無限大（或負無限大）時，考慮該算式數值的過程稱為數列的極限。極限值使用 lim 符號，表示如下例： [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/04_4.png\" alt=\"\"\u003e … 當 h 無限趨近於 0 時，2＋h 的極限值為 2。 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/04_5.png\" alt=\"\"\u003e … 當 h 無限趨近於無限大(∞)時，2＋h 的極限值為 ∞。"
                }
     },
     {
@@ -5101,26 +5101,26 @@
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
                    "q":  "300円の商品を販売する自動販売機の状態遷移図はどれか。ここで，入力と出力の関係を\"入力／出力\"で表し，入力の\"a\"は\"100円硬貨\"を，\"b\"は\"100円硬貨以外\"を示し，S0～S2は状態を表す。入力が\"b\"の場合はすぐにその硬貨を返却する。また，終了状態に遷移する際，出力の\"1\"は商品の販売を，\"0\"は何もしないことを示す。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/03a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/03i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/03u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/03e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/03a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/03i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/03u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/03e.png\" alt=\"\"\u003e"
                           ],
                    "an":  1,
-                   "al":  "問題文より入力／出力の組合せがどのような意味をもつかを考えてみます。a／1100円硬貨が投入され、商品を販売するa／0100円硬貨が投入され、何もしないb／1100円硬貨以外が投入され、商品を販売するb／0100円硬貨以外が投入され、何もしない300円の商品を販売する際には100円硬貨が3枚投入された時点で商品を販売するので、投入金額0円の初期状態S0から\"a／0\"が2回続いた後に\"a／1\"が発生することになります。また100円硬貨以外が投入された場合は投入金額が変化しないため、現在の状態に留まります。この手順を適切に表しているのが「ア」の状態遷移図です。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/03.png\" alt=\"\"\u003e"
+                   "al":  "問題文より入力／出力の組合せがどのような意味をもつかを考えてみます。a／1100円硬貨が投入され、商品を販売するa／0100円硬貨が投入され、何もしないb／1100円硬貨以外が投入され、商品を販売するb／0100円硬貨以外が投入され、何もしない300円の商品を販売する際には100円硬貨が3枚投入された時点で商品を販売するので、投入金額0円の初期状態S0から\"a／0\"が2回続いた後に\"a／1\"が発生することになります。また100円硬貨以外が投入された場合は投入金額が変化しないため、現在の状態に留まります。この手順を適切に表しているのが「ア」の状態遷移図です。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/03.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成28年秋季 問3",
                    "ca":  "技術系 » 基礎理論 » 資訊相關理論",
                    "q":  "販售300日圓商品的自動販賣機，其狀態遷移圖為何？在此，輸入與輸出的關係以「輸入／輸出」表示，輸入的「a」代表「100日圓硬幣」，「b」代表「100日圓硬幣以外的硬幣」，S0～S2代表狀態。若輸入為「b」，則立即退還該硬幣。此外，在轉移至結束狀態時，輸出的「1」表示販售商品，「0」表示不進行任何動作。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/03a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/03i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/03u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/03e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/03a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/03i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/03u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/03e.png\" alt=\"\"\u003e"
                           ],
                    "an":  1,
-                   "al":  "根據題目，思考輸入／輸出的組合所代表的意義：a／1代表投入100日圓硬幣並販售商品、a／0代表投入100日圓硬幣但不進行任何動作、b／1代表投入100日圓硬幣以外的硬幣並販售商品、b／0代表投入100日圓硬幣以外的硬幣但不進行任何動作。由於販售300日圓的商品是在投入3枚100日圓硬幣時販售商品，因此從投入金額為0圓的初始狀態S0開始，會在連續兩次「a／0」之後發生「a／1」。此外，若投入100日圓以外的硬幣，因投入金額未改變，故維持目前狀態。正確表達此流程的是「ア（選項1）」的狀態遷移圖。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/03.png\" alt=\"\"\u003e"
+                   "al":  "根據題目，思考輸入／輸出的組合所代表的意義：a／1代表投入100日圓硬幣並販售商品、a／0代表投入100日圓硬幣但不進行任何動作、b／1代表投入100日圓硬幣以外的硬幣並販售商品、b／0代表投入100日圓硬幣以外的硬幣但不進行任何動作。由於販售300日圓的商品是在投入3枚100日圓硬幣時販售商品，因此從投入金額為0圓的初始狀態S0開始，會在連續兩次「a／0」之後發生「a／1」。此外，若投入100日圓以外的硬幣，因投入金額未改變，故維持目前狀態。正確表達此流程的是「ア（選項1）」的狀態遷移圖。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/03.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -5295,7 +5295,7 @@
         "ja":  {
                    "ti":  "平成23年秋期　問1",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "16ビットの2進数nを16進数の各けたに分けて，下位のけたから順にスタックに格納するために，次の手順を4回繰り返す。a，b に入る適切な語句の組合せはどれか。ここで，xxxx\u003csub\u003e16\u003c/sub\u003eは16進数xxxxを表す。\u003cbr\u003e\u003cbr\u003e〔手順〕\u003cul\u003e\u003cli class=\"li1\"\u003e\u003cspan class=\"bb\"\u003ea\u003c/span\u003eをxに代入する。\u003c/li\u003e\u003cli class=\"li2\"\u003exをスタックにプッシュする。\u003c/li\u003e\u003cli class=\"li3\"\u003enを\u003cspan class=\"bb\"\u003eb\u003c/span\u003e論理シフトする。\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/01.png\" alt=\"\"\u003e",
+                   "q":  "16ビットの2進数nを16進数の各けたに分けて，下位のけたから順にスタックに格納するために，次の手順を4回繰り返す。a，b に入る適切な語句の組合せはどれか。ここで，xxxx\u003csub\u003e16\u003c/sub\u003eは16進数xxxxを表す。\u003cbr\u003e\u003cbr\u003e〔手順〕\u003cul\u003e\u003cli class=\"li1\"\u003e\u003cspan class=\"bb\"\u003ea\u003c/span\u003eをxに代入する。\u003c/li\u003e\u003cli class=\"li2\"\u003exをスタックにプッシュする。\u003c/li\u003e\u003cli class=\"li3\"\u003enを\u003cspan class=\"bb\"\u003eb\u003c/span\u003e論理シフトする。\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/01.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -5308,7 +5308,7 @@
         "zh":  {
                    "ti":  "平成23年秋期 問1",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "將16位元的二進位數 n 分割成16進位的各個位數，為了從低位數開始依序存入堆疊（Stack）中，必須重複執行下列步驟4次。請問 a 與 b 填入的適當詞彙組合為何？此處，xxxx\u003csub\u003e16\u003c/sub\u003e 代表16進位數 xxxx。\u003cbr\u003e\u003cbr\u003e〔步驟〕\u003cul\u003e\u003cli class=\"li1\"\u003e將 \u003cspan class=\"bb\"\u003ea\u003c/span\u003e 代入 x。\u003c/li\u003e\u003cli class=\"li2\"\u003e將 x 推入（Push）堆疊。\u003c/li\u003e\u003cli class=\"li3\"\u003e將 n 進行 \u003cspan class=\"bb\"\u003eb\u003c/span\u003e 邏輯位移。\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/01.png\" alt=\"\"\u003e",
+                   "q":  "將16位元的二進位數 n 分割成16進位的各個位數，為了從低位數開始依序存入堆疊（Stack）中，必須重複執行下列步驟4次。請問 a 與 b 填入的適當詞彙組合為何？此處，xxxx\u003csub\u003e16\u003c/sub\u003e 代表16進位數 xxxx。\u003cbr\u003e\u003cbr\u003e〔步驟〕\u003cul\u003e\u003cli class=\"li1\"\u003e將 \u003cspan class=\"bb\"\u003ea\u003c/span\u003e 代入 x。\u003c/li\u003e\u003cli class=\"li2\"\u003e將 x 推入（Push）堆疊。\u003c/li\u003e\u003cli class=\"li3\"\u003e將 n 進行 \u003cspan class=\"bb\"\u003eb\u003c/span\u003e 邏輯位移。\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/01.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -5359,7 +5359,7 @@
                               "判断ルールを作成できる医療診断などの分野に限定されるが，症状から特定の病気に絞り込むといった，確率的に高い判断ができる。"
                           ],
                    "an":  3,
-                   "al":  "ディープラーニング(Deep Learning)は、人間や動物の脳神経をモデル化したアルゴリズム(ニューラルネットワーク)を多層化したものを用意し、それに「十分な量のデータを与えることで、人間の力なしに自動的に特徴点やパターンを学習させる」ことをいいます。人工知能分野における要素技術の1つで、深層学習とも呼ばれます。従来の機械学習と異なり、中間層の多層化によって複雑なパターンの表現と計算を可能にしていることが特徴です。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/03.png\" alt=\"\"\u003e"
+                   "al":  "ディープラーニング(Deep Learning)は、人間や動物の脳神経をモデル化したアルゴリズム(ニューラルネットワーク)を多層化したものを用意し、それに「十分な量のデータを与えることで、人間の力なしに自動的に特徴点やパターンを学習させる」ことをいいます。人工知能分野における要素技術の1つで、深層学習とも呼ばれます。従来の機械学習と異なり、中間層の多層化によって複雑なパターンの表現と計算を可能にしていることが特徴です。\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/03.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "2018年春季 問3",
@@ -5372,7 +5372,7 @@
                               "僅限於可建立判斷規則的醫療診斷等領域，但能從症狀中篩選出特定疾病，進行機率較高的判斷。"
                           ],
                    "an":  3,
-                   "al":  "深度學習（Deep Learning）是指準備將人類或動物腦神經模型化的演算法（神經網路）進行多層化處理，並透過「給予足夠量的數據，無需人類介入即可自動學習特徵點或模式」。這是人工智慧領域中的要素技術之一，也稱為深層學習。與傳統機器學習不同，其特徵在於透過中間層的多層化，實現了複雜模式的表達與計算。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/03.png\" alt=\"\"\u003e"
+                   "al":  "深度學習（Deep Learning）是指準備將人類或動物腦神經模型化的演算法（神經網路）進行多層化處理，並透過「給予足夠量的數據，無需人類介入即可自動學習特徵點或模式」。這是人工智慧領域中的要素技術之一，也稱為深層學習。與傳統機器學習不同，其特徵在於透過中間層的多層化，實現了複雜模式的表達與計算。\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/03.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -5437,26 +5437,26 @@
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
                    "q":  "任意のオペランドに対するブール演算Aの結果とブール演算Bの結果が互いに否定の関係にあるとき，AはBの(又は，BはAの)相補演算であるという。排他的論理和の相補演算はどれか。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/01a.png\" alt=\"01a.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/01i.png\" alt=\"01i.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/01u.png\" alt=\"01u.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/01e.png\" alt=\"01e.png\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/01a.png\" alt=\"01a.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/01i.png\" alt=\"01i.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/01u.png\" alt=\"01u.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/01e.png\" alt=\"01e.png\"\u003e"
                           ],
                    "an":  1,
-                   "al":  "相補演算とは、集合演算によって得られる結果が互いにもう一方の演算の補集合となっている関係、すなわちAとA，X AND YとNOT (X AND Y)のような関係になっているものをいいます。排他的論理和(XOR)は、2つの入力値が異なれば真、同じであれば偽を返す論理演算で、演算結果は次のような真理値表となります。\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/01_1.png\" alt=\"01_1.png\"\u003e"
+                   "al":  "相補演算とは、集合演算によって得られる結果が互いにもう一方の演算の補集合となっている関係、すなわちAとA，X AND YとNOT (X AND Y)のような関係になっているものをいいます。排他的論理和(XOR)は、2つの入力値が異なれば真、同じであれば偽を返す論理演算で、演算結果は次のような真理値表となります。\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/01_1.png\" alt=\"01_1.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和4年度 第1題",
                    "ca":  "技術領域 » 基礎理論 » 離散數學",
                    "q":  "當對於任意運算元，布林運算 A 的結果與布林運算 B 的結果互為否定的關係時，稱 A 為 B 的（或 B 為 A 的）互補運算。下列何者是互斥或（XOR）的互補運算？",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/01a.png\" alt=\"01a.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/01i.png\" alt=\"01i.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/01u.png\" alt=\"01u.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/01e.png\" alt=\"01e.png\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/01a.png\" alt=\"01a.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/01i.png\" alt=\"01i.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/01u.png\" alt=\"01u.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/01e.png\" alt=\"01e.png\"\u003e"
                           ],
                    "an":  1,
-                   "al":  "所謂互補運算，是指透過集合運算所獲得的結果互為另一運算之補集關係，亦即像 A 與 NOT A、X AND Y 與 NOT (X AND Y) 這樣的關係。互斥或（XOR）是一種邏輯運算，當兩個輸入值不同時返回真（True），相同時返回偽（False），其運算結果如以下的真值表所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/01_1.png\" alt=\"01_1.png\"\u003e"
+                   "al":  "所謂互補運算，是指透過集合運算所獲得的結果互為另一運算之補集關係，亦即像 A 與 NOT A、X AND Y 與 NOT (X AND Y) 這樣的關係。互斥或（XOR）是一種邏輯運算，當兩個輸入值不同時返回真（True），相同時返回偽（False），其運算結果如以下的真值表所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/01_1.png\" alt=\"01_1.png\"\u003e"
                }
     },
     {
@@ -5491,7 +5491,7 @@
         "ja":  {
                    "ti":  "平成31年春期　問3",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "P，Q，Rはいずれも命題である。命題Pの真理値は真であり，命題 (not P) or Q 及び命題 (not Q) or R のいずれの真理値も真であることが分かっている。Q，Rの真理値はどれか。ここで，X or Y は X と Y の論理和，not X は X の否定を表す。\n\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/03.png\" alt=\"\"\u003e",
+                   "q":  "P，Q，Rはいずれも命題である。命題Pの真理値は真であり，命題 (not P) or Q 及び命題 (not Q) or R のいずれの真理値も真であることが分かっている。Q，Rの真理値はどれか。ここで，X or Y は X と Y の論理和，not X は X の否定を表す。\n\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/03.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -5504,7 +5504,7 @@
         "zh":  {
                    "ti":  "平成31年春季　問3",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "P、Q、R 皆為命題。已知命題 P 的真偽值為真，且命題 (not P) or Q 與命題 (not Q) or R 的真偽值皆為真。請問 Q 與 R 的真偽值為何？其中，X or Y 代表 X 與 Y 的邏輯或，not X 代表 X 的否定。\n\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/03.png\" alt=\"\"\u003e",
+                   "q":  "P、Q、R 皆為命題。已知命題 P 的真偽值為真，且命題 (not P) or Q 與命題 (not Q) or R 的真偽值皆為真。請問 Q 與 R 的真偽值為何？其中，X or Y 代表 X 與 Y 的邏輯或，not X 代表 X 的否定。\n\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/03.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -5575,7 +5575,7 @@
         "ja":  {
                    "ti":  "平成23年秋期　問2",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "10進数-5.625を，8ビット固定小数点形式による2進数で表したものはどれか。ここで，小数点位置は3ビット目と4ビット目の間とし，負数には2の補数表現を用いる。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/02.png\" alt=\"問2画像\"\u003e",
+                   "q":  "10進数-5.625を，8ビット固定小数点形式による2進数で表したものはどれか。ここで，小数点位置は3ビット目と4ビット目の間とし，負数には2の補数表現を用いる。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/02.png\" alt=\"問2画像\"\u003e",
                    "op":  [
                               "01001100",
                               "10100101",
@@ -5583,12 +5583,12 @@
                               "11010011"
                           ],
                    "an":  3,
-                   "al":  "2進数の各桁と10進数の関係は下図のようになっています。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/02a.png\" alt=\"問2解説画像\"\u003e"
+                   "al":  "2進数の各桁と10進数の関係は下図のようになっています。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/02a.png\" alt=\"問2解説画像\"\u003e"
                },
         "zh":  {
                    "ti":  "平成23年秋季 問2",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "將十進位數 -5.625 以 8 位元定點小數格式的二進位表示，應為下列何者？此處，小數點位置位於第 3 位元與第 4 位元之間（從右邊數起，不含小數點位），且負數採用 2 的補數表示法。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/02.png\" alt=\"問2圖片\"\u003e",
+                   "q":  "將十進位數 -5.625 以 8 位元定點小數格式的二進位表示，應為下列何者？此處，小數點位置位於第 3 位元與第 4 位元之間（從右邊數起，不含小數點位），且負數採用 2 的補數表示法。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/02.png\" alt=\"問2圖片\"\u003e",
                    "op":  [
                               "01001100",
                               "10100101",
@@ -5596,7 +5596,7 @@
                               "11010011"
                           ],
                    "an":  3,
-                   "al":  "二進位各數位與十進位的關係如下圖所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/02a.png\" alt=\"問2解說圖片\"\u003e"
+                   "al":  "二進位各數位與十進位的關係如下圖所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/02a.png\" alt=\"問2解說圖片\"\u003e"
                }
     },
     {
@@ -5611,7 +5611,7 @@
                               "Y＋Z"
                           ],
                    "an":  3,
-                   "al":  "X・Y・Z＋X・Y・Zをベン図で表すと次のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/09.png\" alt=\"\"\u003e"
+                   "al":  "X・Y・Z＋X・Y・Zをベン図で表すと次のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/09.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成16年秋季 問9",
@@ -5624,14 +5624,14 @@
                               "Y＋Z"
                           ],
                    "an":  3,
-                   "al":  "將 X・Y・Z＋X・Y・Z 以文氏圖表示如下。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/09.png\" alt=\"\"\u003e"
+                   "al":  "將 X・Y・Z＋X・Y・Z 以文氏圖表示如下。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/09.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成18年秋期　問11",
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
-                   "q":  "図で表される有限オートマトンで受理される文字列はどれか。ここで，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/11_1.png\" alt=\"\"\u003eは初期状態を，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/11_2.png\" alt=\"\"\u003eは受理状態を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/11.png\" alt=\"問11画像\"\u003e",
+                   "q":  "図で表される有限オートマトンで受理される文字列はどれか。ここで，\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/11_1.png\" alt=\"\"\u003eは初期状態を，\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/11_2.png\" alt=\"\"\u003eは受理状態を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/11.png\" alt=\"問11画像\"\u003e",
                    "op":  [
                               "01011",
                               "01111",
@@ -5639,12 +5639,12 @@
                               "11110"
                           ],
                    "an":  3,
-                   "al":  "問題文の図で示される有限オートマトンを使って、文字列がどのような状態遷移をとるのかを確認してみます。 [1]01011\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/11a.png\" alt=\"問11解説画像ア\"\u003e [2]01111\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/11i.png\" alt=\"問11解説画像イ\"\u003e [3]10111\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/11u.png\" alt=\"問11解説画像ウ\"\u003e [4]11110\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/11e.png\" alt=\"問11解説画像エ\"\u003e"
+                   "al":  "問題文の図で示される有限オートマトンを使って、文字列がどのような状態遷移をとるのかを確認してみます。 [1]01011\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/11a.png\" alt=\"問11解説画像ア\"\u003e [2]01111\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/11i.png\" alt=\"問11解説画像イ\"\u003e [3]10111\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/11u.png\" alt=\"問11解説画像ウ\"\u003e [4]11110\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/11e.png\" alt=\"問11解説画像エ\"\u003e"
                },
         "zh":  {
                    "ti":  "平成18年秋季 問11",
                    "ca":  "技術系 » 基礎理論 » 資訊相關理論",
-                   "q":  "圖中所示的有限自動機所接受的字串為何？其中，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/11_1.png\" alt=\"\"\u003e代表起始狀態，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/11_2.png\" alt=\"\"\u003e代表接受狀態。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/11.png\" alt=\"問11圖片\"\u003e",
+                   "q":  "圖中所示的有限自動機所接受的字串為何？其中，\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/11_1.png\" alt=\"\"\u003e代表起始狀態，\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/11_2.png\" alt=\"\"\u003e代表接受狀態。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/11.png\" alt=\"問11圖片\"\u003e",
                    "op":  [
                               "01011",
                               "01111",
@@ -5652,7 +5652,7 @@
                               "11110"
                           ],
                    "an":  3,
-                   "al":  "使用題目圖示的有限自動機，確認字串的狀態轉移過程如下： [1]01011\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/11a.png\" alt=\"問11解說圖片A\"\u003e [2]01111\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/11i.png\" alt=\"問11解說圖片B\"\u003e [3]10111\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/11u.png\" alt=\"問11解說圖片C\"\u003e [4]11110\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/11e.png\" alt=\"問11解說圖片D\"\u003e"
+                   "al":  "使用題目圖示的有限自動機，確認字串的狀態轉移過程如下： [1]01011\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/11a.png\" alt=\"問11解說圖片A\"\u003e [2]01111\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/11i.png\" alt=\"問11解說圖片B\"\u003e [3]10111\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/11u.png\" alt=\"問11解說圖片C\"\u003e [4]11110\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/11e.png\" alt=\"問11解說圖片D\"\u003e"
                }
     },
     {
@@ -5723,7 +5723,7 @@
                               "16進数FFとのXOR(排他的論理和)をとる。"
                           ],
                    "an":  3,
-                   "al":  "論理演算を利用したビット操作には、論理積(AND)を用いて特定位置のビットを取り出す操作と、排他的論理和(XOR)を用いて特定位置のビットを反転させる操作があります。論理積(AND)演算の真理値表は次のようになっています。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/06.png\" alt=\"AND演算の真理値表\"\u003e"
+                   "al":  "論理演算を利用したビット操作には、論理積(AND)を用いて特定位置のビットを取り出す操作と、排他的論理和(XOR)を用いて特定位置のビットを反転させる操作があります。論理積(AND)演算の真理値表は次のようになっています。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/06.png\" alt=\"AND演算の真理値表\"\u003e"
                },
         "zh":  {
                    "ti":  "平成18年春季 問6",
@@ -5736,7 +5736,7 @@
                               "與十六進位數 FF 進行 XOR（互斥或）運算。"
                           ],
                    "an":  3,
-                   "al":  "利用邏輯運算進行位元操作時，可使用邏輯積（AND）來取出特定位置的位元，或使用互斥或（XOR）來反轉特定位置的位元。邏輯積（AND）運算的真值表如下所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/06.png\" alt=\"AND運算的真值表\"\u003e"
+                   "al":  "利用邏輯運算進行位元操作時，可使用邏輯積（AND）來取出特定位置的位元，或使用互斥或（XOR）來反轉特定位置的位元。邏輯積（AND）運算的真值表如下所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/06.png\" alt=\"AND運算的真值表\"\u003e"
                }
     },
     {
@@ -5751,7 +5751,7 @@
                               "S－(A∩B)"
                           ],
                    "an":  1,
-                   "al":  "それぞれの集合演算の結果をベン図で表すと次のようになります。[問題文 A∩B]\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/02.png\" alt=\"02.png\"\u003e"
+                   "al":  "それぞれの集合演算の結果をベン図で表すと次のようになります。[問題文 A∩B]\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/02.png\" alt=\"02.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和2年度 問2",
@@ -5764,14 +5764,14 @@
                               "S－(A∩B)"
                           ],
                    "an":  1,
-                   "al":  "若將各集合運算的結果以文氏圖表示，結果如下。[題目 A∩B]\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/02.png\" alt=\"02.png\"\u003e"
+                   "al":  "若將各集合運算的結果以文氏圖表示，結果如下。[題目 A∩B]\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/02.png\" alt=\"02.png\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成18年春期　問8",
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
-                   "q":  "次の表はJISコード表の一部である。二つの文字“A”と“2”をこの順にJISコードで表したものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/08.png\" alt=\"問8画像\"\u003e",
+                   "q":  "次の表はJISコード表の一部である。二つの文字“A”と“2”をこの順にJISコードで表したものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/08.png\" alt=\"問8画像\"\u003e",
                    "op":  [
                               "00010100 00100011",
                               "00110010 01000001",
@@ -5779,12 +5779,12 @@
                               "01000010 00110010"
                           ],
                    "an":  3,
-                   "al":  "図をみると列番号(上位4ビット)と行番号(下位4ビット)の組合せで一つの文字を表しています。\"A\"は列番号4，行番号1なので「01000001」\"2\"は列番号3，行番号2なので「00110010」この2つのビット列をつないだ「01000001 00110010」が答えとなります。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/08a.png\" alt=\"問8解説画像\"\u003e"
+                   "al":  "図をみると列番号(上位4ビット)と行番号(下位4ビット)の組合せで一つの文字を表しています。\"A\"は列番号4，行番号1なので「01000001」\"2\"は列番号3，行番号2なので「00110010」この2つのビット列をつないだ「01000001 00110010」が答えとなります。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/08a.png\" alt=\"問8解説画像\"\u003e"
                },
         "zh":  {
                    "ti":  "平成18年春季 問8",
                    "ca":  "技術系 » 基礎理論 » 資訊相關理論",
-                   "q":  "下表為 JIS 代碼表的一部分。若將「A」與「2」兩個字元依序以 JIS 代碼表示，下列何者正確？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/08.png\" alt=\"問8圖片\"\u003e",
+                   "q":  "下表為 JIS 代碼表的一部分。若將「A」與「2」兩個字元依序以 JIS 代碼表示，下列何者正確？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/08.png\" alt=\"問8圖片\"\u003e",
                    "op":  [
                               "00010100 00100011",
                               "00110010 01000001",
@@ -5792,7 +5792,7 @@
                               "01000010 00110010"
                           ],
                    "an":  3,
-                   "al":  "觀察圖表可知，每一個字元是由列編號（高 4 位元）與行編號（低 4 位元）組合而成。「A」的列編號為 4、行編號為 1，故為「01000001」；「2」的列編號為 3、行編號為 2，故為「00110010」。將此兩個位元序列連結起來，即得到答案「01000001 00110010」。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/08a.png\" alt=\"問8解說圖片\"\u003e"
+                   "al":  "觀察圖表可知，每一個字元是由列編號（高 4 位元）與行編號（低 4 位元）組合而成。「A」的列編號為 4、行編號為 1，故為「01000001」；「2」的列編號為 3、行編號為 2，故為「00110010」。將此兩個位元序列連結起來，即得到答案「01000001 00110010」。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/08a.png\" alt=\"問8解說圖片\"\u003e"
                }
     },
     {
@@ -5967,7 +5967,7 @@
         "ja":  {
                    "ti":  "平成18年春期　問11",
                    "ca":  "テクノロジ系 » 基礎理論 » 応用数学",
-                   "q":  "正三角形の内部の点から，各辺に下ろした垂線の長さの和は一定である(図1参照)。三角グラフは，この性質を利用して，三つの辺に対応させた要素の割合を各辺への垂線の長さとして表したグラフである。図2の三角グラフは，3種類のソフトについて，A～Dの4人の使用率を図示したものである。正しい解釈はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/11.png\" alt=\"問11画像\"\u003e",
+                   "q":  "正三角形の内部の点から，各辺に下ろした垂線の長さの和は一定である(図1参照)。三角グラフは，この性質を利用して，三つの辺に対応させた要素の割合を各辺への垂線の長さとして表したグラフである。図2の三角グラフは，3種類のソフトについて，A～Dの4人の使用率を図示したものである。正しい解釈はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/11.png\" alt=\"問11画像\"\u003e",
                    "op":  [
                               "Aさんは，ワープロソフトだけを使用している。",
                               "Bさんは，ほかのソフトに比べて表計算ソフトの使用率が高い。",
@@ -5975,12 +5975,12 @@
                               "Dさんは，表計算ソフトを使用していない。"
                           ],
                    "an":  2,
-                   "al":  "A～Dの各点から3つの辺に垂線を引くと次のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/11a.png\" alt=\"垂線を引いた後の図\"\u003e"
+                   "al":  "A～Dの各点から3つの辺に垂線を引くと次のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/11a.png\" alt=\"垂線を引いた後の図\"\u003e"
                },
         "zh":  {
                    "ti":  "平成18年春季 問11",
                    "ca":  "技術系 » 基礎理論 » 應用數學",
-                   "q":  "在正三角形內部的一點，向各邊所作垂線的長度之和為一定值（參照圖1）。三角圖表便是利用此性質，將對應於三條邊的要素比例，以該點至各邊的垂線長度來表示的圖表。圖2的三角圖表顯示了 A～D 四人對三種軟體的使用率。下列解讀何者正確？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/11.png\" alt=\"問11圖片\"\u003e",
+                   "q":  "在正三角形內部的一點，向各邊所作垂線的長度之和為一定值（參照圖1）。三角圖表便是利用此性質，將對應於三條邊的要素比例，以該點至各邊的垂線長度來表示的圖表。圖2的三角圖表顯示了 A～D 四人對三種軟體的使用率。下列解讀何者正確？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/11.png\" alt=\"問11圖片\"\u003e",
                    "op":  [
                               "A 只使用文書處理軟體。",
                               "B 相比其他軟體，試算表軟體的使用率較高。",
@@ -5988,14 +5988,14 @@
                               "D 沒有使用試算表軟體。"
                           ],
                    "an":  2,
-                   "al":  "從 A～D 各點向三條邊引垂線，結果如下：\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/11a.png\" alt=\"引垂線後的圖\"\u003e"
+                   "al":  "從 A～D 各點向三條邊引垂線，結果如下：\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/11a.png\" alt=\"引垂線後的圖\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成19年春期　問8",
                    "ca":  "テクノロジ系 » 基礎理論 » 応用数学",
-                   "q":  "ある工場で大量に生産されている製品の重量の分布は，平均が5.2kg，標準偏差が0.1kgの正規分布であった。5.0kg未満の製品は，社内検査で不合格とされる。生産された製品の不合格品の割合は約何％か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/08.png\" alt=\"\"\u003e",
+                   "q":  "ある工場で大量に生産されている製品の重量の分布は，平均が5.2kg，標準偏差が0.1kgの正規分布であった。5.0kg未満の製品は，社内検査で不合格とされる。生産された製品の不合格品の割合は約何％か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/08.png\" alt=\"\"\u003e",
                    "op":  [
                               "0.159",
                               "0.6",
@@ -6008,7 +6008,7 @@
         "zh":  {
                    "ti":  "平成19年春季 問8",
                    "ca":  "技術系 » 基礎理論 » 應用數學",
-                   "q":  "某工廠大量生產的產品，其重量分布呈平均值為 5.2kg、標準差為 0.1kg 的常態分布。重量未滿 5.0kg 的產品在內部檢驗中會被判定為不合格。請問生產出的產品中，不合格品的比例約為多少％？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/08.png\" alt=\"\"\u003e",
+                   "q":  "某工廠大量生產的產品，其重量分布呈平均值為 5.2kg、標準差為 0.1kg 的常態分布。重量未滿 5.0kg 的產品在內部檢驗中會被判定為不合格。請問生產出的產品中，不合格品的比例約為多少％？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/08.png\" alt=\"\"\u003e",
                    "op":  [
                               "0.159",
                               "0.6",
@@ -6031,7 +6031,7 @@
                               "C"
                           ],
                    "an":  4,
-                   "al":  "ベン図を使用して解く方法と論理式の変形で解く方法の2通りを紹介します。[ベン図]\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/03.png\" alt=\"\"\u003e"
+                   "al":  "ベン図を使用して解く方法と論理式の変形で解く方法の2通りを紹介します。[ベン図]\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/03.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成26年春季 問3",
@@ -6044,7 +6044,7 @@
                               "C"
                           ],
                    "an":  4,
-                   "al":  "介紹兩種解法：使用文氏圖（Venn diagram）解法與邏輯式變形解法。[文氏圖]\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/03.png\" alt=\"\"\u003e"
+                   "al":  "介紹兩種解法：使用文氏圖（Venn diagram）解法與邏輯式變形解法。[文氏圖]\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/03.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -6087,7 +6087,7 @@
                               "16進数FFとのXOR(排他的論理和)をとる。"
                           ],
                    "an":  3,
-                   "al":  "論理演算を利用したビット操作には、論理積(AND)を用いて特定位置のビットを取り出す操作と、排他的論理和(XOR)を用いて特定位置のビットを反転させる操作があります。論理積(AND)演算の真理値表は次のようになっています。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/02.png\" alt=\"AND演算の真理値表\"\u003e"
+                   "al":  "論理演算を利用したビット操作には、論理積(AND)を用いて特定位置のビットを取り出す操作と、排他的論理和(XOR)を用いて特定位置のビットを反転させる操作があります。論理積(AND)演算の真理値表は次のようになっています。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/02.png\" alt=\"AND演算の真理値表\"\u003e"
                },
         "zh":  {
                    "ti":  "平成31年春季　問2",
@@ -6100,7 +6100,7 @@
                               "與十六進位數 FF 進行 XOR（互斥或）運算。"
                           ],
                    "an":  3,
-                   "al":  "利用邏輯運算進行位元操作時，可使用邏輯積（AND）來取出特定位置的位元，或使用互斥或（XOR）來反轉特定位置的位元。邏輯積（AND）運算的真值表如下：\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/02.png\" alt=\"AND運算的真值表\"\u003e"
+                   "al":  "利用邏輯運算進行位元操作時，可使用邏輯積（AND）來取出特定位置的位元，或使用互斥或（XOR）來反轉特定位置的位元。邏輯積（AND）運算的真值表如下：\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/02.png\" alt=\"AND運算的真值表\"\u003e"
                }
     },
     {
@@ -6191,7 +6191,7 @@
         "ja":  {
                    "ti":  "平成25年春期　問6",
                    "ca":  "テクノロジ系 » 基礎理論 » 情報に関する理論",
-                   "q":  "図は，逆ポーランド表記法で書かれた式abcd＋＋＋をスタックで処理するときのスタックの変化の一部を表している。この場合，スタックの深さは最大で4となる。最大のスタックの深さが最も少ない逆ポーランド表記法の式はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/06.png\" alt=\"\"\u003e",
+                   "q":  "図は，逆ポーランド表記法で書かれた式abcd＋＋＋をスタックで処理するときのスタックの変化の一部を表している。この場合，スタックの深さは最大で4となる。最大のスタックの深さが最も少ない逆ポーランド表記法の式はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/06.png\" alt=\"\"\u003e",
                    "op":  [
                               "ab＋c＋d＋",
                               "ab＋cd＋＋",
@@ -6204,7 +6204,7 @@
         "zh":  {
                    "ti":  "平成25年春期 問6",
                    "ca":  "技術系 » 基礎理論 » 資訊相關理論",
-                   "q":  "下圖顯示了使用堆疊（Stack）處理逆波蘭表示法（RPN）運算式「abcd＋＋＋」時，堆疊變化的一部分。在此情況下，堆疊的最大深度為 4。下列哪一個逆波蘭表示法運算式的最大堆疊深度最小？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/06.png\" alt=\"\"\u003e",
+                   "q":  "下圖顯示了使用堆疊（Stack）處理逆波蘭表示法（RPN）運算式「abcd＋＋＋」時，堆疊變化的一部分。在此情況下，堆疊的最大深度為 4。下列哪一個逆波蘭表示法運算式的最大堆疊深度最小？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/06.png\" alt=\"\"\u003e",
                    "op":  [
                               "ab＋c＋d＋",
                               "ab＋cd＋＋",
@@ -6227,7 +6227,7 @@
                               "X NAND (Y NAND (X NAND Y))"
                           ],
                    "an":  2,
-                   "al":  "否定論理積(NAND)は、2つの入力がともに1の場合にだけ結果が0、その他の場合は1となる論理演算です。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/09.png\" alt=\"\"\u003e"
+                   "al":  "否定論理積(NAND)は、2つの入力がともに1の場合にだけ結果が0、その他の場合は1となる論理演算です。\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/09.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成17年秋期　問9",
@@ -6240,14 +6240,14 @@
                               "X NAND (Y NAND (X NAND Y))"
                           ],
                    "an":  2,
-                   "al":  "及非運算(NAND)是一種邏輯運算，僅在兩個輸入皆為1時結果為0，其餘情況皆為1。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/09.png\" alt=\"\"\u003e"
+                   "al":  "及非運算(NAND)是一種邏輯運算，僅在兩個輸入皆為1時結果為0，其餘情況皆為1。\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/09.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成17年秋期　問8",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "排他的論理和を4ビット単位で実行するユニットA，B，Cから構成される装置がある。この装置では，入力ビット列1101を与えると，出力ビット列0100が得られる。ここで，ユニットBの内部かぎを変更したところ，出力ビット列が1111になった。変更後のユニットBの内部かぎはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/08.png\" alt=\"問8画像\"\u003e",
+                   "q":  "排他的論理和を4ビット単位で実行するユニットA，B，Cから構成される装置がある。この装置では，入力ビット列1101を与えると，出力ビット列0100が得られる。ここで，ユニットBの内部かぎを変更したところ，出力ビット列が1111になった。変更後のユニットBの内部かぎはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/08.png\" alt=\"問8画像\"\u003e",
                    "op":  [
                               "1011",
                               "1100",
@@ -6255,12 +6255,12 @@
                               "1110"
                           ],
                    "an":  4,
-                   "al":  "排他的論理和(XOR)は、2つのビットが異なるときは1、同じときは0を返す論理演算です。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/08_1.png\" alt=\"\"\u003e"
+                   "al":  "排他的論理和(XOR)は、2つのビットが異なるときは1、同じときは0を返す論理演算です。\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/08_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成17年秋季 問8",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "有一個裝置由以4位元為單位的互斥或（XOR）運算單元A、B、C所組成。在此裝置中，輸入位元序列 1101 時，會得到輸出位元序列 0100。若更改單元B的內部金鑰後，輸出位元序列變為 1111。請問更改後單元B的內部金鑰為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/08.png\" alt=\"問8圖片\"\u003e",
+                   "q":  "有一個裝置由以4位元為單位的互斥或（XOR）運算單元A、B、C所組成。在此裝置中，輸入位元序列 1101 時，會得到輸出位元序列 0100。若更改單元B的內部金鑰後，輸出位元序列變為 1111。請問更改後單元B的內部金鑰為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/08.png\" alt=\"問8圖片\"\u003e",
                    "op":  [
                               "1011",
                               "1100",
@@ -6268,7 +6268,7 @@
                               "1110"
                           ],
                    "an":  4,
-                   "al":  "互斥或（XOR）是一種邏輯運算，當兩個位元不同時回傳1，相同時回傳0。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/08_1.png\" alt=\"\"\u003e"
+                   "al":  "互斥或（XOR）是一種邏輯運算，當兩個位元不同時回傳1，相同時回傳0。\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/08_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -6311,7 +6311,7 @@
                               "0.8"
                           ],
                    "an":  3,
-                   "al":  "10進数の小数部をN進数の小数に変換する方法の一つとして、10進小数に基数Nを掛けて演算結果の整数部を取り出し、さらに演算結果の小数部に基数Nを掛けて整数部を取り出して…と繰り返すものがあります。この計算過程で小数部が0になれば有限小数であると言えます。例えば10進小数 0.8125 を8進小数にするには以下のように計算します。\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/01.png\" alt=\"\"\u003e"
+                   "al":  "10進数の小数部をN進数の小数に変換する方法の一つとして、10進小数に基数Nを掛けて演算結果の整数部を取り出し、さらに演算結果の小数部に基数Nを掛けて整数部を取り出して…と繰り返すものがあります。この計算過程で小数部が0になれば有限小数であると言えます。例えば10進小数 0.8125 を8進小数にするには以下のように計算します。\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/01.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成24年春期 問1",
@@ -6324,7 +6324,7 @@
                               "0.8"
                           ],
                    "an":  3,
-                   "al":  "將十進位小數轉換為 N 進位小數的方法之一，是將十進位小數乘以基數 N，取出運算結果的整數部分，再將運算結果的小數部分乘以基數 N，取出整數部分……如此反覆進行。若在此計算過程中，小數部分變為 0，則可稱其為有限小數。例如，若要將十進位小數 0.8125 轉換為八進位小數，計算過程如下：\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/01.png\" alt=\"\"\u003e"
+                   "al":  "將十進位小數轉換為 N 進位小數的方法之一，是將十進位小數乘以基數 N，取出運算結果的整數部分，再將運算結果的小數部分乘以基數 N，取出整數部分……如此反覆進行。若在此計算過程中，小數部分變為 0，則可稱其為有限小數。例如，若要將十進位小數 0.8125 轉換為八進位小數，計算過程如下：\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/01.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -6339,7 +6339,7 @@
                               "X NAND (Y NAND (X NAND Y))"
                           ],
                    "an":  2,
-                   "al":  "否定論理積(NAND)は、2つの入力がともに1の場合にだけ結果が0、その他の場合は1となる論理演算です。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/03_1.png\" alt=\"\"\u003e"
+                   "al":  "否定論理積(NAND)は、2つの入力がともに1の場合にだけ結果が0、その他の場合は1となる論理演算です。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/03_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成29年春季 問3",
@@ -6352,7 +6352,7 @@
                               "X NAND (Y NAND (X NAND Y))"
                           ],
                    "an":  2,
-                   "al":  "反及閘 (NAND) 是一種邏輯運算，只有在兩個輸入皆為 1 時結果才為 0，其他情況均為 1。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/03_1.png\" alt=\"\"\u003e"
+                   "al":  "反及閘 (NAND) 是一種邏輯運算，只有在兩個輸入皆為 1 時結果才為 0，其他情況均為 1。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/03_1.png\" alt=\"\"\u003e"
                }
     },
     {

@@ -5,10 +5,10 @@
                    "ca":  "テクノロジ系 » セキュリティ » セキュリティ実装技術",
                    "q":  "社内ネットワークとインターネットの接続点にパケットフィルタリング型ファイアウォールを設置して，社内ネットワーク上のPCからインターネット上のWebサーバの80番ポートにアクセスできるようにするとき，フィルタリングで許可するルールの適切な組合せはどれか。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/45a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/45i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/45u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/45e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/45a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/45i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/45u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/45e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
                    "al":  "パケットフィルタリングでは、パケットのヘッダー情報内のIPアドレス及びポート番号を基準にパケット通過の可否を決定します。ポート番号は、通信をする際にあて先のプログラムを特定するための0から65535(16ビット符号無し整数)の番号です。IPアドレスが建物の住所だとすれば、ポート番号は部屋番号ということになります。0～1023までは「WELL KNOWN PORT NUMBERS」と言い、よく利用されるアプリケーション用に予約されています。(HTTP:TCP/80、FTP:20,21/TCP,、SMTP:25/TCPなど)インターネット通信に使われるプロトコルはHTTP(HyperText Transfer Protocol)で、ポート番号は80です。このため、インターネット上のWebサーバにアクセスできるようにするには、内部からWebサーバの80番ポートに向けた発信パケット(HTTPリクエスト)、および逆向きの、Webサーバのポート80からクライアントPCの1024番以上に向けた応答パケット(HTTPレスポンス)の通過を許可する必要があります。したがって適切なルール設定は「ウ」です。"
@@ -18,10 +18,10 @@
                    "ca":  "科技系 » 资安 » 安全实作技术",
                    "q":  "在內部網路與網際網路的連接點安裝封包過濾型防火牆，當要讓內部網路上的電腦能夠存取網際網路上的Web伺服器的80號連接埠時，過濾中允許的規則適當組合是哪一項？",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/45a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/45i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/45u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/45e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/45a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/45i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/45u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/45e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
                    "al":  "封包過濾是根據封包標頭資訊中的IP地址及連接埠號碼來決定封包是否通過。連接埠號碼是用來在通訊時識別目標程式的0至65535（16位元無號整數）的號碼。如果說IP地址是大樓的地址，那麼連接埠號碼就類似房間號碼。0～1023被稱為「知名連接埠號碼」，是預留给常用應用程式的。（HTTP:TCP/80、FTP:20,21/TCP、SMTP:25/TCP等）網際網路通訊所使用的通訊協定是HTTP（HyperText Transfer Protocol），其連接埠號碼為80。因此，要能夠存取網際網路上的Web伺服器，必須允許從內部向Web伺服器80號連接埠發出的發送封包（HTTP請求），以及反向的、從Web伺服器的80號連接埠向客戶端電腦1024號以上發出的回應封包（HTTP回應）通過。因此，適當的規則設定是「ウ」。"
@@ -145,10 +145,10 @@
                    "ca":  "テクノロジ系 » セキュリティ » セキュリティ実装技術",
                    "q":  "社内ネットワークとインターネットの接続点にパケットフィルタリング型ファイアウォールを設置して，社内ネットワーク上のPCからインターネット上のWebサーバ(ポート番号80) にアクセスできるようにするとき，フィルタリングで許可するルールの適切な組合せはどれか。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/42a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/42i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/42u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/42e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/42a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/42i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/42u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/42e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
                    "al":  "パケットフィルタリングでは、パケットのヘッダー情報内のIPアドレス及びポート番号を基準にパケット通過の可否を決定します。ポート番号は、通信をする際にあて先のプログラムを特定するための0から65535(16ビット符号無し整数)の番号です。IPアドレスが建物の住所だとすれば、ポート番号は部屋番号ということになります。0～1023までは「WELL KNOWN PORT NUMBERS」と言い、よく利用されるアプリケーション用に予約されています。(HTTP:TCP/80、FTP:20,21/TCP,、SMTP:25/TCPなど)インターネット通信に使われるプロトコルはHTTP(HyperText Transfer Protocol)で、ポート番号は80です。このため、インターネット上のWebサーバにアクセスできるようにするには、内部からWebサーバの80番ポートに向けた発信パケット(HTTPリクエスト)、および逆向きの、Webサーバのポート80からクライアントPCの1024番以上に向けた応答パケット(HTTPレスポンス)の通過を許可する必要があります。したがって適切なルール設定は「ウ」です。"
@@ -158,10 +158,10 @@
                    "ca":  "科技系 » 資安 » 資安實作技術",
                    "q":  "在公司內部網路與網際網路的連接點設置封包過濾型防火牆，當公司內部網路的 PC 要存取網際網路上的 Web 伺服器（埠號 80）時，過濾規則的正確組合為何？",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/42a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/42i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/42u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/42e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/42a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/42i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/42u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/42e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
                    "al":  "封包過濾是根據封包表頭資訊中的 IP 位址及埠號來決定封包是否放行。埠號是用於在通訊時識別目的端程式，範圍為 0 至 65535（16 位元無符號整數）的編號。若將 IP 位址比喻為建築物的地址，則埠號就是房間號碼。0 至 1023 為「知名埠號（WELL KNOWN PORT NUMBERS）」，保留給常用的應用程式使用（例如 HTTP:TCP/80、FTP:20,21/TCP、SMTP:25/TCP 等）。網際網路通訊使用的協定為 HTTP（HyperText Transfer Protocol），其埠號為 80。因此，為了能夠存取網際網路上的 Web 伺服器，必須允許從內部網路發往 Web 伺服器 80 埠的發送封包（HTTP 請求），以及反方向由 Web 伺服器 80 埠傳回用戶端 PC 1024 以上埠號的應答封包（HTTP 回應）通過。故正確的規則設定為「ウ」。"
@@ -255,7 +255,7 @@
         "ja":  {
                    "ti":  "令和3年度　問36",
                    "ca":  "テクノロジ系 » セキュリティ » セキュリティ実装技術",
-                   "q":  "データベースのアカウントの種類とそれに付与する権限の組合せのうち，情報セキュリティ上，適切なものはどれか。\n\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/36.png\" alt=\"\"\u003e",
+                   "q":  "データベースのアカウントの種類とそれに付与する権限の組合せのうち，情報セキュリティ上，適切なものはどれか。\n\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/36.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -263,12 +263,12 @@
                               "エ"
                           ],
                    "an":  2,
-                   "al":  "権限付与に対する基本的な考え方に「最小権限の原則」というものがあります。これは、情報に対する権限は、それが必要である者に対してのみ与え、必要のない者には与えないという考え方です。データ構造の定義用アカウントは、表やビュー、スキーマの作成などのデータベースの構造を定義するための専用アカウントなので、テーブルの作成・削除権限が必要です。しかし、このアカウントではレコードの入力・更新を行わないため、レコードの更新権限については付与する必要はありません。同じように、データの入力・更新アカウントには、業務を実施するためにレコードの更新権限が必要ですが、不必要なテーブルの作成・削除権限は付与すべきではありません。これを踏まえると、適切なアクセス制御を実現するために各アカウントに付与すべき権限は、下表のような組合せとなると判断できます。\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/36a.png\" alt=\"36a.png\"\u003e"
+                   "al":  "権限付与に対する基本的な考え方に「最小権限の原則」というものがあります。これは、情報に対する権限は、それが必要である者に対してのみ与え、必要のない者には与えないという考え方です。データ構造の定義用アカウントは、表やビュー、スキーマの作成などのデータベースの構造を定義するための専用アカウントなので、テーブルの作成・削除権限が必要です。しかし、このアカウントではレコードの入力・更新を行わないため、レコードの更新権限については付与する必要はありません。同じように、データの入力・更新アカウントには、業務を実施するためにレコードの更新権限が必要ですが、不必要なテーブルの作成・削除権限は付与すべきではありません。これを踏まえると、適切なアクセス制御を実現するために各アカウントに付与すべき権限は、下表のような組合せとなると判断できます。\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/36a.png\" alt=\"36a.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和3年度 問36",
                    "ca":  "技術領域 » 資訊安全 » 資訊安全實作技術",
-                   "q":  "關於資料庫帳號類型與其所賦予權限的組合，從資訊安全角度來看，下列何者是正確的？\n\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/36.png\" alt=\"\"\u003e",
+                   "q":  "關於資料庫帳號類型與其所賦予權限的組合，從資訊安全角度來看，下列何者是正確的？\n\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/36.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -276,7 +276,7 @@
                               "エ"
                           ],
                    "an":  2,
-                   "al":  "關於權限賦予的基本概念，有一項原則稱為「最小權限原則」（Principle of Least Privilege）。此概念是指針對資訊的存取權限，僅賦予有必要的使用者，而不給予無必要者。資料庫結構定義用帳號是專門用於建立資料表、檢視表或綱要（Schema）等資料庫結構的專用帳號，因此需要擁有建立與刪除資料表的權限；但由於此類帳號不會進行記錄（Row）的新增或更新，因此無須賦予記錄的更新權限。同樣地，資料輸入與更新帳號雖為了執行業務需要記錄的更新權限，但亦不應賦予其不必要的資料表建立與刪除權限。基於上述原則，為了實現適切的存取控制，各帳號應賦予的權限組合如下表所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/36a.png\" alt=\"36a.png\"\u003e"
+                   "al":  "關於權限賦予的基本概念，有一項原則稱為「最小權限原則」（Principle of Least Privilege）。此概念是指針對資訊的存取權限，僅賦予有必要的使用者，而不給予無必要者。資料庫結構定義用帳號是專門用於建立資料表、檢視表或綱要（Schema）等資料庫結構的專用帳號，因此需要擁有建立與刪除資料表的權限；但由於此類帳號不會進行記錄（Row）的新增或更新，因此無須賦予記錄的更新權限。同樣地，資料輸入與更新帳號雖為了執行業務需要記錄的更新權限，但亦不應賦予其不必要的資料表建立與刪除權限。基於上述原則，為了實現適切的存取控制，各帳號應賦予的權限組合如下表所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/36a.png\" alt=\"36a.png\"\u003e"
                }
     },
     {
@@ -313,10 +313,10 @@
                    "ca":  "テクノロジ系 » セキュリティ » セキュリティ実装技術",
                    "q":  "社内ネットワークとインターネットの接続点にパケットフィルタリング型ファイアウォールを設置して，社内ネットワーク上のPCからインターネット上のWebサーバ(ポート番号80) にアクセスできるようにするとき，フィルタリングで許可するルールの適切な組合せはどれか。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/44a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/44i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/44u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/44e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/44a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/44i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/44u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/44e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
                    "al":  "パケットフィルタリングでは、パケットのヘッダー情報内のIPアドレス及びポート番号を基準にパケット通過の可否を決定します。ポート番号は、通信をする際にあて先のプログラムを特定するための0～65535(16ビット符号無し整数)の番号です。IPアドレスが建物の住所だとすれば、ポート番号は部屋番号ということになります。0～1023までは「WELL KNOWN PORT NUMBERS」と言い、よく利用されるアプリケーション用に予約されています。(HTTP:TCP/80、FTP:20,21/TCP,、SMTP:25/TCPなど)インターネット通信に使われるプロトコルはHTTP(HyperText Transfer Protocol)で、ポート番号は80です。このため、インターネット上のWebサーバにアクセスできるようにするには、内部からWebサーバの80番ポートに向けた発信パケット(HTTPリクエスト)、および逆向きの、Webサーバのポート80からクライアントPCの1024番以上に向けた応答パケット(HTTPレスポンス)の通過を許可する必要があります。したがって適切なルール設定は「ウ」です。"
@@ -326,10 +326,10 @@
                    "ca":  "技術系 » 資安 » 資安實作技術",
                    "q":  "在公司內部網路與網際網路的連接點設置封包過濾型防火牆，當要讓公司內部網路上的 PC 存取網際網路上的 Web 伺服器（埠號 80）時，過濾規則的最佳組合為何？",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/44a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/44i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/44u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/44e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/44a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/44i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/44u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/44e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
                    "al":  "封包過濾是根據封包標頭資訊中的 IP 位址及埠號來決定封包是否允許通過。埠號是通訊時用來識別目的端程式的 0～65535（16 位元無符號整數）編號。如果 IP 位址是建築物的地址，那麼埠號就是房間號碼。0～1023 為「WELL KNOWN PORT NUMBERS（知名埠號）」，是為常用應用程式所保留的（例如：HTTP:TCP/80, FTP:20,21/TCP, SMTP:25/TCP 等）。網際網路通訊所使用的協定為 HTTP（HyperText Transfer Protocol），其埠號為 80。因此，為了能夠存取網際網路上的 Web 伺服器，必須允許從內部發送往 Web 伺服器 80 埠的封包（HTTP 請求），以及反方向從 Web 伺服器 80 埠回傳給用戶端 PC 1024 號以上埠的響應封包（HTTP 回應）通過。因此，適當的規則設定為「ウ」。"
@@ -591,7 +591,7 @@
         "ja":  {
                    "ti":  "令和2年度　問43",
                    "ca":  "テクノロジ系 » セキュリティ » セキュリティ実装技術",
-                   "q":  "VPNで使用されるセキュアなプロトコルであるIPsec，L2TP，TLSの，OSI基本参照モデルにおける相対的な位置関係はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/43.png\" alt=\"43.png\"\u003e",
+                   "q":  "VPNで使用されるセキュアなプロトコルであるIPsec，L2TP，TLSの，OSI基本参照モデルにおける相対的な位置関係はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/43.png\" alt=\"43.png\"\u003e",
                    "op":  [
                               "A",
                               "B",
@@ -599,12 +599,12 @@
                               "D"
                           ],
                    "an":  3,
-                   "al":  "それぞれのセキュアプロトコルの特徴と位置する階層は次の通りです。IPsec (IP Security)IP(Internet Protocol)を拡張してセキュリティを高めたプロトコルで、改ざんの検知、通信データの暗号化、送信元の認証などの機能をOSI基本参照モデルのネットワーク層レベル(TCP/IPモデルではIP層)で提供する。認証プロトコルAHや認証／暗号化プロトコルESPを含む。L2TP (Layer 2 Tunneling Protocol)PPPなどのデータリンク層のフレームをカプセル化し、UDPおよびIPデータグラムに埋め込むことで、公衆ネットワーク上で伝達可能にするトンネリングプロトコル。暗号化の機能はないため必要に応じてIPsecと併用する必要がある。その名の通りOSI基本参照モデルの第2層のデータリンク層で動作する。\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/43a.png\" alt=\"43a.png\"\u003e"
+                   "al":  "それぞれのセキュアプロトコルの特徴と位置する階層は次の通りです。IPsec (IP Security)IP(Internet Protocol)を拡張してセキュリティを高めたプロトコルで、改ざんの検知、通信データの暗号化、送信元の認証などの機能をOSI基本参照モデルのネットワーク層レベル(TCP/IPモデルではIP層)で提供する。認証プロトコルAHや認証／暗号化プロトコルESPを含む。L2TP (Layer 2 Tunneling Protocol)PPPなどのデータリンク層のフレームをカプセル化し、UDPおよびIPデータグラムに埋め込むことで、公衆ネットワーク上で伝達可能にするトンネリングプロトコル。暗号化の機能はないため必要に応じてIPsecと併用する必要がある。その名の通りOSI基本参照モデルの第2層のデータリンク層で動作する。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/43a.png\" alt=\"43a.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和2年度 問43",
                    "ca":  "技術系 » 安全性 » 安全性實作技術",
-                   "q":  "VPN所使用的安全協定 IPsec、L2TP、TLS，在 OSI 基本參考模型中的相對位置關係為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/43.png\" alt=\"43.png\"\u003e",
+                   "q":  "VPN所使用的安全協定 IPsec、L2TP、TLS，在 OSI 基本參考模型中的相對位置關係為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/43.png\" alt=\"43.png\"\u003e",
                    "op":  [
                               "A",
                               "B",
@@ -612,7 +612,7 @@
                               "D"
                           ],
                    "an":  3,
-                   "al":  "各安全協定的特徵及其所在的層級如下：IPsec (IP Security) 是對 IP (Internet Protocol) 進行擴展以提高安全性的協定，在 OSI 基本參考模型中的網路層級（TCP/IP 模型中為 IP 層）提供資料篡改檢測、通訊資料加密及發送來源認證等功能。包含認證協定 AH 以及認證/加密協定 ESP。L2TP (Layer 2 Tunneling Protocol) 是一種隧道協定，透過將 PPP 等資料連結層的訊框進行封裝，並嵌入至 UDP 及 IP 資料報中，使其能在公共網路上進行傳輸。由於不具備加密功能，通常需要根據需求與 IPsec 併用。正如其名，運作於 OSI 基本參考模型的第 2 層（資料連結層）。\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/43a.png\" alt=\"43a.png\"\u003e"
+                   "al":  "各安全協定的特徵及其所在的層級如下：IPsec (IP Security) 是對 IP (Internet Protocol) 進行擴展以提高安全性的協定，在 OSI 基本參考模型中的網路層級（TCP/IP 模型中為 IP 層）提供資料篡改檢測、通訊資料加密及發送來源認證等功能。包含認證協定 AH 以及認證/加密協定 ESP。L2TP (Layer 2 Tunneling Protocol) 是一種隧道協定，透過將 PPP 等資料連結層的訊框進行封裝，並嵌入至 UDP 及 IP 資料報中，使其能在公共網路上進行傳輸。由於不具備加密功能，通常需要根據需求與 IPsec 併用。正如其名，運作於 OSI 基本參考模型的第 2 層（資料連結層）。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/43a.png\" alt=\"43a.png\"\u003e"
                }
     },
     {
@@ -627,7 +627,7 @@
                               "PCとWebサーバ間の通信データを暗号化するとともに，利用者を認証することができるようになる。"
                           ],
                    "an":  4,
-                   "al":  "設問の関係を図示すると次のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/41.png\" alt=\"41.png\"\u003e"
+                   "al":  "設問の関係を図示すると次のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/41.png\" alt=\"41.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和2年度 問41",
@@ -640,7 +640,7 @@
                               "在加密 PC 與 Web 伺服器間的通信資料的同時，能夠對使用者進行身份驗證。"
                           ],
                    "an":  4,
-                   "al":  "設問的關係圖示如下：\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/41.png\" alt=\"41.png\"\u003e"
+                   "al":  "設問的關係圖示如下：\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/41.png\" alt=\"41.png\"\u003e"
                }
     },
     {
@@ -711,7 +711,7 @@
                               "メール受信者のPCが，送信元ドメインから算出したハッシュ値と受信メールに添付されているハッシュ値とを照合する。"
                           ],
                    "an":  2,
-                   "al":  "SPF(Sender Policy Framework)は、メールを送信しようとしてきたメールサーバのIPアドレス情報を検証することで、正規のサーバからのメール送信であるかどうか確認することができる技術です。受信メールサーバ側がメールの送信元ドメインを管理するDNSサーバに問い合わせ、返されたIPアドレスが送信元メールサーバのIPアドレスと一致するかどうかでなりすましを検知します。SPFでは以下の手順で送信元IPアドレスの検証を行います。送信側は、送信側ドメインのDNSサーバのSPFレコード(またはTXTレコード)に正当なメールサーバのIPアドレスやホスト名を登録し、公開しておく。送信側から受信側へ、SMTPメールが送信される。受信側メールサーバは、受信側ドメインのDNSサーバを通じて、MAIL FROMコマンドに記載された送信者メールアドレスのドメインを管理するDNSサーバに問い合わせ、SPF情報を取得する。SPF情報との照合でSMTP接続してきたメールサーバのIPアドレスの確認に成功すれば、正当なドメインから送信されたと判断する。\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/33.png\" alt=\"33.png\"\u003e"
+                   "al":  "SPF(Sender Policy Framework)は、メールを送信しようとしてきたメールサーバのIPアドレス情報を検証することで、正規のサーバからのメール送信であるかどうか確認することができる技術です。受信メールサーバ側がメールの送信元ドメインを管理するDNSサーバに問い合わせ、返されたIPアドレスが送信元メールサーバのIPアドレスと一致するかどうかでなりすましを検知します。SPFでは以下の手順で送信元IPアドレスの検証を行います。送信側は、送信側ドメインのDNSサーバのSPFレコード(またはTXTレコード)に正当なメールサーバのIPアドレスやホスト名を登録し、公開しておく。送信側から受信側へ、SMTPメールが送信される。受信側メールサーバは、受信側ドメインのDNSサーバを通じて、MAIL FROMコマンドに記載された送信者メールアドレスのドメインを管理するDNSサーバに問い合わせ、SPF情報を取得する。SPF情報との照合でSMTP接続してきたメールサーバのIPアドレスの確認に成功すれば、正当なドメインから送信されたと判断する。\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/33.png\" alt=\"33.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和5年度 問33",
@@ -724,7 +724,7 @@
                               "郵件接收者的個人電腦將根據寄件者網域計算出的雜湊值，與附加在接收郵件中的雜湊值進行核對。"
                           ],
                    "an":  2,
-                   "al":  "SPF (Sender Policy Framework) 是一種透過驗證試圖傳送郵件之郵件伺服器的 IP 位址資訊，以確認是否由正規伺服器傳送郵件的技術。接收郵件伺服器端會向管理郵件寄件者網域的 DNS 伺服器進行查詢，並根據回傳的 IP 位址是否與寄件者郵件伺服器的 IP 位址一致，來偵測是否為偽冒。SPF 係透過以下步驟驗證寄件者 IP 位址：寄件方將正當郵件伺服器的 IP 位址或主機名稱註冊於寄件方網域之 DNS 伺服器的 SPF 記錄（或 TXT 記錄）中並公開。寄件方將 SMTP 郵件傳送至接收方。接收方郵件伺服器透過接收方網域的 DNS 伺服器，向 MAIL FROM 指令中所記載之寄件者電子郵件位址的網域管理 DNS 伺服器進行查詢，以取得 SPF 資訊。若與 SPF 資訊核對成功確認了發起 SMTP 連線之郵件伺服器的 IP 位址，即判斷為由正當網域所傳送。\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/33.png\" alt=\"33.png\"\u003e"
+                   "al":  "SPF (Sender Policy Framework) 是一種透過驗證試圖傳送郵件之郵件伺服器的 IP 位址資訊，以確認是否由正規伺服器傳送郵件的技術。接收郵件伺服器端會向管理郵件寄件者網域的 DNS 伺服器進行查詢，並根據回傳的 IP 位址是否與寄件者郵件伺服器的 IP 位址一致，來偵測是否為偽冒。SPF 係透過以下步驟驗證寄件者 IP 位址：寄件方將正當郵件伺服器的 IP 位址或主機名稱註冊於寄件方網域之 DNS 伺服器的 SPF 記錄（或 TXT 記錄）中並公開。寄件方將 SMTP 郵件傳送至接收方。接收方郵件伺服器透過接收方網域的 DNS 伺服器，向 MAIL FROM 指令中所記載之寄件者電子郵件位址的網域管理 DNS 伺服器進行查詢，以取得 SPF 資訊。若與 SPF 資訊核對成功確認了發起 SMTP 連線之郵件伺服器的 IP 位址，即判斷為由正當網域所傳送。\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/33.png\" alt=\"33.png\"\u003e"
                }
     },
     {
@@ -815,7 +815,7 @@
         "ja":  {
                    "ti":  "平成20年秋期　問66",
                    "ca":  "テクノロジ系 » セキュリティ » セキュリティ実装技術",
-                   "q":  "図に示すネットワーク構成で，Webページの閲覧だけを社外に提供する。攻撃を防止するためにファイアウォールのIPパケットフィルタリングを設定する場合，フィルタリングルールでインターネットからDMZへのパケットの通過を禁止できないプロトコルはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/66.png\" alt=\"\"\u003e",
+                   "q":  "図に示すネットワーク構成で，Webページの閲覧だけを社外に提供する。攻撃を防止するためにファイアウォールのIPパケットフィルタリングを設定する場合，フィルタリングルールでインターネットからDMZへのパケットの通過を禁止できないプロトコルはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/66.png\" alt=\"\"\u003e",
                    "op":  [
                               "FTP",
                               "HTTP",
@@ -828,7 +828,7 @@
         "zh":  {
                    "ti":  "平成20年秋季 問66",
                    "ca":  "技術系 » 安全性 » 安全性實作技術",
-                   "q":  "在圖示的網路架構中，僅對外提供網頁瀏覽服務。為了防止攻擊，在設定防火牆的 IP 封包過濾（IP Packet Filtering）時，下列哪一個協定無法透過過濾規則來禁止網際網路進入 DMZ 的封包傳輸？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/66.png\" alt=\"\"\u003e",
+                   "q":  "在圖示的網路架構中，僅對外提供網頁瀏覽服務。為了防止攻擊，在設定防火牆的 IP 封包過濾（IP Packet Filtering）時，下列哪一個協定無法透過過濾規則來禁止網際網路進入 DMZ 的封包傳輸？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/66.png\" alt=\"\"\u003e",
                    "op":  [
                               "FTP",
                               "HTTP",
@@ -843,7 +843,7 @@
         "ja":  {
                    "ti":  "平成21年秋期　問44",
                    "ca":  "テクノロジ系 » セキュリティ » セキュリティ実装技術",
-                   "q":  "社内ネットワークとインターネットの接続点にパケットフィルタリング型ファイアウォールを設置して，社内ネットワーク上のPCからインターネット上のWebサーバ(ポート番号80)にアクセスできるようにするとき，フィルタリングで許可するルールの適切な組合せはどれか。\n\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/44.png\" alt=\"問44選択肢\"\u003e",
+                   "q":  "社内ネットワークとインターネットの接続点にパケットフィルタリング型ファイアウォールを設置して，社内ネットワーク上のPCからインターネット上のWebサーバ(ポート番号80)にアクセスできるようにするとき，フィルタリングで許可するルールの適切な組合せはどれか。\n\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/44.png\" alt=\"問44選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -856,7 +856,7 @@
         "zh":  {
                    "ti":  "平成21年秋季 問44",
                    "ca":  "技術系 » 資訊安全 » 資訊安全實作技術",
-                   "q":  "在公司內部網路與網際網路的連接點設置封包過濾型防火牆，當要讓公司內部網路的 PC 能夠存取網際網路上的 Web 伺服器（連接埠編號 80）時，過濾規則的適當組合為何？\n\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/44.png\" alt=\"問44選項\"\u003e",
+                   "q":  "在公司內部網路與網際網路的連接點設置封包過濾型防火牆，當要讓公司內部網路的 PC 能夠存取網際網路上的 Web 伺服器（連接埠編號 80）時，過濾規則的適當組合為何？\n\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/44.png\" alt=\"問44選項\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -871,7 +871,7 @@
         "ja":  {
                    "ti":  "平成20年春期　問65",
                    "ca":  "テクノロジ系 » セキュリティ » セキュリティ実装技術",
-                   "q":  "図のように，クライアント上のアプリケーションがデータベース接続プログラム経由でサーバ上のデータベースのデータにアクセスする。データベース接続プログラム間で送受信されるデータが，通信経路上で盗聴されることに対する対策はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/65.png\" alt=\"問65画像\"\u003e",
+                   "q":  "図のように，クライアント上のアプリケーションがデータベース接続プログラム経由でサーバ上のデータベースのデータにアクセスする。データベース接続プログラム間で送受信されるデータが，通信経路上で盗聴されることに対する対策はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/65.png\" alt=\"問65画像\"\u003e",
                    "op":  [
                               "クライアント側及びサーバ側にあるデータベース接続プログラム間の通信を暗号化する。",
                               "サーバ側のデータベース接続プログラムにアクセスできるクライアントのIPアドレスを必要なものだけに制限する。",
@@ -884,7 +884,7 @@
         "zh":  {
                    "ti":  "平成20年春季 問65",
                    "ca":  "技術系 » 資訊安全 » 資安實作技術",
-                   "q":  "如圖所示，用戶端上的應用程式透過資料庫連線程式，存取伺服器上資料庫的資料。針對資料庫連線程式之間收發的資料在傳輸路徑上被竊聽的問題，下列何者是正確的對策？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/65.png\" alt=\"問65圖片\"\u003e",
+                   "q":  "如圖所示，用戶端上的應用程式透過資料庫連線程式，存取伺服器上資料庫的資料。針對資料庫連線程式之間收發的資料在傳輸路徑上被竊聽的問題，下列何者是正確的對策？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/65.png\" alt=\"問65圖片\"\u003e",
                    "op":  [
                               "將用戶端與伺服器端資料庫連線程式之間的通信進行加密。",
                               "將能存取伺服器端資料庫連線程式的用戶端 IP 位址限制為僅限必要的位址。",
@@ -1039,7 +1039,7 @@
         "ja":  {
                    "ti":  "平成29年秋期　問44",
                    "ca":  "テクノロジ系 » セキュリティ » セキュリティ実装技術",
-                   "q":  "図のように，クライアント上のアプリケーションがデータベース接続プログラム経由でサーバ上のデータベースのデータにアクセスする。アプリケーションとデータベースとの間で送受信されるコマンドや実行結果の漏えいを防止する対策はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/44.png\" alt=\"\"\u003e",
+                   "q":  "図のように，クライアント上のアプリケーションがデータベース接続プログラム経由でサーバ上のデータベースのデータにアクセスする。アプリケーションとデータベースとの間で送受信されるコマンドや実行結果の漏えいを防止する対策はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/44.png\" alt=\"\"\u003e",
                    "op":  [
                               "サーバ側のデータベース接続プログラムにアクセスできるクライアントのIPアドレスを必要なものだけに制限する。",
                               "サーバ側のデータベース接続プログラムを起動・停止するときに必要なパスワードを設定する。",
@@ -1052,7 +1052,7 @@
         "zh":  {
                    "ti":  "平成29年秋期　問44",
                    "ca":  "技術系 » 資訊安全 » 資訊安全實作技術",
-                   "q":  "如圖所示，用戶端上的應用程式透過資料庫連接程式存取伺服器上的資料庫數據。下列何者為防止應用程式與資料庫之間傳送與接收的指令及執行結果外洩的對策？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/44.png\" alt=\"\"\u003e",
+                   "q":  "如圖所示，用戶端上的應用程式透過資料庫連接程式存取伺服器上的資料庫數據。下列何者為防止應用程式與資料庫之間傳送與接收的指令及執行結果外洩的對策？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/44.png\" alt=\"\"\u003e",
                    "op":  [
                               "將可存取伺服器端資料庫連接程式的用戶端 IP 位址限制為僅必要的來源。",
                               "在啟動或停止伺服器端的資料庫連接程式時，設定必要的密碼。",

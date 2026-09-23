@@ -412,9 +412,11 @@ async function loadQuizFiles(filesJson, questionCount, isIndex=false, startQ=0, 
 		// 5. 初始化你的題庫與畫面 (請對接你原本的測驗初始化函式)
 		// 使用 Fisher-Yates 演算法將所有題目隨機打亂（洗牌）
 		let shuffledCards = [...allQuizList];
-		for (let i = shuffledCards.length - 1; i > 0; i--) {
-			const j = Math.floor(Math.random() * (i + 1));
-			[shuffledCards[i], shuffledCards[j]] = [shuffledCards[j], shuffledCards[i]];
+		if(isRandom){
+			for (let i = shuffledCards.length - 1; i > 0; i--) {
+				const j = Math.floor(Math.random() * (i + 1));
+				[shuffledCards[i], shuffledCards[j]] = [shuffledCards[j], shuffledCards[i]];
+			}
 		}
 
 		// 取得最大可用題目數（防止要求數量大於總題數）

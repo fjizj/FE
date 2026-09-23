@@ -123,7 +123,7 @@
                               "自動応答を実現するソフトウェア製品又はシステムの要件定義を行い，AIなどを利用した実現方式やインタフェース設計を行う。"
                           ],
                    "an":  1,
-                   "al":  "共通フレーム2013では、テクニカルプロセスとして、企画、要件定義、システム開発、ソフトウェア実装、ハードウェア実装、保守の各プロセスが規定されています。\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/48.png\" alt=\"48.png\"\u003e"
+                   "al":  "共通フレーム2013では、テクニカルプロセスとして、企画、要件定義、システム開発、ソフトウェア実装、ハードウェア実装、保守の各プロセスが規定されています。\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/48.png\" alt=\"48.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和5年度 問48",
@@ -136,7 +136,7 @@
                               "進行實現自動回覆的軟體產品或系統的需求定義，並設計利用 AI 等技術的實現方式與介面。"
                           ],
                    "an":  1,
-                   "al":  "在《共同框架 2013》（Common Framework 2013）中，技術流程規定了企劃、需求定義、系統開發、軟體實作、硬體實作及維護等各個程序。\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/48.png\" alt=\"48.png\"\u003e"
+                   "al":  "在《共同框架 2013》（Common Framework 2013）中，技術流程規定了企劃、需求定義、系統開發、軟體實作、硬體實作及維護等各個程序。\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/48.png\" alt=\"48.png\"\u003e"
                }
     },
     {
@@ -423,7 +423,7 @@
         "ja":  {
                    "ti":  "平成30年秋期　問66",
                    "ca":  "ストラテジ系 » システム企画 » 調達計画・実施",
-                   "q":  "図に示す手順で情報システムを調達するとき，bに入れるものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/66.png\" alt=\"\"\u003e",
+                   "q":  "図に示す手順で情報システムを調達するとき，bに入れるものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/66.png\" alt=\"\"\u003e",
                    "op":  [
                               "RFI",
                               "RFP",
@@ -436,7 +436,7 @@
         "zh":  {
                    "ti":  "平成30年秋期 問66",
                    "ca":  "策略系 » 系統規劃 » 採購計畫與執行",
-                   "q":  "當依照圖中所示的程序採購資訊系統時，放入 b 的內容為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/66.png\" alt=\"\"\u003e",
+                   "q":  "當依照圖中所示的程序採購資訊系統時，放入 b 的內容為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/66.png\" alt=\"\"\u003e",
                    "op":  [
                               "RFI",
                               "RFP",
@@ -739,7 +739,7 @@
                               "システムを業務及び環境に適合するように維持管理を行い，修正依頼が発生した場合は，その内容を分析し，影響を明らかにする。"
                           ],
                    "an":  2,
-                   "al":  "共通フレーム2013では、テクニカルプロセスとして、企画、要件定義、システム開発、ソフトウェア実装、ハードウェア実装、保守の各プロセスが規定されています。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/64.png\" alt=\"\"\u003e"
+                   "al":  "共通フレーム2013では、テクニカルプロセスとして、企画、要件定義、システム開発、ソフトウェア実装、ハードウェア実装、保守の各プロセスが規定されています。\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/64.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成30年秋季 問64",
@@ -752,7 +752,7 @@
                               "為了使系統符合業務及環境需求，需進行維護管理，若發生修正請求，應分析其內容並釐清影響範圍。"
                           ],
                    "an":  2,
-                   "al":  "根據共通框架 2013（Common Framework 2013），技術流程規範了規劃、需求定義、系統開發、軟體實作、硬體實作及維護等各個流程。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/64.png\" alt=\"\"\u003e"
+                   "al":  "根據共通框架 2013（Common Framework 2013），技術流程規範了規劃、需求定義、系統開發、軟體實作、硬體實作及維護等各個流程。\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/64.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -843,7 +843,7 @@
         "ja":  {
                    "ti":  "平成24年春期　問66",
                    "ca":  "ストラテジ系 » システム企画 » 調達計画・実施",
-                   "q":  "図に示す手順で情報システムを調達する場合，bに入るものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/66.png\" alt=\"問66画像\"\u003e",
+                   "q":  "図に示す手順で情報システムを調達する場合，bに入るものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/66.png\" alt=\"問66画像\"\u003e",
                    "op":  [
                               "RFI",
                               "RFP",
@@ -856,7 +856,7 @@
         "zh":  {
                    "ti":  "平成24年春季 問66",
                    "ca":  "策略系 » 系統企劃 » 採購計畫與執行",
-                   "q":  "若採用圖中所示的程序採購資訊系統，則 b 應填入什麼？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/66.png\" alt=\"問66圖片\"\u003e",
+                   "q":  "若採用圖中所示的程序採購資訊系統，則 b 應填入什麼？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/66.png\" alt=\"問66圖片\"\u003e",
                    "op":  [
                               "RFI",
                               "RFP",
@@ -1263,7 +1263,7 @@
         "ja":  {
                    "ti":  "平成22年春期　問67",
                    "ca":  "ストラテジ系 » システム企画 » 調達計画・実施",
-                   "q":  "“提案評価方法の決定”に始まる調達プロセスを，調達先の選定，調達の実施，提案依頼書(RFP)の発行，提案評価に分類して順番に並べたとき，c に入るものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/67.png\" alt=\"\"\u003e",
+                   "q":  "“提案評価方法の決定”に始まる調達プロセスを，調達先の選定，調達の実施，提案依頼書(RFP)の発行，提案評価に分類して順番に並べたとき，c に入るものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/67.png\" alt=\"\"\u003e",
                    "op":  [
                               "調達先の選定",
                               "調達の実施",
@@ -1271,12 +1271,12 @@
                               "提案評価"
                           ],
                    "an":  1,
-                   "al":  "調達プロセスの手順は次の通りです。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/67a.png\" alt=\"\"\u003e"
+                   "al":  "調達プロセスの手順は次の通りです。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/67a.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成22年春季 問67",
                    "ca":  "策略系 » 系統規劃 » 採購計畫與實施",
-                   "q":  "若將以「決定提案評價方法」為首的採購流程，分類為「供應商選定」、「採購實施」、「發行需求建議書(RFP)」及「提案評價」並依序排列，請問 c 應填入何者？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/67.png\" alt=\"\"\u003e",
+                   "q":  "若將以「決定提案評價方法」為首的採購流程，分類為「供應商選定」、「採購實施」、「發行需求建議書(RFP)」及「提案評價」並依序排列，請問 c 應填入何者？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/67.png\" alt=\"\"\u003e",
                    "op":  [
                               "供應商選定",
                               "採購實施",
@@ -1284,7 +1284,7 @@
                               "提案評價"
                           ],
                    "an":  1,
-                   "al":  "採購流程的順序如下：\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/67a.png\" alt=\"\"\u003e"
+                   "al":  "採購流程的順序如下：\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/67a.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1347,7 +1347,7 @@
         "ja":  {
                    "ti":  "平成27年秋期　問66",
                    "ca":  "ストラテジ系 » システム企画 » 調達計画・実施",
-                   "q":  "総合評価落札方式を用い，次の条件で調達を行う。A～D社の入札価格及び技術点が表のとおりであるとき，落札者はどれか。\u003cbr\u003e\u003cbr\u003e〔条件〕\u003cul\u003e\u003cli class=\"li1\"\u003e価格点(100点満点)及び技術点(100点満点)を合算した総合評価点が最も高い入札者を落札者とする。\u003c/li\u003e\u003cli class=\"li2\"\u003e予定価格を1,000万円とする。予定価格を超える入札は評価対象とならない。\u003c/li\u003e\u003cli class=\"li3\"\u003e価格点は次の計算式で算出する。\u003cbr\u003e　[1－(入札価格/予定価格)]×100\u003c/li\u003e\u003c/ul\u003e\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/66.png\" alt=\"\"\u003e",
+                   "q":  "総合評価落札方式を用い，次の条件で調達を行う。A～D社の入札価格及び技術点が表のとおりであるとき，落札者はどれか。\u003cbr\u003e\u003cbr\u003e〔条件〕\u003cul\u003e\u003cli class=\"li1\"\u003e価格点(100点満点)及び技術点(100点満点)を合算した総合評価点が最も高い入札者を落札者とする。\u003c/li\u003e\u003cli class=\"li2\"\u003e予定価格を1,000万円とする。予定価格を超える入札は評価対象とならない。\u003c/li\u003e\u003cli class=\"li3\"\u003e価格点は次の計算式で算出する。\u003cbr\u003e　[1－(入札価格/予定価格)]×100\u003c/li\u003e\u003c/ul\u003e\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/66.png\" alt=\"\"\u003e",
                    "op":  [
                               "A社",
                               "B社",
@@ -1360,7 +1360,7 @@
         "zh":  {
                    "ti":  "平成27年秋季 問66",
                    "ca":  "策略系 » 系統規劃 » 採購計畫與執行",
-                   "q":  "採用綜合評選決標方式，並依據下列條件進行採購。若 A～D 公司的投標價格及技術分數如下表所示，請問得標者為哪一家？\u003cbr\u003e\u003cbr\u003e〔條件〕\u003cul\u003e\u003cli class=\"li1\"\u003e將價格分數（滿分100分）與技術分數（滿分100分）相加，綜合評分最高者為得標者。\u003c/li\u003e\u003cli class=\"li2\"\u003e預定價格為 1,000 萬日圓。超過預定價格的投標不列入評選對象。\u003c/li\u003e\u003cli class=\"li3\"\u003e價格分數依下列公式計算：\u003cbr\u003e　[1－(投標價格/預定價格)]×100\u003c/li\u003e\u003c/ul\u003e\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/66.png\" alt=\"\"\u003e",
+                   "q":  "採用綜合評選決標方式，並依據下列條件進行採購。若 A～D 公司的投標價格及技術分數如下表所示，請問得標者為哪一家？\u003cbr\u003e\u003cbr\u003e〔條件〕\u003cul\u003e\u003cli class=\"li1\"\u003e將價格分數（滿分100分）與技術分數（滿分100分）相加，綜合評分最高者為得標者。\u003c/li\u003e\u003cli class=\"li2\"\u003e預定價格為 1,000 萬日圓。超過預定價格的投標不列入評選對象。\u003c/li\u003e\u003cli class=\"li3\"\u003e價格分數依下列公式計算：\u003cbr\u003e　[1－(投標價格/預定價格)]×100\u003c/li\u003e\u003c/ul\u003e\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/66.png\" alt=\"\"\u003e",
                    "op":  [
                               "A公司",
                               "B公司",

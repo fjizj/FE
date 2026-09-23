@@ -33,26 +33,26 @@
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
                    "q":  "システム全体の稼働率が (1－(1－A)\u003csup\u003e2\u003c/sup\u003e)\u003csup\u003e2\u003c/sup\u003e で表されるシステム構成図はどれか。ここで，構成要素 X は稼働率が A の処理装置とする。また，並列に接続されている部分は，どちらかの装置が稼働していればよく，直列に接続されている部分は両方の装置が稼働していなければならない。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/34a.png\" alt=\"問34ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/34i.png\" alt=\"問34イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/34u.png\" alt=\"問34ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/34e.png\" alt=\"問34エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/34a.png\" alt=\"問34ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/34i.png\" alt=\"問34イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/34u.png\" alt=\"問34ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/34e.png\" alt=\"問34エ\"\u003e"
                           ],
                    "an":  4,
-                   "al":  "稼働率がAである2つの機器が直列に接続されている部分の稼働率を表す式は「A×A＝A2」、稼働率がAである2つの機器が並列に接続されている部分の稼働率を表す式は「1－(1－A)2」です。それぞれのシステム構成の稼働率を式にすると、 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/34a.png\" alt=\"問34ア\"\u003e1－(1－A)2 になります。 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/34i.png\" alt=\"問34イ\"\u003e並列である2つの部分が並列に接続されているので、1－(1－(1－(1－A)2))2 になります。 [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/34u.png\" alt=\"問34ウ\"\u003e直列である2つの部分が並列に接続されているので、1－(1－A2)2 になります。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/34e.png\" alt=\"問34エ\"\u003e正しい。並列である2つの部分が直接に接続されているので、(1－(1－A)2)2 になります。"
+                   "al":  "稼働率がAである2つの機器が直列に接続されている部分の稼働率を表す式は「A×A＝A2」、稼働率がAである2つの機器が並列に接続されている部分の稼働率を表す式は「1－(1－A)2」です。それぞれのシステム構成の稼働率を式にすると、 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/34a.png\" alt=\"問34ア\"\u003e1－(1－A)2 になります。 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/34i.png\" alt=\"問34イ\"\u003e並列である2つの部分が並列に接続されているので、1－(1－(1－(1－A)2))2 になります。 [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/34u.png\" alt=\"問34ウ\"\u003e直列である2つの部分が並列に接続されているので、1－(1－A2)2 になります。 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/34e.png\" alt=\"問34エ\"\u003e正しい。並列である2つの部分が直接に接続されているので、(1－(1－A)2)2 になります。"
                },
         "zh":  {
                    "ti":  "平成17年春季 問34",
                    "ca":  "科技系統 » 系統構成要素 » 系統評估指標",
                    "q":  "系統整體稼動率以 (1－(1－A)\u003csup\u003e2\u003c/sup\u003e)\u003csup\u003e2\u003c/sup\u003e 表示的系統架構圖為何？在此，構成要素 X 為稼動率為 A 的處理裝置。此外，並聯連接的部分只要其中一個裝置稼動即可，串聯連接的部分則必須兩個裝置都稼動才行。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/34a.png\" alt=\"問34ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/34i.png\" alt=\"問34イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/34u.png\" alt=\"問34ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/34e.png\" alt=\"問34エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/34a.png\" alt=\"問34ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/34i.png\" alt=\"問34イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/34u.png\" alt=\"問34ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/34e.png\" alt=\"問34エ\"\u003e"
                           ],
                    "an":  4,
-                   "al":  "稼動率為 A 的兩個設備串聯時的稼動率公式為「A×A＝A²」，稼動率為 A 的兩個設備並聯時的稼動率公式為「1－(1－A)²」。各系統架構的稼動率公式如下： [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/34a.png\" alt=\"問34ア\"\u003e為 1－(1－A)²。 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/34i.png\" alt=\"問34イ\"\u003e由於是兩個並聯部分再並聯，公式為 1－(1－(1－(1－A)²))²。 [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/34u.png\" alt=\"問34ウ\"\u003e由於是兩個串聯部分再並聯，公式為 1－(1－A²)²。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/34e.png\" alt=\"問34エ\"\u003e正確。由於是兩個並聯部分再串聯，公式為 (1－(1－A)²)²。"
+                   "al":  "稼動率為 A 的兩個設備串聯時的稼動率公式為「A×A＝A²」，稼動率為 A 的兩個設備並聯時的稼動率公式為「1－(1－A)²」。各系統架構的稼動率公式如下： [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/34a.png\" alt=\"問34ア\"\u003e為 1－(1－A)²。 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/34i.png\" alt=\"問34イ\"\u003e由於是兩個並聯部分再並聯，公式為 1－(1－(1－(1－A)²))²。 [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/34u.png\" alt=\"問34ウ\"\u003e由於是兩個串聯部分再並聯，公式為 1－(1－A²)²。 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/34e.png\" alt=\"問34エ\"\u003e正確。由於是兩個並聯部分再串聯，公式為 (1－(1－A)²)²。"
                }
     },
     {
@@ -95,7 +95,7 @@
                               "プロセッサ，メモリ，チャネル，電源系などを二重に用意しておき，それぞれの装置で片方に障害が発生した場合でも，処理を継続する。"
                           ],
                    "an":  1,
-                   "al":  "デュアルシステムとは、信頼化設計の1つで、同じ処理を2組のコンピュータシステムで行い、その結果を照合機でチェックしながら処理を進行していくシステム構成です。一方の系統に障害が発生した場合でも、それを切り離して処理を中断することなく継続することが可能です。デュプレックスシステムでは待機系から主系へ切り替えるのに一定の停止時間が生じますが、デュアルシステムでは切り離すだけなので中断時間はデュプレックスシステムよりも短くなります。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/13.png\" alt=\"\"\u003e"
+                   "al":  "デュアルシステムとは、信頼化設計の1つで、同じ処理を2組のコンピュータシステムで行い、その結果を照合機でチェックしながら処理を進行していくシステム構成です。一方の系統に障害が発生した場合でも、それを切り離して処理を中断することなく継続することが可能です。デュプレックスシステムでは待機系から主系へ切り替えるのに一定の停止時間が生じますが、デュアルシステムでは切り離すだけなので中断時間はデュプレックスシステムよりも短くなります。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/13.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成29年秋季 問13",
@@ -108,7 +108,7 @@
                               "將處理器、記憶體、通道、電源系統等設備進行雙重化配置，即使其中一個裝置發生故障，處理仍能繼續進行。"
                           ],
                    "an":  1,
-                   "al":  "雙重系統（Dual System）是可靠度設計的一種，指使用兩組電腦系統執行相同的處理，並透過核對機制檢查處理結果的系統架構。即使其中一側發生故障，也能將其分離，使處理在不中斷的情況下持續執行。相較於雙機備援系統（Duplex System）在從備援系統切換為主系統時會產生一定的停機時間，雙重系統僅需將故障側分離，因此中斷時間比雙機備援系統更短。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/13.png\" alt=\"\"\u003e"
+                   "al":  "雙重系統（Dual System）是可靠度設計的一種，指使用兩組電腦系統執行相同的處理，並透過核對機制檢查處理結果的系統架構。即使其中一側發生故障，也能將其分離，使處理在不中斷的情況下持續執行。相較於雙機備援系統（Duplex System）在從備援系統切換為主系統時會產生一定的停機時間，雙重系統僅需將故障側分離，因此中斷時間比雙機備援系統更短。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/13.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -123,7 +123,7 @@
                               "MTTRが変わらずMTBFが長くなれば，システムの稼働率は低下する。"
                           ],
                    "an":  3,
-                   "al":  "稼働率、MTBF(平均故障間隔)、MTTR(平均修復時間)の関係は次の式で表されます。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/15.png\" alt=\"\"\u003e"
+                   "al":  "稼働率、MTBF(平均故障間隔)、MTTR(平均修復時間)の関係は次の式で表されます。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/15.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成28年春季 問15",
@@ -136,7 +136,7 @@
                               "若 MTTR 不變且 MTBF 變長，系統的稼動率會下降。"
                           ],
                    "an":  3,
-                   "al":  "稼動率、MTBF（平均故障間隔）與 MTTR（平均修復時間）的關係可由下式表示：\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/15.png\" alt=\"\"\u003e"
+                   "al":  "稼動率、MTBF（平均故障間隔）與 MTTR（平均修復時間）的關係可由下式表示：\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/15.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -339,12 +339,12 @@
         "ja":  {
                    "ti":  "平成22年秋期　問15",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの構成",
-                   "q":  "NAS(Network Attached Storage)の構成図として適切なものはどれか。ここで，図の\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/15.png\" alt=\"網掛け\"\u003eはストレージの管理専用のファイルシステムを，二重線はストレージアクセス用のプロトコルを使用する専用ネットワークを意味するものとする。",
+                   "q":  "NAS(Network Attached Storage)の構成図として適切なものはどれか。ここで，図の\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/15.png\" alt=\"網掛け\"\u003eはストレージの管理専用のファイルシステムを，二重線はストレージアクセス用のプロトコルを使用する専用ネットワークを意味するものとする。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/15a.png\" alt=\"問15ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/15i.png\" alt=\"問15イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/15u.png\" alt=\"問15ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/15e.png\" alt=\"問15エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/15a.png\" alt=\"問15ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/15i.png\" alt=\"問15イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/15u.png\" alt=\"問15ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/15e.png\" alt=\"問15エ\"\u003e"
                           ],
                    "an":  4,
                    "al":  "NAS(Network Attached Storage)は、TCP/IPのコンピュータネットワークに直接接続して使用するファイルサーバでコントローラーとハードディスクから構成されています。ファイルサービス専用のコンピュータであり、専用化や用途に合うようにチューニングされたOSなどにより、高速なファイルサービスと容易な管理機能が実現されています。問題の構成図ですが、「NASの特徴であるネットワークに直接接続されている」ことを満たしているのは、「ウ」と「エ」、「NAS自身が管理システムをもっている」のは、「イ」と「エ」です。したがって両方の特徴を示す「エ」がNASが正しく接続されている構成図ということになります。ちなみに「ア」や「イ」のように、ネットワークを経由せずに直接PCに接続して使用する形態のストレージを、NASに対してDAS(Direct Attached Storage)といいます。"
@@ -352,12 +352,12 @@
         "zh":  {
                    "ti":  "平成22年秋期　問15",
                    "ca":  "技術系 » 系統構成要素 » 系統的構成",
-                   "q":  "下列何者為 NAS (Network Attached Storage) 的構成圖？在此，圖中的\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/15.png\" alt=\"網狀圖示\"\u003e代表儲存裝置專用的管理檔案系統，雙線代表使用儲存裝置存取協定的專用網路。",
+                   "q":  "下列何者為 NAS (Network Attached Storage) 的構成圖？在此，圖中的\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/15.png\" alt=\"網狀圖示\"\u003e代表儲存裝置專用的管理檔案系統，雙線代表使用儲存裝置存取協定的專用網路。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/15a.png\" alt=\"問15ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/15i.png\" alt=\"問15イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/15u.png\" alt=\"問15ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/15e.png\" alt=\"問15エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/15a.png\" alt=\"問15ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/15i.png\" alt=\"問15イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/15u.png\" alt=\"問15ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/15e.png\" alt=\"問15エ\"\u003e"
                           ],
                    "an":  4,
                    "al":  "NAS (Network Attached Storage) 是直接連接至 TCP/IP 電腦網路使用的檔案伺服器，由控制器與硬碟所構成。它是專門提供檔案服務的電腦，透過專用化以及為特定用途調整過的作業系統，實現了高速的檔案服務與簡易的管理功能。關於題目中的構成圖，「NAS 的特徵為直接連接至網路」的選項為「ウ」與「エ」，而「NAS 本身具備管理系統」的選項為「イ」與「エ」。因此，同時具備兩者特徵的「エ」才是 NAS 正確連接的構成圖。順帶一提，像「ア」與「イ」那樣不經由網路、直接連接至 PC 使用的儲存裝置形態，相對於 NAS，被稱為 DAS (Direct Attached Storage)。"
@@ -375,7 +375,7 @@
                               "プロセッサ，メモリ，チャネル，電源系などを二重に用意しておき，それぞれの装置で片方に障害が発生した場合でも，処理を継続する。"
                           ],
                    "an":  1,
-                   "al":  "デュアルシステムとは、信頼化設計の1つで、同じ処理を2組のコンピュータシステムで行い、その結果を照合機でチェックしながら処理を進行していくシステム構成です。一方の系統に障害が発生した場合でも、それを切り離して処理を中断することなく続けることができます。デュプレックスシステムでは待機系から主系へ切り替えるのに一定の停止時間が生じますが、デュアルシステムでは切り離すだけなので中断時間はデュプレックスシステムよりも短くなります。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/36.png\" alt=\"\"\u003e"
+                   "al":  "デュアルシステムとは、信頼化設計の1つで、同じ処理を2組のコンピュータシステムで行い、その結果を照合機でチェックしながら処理を進行していくシステム構成です。一方の系統に障害が発生した場合でも、それを切り離して処理を中断することなく続けることができます。デュプレックスシステムでは待機系から主系へ切り替えるのに一定の停止時間が生じますが、デュアルシステムでは切り離すだけなので中断時間はデュプレックスシステムよりも短くなります。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/36.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成16年秋季 問36",
@@ -388,14 +388,14 @@
                               "將處理器、記憶體、通道、電源系統等設備備份成兩組，即使其中一套設備發生故障，仍能持續進行處理。"
                           ],
                    "an":  1,
-                   "al":  "雙重系統（Dual System）是一種可靠度設計，其系統架構是讓兩組電腦系統執行相同的處理，並透過核對器（Checker）檢查結果來進行處理。即使其中一個系統發生故障，也能將其隔離並繼續處理而不中斷。在雙工系統（Duplex System）中，從備用系統切換至主系統時會產生一定的停止時間，但雙重系統因只需將故障系統隔離，其中斷時間比雙工系統更短。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/36.png\" alt=\"\"\u003e"
+                   "al":  "雙重系統（Dual System）是一種可靠度設計，其系統架構是讓兩組電腦系統執行相同的處理，並透過核對器（Checker）檢查結果來進行處理。即使其中一個系統發生故障，也能將其隔離並繼續處理而不中斷。在雙工系統（Duplex System）中，從備用系統切換至主系統時會產生一定的停止時間，但雙重系統因只需將故障系統隔離，其中斷時間比雙工系統更短。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/36.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成27年春期　問11",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの構成",
-                   "q":  "図に示すように，データを細分化して複数台の磁気ディスクに格納することを何と呼ぶか。ここで，b\u003csub\u003e0\u003c/sub\u003e～b\u003csub\u003e15\u003c/sub\u003eはデータがビットごとにデータディスクに格納される順番を示す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/11.png\" alt=\"\"\u003e",
+                   "q":  "図に示すように，データを細分化して複数台の磁気ディスクに格納することを何と呼ぶか。ここで，b\u003csub\u003e0\u003c/sub\u003e～b\u003csub\u003e15\u003c/sub\u003eはデータがビットごとにデータディスクに格納される順番を示す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/11.png\" alt=\"\"\u003e",
                    "op":  [
                               "ストライピング",
                               "ディスクキャッシュ",
@@ -408,7 +408,7 @@
         "zh":  {
                    "ti":  "平成27年春季 問11",
                    "ca":  "技術系 » 系統構成要素 » 系統構成",
-                   "q":  "如圖所示，將數據細分並存儲在多台磁碟機中的技術稱為什麼？在此，b\u003csub\u003e0\u003c/sub\u003e～b\u003csub\u003e15\u003c/sub\u003e 表示數據按位元（bit）存儲在數據碟中的順序。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/11.png\" alt=\"\"\u003e",
+                   "q":  "如圖所示，將數據細分並存儲在多台磁碟機中的技術稱為什麼？在此，b\u003csub\u003e0\u003c/sub\u003e～b\u003csub\u003e15\u003c/sub\u003e 表示數據按位元（bit）存儲在數據碟中的順序。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/11.png\" alt=\"\"\u003e",
                    "op":  [
                               "分條技術 (Striping)",
                               "磁碟快取 (Disk Cache)",
@@ -423,7 +423,7 @@
         "ja":  {
                    "ti":  "平成16年春期　問37",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "コンピュータシステムの運転状況を集計したところ，各月のCPUの使用率と遊休時間の合計は表のとおりであった。この3か月間におけるCPUの平均使用率は何％か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/37.png\" alt=\"問37画像\"\u003e",
+                   "q":  "コンピュータシステムの運転状況を集計したところ，各月のCPUの使用率と遊休時間の合計は表のとおりであった。この3か月間におけるCPUの平均使用率は何％か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/37.png\" alt=\"問37画像\"\u003e",
                    "op":  [
                               "44",
                               "53",
@@ -436,7 +436,7 @@
         "zh":  {
                    "ti":  "平成16年春季 問37",
                    "ca":  "技術系 » 系統構成要素 » 系統評估指標",
-                   "q":  "彙整電腦系統的運作狀況後，各月的 CPU 使用率與閒置時間合計如下表所示。請問這 3 個月期間的 CPU 平均使用率為多少％？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/37.png\" alt=\"問37圖片\"\u003e",
+                   "q":  "彙整電腦系統的運作狀況後，各月的 CPU 使用率與閒置時間合計如下表所示。請問這 3 個月期間的 CPU 平均使用率為多少％？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/37.png\" alt=\"問37圖片\"\u003e",
                    "op":  [
                               "44",
                               "53",
@@ -479,7 +479,7 @@
         "ja":  {
                    "ti":  "平成18年秋期　問23",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの構成",
-                   "q":  "図に示すように，データを細分化して複数台の磁気ディスクに格納することを何と呼ぶか。ここで，b\u003csub\u003e0\u003c/sub\u003e～b\u003csub\u003e15\u003c/sub\u003eはデータがビットごとにデータディスクに格納される順番を示す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/23.png\" alt=\"問23画像\"\u003e",
+                   "q":  "図に示すように，データを細分化して複数台の磁気ディスクに格納することを何と呼ぶか。ここで，b\u003csub\u003e0\u003c/sub\u003e～b\u003csub\u003e15\u003c/sub\u003eはデータがビットごとにデータディスクに格納される順番を示す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/23.png\" alt=\"問23画像\"\u003e",
                    "op":  [
                               "ストライピング",
                               "ディスクキャッシュ",
@@ -492,7 +492,7 @@
         "zh":  {
                    "ti":  "平成18年秋季 問23",
                    "ca":  "技術系 » 系統構成要素 » 系統構成",
-                   "q":  "如圖所示，將資料細分並儲存至多個磁碟機的技術稱為什麼？其中，b\u003csub\u003e0\u003c/sub\u003e～b\u003csub\u003e15\u003c/sub\u003e表示資料依序寫入資料磁碟的順序。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/23.png\" alt=\"問23圖片\"\u003e",
+                   "q":  "如圖所示，將資料細分並儲存至多個磁碟機的技術稱為什麼？其中，b\u003csub\u003e0\u003c/sub\u003e～b\u003csub\u003e15\u003c/sub\u003e表示資料依序寫入資料磁碟的順序。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/23.png\" alt=\"問23圖片\"\u003e",
                    "op":  [
                               "分割儲存 (Striping)",
                               "磁碟快取 (Disk Cache)",
@@ -535,7 +535,7 @@
         "ja":  {
                    "ti":  "平成20年秋期　問34",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "システムの稼働モデルが図のように表されるとき，システムのMTBFとMTTRを表した式はどれか。ここで，t\u003csub\u003ei\u003c/sub\u003eはシステムの稼働時間，r\u003csub\u003ei\u003c/sub\u003eはシステムの修理時間を表すものとする(i＝1，2…，n)。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/34.png\" alt=\"問34画像\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/34a.png\" alt=\"問34選択肢\"\u003e",
+                   "q":  "システムの稼働モデルが図のように表されるとき，システムのMTBFとMTTRを表した式はどれか。ここで，t\u003csub\u003ei\u003c/sub\u003eはシステムの稼働時間，r\u003csub\u003ei\u003c/sub\u003eはシステムの修理時間を表すものとする(i＝1，2…，n)。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/34.png\" alt=\"問34画像\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/34a.png\" alt=\"問34選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -543,12 +543,12 @@
                               "エ"
                           ],
                    "an":  2,
-                   "al":  "MTBF(Mean Time Between Failures)＝平均故障間隔、MTTR(Mean Time To Repair)＝平均修理時間です。MTBFは、故障せずに稼動していた時間の平均なので、システムの稼働時間の総和をシステムが故障せずに稼動していた回数で割って求めます。 MTBF＝(t1＋t2＋…＋tn)／n＝\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/34_1.png\" alt=\"MTBFの式\"\u003eMTTRは、故障して修理している時間の平均なので、システムの修理時間の総和をシステムの修理回数で割って求めます。 MTTR＝(r1＋r2＋…＋rn)／n＝\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/34_2.png\" alt=\"MTTRの式\"\u003e"
+                   "al":  "MTBF(Mean Time Between Failures)＝平均故障間隔、MTTR(Mean Time To Repair)＝平均修理時間です。MTBFは、故障せずに稼動していた時間の平均なので、システムの稼働時間の総和をシステムが故障せずに稼動していた回数で割って求めます。 MTBF＝(t1＋t2＋…＋tn)／n＝\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/34_1.png\" alt=\"MTBFの式\"\u003eMTTRは、故障して修理している時間の平均なので、システムの修理時間の総和をシステムの修理回数で割って求めます。 MTTR＝(r1＋r2＋…＋rn)／n＝\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/34_2.png\" alt=\"MTTRの式\"\u003e"
                },
         "zh":  {
                    "ti":  "平成20年秋季 問34",
                    "ca":  "技術系 » 系統構成要素 » 系統評估指標",
-                   "q":  "若系統的運作模型如下圖所示，下列何者為表示系統 MTBF 與 MTTR 的算式？在此，t\u003csub\u003ei\u003c/sub\u003e 代表系統運作時間，r\u003csub\u003ei\u003c/sub\u003e 代表系統修理時間 (i＝1，2…，n)。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/34.png\" alt=\"問34圖片\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/34a.png\" alt=\"問34選択肢\"\u003e",
+                   "q":  "若系統的運作模型如下圖所示，下列何者為表示系統 MTBF 與 MTTR 的算式？在此，t\u003csub\u003ei\u003c/sub\u003e 代表系統運作時間，r\u003csub\u003ei\u003c/sub\u003e 代表系統修理時間 (i＝1，2…，n)。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/34.png\" alt=\"問34圖片\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/34a.png\" alt=\"問34選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -556,7 +556,7 @@
                               "エ"
                           ],
                    "an":  2,
-                   "al":  "MTBF (Mean Time Between Failures) 為平均故障間隔時間，MTTR (Mean Time To Repair) 為平均修復時間。MTBF 是指系統未故障時持續運作的平均時間，因此由系統運作時間總和除以系統未故障運作的次數求得。 MTBF＝(t1＋t2＋…＋tn)／n＝\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/34_1.png\" alt=\"MTBF算式\"\u003e。MTTR 是指系統故障並進行修理的平均時間，因此由系統修理時間總和除以系統修理次數求得。 MTTR＝(r1＋r2＋…＋rn)／n＝\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/34_2.png\" alt=\"MTTR算式\"\u003e"
+                   "al":  "MTBF (Mean Time Between Failures) 為平均故障間隔時間，MTTR (Mean Time To Repair) 為平均修復時間。MTBF 是指系統未故障時持續運作的平均時間，因此由系統運作時間總和除以系統未故障運作的次數求得。 MTBF＝(t1＋t2＋…＋tn)／n＝\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/34_1.png\" alt=\"MTBF算式\"\u003e。MTTR 是指系統故障並進行修理的平均時間，因此由系統修理時間總和除以系統修理次數求得。 MTTR＝(r1＋r2＋…＋rn)／n＝\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/34_2.png\" alt=\"MTTR算式\"\u003e"
                }
     },
     {
@@ -571,7 +571,7 @@
                               "ミラーディスクを構成するために，磁気ディスク2台に同じ内容を書き込む。"
                           ],
                    "an":  3,
-                   "al":  "RAID(Redundant Arrays of Independent Disks)は、複数台の磁気ディスクを組み合わせ、仮想的な1台の記憶装置として運用することで、全体として高い性能を得る技術です。RAIDには0～5のレベルがありますが、その区別は本来のデータとエラー訂正用のデータ（ハミング符号・パリティビット）を、どのように書き込むかによって定義されています。RAID0（ストライピング）複数のディスクに分散してデータを書き込むことで、アクセス性能を向上させるRAID1（ミラーリング）2台のディスクに同じデータを書き込むことで、信頼性を向上させる。実質記憶容量は50%となるので記憶効率は悪いRAID2ストライピングに加え、エラー訂正用のハミング符号を複数台に分散して書き込み、信頼性を向上させるRAID3ストライピングに加え、エラー訂正方式にパリティビットを使用し、一つのディスクをエラー訂正符号の格納専用として使用するRAID4RAID3でビット／バイト単位だったストライピングをブロック単位で行うRAID5データと一緒にパリティビットも各ディスクに分散して書き込む。信頼性・アクセス性能がともに高まるRAID2～RAID5のデータ分割の単位、誤り訂正方式の違いをまとめたものが次の表です。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/12.png\" alt=\"\"\u003e"
+                   "al":  "RAID(Redundant Arrays of Independent Disks)は、複数台の磁気ディスクを組み合わせ、仮想的な1台の記憶装置として運用することで、全体として高い性能を得る技術です。RAIDには0～5のレベルがありますが、その区別は本来のデータとエラー訂正用のデータ（ハミング符号・パリティビット）を、どのように書き込むかによって定義されています。RAID0（ストライピング）複数のディスクに分散してデータを書き込むことで、アクセス性能を向上させるRAID1（ミラーリング）2台のディスクに同じデータを書き込むことで、信頼性を向上させる。実質記憶容量は50%となるので記憶効率は悪いRAID2ストライピングに加え、エラー訂正用のハミング符号を複数台に分散して書き込み、信頼性を向上させるRAID3ストライピングに加え、エラー訂正方式にパリティビットを使用し、一つのディスクをエラー訂正符号の格納専用として使用するRAID4RAID3でビット／バイト単位だったストライピングをブロック単位で行うRAID5データと一緒にパリティビットも各ディスクに分散して書き込む。信頼性・アクセス性能がともに高まるRAID2～RAID5のデータ分割の単位、誤り訂正方式の違いをまとめたものが次の表です。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/12.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成29年秋季 問12",
@@ -584,7 +584,7 @@
                               "為了構成鏡像磁碟（Mirror Disk），將相同的內容寫入 2 台磁碟。"
                           ],
                    "an":  3,
-                   "al":  "RAID (Redundant Arrays of Independent Disks) 是一種透過結合多台磁碟機，將其作為一台虛擬儲存裝置運作，以提升整體效能的技術。RAID 有 0 到 5 等不同等級，其區別在於如何寫入原始資料與錯誤修正用的資料（漢明碼、同位位元）。\u003cbr\u003e\u003cbr\u003eRAID 0（分割存取）：透過將資料分散寫入多個磁碟，提升存取效能。\u003cbr\u003eRAID 1（鏡像）：透過將相同資料寫入 2 台磁碟來提升可靠性。實際儲存容量為 50%，因此儲存效率較低。\u003cbr\u003eRAID 2：除分割存取外，將錯誤修正用的漢明碼分散寫入多台磁碟，提升可靠性。\u003cbr\u003eRAID 3：除分割存取外，使用同位位元作為錯誤修正方式，並將其中一台磁碟專門用於儲存錯誤修正碼。\u003cbr\u003eRAID 4：將 RAID 3 的位元/位元組單位分割改為區塊（Block）單位進行。\u003cbr\u003eRAID 5：將資料與同位位元一起分散寫入各磁碟。可靠性與存取效能均能提升。\u003cbr\u003e\u003cbr\u003e下表總結了 RAID 2 到 RAID 5 的資料分割單位與錯誤修正方式的差異。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/12.png\" alt=\"\"\u003e"
+                   "al":  "RAID (Redundant Arrays of Independent Disks) 是一種透過結合多台磁碟機，將其作為一台虛擬儲存裝置運作，以提升整體效能的技術。RAID 有 0 到 5 等不同等級，其區別在於如何寫入原始資料與錯誤修正用的資料（漢明碼、同位位元）。\u003cbr\u003e\u003cbr\u003eRAID 0（分割存取）：透過將資料分散寫入多個磁碟，提升存取效能。\u003cbr\u003eRAID 1（鏡像）：透過將相同資料寫入 2 台磁碟來提升可靠性。實際儲存容量為 50%，因此儲存效率較低。\u003cbr\u003eRAID 2：除分割存取外，將錯誤修正用的漢明碼分散寫入多台磁碟，提升可靠性。\u003cbr\u003eRAID 3：除分割存取外，使用同位位元作為錯誤修正方式，並將其中一台磁碟專門用於儲存錯誤修正碼。\u003cbr\u003eRAID 4：將 RAID 3 的位元/位元組單位分割改為區塊（Block）單位進行。\u003cbr\u003eRAID 5：將資料與同位位元一起分散寫入各磁碟。可靠性與存取效能均能提升。\u003cbr\u003e\u003cbr\u003e下表總結了 RAID 2 到 RAID 5 的資料分割單位與錯誤修正方式的差異。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/12.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -683,7 +683,7 @@
                               "プレゼンテーション層は，データベースアクセス層にSQL文で問い合わせる。"
                           ],
                    "an":  3,
-                   "al":  "3層クライアントサーバシステムは、システムをクライアント(利用者)に近い側から順に「プレゼンテーション層」「ファンクション層」「データベースアクセス層」の3つに論理的に分離したシステムモデルです。プレゼンテーション層クライアントからデータを入力を受け付けたり、問合せ結果を表示するなどユーザーの入出力を担う層ファンクション層（アプリケーション層）サーバ側でクライアントの問合せを中継したり、データ層から取得したデータを加工してクライアントに送ったりとデータの変換処理を担う層データベースアクセス層（データ層）データベースへのアクセス・保管などデータベース処理を集中的に担う層\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/16.png\" alt=\"16.png\"\u003e"
+                   "al":  "3層クライアントサーバシステムは、システムをクライアント(利用者)に近い側から順に「プレゼンテーション層」「ファンクション層」「データベースアクセス層」の3つに論理的に分離したシステムモデルです。プレゼンテーション層クライアントからデータを入力を受け付けたり、問合せ結果を表示するなどユーザーの入出力を担う層ファンクション層（アプリケーション層）サーバ側でクライアントの問合せを中継したり、データ層から取得したデータを加工してクライアントに送ったりとデータの変換処理を担う層データベースアクセス層（データ層）データベースへのアクセス・保管などデータベース処理を集中的に担う層\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/16.png\" alt=\"16.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和4年度 問16",
@@ -696,7 +696,7 @@
                               "展示層負責以 SQL 語句向資料庫存取層進行查詢。"
                           ],
                    "an":  3,
-                   "al":  "三層式主從架構是將系統從靠近客戶端（使用者）一側開始，依序邏輯分離為「展示層」、「功能層」及「資料庫存取層」的系統模型。展示層：負責用戶的輸入與輸出，如接收來自客戶端的資料輸入、顯示查詢結果等。功能層（應用程式層）：負責在伺服器端中繼客戶端的查詢，並處理從資料層取得的資料後回傳給客戶端，承擔資料轉換處理。資料庫存取層（資料層）：集中承擔資料庫的處理工作，如對資料庫的存取、保管等。\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/16.png\" alt=\"16.png\"\u003e"
+                   "al":  "三層式主從架構是將系統從靠近客戶端（使用者）一側開始，依序邏輯分離為「展示層」、「功能層」及「資料庫存取層」的系統模型。展示層：負責用戶的輸入與輸出，如接收來自客戶端的資料輸入、顯示查詢結果等。功能層（應用程式層）：負責在伺服器端中繼客戶端的查詢，並處理從資料層取得的資料後回傳給客戶端，承擔資料轉換處理。資料庫存取層（資料層）：集中承擔資料庫的處理工作，如對資料庫的存取、保管等。\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/16.png\" alt=\"16.png\"\u003e"
                }
     },
     {
@@ -851,7 +851,7 @@
                               "クライアントとサーバ間でSQL文がやり取りされるので，データ伝送量をネットワークに合わせて最少化できる。"
                           ],
                    "an":  3,
-                   "al":  "クライアントサーバシステム(client-server system:C/S)はサービスを要求する側であるクライアントと、サービスを提供するサーバに分離したコンピュータネットワークの形態です。2層C/Sと3層C/Sは次のような違いがあります。2層クライアントサーバシステムクライアント側がユーザーへの入出力とデータ加工(ビジネスロジック)を担当し、クライアントからデータベースに直接接続する形態。\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/13_1.png\" alt=\"\"\u003e"
+                   "al":  "クライアントサーバシステム(client-server system:C/S)はサービスを要求する側であるクライアントと、サービスを提供するサーバに分離したコンピュータネットワークの形態です。2層C/Sと3層C/Sは次のような違いがあります。2層クライアントサーバシステムクライアント側がユーザーへの入出力とデータ加工(ビジネスロジック)を担当し、クライアントからデータベースに直接接続する形態。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/13_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成27年秋季 問13",
@@ -864,14 +864,14 @@
                               "由於在客戶端與伺服器之間傳輸 SQL 指令，因此可根據網路狀況將資料傳輸量降至最低。"
                           ],
                    "an":  3,
-                   "al":  "主從架構系統（Client-Server System: C/S）是一種將要求服務的一方（客戶端）與提供服務的一方（伺服器）分離的電腦網路形態。2層式與3層式 C/S 的差異如下：2層式主從架構系統：由客戶端負責對使用者的輸入輸出及資料加工（商業邏輯），並由客戶端直接連接資料庫的形態。\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/13_1.png\" alt=\"\"\u003e"
+                   "al":  "主從架構系統（Client-Server System: C/S）是一種將要求服務的一方（客戶端）與提供服務的一方（伺服器）分離的電腦網路形態。2層式與3層式 C/S 的差異如下：2層式主從架構系統：由客戶端負責對使用者的輸入輸出及資料加工（商業邏輯），並由客戶端直接連接資料庫的形態。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/13_1.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成22年秋期　問17",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "システムが時間とともに図のように故障と回復を繰り返した。このとき、RASISの信頼性(Reliability)と可用性(Availability)を表す指標の組合せとして、適切なものはどれか。ここで、\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/17_1.png\" alt=\"\"\u003eとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/17_2.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/17a.png\" alt=\"問17選択肢\"\u003e",
+                   "q":  "システムが時間とともに図のように故障と回復を繰り返した。このとき、RASISの信頼性(Reliability)と可用性(Availability)を表す指標の組合せとして、適切なものはどれか。ここで、\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/17_1.png\" alt=\"\"\u003eとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/17_2.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/17a.png\" alt=\"問17選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -884,7 +884,7 @@
         "zh":  {
                    "ti":  "平成22年秋期 問17",
                    "ca":  "技術系 » 系統構成要素 » 系統評估指標",
-                   "q":  "系統隨著時間經過，如圖所示重複發生故障與恢復。此時，作為表示 RASIS 中可靠性（Reliability）與可用性（Availability）指標的組合，下列何者最適當？在此，假設 \u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/17_1.png\" alt=\"\"\u003e。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/17_2.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/17a.png\" alt=\"問17選択肢\"\u003e",
+                   "q":  "系統隨著時間經過，如圖所示重複發生故障與恢復。此時，作為表示 RASIS 中可靠性（Reliability）與可用性（Availability）指標的組合，下列何者最適當？在此，假設 \u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/17_1.png\" alt=\"\"\u003e。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/17_2.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/17a.png\" alt=\"問17選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -1097,26 +1097,26 @@
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
                    "q":  "稼働率が0.9 の装置を複数個接続したシステムのうち，2番目に稼働率が高いシステムはどれか。ここで，並列接続部分については，少なくともどちらか一方が稼働していればよいものとする。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/16a.png\" alt=\"問16ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/16i.png\" alt=\"問16イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/16u.png\" alt=\"問16ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/16e.png\" alt=\"問16エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/16a.png\" alt=\"問16ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/16i.png\" alt=\"問16イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/16u.png\" alt=\"問16ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/16e.png\" alt=\"問16エ\"\u003e"
                           ],
                    "an":  4,
-                   "al":  "各システム構成について計算してみましょう。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/16a.png\" alt=\"問16ア\"\u003e0.92＝0.81 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/16i.png\" alt=\"問16イ\"\u003e1－(1－0.9)2＝0.99 [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/16u.png\" alt=\"問16ウ\"\u003e「ア」の計算結果より1－(1－0.81)2＝0.9639 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/16e.png\" alt=\"問16エ\"\u003e「イ」の計算結果より0.992＝0.9801"
+                   "al":  "各システム構成について計算してみましょう。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/16a.png\" alt=\"問16ア\"\u003e0.92＝0.81 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/16i.png\" alt=\"問16イ\"\u003e1－(1－0.9)2＝0.99 [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/16u.png\" alt=\"問16ウ\"\u003e「ア」の計算結果より1－(1－0.81)2＝0.9639 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/16e.png\" alt=\"問16エ\"\u003e「イ」の計算結果より0.992＝0.9801"
                },
         "zh":  {
                    "ti":  "平成22年春季 問16",
                    "ca":  "技术系 » 系统构成要素 » 系统评估指标",
                    "q":  "在将稼动率为0.9的装置进行多个连接的系统中，稼动率第二高的系统是哪一个？其中，并联连接部分假设只要至少有一方运转即可。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/16a.png\" alt=\"問16ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/16i.png\" alt=\"問16イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/16u.png\" alt=\"問16ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/16e.png\" alt=\"問16エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/16a.png\" alt=\"問16ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/16i.png\" alt=\"問16イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/16u.png\" alt=\"問16ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/16e.png\" alt=\"問16エ\"\u003e"
                           ],
                    "an":  4,
-                   "al":  "让我们计算各个系统的构成吧。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/16a.png\" alt=\"問16ア\"\u003e0.9²＝0.81 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/16i.png\" alt=\"問16イ\"\u003e1－(1－0.9)²＝0.99 [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/16u.png\" alt=\"問16ウ\"\u003e根据「ア」的计算结果，1－(1－0.81)²＝0.9639 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/16e.png\" alt=\"問16エ\"\u003e根据「イ」的计算结果，0.99²＝0.9801"
+                   "al":  "让我们计算各个系统的构成吧。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/16a.png\" alt=\"問16ア\"\u003e0.9²＝0.81 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/16i.png\" alt=\"問16イ\"\u003e1－(1－0.9)²＝0.99 [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/16u.png\" alt=\"問16ウ\"\u003e根据「ア」的计算结果，1－(1－0.81)²＝0.9639 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/16e.png\" alt=\"問16エ\"\u003e根据「イ」的计算结果，0.99²＝0.9801"
                }
     },
     {
@@ -1179,7 +1179,7 @@
         "ja":  {
                    "ti":  "平成17年秋期　問35",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "システムの稼働モデルが図のように表されるとき，システムのMTBFとMTTRを表した式はどれか。ここで，t\u003csub\u003ei\u003c/sub\u003eはシステムの稼働時間，r\u003csub\u003ei\u003c/sub\u003eはシステムの修理時間を表すものとする(i＝1，2…，n)。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/35.png\" alt=\"問35画像\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/35a.png\" alt=\"問35画像\"\u003e",
+                   "q":  "システムの稼働モデルが図のように表されるとき，システムのMTBFとMTTRを表した式はどれか。ここで，t\u003csub\u003ei\u003c/sub\u003eはシステムの稼働時間，r\u003csub\u003ei\u003c/sub\u003eはシステムの修理時間を表すものとする(i＝1，2…，n)。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/35.png\" alt=\"問35画像\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/35a.png\" alt=\"問35画像\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -1187,12 +1187,12 @@
                               "エ"
                           ],
                    "an":  2,
-                   "al":  "MTBF(Mean Time Between Failures)＝平均故障間隔、MTTR(Mean Time To Repair)＝平均修理時間です。MTBFは、故障せずに稼動していた時間の平均なので、システムの稼働時間の総和をシステムが故障せずに稼動していた回数で割って求めます。 MTBF＝(t1＋t2＋…＋tn)／n＝\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/35_1.png\" alt=\"MTBFの式\"\u003eMTTRは、故障して修理している時間の平均なので、システムの修理時間の総和をシステムの修理回数で割って求めます。 MTTR＝(r1＋r2＋…＋rn)／n＝\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/35_2.png\" alt=\"MTTRの式\"\u003e"
+                   "al":  "MTBF(Mean Time Between Failures)＝平均故障間隔、MTTR(Mean Time To Repair)＝平均修理時間です。MTBFは、故障せずに稼動していた時間の平均なので、システムの稼働時間の総和をシステムが故障せずに稼動していた回数で割って求めます。 MTBF＝(t1＋t2＋…＋tn)／n＝\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/35_1.png\" alt=\"MTBFの式\"\u003eMTTRは、故障して修理している時間の平均なので、システムの修理時間の総和をシステムの修理回数で割って求めます。 MTTR＝(r1＋r2＋…＋rn)／n＝\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/35_2.png\" alt=\"MTTRの式\"\u003e"
                },
         "zh":  {
                    "ti":  "平成17年秋期　問35",
                    "ca":  "科技类 » 系统构成要素 » 系统评估指标",
-                   "q":  "當系統的運作模型如圖所示時，該系統的MTBF與MTTR的公式是哪個？此處，t\u003csub\u003ei\u003c/sub\u003e代表系統的運作時間，r\u003csub\u003ei\u003c/sub\u003e代表系統的修理時間(i＝1，2…，n)。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/35.png\" alt=\"問題35圖片\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/35a.png\" alt=\"問35画像\"\u003e",
+                   "q":  "當系統的運作模型如圖所示時，該系統的MTBF與MTTR的公式是哪個？此處，t\u003csub\u003ei\u003c/sub\u003e代表系統的運作時間，r\u003csub\u003ei\u003c/sub\u003e代表系統的修理時間(i＝1，2…，n)。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/35.png\" alt=\"問題35圖片\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/35a.png\" alt=\"問35画像\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -1200,7 +1200,7 @@
                               "エ"
                           ],
                    "an":  2,
-                   "al":  "MTBF(Mean Time Between Failures)＝平均故障間隔、MTTR(Mean Time To Repair)＝平均修理時間。MTBF是指系統在無故障運作的平均時間，因此將系統運作時間的總和除以系統無故障運作的次數來求得。 MTBF＝(t1＋t2＋…＋tn)／n＝\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/35_1.png\" alt=\"MTBF的公式\"\u003eMTTR是指系統故障並進行修理的平均時間，因此將系統修理時間的總和除以系統的修理次數來求得。 MTTR＝(r1＋r2＋…＋rn)／n＝\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/35_2.png\" alt=\"MTTR的公式\"\u003e"
+                   "al":  "MTBF(Mean Time Between Failures)＝平均故障間隔、MTTR(Mean Time To Repair)＝平均修理時間。MTBF是指系統在無故障運作的平均時間，因此將系統運作時間的總和除以系統無故障運作的次數來求得。 MTBF＝(t1＋t2＋…＋tn)／n＝\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/35_1.png\" alt=\"MTBF的公式\"\u003eMTTR是指系統故障並進行修理的平均時間，因此將系統修理時間的總和除以系統的修理次數來求得。 MTTR＝(r1＋r2＋…＋rn)／n＝\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/35_2.png\" alt=\"MTTR的公式\"\u003e"
                }
     },
     {
@@ -1299,7 +1299,7 @@
                               "プロセッサ，メモリ，チャネル，電源系などを二重に用意しておき，それぞれの装置で片方に障害が発生した場合でも，処理を継続する。"
                           ],
                    "an":  1,
-                   "al":  "デュアルシステムとは、信頼化設計の1つで、同じ処理を2組のコンピュータシステムで行い、その結果を照合機でチェックしながら処理を進行していくシステム構成です。一方の系統に障害が発生した場合でも、それを切り離して処理を中断することなく継続することが可能です。デュプレックスシステムでは待機系から主系へ切り替えるのに一定の停止時間が生じますが、デュアルシステムでは切り離すだけなので中断時間はデュプレックスシステムよりも短くなります。\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/14.png\" alt=\"問14画像\"\u003e"
+                   "al":  "デュアルシステムとは、信頼化設計の1つで、同じ処理を2組のコンピュータシステムで行い、その結果を照合機でチェックしながら処理を進行していくシステム構成です。一方の系統に障害が発生した場合でも、それを切り離して処理を中断することなく継続することが可能です。デュプレックスシステムでは待機系から主系へ切り替えるのに一定の停止時間が生じますが、デュアルシステムでは切り離すだけなので中断時間はデュプレックスシステムよりも短くなります。\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/14.png\" alt=\"問14画像\"\u003e"
                },
         "zh":  {
                    "ti":  "平成24年秋季 問14",
@@ -1312,7 +1312,7 @@
                               "將處理器、記憶體、通道、電源系統等進行雙重化配置，即使各個裝置中有一方發生故障，也能繼續進行處理。"
                           ],
                    "an":  1,
-                   "al":  "雙重系統（Dual System）是可靠化設計的一種，指使用兩組電腦系統進行相同的處理，並一邊透過核對裝置檢查結果一邊進行處理的系統架構。即使其中一個系統發生故障，也能將其切離，而不中斷處理並持續運作。在雙機備援系統（Duplex System）中，從待命系統切換至主系統時會產生一定的停機時間，但在雙重系統中，由於僅需將故障方切離，因此中斷時間比雙機備援系統更短。\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/14.png\" alt=\"問14圖片\"\u003e"
+                   "al":  "雙重系統（Dual System）是可靠化設計的一種，指使用兩組電腦系統進行相同的處理，並一邊透過核對裝置檢查結果一邊進行處理的系統架構。即使其中一個系統發生故障，也能將其切離，而不中斷處理並持續運作。在雙機備援系統（Duplex System）中，從待命系統切換至主系統時會產生一定的停機時間，但在雙重系統中，由於僅需將故障方切離，因此中斷時間比雙機備援系統更短。\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/14.png\" alt=\"問14圖片\"\u003e"
                }
     },
     {
@@ -1347,7 +1347,7 @@
         "ja":  {
                    "ti":  "平成31年春期　問15",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "アプリケーションの変更をしていないにもかかわらず，サーバのデータベース応答性能が悪化してきたので，表のような想定原因と，特定するための調査項目を検討した。調査項目cとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/15.png\" alt=\"\"\u003e",
+                   "q":  "アプリケーションの変更をしていないにもかかわらず，サーバのデータベース応答性能が悪化してきたので，表のような想定原因と，特定するための調査項目を検討した。調査項目cとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/15.png\" alt=\"\"\u003e",
                    "op":  [
                               "遅い処理の特定",
                               "外的要因の変化の確認",
@@ -1360,7 +1360,7 @@
         "zh":  {
                    "ti":  "平成31年春季 問15",
                    "ca":  "技術系 » 系統構成要素 » 系統評估指標",
-                   "q":  "即使未對應用程式進行變更，伺服器的資料庫響應效能卻逐漸惡化，因此針對下表中的假設原因與確認項目進行了研討。作為調查項目 c，下列何者最為適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/15.png\" alt=\"\"\u003e",
+                   "q":  "即使未對應用程式進行變更，伺服器的資料庫響應效能卻逐漸惡化，因此針對下表中的假設原因與確認項目進行了研討。作為調查項目 c，下列何者最為適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/15.png\" alt=\"\"\u003e",
                    "op":  [
                               "遲緩處理的特定",
                               "外部因素變化的確認",
@@ -1467,7 +1467,7 @@
                               "0.625"
                           ],
                    "an":  4,
-                   "al":  "図を描いてみると問題の理解がしやすいと思います。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/16a.png\" alt=\"\"\u003e"
+                   "al":  "図を描いてみると問題の理解がしやすいと思います。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/16a.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成21年春季　問16",
@@ -1480,7 +1480,7 @@
                               "0.625"
                           ],
                    "an":  4,
-                   "al":  "繪製圖表有助於理解問題。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/16a.png\" alt=\"\"\u003e"
+                   "al":  "繪製圖表有助於理解問題。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/16a.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1823,7 +1823,7 @@
         "ja":  {
                    "ti":  "平成16年秋期　問39",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "3台のコンピュータA，B，Cが図のように接続されている場合，システム全体の稼働率は幾らか。ここで，A，B，Cの稼働率は，すべて0.8とする。また，コンピュータA，Bによって構成されている並列接続部分については，A，Bのいずれか1台でも稼働していれば，当該並列接続部分は稼働しているものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/39.png\" alt=\"問39画像\"\u003e",
+                   "q":  "3台のコンピュータA，B，Cが図のように接続されている場合，システム全体の稼働率は幾らか。ここで，A，B，Cの稼働率は，すべて0.8とする。また，コンピュータA，Bによって構成されている並列接続部分については，A，Bのいずれか1台でも稼働していれば，当該並列接続部分は稼働しているものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/39.png\" alt=\"問39画像\"\u003e",
                    "op":  [
                               "0.512",
                               "0.768",
@@ -1836,7 +1836,7 @@
         "zh":  {
                    "ti":  "平成16年秋季 問39",
                    "ca":  "技術系 » 系統構成要素 » 系統評估指標",
-                   "q":  "若有3台電腦A、B、C如圖所示連接，則整個系統的稼動率為多少？在此，A、B、C的稼動率皆為0.8。此外，關於由電腦A、B構成的並聯連接部分，只要A、B中任一台運作，該並聯連接部分即視為運作狀態。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/39.png\" alt=\"問39圖片\"\u003e",
+                   "q":  "若有3台電腦A、B、C如圖所示連接，則整個系統的稼動率為多少？在此，A、B、C的稼動率皆為0.8。此外，關於由電腦A、B構成的並聯連接部分，只要A、B中任一台運作，該並聯連接部分即視為運作狀態。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/39.png\" alt=\"問39圖片\"\u003e",
                    "op":  [
                               "0.512",
                               "0.768",
@@ -1851,7 +1851,7 @@
         "ja":  {
                    "ti":  "平成30年秋期　問15",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "東京と福岡を結ぶ実線の回線がある。東京と福岡の間の信頼性を向上させるために，大阪を経由する破線の迂回回線を追加した。迂回回線追加後における，東京と福岡の間の稼働率は幾らか。ここで，回線の稼働率は，東京と福岡，東京と大阪，大阪と福岡の全てが0.9とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/15.png\" alt=\"\"\u003e",
+                   "q":  "東京と福岡を結ぶ実線の回線がある。東京と福岡の間の信頼性を向上させるために，大阪を経由する破線の迂回回線を追加した。迂回回線追加後における，東京と福岡の間の稼働率は幾らか。ここで，回線の稼働率は，東京と福岡，東京と大阪，大阪と福岡の全てが0.9とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/15.png\" alt=\"\"\u003e",
                    "op":  [
                               "0.729",
                               "0.810",
@@ -1864,7 +1864,7 @@
         "zh":  {
                    "ti":  "平成30年秋季 問15",
                    "ca":  "技術系 » 系統構成要素 » 系統評估指標",
-                   "q":  "有一條連接東京與福岡的實線電路。為了提高東京與福岡之間的可靠性，新增了一條經由大阪的虛線繞行電路。請問新增繞行電路後，東京與福岡之間的稼動率是多少？此外，東京與福岡、東京與大阪、大阪與福岡各路段的稼動率皆為 0.9。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/15.png\" alt=\"\"\u003e",
+                   "q":  "有一條連接東京與福岡的實線電路。為了提高東京與福岡之間的可靠性，新增了一條經由大阪的虛線繞行電路。請問新增繞行電路後，東京與福岡之間的稼動率是多少？此外，東京與福岡、東京與大阪、大阪與福岡各路段的稼動率皆為 0.9。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/15.png\" alt=\"\"\u003e",
                    "op":  [
                               "0.729",
                               "0.810",
@@ -1879,7 +1879,7 @@
         "ja":  {
                    "ti":  "平成21年秋期　問12",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの構成",
-                   "q":  "図に示すように，データを細分化して複数台の磁気ディスクに格納することを何と呼ぶか。ここで，b\u003csub\u003e0\u003c/sub\u003e～b\u003csub\u003e15\u003c/sub\u003e はデータがビットごとにデータディスクに格納される順番を示す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/12.png\" alt=\"\"\u003e",
+                   "q":  "図に示すように，データを細分化して複数台の磁気ディスクに格納することを何と呼ぶか。ここで，b\u003csub\u003e0\u003c/sub\u003e～b\u003csub\u003e15\u003c/sub\u003e はデータがビットごとにデータディスクに格納される順番を示す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/12.png\" alt=\"\"\u003e",
                    "op":  [
                               "ストライピング",
                               "ディスクキャッシュ",
@@ -1892,7 +1892,7 @@
         "zh":  {
                    "ti":  "平成21年秋季 問12",
                    "ca":  "技術系 » 系統構成要素 » 系統的構成",
-                   "q":  "如圖所示，將資料細分化並儲存至多台磁碟的技術稱為什麼？在此，b\u003csub\u003e0\u003c/sub\u003e～b\u003csub\u003e15\u003c/sub\u003e 代表資料儲存至資料磁碟的順序。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/12.png\" alt=\"\"\u003e",
+                   "q":  "如圖所示，將資料細分化並儲存至多台磁碟的技術稱為什麼？在此，b\u003csub\u003e0\u003c/sub\u003e～b\u003csub\u003e15\u003c/sub\u003e 代表資料儲存至資料磁碟的順序。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/12.png\" alt=\"\"\u003e",
                    "op":  [
                               "分割儲存 (Striping)",
                               "磁碟快取 (Disk Cache)",
@@ -1907,7 +1907,7 @@
         "ja":  {
                    "ti":  "平成31年春期　問14",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "図のように，1台のサーバ，3台のクライアント及び2台のプリンターがLANで接続されている。このシステムはクライアントからの指示に基づいて，サーバにあるデータをプリンターに出力する。各装置の稼働率が表のとおりであるとき，このシステムの稼働率を表す計算式はどれか。ここで，クライアントは3台のうちどれか1台でも稼働していればよく，プリンターは2台のうちどちらかが稼働していればよい。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/14.png\" alt=\"\"\u003e",
+                   "q":  "図のように，1台のサーバ，3台のクライアント及び2台のプリンターがLANで接続されている。このシステムはクライアントからの指示に基づいて，サーバにあるデータをプリンターに出力する。各装置の稼働率が表のとおりであるとき，このシステムの稼働率を表す計算式はどれか。ここで，クライアントは3台のうちどれか1台でも稼働していればよく，プリンターは2台のうちどちらかが稼働していればよい。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/14.png\" alt=\"\"\u003e",
                    "op":  [
                               "ab\u003csup\u003e3\u003c/sup\u003ec\u003csup\u003e2\u003c/sup\u003e",
                               "a(1－b\u003csup\u003e3\u003c/sup\u003e)(1－c\u003csup\u003e2\u003c/sup\u003e)",
@@ -1915,12 +1915,12 @@
                               "a(1－(1－b)\u003csup\u003e3\u003c/sup\u003e)(1－(1－c)\u003csup\u003e2\u003c/sup\u003e)"
                           ],
                    "an":  4,
-                   "al":  "複数機器で構成されているシステムの全体を計算するには、直列接続の稼働率および並列接続の稼働率を求める公式を使います。直列接続の稼働率稼働率がR1、R2である2つの機器があり、両方が稼働していなければシステムが停止してしまう場合の稼働率 R1×R2並列接続の稼働率稼働率がR1、R2である2つの機器があり、少なくとも一つが稼働していればシステムの稼働が継続する場合の稼働率 1－(1－R1)(1－R2)設問のシステム構成を整理すると、最低限サーバ・クライアント・プリンターの各1台が稼働していれば、システムとしての稼働を続けられることがわかります。この様子を直列・並列が直感的にわかるように単純化して図解にすると次のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/14a.png\" alt=\"システムの構成図\"\u003e"
+                   "al":  "複数機器で構成されているシステムの全体を計算するには、直列接続の稼働率および並列接続の稼働率を求める公式を使います。直列接続の稼働率稼働率がR1、R2である2つの機器があり、両方が稼働していなければシステムが停止してしまう場合の稼働率 R1×R2並列接続の稼働率稼働率がR1、R2である2つの機器があり、少なくとも一つが稼働していればシステムの稼働が継続する場合の稼働率 1－(1－R1)(1－R2)設問のシステム構成を整理すると、最低限サーバ・クライアント・プリンターの各1台が稼働していれば、システムとしての稼働を続けられることがわかります。この様子を直列・並列が直感的にわかるように単純化して図解にすると次のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/14a.png\" alt=\"システムの構成図\"\u003e"
                },
         "zh":  {
                    "ti":  "平成31年春季　問14",
                    "ca":  "技術系 » 系統構成要素 » 系統評估指標",
-                   "q":  "如圖所示，有1台伺服器、3台客戶端及2台印表機透過LAN連接。該系統根據客戶端的指令，將伺服器中的資料輸出至印表機。當各裝置的稼動率如下表所示時，下列何者為該系統的稼動率計算公式？在此，客戶端只要3台中有任1台運作即可，印表機只要2台中有任1台運作即可。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/14.png\" alt=\"\"\u003e",
+                   "q":  "如圖所示，有1台伺服器、3台客戶端及2台印表機透過LAN連接。該系統根據客戶端的指令，將伺服器中的資料輸出至印表機。當各裝置的稼動率如下表所示時，下列何者為該系統的稼動率計算公式？在此，客戶端只要3台中有任1台運作即可，印表機只要2台中有任1台運作即可。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/14.png\" alt=\"\"\u003e",
                    "op":  [
                               "ab\u003csup\u003e3\u003c/sup\u003ec\u003csup\u003e2\u003c/sup\u003e",
                               "a(1－b\u003csup\u003e3\u003c/sup\u003e)(1－c\u003csup\u003e2\u003c/sup\u003e)",
@@ -1928,7 +1928,7 @@
                               "a(1－(1－b)\u003csup\u003e3\u003c/sup\u003e)(1－(1－c)\u003csup\u003e2\u003c/sup\u003e)"
                           ],
                    "an":  4,
-                   "al":  "若要計算由多個設備所構成的系統整體稼動率，需使用串聯與並聯的稼動率公式。\u003cbr\u003e\u003cbr\u003e串聯連接的稼動率：\u003cbr\u003e若有兩個稼動率分別為 R1、R2 的設備，且兩者皆必須運作系統才不會停止時，其稼動率為 R1×R2。\u003cbr\u003e\u003cbr\u003e並聯連接的稼動率：\u003cbr\u003e若有兩個稼動率分別為 R1、R2 的設備，只要其中至少有一個在運作，系統即可持續運作，其稼動率為 1－(1－R1)(1－R2)。\u003cbr\u003e\u003cbr\u003e整理本題的系統架構可知，只要伺服器、客戶端、印表機各至少有1台在運作，系統即可維持運作。將此架構簡化為直觀的串聯與並聯圖解如下：\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/14a.png\" alt=\"系統架構圖\"\u003e"
+                   "al":  "若要計算由多個設備所構成的系統整體稼動率，需使用串聯與並聯的稼動率公式。\u003cbr\u003e\u003cbr\u003e串聯連接的稼動率：\u003cbr\u003e若有兩個稼動率分別為 R1、R2 的設備，且兩者皆必須運作系統才不會停止時，其稼動率為 R1×R2。\u003cbr\u003e\u003cbr\u003e並聯連接的稼動率：\u003cbr\u003e若有兩個稼動率分別為 R1、R2 的設備，只要其中至少有一個在運作，系統即可持續運作，其稼動率為 1－(1－R1)(1－R2)。\u003cbr\u003e\u003cbr\u003e整理本題的系統架構可知，只要伺服器、客戶端、印表機各至少有1台在運作，系統即可維持運作。將此架構簡化為直觀的串聯與並聯圖解如下：\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/14a.png\" alt=\"系統架構圖\"\u003e"
                }
     },
     {
@@ -1943,7 +1943,7 @@
                               "利用者の要求に応じてリソースを動的に割り当てたり，不要になったリソースを回収して別の利用者のために移し替えたりする技術である。"
                           ],
                    "an":  1,
-                   "al":  "ライブマイグレーション(Live Migration)は、ある物理サーバ上で稼働している仮想マシンを、OSやソフトウェアを停止させることなく別の物理サーバに移し替え、処理を継続させる技術です。切り替えによるダウンタイムはほとんどゼロで、移動前の処理やセッションが全て引き継がれるため可用性を損なうことがありません。\"Migration\"には「移動」や「移住」などの意味があり、\"live\"は「生で」「生の」と訳されるので、2つを繋げた\"Live Migration\"は、アプリケーションを実行状態のまま移動させる技術ということを表しています。\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/14.png\" alt=\"14.png\"\u003e"
+                   "al":  "ライブマイグレーション(Live Migration)は、ある物理サーバ上で稼働している仮想マシンを、OSやソフトウェアを停止させることなく別の物理サーバに移し替え、処理を継続させる技術です。切り替えによるダウンタイムはほとんどゼロで、移動前の処理やセッションが全て引き継がれるため可用性を損なうことがありません。\"Migration\"には「移動」や「移住」などの意味があり、\"live\"は「生で」「生の」と訳されるので、2つを繋げた\"Live Migration\"は、アプリケーションを実行状態のまま移動させる技術ということを表しています。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/14.png\" alt=\"14.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和2年度 問14",
@@ -1956,7 +1956,7 @@
                               "是指根據使用者的要求動態分配資源，或在資源不再需要時回收並重新分配給其他使用者的技術。"
                           ],
                    "an":  1,
-                   "al":  "線上遷移（Live Migration）是一種在不停止作業系統或軟體運作的情況下，將運行於某實體伺服器上的虛擬機器轉移至另一台實體伺服器，並持續進行處理的技術。切換過程中的停機時間幾乎為零，且移動前的處理程序與連線階段（Session）皆會被完整繼承，因此不會損害可用性。「Migration」有「遷移」或「移動」之意，而「Live」意指「即時」或「運行中」，將兩者結合的「Live Migration」即表示在應用程式維持執行狀態下進行移動的技術。\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/14.png\" alt=\"14.png\"\u003e"
+                   "al":  "線上遷移（Live Migration）是一種在不停止作業系統或軟體運作的情況下，將運行於某實體伺服器上的虛擬機器轉移至另一台實體伺服器，並持續進行處理的技術。切換過程中的停機時間幾乎為零，且移動前的處理程序與連線階段（Session）皆會被完整繼承，因此不會損害可用性。「Migration」有「遷移」或「移動」之意，而「Live」意指「即時」或「運行中」，將兩者結合的「Live Migration」即表示在應用程式維持執行狀態下進行移動的技術。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/14.png\" alt=\"14.png\"\u003e"
                }
     },
     {
@@ -2055,7 +2055,7 @@
                               "0.625"
                           ],
                    "an":  4,
-                   "al":  "図を描いてみると問題の理解がしやすいと思います。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/14a.png\" alt=\"\"\u003e"
+                   "al":  "図を描いてみると問題の理解がしやすいと思います。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/14a.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成26年秋季 問14",
@@ -2068,7 +2068,7 @@
                               "0.625"
                           ],
                    "an":  4,
-                   "al":  "畫圖的話會比較容易理解問題。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/14a.png\" alt=\"\"\u003e"
+                   "al":  "畫圖的話會比較容易理解問題。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/14a.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2243,7 +2243,7 @@
         "ja":  {
                    "ti":  "平成19年春期　問33",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "四つの装置A～Dで構成されるシステム全体のアベイラビリティとして，最も近いものはどれか。ここで，個々のアベイラビリティは，AとCが0.9，BとDが0.8とする。また，並列接続部分については，いずれか一方が稼働しているとき，当該並列部分は稼働しているものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/33.png\" alt=\"問33画像\"\u003e",
+                   "q":  "四つの装置A～Dで構成されるシステム全体のアベイラビリティとして，最も近いものはどれか。ここで，個々のアベイラビリティは，AとCが0.9，BとDが0.8とする。また，並列接続部分については，いずれか一方が稼働しているとき，当該並列部分は稼働しているものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/33.png\" alt=\"問33画像\"\u003e",
                    "op":  [
                               "0.72",
                               "0.92",
@@ -2256,7 +2256,7 @@
         "zh":  {
                    "ti":  "平成19年春季 問33",
                    "ca":  "技術系 » 系統構成要素 » 系統評估指標",
-                   "q":  "由四個裝置 A～D 所構成的系統，其整體的可用性（Availability）最接近下列何者？在此，各裝置的可用性分別為：A 與 C 為 0.9，B 與 D 為 0.8。此外，關於並聯連接的部分，只要其中一方運作正常，該並聯部分即視為運作正常。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/33.png\" alt=\"問33圖片\"\u003e",
+                   "q":  "由四個裝置 A～D 所構成的系統，其整體的可用性（Availability）最接近下列何者？在此，各裝置的可用性分別為：A 與 C 為 0.9，B 與 D 為 0.8。此外，關於並聯連接的部分，只要其中一方運作正常，該並聯部分即視為運作正常。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/33.png\" alt=\"問33圖片\"\u003e",
                    "op":  [
                               "0.72",
                               "0.92",
@@ -2299,7 +2299,7 @@
         "ja":  {
                    "ti":  "平成19年秋期　問34",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "3台のコンピュータA～Cが図のように接続されている場合，システム全体の稼働率は幾らか。ここで，A～C の稼働率は，すべて0.8とする。また，コンピュータA，Bによって構成されている並列接続部分については，A，Bのいずれか1台でも稼働していれば，当該部分は稼働しているものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/34.png\" alt=\"問34画像\"\u003e",
+                   "q":  "3台のコンピュータA～Cが図のように接続されている場合，システム全体の稼働率は幾らか。ここで，A～C の稼働率は，すべて0.8とする。また，コンピュータA，Bによって構成されている並列接続部分については，A，Bのいずれか1台でも稼働していれば，当該部分は稼働しているものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/34.png\" alt=\"問34画像\"\u003e",
                    "op":  [
                               "0.512 ",
                               "0.768 ",
@@ -2312,7 +2312,7 @@
         "zh":  {
                    "ti":  "平成19年秋季 問34",
                    "ca":  "技術系 » 系統構成要素 » 系統評估指標",
-                   "q":  "若有3台電腦A～C如圖所示連接，則整個系統的稼動率為多少？在此，A～C的稼動率皆為0.8。此外，關於由電腦A、B構成的並聯連接部分，只要A、B中任一台稼動，該部分即視為稼動狀態。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/34.png\" alt=\"問34圖片\"\u003e",
+                   "q":  "若有3台電腦A～C如圖所示連接，則整個系統的稼動率為多少？在此，A～C的稼動率皆為0.8。此外，關於由電腦A、B構成的並聯連接部分，只要A、B中任一台稼動，該部分即視為稼動狀態。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/34.png\" alt=\"問34圖片\"\u003e",
                    "op":  [
                               "0.512",
                               "0.768",
@@ -2391,7 +2391,7 @@
                               "待機系サーバとして同一仕様のサーバが必要になるが，障害発生時には待機系サーバに処理を引き継ぐので，障害が発生してもスループットを維持することができる。"
                           ],
                    "an":  4,
-                   "al":  "負荷分散クラスタとHA(高可用性)クラスタは次の特徴をもつシステム構成です。負荷分散クラスタ構成処理を複数のサーバに分散することで、各サーバに掛かる負荷を低減させることを目的としたクラスタ構成。高い処理能力が求められるシステムでよく利用される 。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/14_1.png\" alt=\"\"\u003e"
+                   "al":  "負荷分散クラスタとHA(高可用性)クラスタは次の特徴をもつシステム構成です。負荷分散クラスタ構成処理を複数のサーバに分散することで、各サーバに掛かる負荷を低減させることを目的としたクラスタ構成。高い処理能力が求められるシステムでよく利用される 。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/14_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成28年秋季 問14",
@@ -2404,14 +2404,14 @@
                               "雖然需要準備規格相同的伺服器作為備用伺服器，但由於在發生故障時會由備用伺服器接管處理，因此即使發生故障也能維持吞吐量。"
                           ],
                    "an":  4,
-                   "al":  "負載平衡叢集與 HA（高可用性）叢集是具有以下特徵的系統架構：負載平衡叢集架構是將處理分散至多台伺服器，以降低各伺服器負載為目的的叢集架構。常用於對處理能力要求較高的系統。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/14_1.png\" alt=\"\"\u003e"
+                   "al":  "負載平衡叢集與 HA（高可用性）叢集是具有以下特徵的系統架構：負載平衡叢集架構是將處理分散至多台伺服器，以降低各伺服器負載為目的的叢集架構。常用於對處理能力要求較高的系統。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/14_1.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成20年春期　問31",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの構成",
-                   "q":  "図に示すように，2系統のシステムで構成され，一方は現用系としてオンライン処理を行い，もう一方は待機系として現用系の故障に備えている。通常，待機系はバッチ処理を行っている。このようなシステム構成を何と呼ぶか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/31.png\" alt=\"問31画像\"\u003e",
+                   "q":  "図に示すように，2系統のシステムで構成され，一方は現用系としてオンライン処理を行い，もう一方は待機系として現用系の故障に備えている。通常，待機系はバッチ処理を行っている。このようなシステム構成を何と呼ぶか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/31.png\" alt=\"問31画像\"\u003e",
                    "op":  [
                               "シンプレックスシステム",
                               "デュアルシステム",
@@ -2424,7 +2424,7 @@
         "zh":  {
                    "ti":  "平成20年春季 問31",
                    "ca":  "技術系 » 系統構成要素 » 系統構成",
-                   "q":  "如圖所示，系統由兩個系統構成，其中一個作為現用系統進行線上處理，另一個則作為待機系統，以備現用系統發生故障時使用。通常，待機系統會進行批次處理。這種系統構成稱為什麼？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/31.png\" alt=\"問31圖片\"\u003e",
+                   "q":  "如圖所示，系統由兩個系統構成，其中一個作為現用系統進行線上處理，另一個則作為待機系統，以備現用系統發生故障時使用。通常，待機系統會進行批次處理。這種系統構成稱為什麼？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/31.png\" alt=\"問31圖片\"\u003e",
                    "op":  [
                               "單工系統 (Simplex System)",
                               "雙重系統 (Dual System)",
@@ -2439,7 +2439,7 @@
         "ja":  {
                    "ti":  "平成23年秋期　問19",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "東京～福岡を結ぶ回線がある。この回線の信頼性を向上させるために，図に示すような東京～大阪～福岡を結ぶ破線の迂回回線を追加した。迂回回線追加後における，東京～福岡を結ぶネットワークの稼働率は幾らか。ここで，回線の稼働率は，東京～福岡，東京～大阪，大阪～福岡の全てが0.9とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/19.png\" alt=\"問19画像\"\u003e",
+                   "q":  "東京～福岡を結ぶ回線がある。この回線の信頼性を向上させるために，図に示すような東京～大阪～福岡を結ぶ破線の迂回回線を追加した。迂回回線追加後における，東京～福岡を結ぶネットワークの稼働率は幾らか。ここで，回線の稼働率は，東京～福岡，東京～大阪，大阪～福岡の全てが0.9とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/19.png\" alt=\"問19画像\"\u003e",
                    "op":  [
                               "0.729",
                               "0.810",
@@ -2452,7 +2452,7 @@
         "zh":  {
                    "ti":  "平成23年秋季 問19",
                    "ca":  "技術系 » 系統構成要素 » 系統的評估指標",
-                   "q":  "有一條連接東京至福岡的線路。為了提高該線路的可靠性，新增了如圖所示連接東京至大阪至福岡的虛線迂迴線路。在新增迂迴線路後，連接東京至福岡的網路可用度為多少？在此，假設各線路的可用度（稼働率），包括東京至福岡、東京至大阪、以及大阪至福岡，皆為 0.9。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/19.png\" alt=\"問19圖片\"\u003e",
+                   "q":  "有一條連接東京至福岡的線路。為了提高該線路的可靠性，新增了如圖所示連接東京至大阪至福岡的虛線迂迴線路。在新增迂迴線路後，連接東京至福岡的網路可用度為多少？在此，假設各線路的可用度（稼働率），包括東京至福岡、東京至大阪、以及大阪至福岡，皆為 0.9。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/19.png\" alt=\"問19圖片\"\u003e",
                    "op":  [
                               "0.729",
                               "0.810",
@@ -2523,7 +2523,7 @@
         "ja":  {
                    "ti":  "平成25年春期　問17",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "アプリケーションの変更をしていないにもかかわらず，サーバのデータベース応答性能が悪化してきたので，表のような想定原因と，特定するための調査項目を検討した。調査項目cとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/17.png\" alt=\"\"\u003e",
+                   "q":  "アプリケーションの変更をしていないにもかかわらず，サーバのデータベース応答性能が悪化してきたので，表のような想定原因と，特定するための調査項目を検討した。調査項目cとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/17.png\" alt=\"\"\u003e",
                    "op":  [
                               "遅い処理の特定",
                               "外的要因の変化の確認",
@@ -2536,7 +2536,7 @@
         "zh":  {
                    "ti":  "平成25年春季 問17",
                    "ca":  "科技類 » 系統構成要素 » 系統評估指標",
-                   "q":  "即便沒有進行應用程式的變更，伺服器的資料庫響應效能卻逐漸惡化。因此，針對下表中的預想原因及對應的調查項目進行了探討。請問作為調查項目 c，下列何者最為適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/17.png\" alt=\"\"\u003e",
+                   "q":  "即便沒有進行應用程式的變更，伺服器的資料庫響應效能卻逐漸惡化。因此，針對下表中的預想原因及對應的調查項目進行了探討。請問作為調查項目 c，下列何者最為適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/17.png\" alt=\"\"\u003e",
                    "op":  [
                               "辨識緩慢的處理程序",
                               "確認外部因素的變化",
@@ -2559,7 +2559,7 @@
                               "負荷が軽い静的コンテンツへのリクエストはWebサーバで処理し，負荷が重い動的コンテンツへのリクエストはAPサーバで処理するように，クライアントからのリクエストの種類に応じて処理を分担できる。"
                           ],
                    "an":  4,
-                   "al":  "一般的なWebシステムは次のような構成になっています。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/13.png\" alt=\"\"\u003e"
+                   "al":  "一般的なWebシステムは次のような構成になっています。\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/13.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成30年秋季 問13",
@@ -2572,14 +2572,14 @@
                               "針對負載較輕的靜態內容請求由 Web 伺服器處理，而負載較重的動態內容請求則由 AP 伺服器處理，可根據用戶端的請求類型分擔處理工作。"
                           ],
                    "an":  4,
-                   "al":  "一般的 Web 系統架構如下所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/13.png\" alt=\"\"\u003e"
+                   "al":  "一般的 Web 系統架構如下所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/13.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成24年春期　問17",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "図に示すシステム構成全体の稼働率を表す式はどれか。ここで，システムが正常に稼働するためには，磁気ディスクは2台とも正常でなければならず，それぞれのサイトで少なくとも1台の端末は正常でなければならない。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/17.png\" alt=\"問17画像\"\u003e",
+                   "q":  "図に示すシステム構成全体の稼働率を表す式はどれか。ここで，システムが正常に稼働するためには，磁気ディスクは2台とも正常でなければならず，それぞれのサイトで少なくとも1台の端末は正常でなければならない。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/17.png\" alt=\"問17画像\"\u003e",
                    "op":  [
                               "D\u003csup\u003e2\u003c/sup\u003eC(1－T\u003csup\u003e2\u003c/sup\u003e)\u003csup\u003e2\u003c/sup\u003e",
                               "D\u003csup\u003e2\u003c/sup\u003eC(1－(1－T)\u003csup\u003e2\u003c/sup\u003e)\u003csup\u003e2\u003c/sup\u003e",
@@ -2592,7 +2592,7 @@
         "zh":  {
                    "ti":  "平成24年春季 問17",
                    "ca":  "技術系 » 系統構成要素 » 系統評估指標",
-                   "q":  "下圖所示系統整體的稼動率公式為何？其中，系統要正常運作，兩台磁碟機皆必須正常，且每個站點（site）至少要有一台終端機正常。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/17.png\" alt=\"問17圖片\"\u003e",
+                   "q":  "下圖所示系統整體的稼動率公式為何？其中，系統要正常運作，兩台磁碟機皆必須正常，且每個站點（site）至少要有一台終端機正常。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/17.png\" alt=\"問17圖片\"\u003e",
                    "op":  [
                               "D\u003csup\u003e2\u003c/sup\u003eC(1－T\u003csup\u003e2\u003c/sup\u003e)\u003csup\u003e2\u003c/sup\u003e",
                               "D\u003csup\u003e2\u003c/sup\u003eC(1－(1－T)\u003csup\u003e2\u003c/sup\u003e)\u003csup\u003e2\u003c/sup\u003e",
@@ -2607,7 +2607,7 @@
         "ja":  {
                    "ti":  "令和4年度　問15",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "ジョブの多重度が1で，到着順にジョブが実行されるシステムにおいて，表に示す状態のジョブA～Cを処理するとき，ジョブCが到着してから実行が終了するまでのターンアラウンドタイムは何秒か。ここで， OSのオーバーヘッドは考慮しないものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/15.png\" alt=\"15.png\"\u003e",
+                   "q":  "ジョブの多重度が1で，到着順にジョブが実行されるシステムにおいて，表に示す状態のジョブA～Cを処理するとき，ジョブCが到着してから実行が終了するまでのターンアラウンドタイムは何秒か。ここで， OSのオーバーヘッドは考慮しないものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/15.png\" alt=\"15.png\"\u003e",
                    "op":  [
                               "11",
                               "12",
@@ -2615,12 +2615,12 @@
                               "14"
                           ],
                    "an":  1,
-                   "al":  "ターンアラウンドタイムとは、利用者がシステムに処理要求を開始してから、すべての結果を受け取るまでに要する時間のことです。設問の条件に従い、ジョブA～Cが実行される様子を図で表すと次のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/15a.png\" alt=\"15a.png\"\u003e"
+                   "al":  "ターンアラウンドタイムとは、利用者がシステムに処理要求を開始してから、すべての結果を受け取るまでに要する時間のことです。設問の条件に従い、ジョブA～Cが実行される様子を図で表すと次のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/15a.png\" alt=\"15a.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和4年度 問15",
                    "ca":  "科技類 » 系統構成要素 » 系統評估指標",
-                   "q":  "在一個工作（Job）多重度為 1，且依到達順序執行工作的系統中，處理如表所示狀態的工作 A～C 時，工作 C 從到達系統到執行結束為止的周轉時間（Turnaround Time）是多少秒？此處不考慮作業系統（OS）的負擔（Overhead）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/15.png\" alt=\"15.png\"\u003e",
+                   "q":  "在一個工作（Job）多重度為 1，且依到達順序執行工作的系統中，處理如表所示狀態的工作 A～C 時，工作 C 從到達系統到執行結束為止的周轉時間（Turnaround Time）是多少秒？此處不考慮作業系統（OS）的負擔（Overhead）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/15.png\" alt=\"15.png\"\u003e",
                    "op":  [
                               "11",
                               "12",
@@ -2628,7 +2628,7 @@
                               "14"
                           ],
                    "an":  1,
-                   "al":  "周轉時間是指使用者向系統發出處理要求，直到接收到所有結果為止所需的時間。根據題目的條件，將工作 A～C 執行的情形以圖表表示如下：\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/15a.png\" alt=\"15a.png\"\u003e"
+                   "al":  "周轉時間是指使用者向系統發出處理要求，直到接收到所有結果為止所需的時間。根據題目的條件，將工作 A～C 執行的情形以圖表表示如下：\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/15a.png\" alt=\"15a.png\"\u003e"
                }
     },
     {
@@ -2691,7 +2691,7 @@
         "ja":  {
                    "ti":  "平成24年秋期　問15",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "図のような，稼働率Pのシステムで構成された多重化システム全体の稼働率を表す式はどれか。ここで，並列の部分は，どちらか一方が稼働していればよいものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/15.png\" alt=\"問15画像\"\u003e",
+                   "q":  "図のような，稼働率Pのシステムで構成された多重化システム全体の稼働率を表す式はどれか。ここで，並列の部分は，どちらか一方が稼働していればよいものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/15.png\" alt=\"問15画像\"\u003e",
                    "op":  [
                               "1－(1－P)(1－P\u003csup\u003e2\u003c/sup\u003e)\u003csup\u003e2\u003c/sup\u003e",
                               "P{1－(1－P)\u003csup\u003e4\u003c/sup\u003e}",
@@ -2699,12 +2699,12 @@
                               "P{1－(1－P\u003csup\u003e2\u003c/sup\u003e)\u003csup\u003e2\u003c/sup\u003e}"
                           ],
                    "an":  4,
-                   "al":  "この問題のシステムのようにある程度複雑な構成の稼働率を考えるときはシステムを分解して考えます。まず\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/15_1.png\" alt=\"P-P\"\u003eの部分は直列につながっているので、 P×P＝P2です。次に\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/15_1.png\" alt=\"P-P\"\u003e2つが並列に接続された\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/15_2.png\" alt=\"P-P並列\"\u003e"
+                   "al":  "この問題のシステムのようにある程度複雑な構成の稼働率を考えるときはシステムを分解して考えます。まず\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/15_1.png\" alt=\"P-P\"\u003eの部分は直列につながっているので、 P×P＝P2です。次に\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/15_1.png\" alt=\"P-P\"\u003e2つが並列に接続された\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/15_2.png\" alt=\"P-P並列\"\u003e"
                },
         "zh":  {
                    "ti":  "平成24年秋季 問15",
                    "ca":  "技術系 » 系統構成要素 » 系統評估指標",
-                   "q":  "如下圖所示，由稼動率為 P 的系統所構成的多重化系統，下列何者為表示該系統整體稼動率的算式？其中，並聯的部分只要其中一方運作即可。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/15.png\" alt=\"問15圖片\"\u003e",
+                   "q":  "如下圖所示，由稼動率為 P 的系統所構成的多重化系統，下列何者為表示該系統整體稼動率的算式？其中，並聯的部分只要其中一方運作即可。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/15.png\" alt=\"問15圖片\"\u003e",
                    "op":  [
                               "1－(1－P)(1－P\u003csup\u003e2\u003c/sup\u003e)\u003csup\u003e2\u003c/sup\u003e",
                               "P{1－(1－P)\u003csup\u003e4\u003c/sup\u003e}",
@@ -2712,7 +2712,7 @@
                               "P{1－(1－P\u003csup\u003e2\u003c/sup\u003e)\u003csup\u003e2\u003c/sup\u003e}"
                           ],
                    "an":  4,
-                   "al":  "當考慮如本題般結構較複雜的系統稼動率時，可將系統分解進行思考。首先，\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/15_1.png\" alt=\"P-P\"\u003e的部分因為是串聯，所以為 P×P＝P²。接著，將兩個\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/15_1.png\" alt=\"P-P\"\u003e並聯連接的\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/15_2.png\" alt=\"P-P並聯\"\u003e"
+                   "al":  "當考慮如本題般結構較複雜的系統稼動率時，可將系統分解進行思考。首先，\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/15_1.png\" alt=\"P-P\"\u003e的部分因為是串聯，所以為 P×P＝P²。接著，將兩個\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/15_1.png\" alt=\"P-P\"\u003e並聯連接的\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/15_2.png\" alt=\"P-P並聯\"\u003e"
                }
     },
     {
@@ -2839,7 +2839,7 @@
                               "ログインアカウントの作成と削除"
                           ],
                    "an":  1,
-                   "al":  "クライアントサーバシステム(client-server system:C/S)は、サービスを要求する側であるクライアントと、サービスを提供するサーバにアプリケーションの機能を分離した垂直分散システムの一形態です。\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/11.png\" alt=\"11.png\"\u003e"
+                   "al":  "クライアントサーバシステム(client-server system:C/S)は、サービスを要求する側であるクライアントと、サービスを提供するサーバにアプリケーションの機能を分離した垂直分散システムの一形態です。\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/11.png\" alt=\"11.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和6年度 問11",
@@ -2852,7 +2852,7 @@
                               "登入帳號的建立與刪除"
                           ],
                    "an":  1,
-                   "al":  "主從式架構（Client-Server System: C/S）是一種垂直分散式系統，將應用程式的功能分離為請求服務的用戶端（Client）與提供服務的伺服器（Server）。\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/11.png\" alt=\"11.png\"\u003e"
+                   "al":  "主從式架構（Client-Server System: C/S）是一種垂直分散式系統，將應用程式的功能分離為請求服務的用戶端（Client）與提供服務的伺服器（Server）。\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/11.png\" alt=\"11.png\"\u003e"
                }
     },
     {
@@ -2867,7 +2867,7 @@
                               "一つの処理を2系統のシステムで独立に行い，結果を照合する方式である。"
                           ],
                    "an":  4,
-                   "al":  "デュアルシステムとは、信頼化設計の1つで、同じ処理を2組のコンピュータシステムで行い、その結果を照合機でチェックしながら処理を進行していくシステム構成です。一方の系統に障害が発生した場合には、問題のある側のシステムをメイン処理から切り離し、残された側のシステムのみで処理を続行しつつ、障害からの回復を図ります。「結果の照合」という語句がデュアルシステムのキーワードになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/13.png\" alt=\"\"\u003e"
+                   "al":  "デュアルシステムとは、信頼化設計の1つで、同じ処理を2組のコンピュータシステムで行い、その結果を照合機でチェックしながら処理を進行していくシステム構成です。一方の系統に障害が発生した場合には、問題のある側のシステムをメイン処理から切り離し、残された側のシステムのみで処理を続行しつつ、障害からの回復を図ります。「結果の照合」という語句がデュアルシステムのキーワードになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/13.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成31年春季 問13",
@@ -2880,7 +2880,7 @@
                               "由2個系統獨立執行同一個處理，並對比結果的方式。"
                           ],
                    "an":  4,
-                   "al":  "雙重系統（Dual System）是一種可靠性設計，由兩組電腦系統執行相同的處理，並透過核對器（照合機）一邊檢查結果一邊進行處理。當其中一個系統發生故障時，會將有問題的系統從主要處理中分離，僅由剩餘的系統繼續處理，同時進行故障恢復。「結果的對比（結果の照合）」是雙重系統的關鍵字。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/13.png\" alt=\"\"\u003e"
+                   "al":  "雙重系統（Dual System）是一種可靠性設計，由兩組電腦系統執行相同的處理，並透過核對器（照合機）一邊檢查結果一邊進行處理。當其中一個系統發生故障時，會將有問題的系統從主要處理中分離，僅由剩餘的系統繼續處理，同時進行故障恢復。「結果的對比（結果の照合）」是雙重系統的關鍵字。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/13.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2895,7 +2895,7 @@
                               "部品などの事前取替えを実施する。"
                           ],
                    "an":  3,
-                   "al":  "システムやハードウェアの故障頻度と経過年数の関係は、以下のように3つの期間に分けられます。初期故障期間設計や製造の不備や使用環境との相性によって故障率が高くなる期間偶発故障期間初期の不具合が落ち着いて安定した稼働が長く続き、偶発的な故障だけが発生する期間摩耗故障期間材料や部品の劣化による故障回数が多くなる期間\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/15.png\" alt=\"\"\u003e"
+                   "al":  "システムやハードウェアの故障頻度と経過年数の関係は、以下のように3つの期間に分けられます。初期故障期間設計や製造の不備や使用環境との相性によって故障率が高くなる期間偶発故障期間初期の不具合が落ち着いて安定した稼働が長く続き、偶発的な故障だけが発生する期間摩耗故障期間材料や部品の劣化による故障回数が多くなる期間\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/15.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成26年秋期 問15",
@@ -2908,7 +2908,7 @@
                               "對零件等進行提前更換。"
                           ],
                    "an":  3,
-                   "al":  "系統或硬體的故障頻率與經過年數的關係，可分為以下三個期間：初期故障期間：由於設計或製造缺失以及與使用環境不相容，導致故障率較高的期間。偶發故障期間：初期瑕疵消除後，進入長期穩定運作，僅發生偶發性故障的期間。摩耗故障期間：由於材料或零件老化，導致故障次數增加的期間。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/15.png\" alt=\"\"\u003e"
+                   "al":  "系統或硬體的故障頻率與經過年數的關係，可分為以下三個期間：初期故障期間：由於設計或製造缺失以及與使用環境不相容，導致故障率較高的期間。偶發故障期間：初期瑕疵消除後，進入長期穩定運作，僅發生偶發性故障的期間。摩耗故障期間：由於材料或零件老化，導致故障次數增加的期間。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/15.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -3001,26 +3001,26 @@
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
                    "q":  "オンラインリアルタイムシステムにおけるCPUの使用率と平均応答時間の関係を表したグラフとして，適切なものはどれか。ここで，トランザクションの発生はポアソン分布に従い，その処理時間は指数分布に従うものとする。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/14a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/14i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/14u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/14e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/14a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/14i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/14u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/14e.png\" alt=\"\"\u003e"
                           ],
                    "an":  1,
-                   "al":  "M/M/1の待ち行列モデルに従うと利用率(CPU利用率)※がρ(ロー)の時の平均応答時間は次の式で計算することができます。\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/14_1.png\" alt=\"\"\u003e"
+                   "al":  "M/M/1の待ち行列モデルに従うと利用率(CPU利用率)※がρ(ロー)の時の平均応答時間は次の式で計算することができます。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/14_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成27年春季 問14",
                    "ca":  "技術系 » 系統構成要素 » 系統評估指標",
                    "q":  "在線上即時系統中，下列何者為表示 CPU 使用率與平均回應時間關係的正確圖表？在此假設交易的發生遵循卜瓦松分佈（Poisson distribution），且其處理時間遵循指數分佈。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/14a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/14i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/14u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/14e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/14a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/14i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/14u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/14e.png\" alt=\"\"\u003e"
                           ],
                    "an":  1,
-                   "al":  "根據 M/M/1 排隊模型，當利用率（CPU 利用率）為 ρ（rho）時，平均回應時間可透過下列公式計算：\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/14_1.png\" alt=\"\"\u003e"
+                   "al":  "根據 M/M/1 排隊模型，當利用率（CPU 利用率）為 ρ（rho）時，平均回應時間可透過下列公式計算：\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/14_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -3055,7 +3055,7 @@
         "ja":  {
                    "ti":  "平成16年春期　問39",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "図のようなLAN設備がある。LAN1のクライアントはLAN3に接続されているサーバを使用して，ある業務処理を行っている。通常は，ルータ1を介して通信を行っているが，ルータ1の故障時にはルータ2，3を介して通信を行う。このLAN1とLAN3をつなぐLAN設備の稼働率は幾らか。ここで，各ルータの故障率は0.1とし，故障時の切替えに時間はかからず，ルータ以外のLAN設備の故障は考慮しないものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/39.png\" alt=\"問39画像\"\u003e",
+                   "q":  "図のようなLAN設備がある。LAN1のクライアントはLAN3に接続されているサーバを使用して，ある業務処理を行っている。通常は，ルータ1を介して通信を行っているが，ルータ1の故障時にはルータ2，3を介して通信を行う。このLAN1とLAN3をつなぐLAN設備の稼働率は幾らか。ここで，各ルータの故障率は0.1とし，故障時の切替えに時間はかからず，ルータ以外のLAN設備の故障は考慮しないものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/39.png\" alt=\"問39画像\"\u003e",
                    "op":  [
                               "0.729",
                               "0.981",
@@ -3063,12 +3063,12 @@
                               "1.000"
                           ],
                    "an":  2,
-                   "al":  "各ルータの稼働率は、(1－故障率)で求められた 0.9 です。またLAN1とLAN3が通信するためには、ルータ1が稼働，またはルータ2とルータ3が両方とも稼働としていることが求められます。これらの条件を単純化したモデルで表すと次のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/39a.png\" alt=\"問39解説画像\"\u003e"
+                   "al":  "各ルータの稼働率は、(1－故障率)で求められた 0.9 です。またLAN1とLAN3が通信するためには、ルータ1が稼働，またはルータ2とルータ3が両方とも稼働としていることが求められます。これらの条件を単純化したモデルで表すと次のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/39a.png\" alt=\"問39解説画像\"\u003e"
                },
         "zh":  {
                    "ti":  "平成16年春季 問39",
                    "ca":  "技術系 » 系統構成要素 » 系統評估指標",
-                   "q":  "如下圖所示為一套 LAN 設備。LAN1 的客戶端使用連接於 LAN3 的伺服器進行某項業務處理。正常情況下是透過路由器 1 進行通訊，但當路由器 1 故障時，會改為透過路由器 2 與路由器 3 進行通訊。請問連接此 LAN1 與 LAN3 的 LAN 設備稼動率為何？在此，各路由器的故障率為 0.1，故障時的切換不需時間，且不考慮路由器以外 LAN 設備的故障。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/39.png\" alt=\"問39圖片\"\u003e",
+                   "q":  "如下圖所示為一套 LAN 設備。LAN1 的客戶端使用連接於 LAN3 的伺服器進行某項業務處理。正常情況下是透過路由器 1 進行通訊，但當路由器 1 故障時，會改為透過路由器 2 與路由器 3 進行通訊。請問連接此 LAN1 與 LAN3 的 LAN 設備稼動率為何？在此，各路由器的故障率為 0.1，故障時的切換不需時間，且不考慮路由器以外 LAN 設備的故障。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/39.png\" alt=\"問39圖片\"\u003e",
                    "op":  [
                               "0.729",
                               "0.981",
@@ -3076,7 +3076,7 @@
                               "1.000"
                           ],
                    "an":  2,
-                   "al":  "各路由器的稼動率可由 (1 - 故障率) 求得，即 0.9。此外，LAN1 與 LAN3 若要進行通訊，必須滿足「路由器 1 運作中」或者「路由器 2 與路由器 3 皆在運作中」的條件。將這些條件以簡化模型表示如下。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/39a.png\" alt=\"問39解析圖片\"\u003e"
+                   "al":  "各路由器的稼動率可由 (1 - 故障率) 求得，即 0.9。此外，LAN1 與 LAN3 若要進行通訊，必須滿足「路由器 1 運作中」或者「路由器 2 與路由器 3 皆在運作中」的條件。將這些條件以簡化模型表示如下。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/39a.png\" alt=\"問39解析圖片\"\u003e"
                }
     },
     {
@@ -3195,7 +3195,7 @@
         "ja":  {
                    "ti":  "平成22年秋期　問19",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "四つの装置A～Dで構成されるシステム全体の稼働率として，最も近いものはどれか。ここで，個々の稼働率は，AとCが0.9，BとDが0.8とする。また，並列接続部分については，いずれか一方が稼働しているとき，当該並列部分は稼働しているものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/19.png\" alt=\"\"\u003e",
+                   "q":  "四つの装置A～Dで構成されるシステム全体の稼働率として，最も近いものはどれか。ここで，個々の稼働率は，AとCが0.9，BとDが0.8とする。また，並列接続部分については，いずれか一方が稼働しているとき，当該並列部分は稼働しているものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/19.png\" alt=\"\"\u003e",
                    "op":  [
                               "0.72",
                               "0.92",
@@ -3208,7 +3208,7 @@
         "zh":  {
                    "ti":  "平成22年秋期 問19",
                    "ca":  "科技系 » 系統構成要素 » 系統評估指標",
-                   "q":  "由四個裝置 A～D 所組成的系統，其整體稼動率最接近下列哪一項？其中，各別裝置的稼動率為：A 與 C 為 0.9，B 與 D 為 0.8。此外，關於並聯連接的部分，只要其中一方運作，則該並聯部分即視為運作狀態。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/19.png\" alt=\"\"\u003e",
+                   "q":  "由四個裝置 A～D 所組成的系統，其整體稼動率最接近下列哪一項？其中，各別裝置的稼動率為：A 與 C 為 0.9，B 與 D 為 0.8。此外，關於並聯連接的部分，只要其中一方運作，則該並聯部分即視為運作狀態。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/19.png\" alt=\"\"\u003e",
                    "op":  [
                               "0.72",
                               "0.92",
@@ -3287,7 +3287,7 @@
                               "処理待ち時間＝入出力時間－CPU時間－ターンアラウンドタイム"
                           ],
                    "an":  3,
-                   "al":  "処理待ち時間とは、ジョブの開始から終了までの間にCPUが動いていない時間を表します。下図に4つの時間の関係を示します。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/15a.png\" alt=\"\"\u003e"
+                   "al":  "処理待ち時間とは、ジョブの開始から終了までの間にCPUが動いていない時間を表します。下図に4つの時間の関係を示します。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/15a.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成22年春期 問15",
@@ -3300,7 +3300,7 @@
                               "處理等待時間＝輸出入時間－CPU 時間－周轉時間"
                           ],
                    "an":  3,
-                   "al":  "處理等待時間是指從作業開始到結束期間，CPU 未運作的時間。下圖顯示了這四種時間的關係。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/15a.png\" alt=\"\"\u003e"
+                   "al":  "處理等待時間是指從作業開始到結束期間，CPU 未運作的時間。下圖顯示了這四種時間的關係。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/15a.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -3363,7 +3363,7 @@
         "ja":  {
                    "ti":  "平成28年秋期　問15",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "2台のコンピュータを並列に接続して使うシステムがある。それぞれのMTBFとMTTRを次の表に示す。どちらか1台が稼働していればよい場合，システム全体の稼働率は何%か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/15.png\" alt=\"\"\u003e",
+                   "q":  "2台のコンピュータを並列に接続して使うシステムがある。それぞれのMTBFとMTTRを次の表に示す。どちらか1台が稼働していればよい場合，システム全体の稼働率は何%か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/15.png\" alt=\"\"\u003e",
                    "op":  [
                               "91.2",
                               "95.5",
@@ -3376,7 +3376,7 @@
         "zh":  {
                    "ti":  "平成28年秋季 問15",
                    "ca":  "技術系 » 系統構成要素 » 系統評估指標",
-                   "q":  "有一套系統使用兩台並聯連接的電腦。各電腦的 MTBF 與 MTTR 如表所示。若只要其中任一台正常運作系統即可運作，則整體系統的可用率為多少%？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/15.png\" alt=\"\"\u003e",
+                   "q":  "有一套系統使用兩台並聯連接的電腦。各電腦的 MTBF 與 MTTR 如表所示。若只要其中任一台正常運作系統即可運作，則整體系統的可用率為多少%？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/15.png\" alt=\"\"\u003e",
                    "op":  [
                               "91.2",
                               "95.5",
@@ -3587,7 +3587,7 @@
         "ja":  {
                    "ti":  "平成29年春期　問14",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "稼働率Rの装置を図のように接続したシステムがある。このシステム全体の稼働率を表わす式はどれか。ここで，並列に接続されている部分はどちらかの装置が稼働していれば良く，直列に接続されている部分は両方の装置が稼働していなければならない。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/14.png\" alt=\"\"\u003e",
+                   "q":  "稼働率Rの装置を図のように接続したシステムがある。このシステム全体の稼働率を表わす式はどれか。ここで，並列に接続されている部分はどちらかの装置が稼働していれば良く，直列に接続されている部分は両方の装置が稼働していなければならない。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/14.png\" alt=\"\"\u003e",
                    "op":  [
                               "(1－(1－R\u003csup\u003e2\u003c/sup\u003e))\u003csup\u003e2\u003c/sup\u003e",
                               "1－(1－R\u003csup\u003e2\u003c/sup\u003e)\u003csup\u003e2\u003c/sup\u003e",
@@ -3600,7 +3600,7 @@
         "zh":  {
                    "ti":  "平成29年春季 問14",
                    "ca":  "技術系 » 系統構成要素 » 系統評估指標",
-                   "q":  "有一個連接方式如圖所示、稼動率為 R 的裝置系統。下列何者為表示該系統整體稼動率的算式？其中，並聯連接的部分只要其中一個裝置運作即可，串聯連接的部分則必須兩個裝置都運作。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/14.png\" alt=\"\"\u003e",
+                   "q":  "有一個連接方式如圖所示、稼動率為 R 的裝置系統。下列何者為表示該系統整體稼動率的算式？其中，並聯連接的部分只要其中一個裝置運作即可，串聯連接的部分則必須兩個裝置都運作。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/14.png\" alt=\"\"\u003e",
                    "op":  [
                               "(1－(1－R\u003csup\u003e2\u003c/sup\u003e))\u003csup\u003e2\u003c/sup\u003e",
                               "1－(1－R\u003csup\u003e2\u003c/sup\u003e)\u003csup\u003e2\u003c/sup\u003e",
@@ -3651,7 +3651,7 @@
                               "利用者は，用意されたアプリケーションをそのまま又はカスタマイズして利用するが，OSなどのプラットフォームからアプリケーションまで全てを自ら準備する必要はない。利用者は，プラットフォームを直接変更することはできない。"
                           ],
                    "an":  2,
-                   "al":  "JIS X 9401:2016では、クラウドコンピューティングのサービスモデルを次のように定義しています。SaaS（Software as a Service）サービス利用者が、クラウドサービス提供者のアプリケーションを使うことができる形態PaaS（Platform as a Service）サービス利用者が、クラウドサービス提供者によってサポートされる一つ以上のプログラミング言語と一つ以上の実行環境とを使って利用者が作った又は利用者が入手したアプリケーションを配置し、管理し、及び実行することができる形態IaaS（Infrastructure as a Service）サービス利用者が、クラウドサービス提供者の演算リソース、ストレージリソース又はネットワーキングリソースを供給及び利用することができる形態\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/04.png\" alt=\"\"\u003e"
+                   "al":  "JIS X 9401:2016では、クラウドコンピューティングのサービスモデルを次のように定義しています。SaaS（Software as a Service）サービス利用者が、クラウドサービス提供者のアプリケーションを使うことができる形態PaaS（Platform as a Service）サービス利用者が、クラウドサービス提供者によってサポートされる一つ以上のプログラミング言語と一つ以上の実行環境とを使って利用者が作った又は利用者が入手したアプリケーションを配置し、管理し、及び実行することができる形態IaaS（Infrastructure as a Service）サービス利用者が、クラウドサービス提供者の演算リソース、ストレージリソース又はネットワーキングリソースを供給及び利用することができる形態\u003cimg src=\"https://www.fe-siken.com/kakomon/08_haru/img/04.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "令和8年度　問4",
@@ -3664,7 +3664,7 @@
                               "使用者直接使用或客製化已準備好的應用程式，無須自行準備從 OS 等平台到應用程式的所有項目。使用者無法直接變更平台。"
                           ],
                    "an":  2,
-                   "al":  "根據 JIS X 9401:2016，雲端運算的服務模型定義如下：SaaS (Software as a Service)：服務使用者可使用雲端服務提供者之應用程式的形態。PaaS (Platform as a Service)：服務使用者可利用雲端服務提供者所支援的一種以上程式語言及一種以上執行環境，來配置、管理及執行使用者自行開發或取得之應用程式的形態。IaaS (Infrastructure as a Service)：服務使用者可供應及使用雲端服務提供者之運算資源、儲存資源或網路資源的形態。\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/04.png\" alt=\"\"\u003e"
+                   "al":  "根據 JIS X 9401:2016，雲端運算的服務模型定義如下：SaaS (Software as a Service)：服務使用者可使用雲端服務提供者之應用程式的形態。PaaS (Platform as a Service)：服務使用者可利用雲端服務提供者所支援的一種以上程式語言及一種以上執行環境，來配置、管理及執行使用者自行開發或取得之應用程式的形態。IaaS (Infrastructure as a Service)：服務使用者可供應及使用雲端服務提供者之運算資源、儲存資源或網路資源的形態。\u003cimg src=\"https://www.fe-siken.com/kakomon/08_haru/img/04.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -3951,7 +3951,7 @@
         "ja":  {
                    "ti":  "平成23年特別　問16",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "装置aとbのMTBFとMTTRが表のとおりであるとき，aとbを直列に接続したシステムの稼働率は幾らか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/16.png\" alt=\"問16画像\"\u003e",
+                   "q":  "装置aとbのMTBFとMTTRが表のとおりであるとき，aとbを直列に接続したシステムの稼働率は幾らか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/16.png\" alt=\"問16画像\"\u003e",
                    "op":  [
                               "0.72",
                               "0.80",
@@ -3964,7 +3964,7 @@
         "zh":  {
                    "ti":  "平成23年特別 問16",
                    "ca":  "技術系 » 系統構成要素 » 系統評估指標",
-                   "q":  "若裝置 a 與 b 的 MTBF（平均故障間隔）與 MTTR（平均修復時間）如表所示，則將 a 與 b 串聯連接的系統可用率為多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/16.png\" alt=\"問16圖片\"\u003e",
+                   "q":  "若裝置 a 與 b 的 MTBF（平均故障間隔）與 MTTR（平均修復時間）如表所示，則將 a 與 b 串聯連接的系統可用率為多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/16.png\" alt=\"問16圖片\"\u003e",
                    "op":  [
                               "0.72",
                               "0.80",
@@ -4043,7 +4043,7 @@
                               "③，⑤，②，④，⑥，①"
                           ],
                    "an":  4,
-                   "al":  "Webサーバは、ブラウザとDBサーバの間にたち、ブラウザから受け取ったリクエストを基に組み立てたSQL文でDBサーバに問合せを行い、DBから返された結果をHTML文書に加工してブラウザに返す役割をもっています。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/13.png\" alt=\"\"\u003e"
+                   "al":  "Webサーバは、ブラウザとDBサーバの間にたち、ブラウザから受け取ったリクエストを基に組み立てたSQL文でDBサーバに問合せを行い、DBから返された結果をHTML文書に加工してブラウザに返す役割をもっています。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/13.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成26年春期 問13",
@@ -4056,7 +4056,7 @@
                               "③，⑤，②，④，⑥，①"
                           ],
                    "an":  4,
-                   "al":  "Web伺服器的角色是位於瀏覽器與DB伺服器之間，根據瀏覽器接收到的請求組建SQL語法，向DB伺服器進行查詢，並將DB返回的結果加工成HTML文件後回傳給瀏覽器。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/13.png\" alt=\"\"\u003e"
+                   "al":  "Web伺服器的角色是位於瀏覽器與DB伺服器之間，根據瀏覽器接收到的請求組建SQL語法，向DB伺服器進行查詢，並將DB返回的結果加工成HTML文件後回傳給瀏覽器。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/13.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -4065,10 +4065,10 @@
                    "ca":  "テクノロジ系 » システム構成要素 » システムの構成",
                    "q":  "3層クライアントサーバシステムで，クライアント以外の2層をそれぞれ1台のサーバを使用して実装した場合のシステム構成として，適切なものはどれか。ここで，APはアプリケーションを，DBはデータベースを表す。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/14a.png\" alt=\"問14ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/14i.png\" alt=\"問14イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/14u.png\" alt=\"問14ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/14e.png\" alt=\"問14エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/14a.png\" alt=\"問14ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/14i.png\" alt=\"問14イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/14u.png\" alt=\"問14ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/14e.png\" alt=\"問14エ\"\u003e"
                           ],
                    "an":  1,
                    "al":  "3層クライアントサーバシステムとは、プレゼンテーション層クライアントPC。サービスの要求や、出力結果を表示する。アプリケーション層データの加工を行う。データベース層データベースへアクセスし結果をアプリケーション層に返す。というように各層に役割を分担したシステム構成のことです。正解の「ア」以外はデータベース層を構成するDBサーバがありませんので、3層クライアントサーバシステムとは呼べません。"
@@ -4078,10 +4078,10 @@
                    "ca":  "技術系 » 系統構成要素 » 系統構成",
                    "q":  "在3層式主從架構（Client-Server）系統中，若扣除用戶端，其餘2層各使用1台伺服器來實作，下列何者為適當的系統構成？在此，AP 代表應用程式，DB 代表資料庫。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/14a.png\" alt=\"問14ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/14i.png\" alt=\"問14イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/14u.png\" alt=\"問14ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/14e.png\" alt=\"問14エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/14a.png\" alt=\"問14ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/14i.png\" alt=\"問14イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/14u.png\" alt=\"問14ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/14e.png\" alt=\"問14エ\"\u003e"
                           ],
                    "an":  1,
                    "al":  "3層式主從架構系統是指將功能分擔至各層的系統架構，分別為：呈現層（用戶端PC），負責服務請求與顯示輸出結果；應用程式層，負責資料加工處理；資料庫層，負責存取資料庫並將結果回傳至應用程式層。除了正確選項「ア」之外，其餘選項皆缺少構成資料庫層的 DB 伺服器，因此不能稱為 3 層式主從架構系統。"
@@ -4175,7 +4175,7 @@
         "ja":  {
                    "ti":  "平成28年春期　問14",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "図のように，1台のサーバ，3台のクライアント及び2台のプリンターがLANで接続されている。このシステムはクライアントからの指示に基づいて，サーバにあるデータをプリンターに出力する。各装置の稼働率が表のとおりであるとき，このシステムの稼働率を表す計算式はどれか。ここで，クライアントは3台のうち1台でも稼働していればよく，プリンターは2台のうちどちらかが稼働していればよい。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/14.png\" alt=\"\"\u003e",
+                   "q":  "図のように，1台のサーバ，3台のクライアント及び2台のプリンターがLANで接続されている。このシステムはクライアントからの指示に基づいて，サーバにあるデータをプリンターに出力する。各装置の稼働率が表のとおりであるとき，このシステムの稼働率を表す計算式はどれか。ここで，クライアントは3台のうち1台でも稼働していればよく，プリンターは2台のうちどちらかが稼働していればよい。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/14.png\" alt=\"\"\u003e",
                    "op":  [
                               "ab\u003csup\u003e3\u003c/sup\u003ec\u003csup\u003e2\u003c/sup\u003e",
                               "a(1－b\u003csup\u003e3\u003c/sup\u003e)(1－c\u003csup\u003e2\u003c/sup\u003e)",
@@ -4183,12 +4183,12 @@
                               "a(1－(1－b)\u003csup\u003e3\u003c/sup\u003e)(1－(1－c)\u003csup\u003e2\u003c/sup\u003e)"
                           ],
                    "an":  4,
-                   "al":  "複数機器で構成されているシステムの全体を計算するには、直列接続の稼働率および並列接続の稼働率を求める公式を使います。直列接続の稼働率稼働率がR1、R2である2つの機器があり、両方が稼働していなければシステムが停止してしまう場合の稼働率 R1×R2並列接続の稼働率稼働率がR1、R2である2つの機器があり、少なくとも一つが稼働していればシステムの稼働が継続する場合の稼働率 1－(1－R1)(1－R2)設問のシステム構成を整理すると、最低限サーバ・クライアント・プリンターの各1台が稼働していれば、システムとしての稼働を続けられることがわかります。この様子を直列・並列が直感的にわかるように単純化して図解にすると次のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/14a.png\" alt=\"システムの構成図\"\u003e"
+                   "al":  "複数機器で構成されているシステムの全体を計算するには、直列接続の稼働率および並列接続の稼働率を求める公式を使います。直列接続の稼働率稼働率がR1、R2である2つの機器があり、両方が稼働していなければシステムが停止してしまう場合の稼働率 R1×R2並列接続の稼働率稼働率がR1、R2である2つの機器があり、少なくとも一つが稼働していればシステムの稼働が継続する場合の稼働率 1－(1－R1)(1－R2)設問のシステム構成を整理すると、最低限サーバ・クライアント・プリンターの各1台が稼働していれば、システムとしての稼働を続けられることがわかります。この様子を直列・並列が直感的にわかるように単純化して図解にすると次のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/14a.png\" alt=\"システムの構成図\"\u003e"
                },
         "zh":  {
                    "ti":  "平成28年春季 問14",
                    "ca":  "技術系 » 系統構成要素 » 系統評估指標",
-                   "q":  "如圖所示，1台伺服器、3台客戶端及2台印表機透過區域網路（LAN）連接。此系統根據客戶端的指示，將伺服器內的資料輸出至印表機。當各設備的稼動率如表所示時，下列何者為表示該系統稼動率的計算公式？其中，客戶端在3台中只要有1台稼動即可，印表機在2台中只要其中1台稼動即可。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/14.png\" alt=\"\"\u003e",
+                   "q":  "如圖所示，1台伺服器、3台客戶端及2台印表機透過區域網路（LAN）連接。此系統根據客戶端的指示，將伺服器內的資料輸出至印表機。當各設備的稼動率如表所示時，下列何者為表示該系統稼動率的計算公式？其中，客戶端在3台中只要有1台稼動即可，印表機在2台中只要其中1台稼動即可。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/14.png\" alt=\"\"\u003e",
                    "op":  [
                               "ab\u003csup\u003e3\u003c/sup\u003ec\u003csup\u003e2\u003c/sup\u003e",
                               "a(1－b\u003csup\u003e3\u003c/sup\u003e)(1－c\u003csup\u003e2\u003c/sup\u003e)",
@@ -4196,14 +4196,14 @@
                               "a(1－(1－b)\u003csup\u003e3\u003c/sup\u003e)(1－(1－c)\u003csup\u003e2\u003c/sup\u003e)"
                           ],
                    "an":  4,
-                   "al":  "若要計算由多個設備所構成的系統整體稼動率，需使用串聯連接與並聯連接的稼動率計算公式。\u003cbr\u003e串聯連接的稼動率：若有稼動率為R1、R2的兩個設備，且兩者皆必須運作系統才不會停止，則稼動率為 R1×R2。\u003cbr\u003e並聯連接的稼動率：若有稼動率為R1、R2的兩個設備，且只要其中至少一個運作系統就能持續運作，則稼動率為 1－(1－R1)(1－R2)。\u003cbr\u003e整理題目中的系統結構可知，只要伺服器、客戶端、印表機各有至少1台在運作，系統就能持續運作。將此情況簡化為直觀的串聯與並聯結構圖如下所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/14a.png\" alt=\"系統結構圖\"\u003e"
+                   "al":  "若要計算由多個設備所構成的系統整體稼動率，需使用串聯連接與並聯連接的稼動率計算公式。\u003cbr\u003e串聯連接的稼動率：若有稼動率為R1、R2的兩個設備，且兩者皆必須運作系統才不會停止，則稼動率為 R1×R2。\u003cbr\u003e並聯連接的稼動率：若有稼動率為R1、R2的兩個設備，且只要其中至少一個運作系統就能持續運作，則稼動率為 1－(1－R1)(1－R2)。\u003cbr\u003e整理題目中的系統結構可知，只要伺服器、客戶端、印表機各有至少1台在運作，系統就能持續運作。將此情況簡化為直觀的串聯與並聯結構圖如下所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/14a.png\" alt=\"系統結構圖\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成21年秋期　問16",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "3台のコンピュータA～Cが図のように接続されている場合，システム全体の稼働率は幾らか。ここで，A～Cの稼働率は，すべて0.8とする。また，コンピュータA，Bによって構成されている並列接続部分については，A，Bのいずれか1台でも稼働していれば，当該部分は稼働しているものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/16.png\" alt=\"\"\u003e",
+                   "q":  "3台のコンピュータA～Cが図のように接続されている場合，システム全体の稼働率は幾らか。ここで，A～Cの稼働率は，すべて0.8とする。また，コンピュータA，Bによって構成されている並列接続部分については，A，Bのいずれか1台でも稼働していれば，当該部分は稼働しているものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/16.png\" alt=\"\"\u003e",
                    "op":  [
                               "0.512",
                               "0.768",
@@ -4216,7 +4216,7 @@
         "zh":  {
                    "ti":  "平成21年秋季 問16",
                    "ca":  "技術系 » 系統構成要素 » 系統評估指標",
-                   "q":  "若有3台電腦 A～C 如下圖所示連接，則整個系統的稼動率為何？在此，A～C 的稼動率皆為 0.8。此外，關於由電腦 A、B 所構成的並聯連接部分，只要 A、B 當中任 1 台稼動，則該部分即視為稼動狀態。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/16.png\" alt=\"\"\u003e",
+                   "q":  "若有3台電腦 A～C 如下圖所示連接，則整個系統的稼動率為何？在此，A～C 的稼動率皆為 0.8。此外，關於由電腦 A、B 所構成的並聯連接部分，只要 A、B 當中任 1 台稼動，則該部分即視為稼動狀態。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/16.png\" alt=\"\"\u003e",
                    "op":  [
                               "0.512",
                               "0.768",
@@ -4231,7 +4231,7 @@
         "ja":  {
                    "ti":  "平成20年春期　問32",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "図のように，1台のサーバ，3台のクライアント及び2台のプリンターがLANで接続されている。このシステムはクライアントからの指示に基づいて，サーバにあるデータをプリンターに出力する。各装置の稼働率が表のとおりであるならば，このシステムの稼働率を表す計算式はどれか。ここで，クライアントは3台のうち1台でも稼働していれば正常とみなし，プリンターは2台のうちどちらかが稼働していれば正常とみなす。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/32.png\" alt=\"問32画像\"\u003e",
+                   "q":  "図のように，1台のサーバ，3台のクライアント及び2台のプリンターがLANで接続されている。このシステムはクライアントからの指示に基づいて，サーバにあるデータをプリンターに出力する。各装置の稼働率が表のとおりであるならば，このシステムの稼働率を表す計算式はどれか。ここで，クライアントは3台のうち1台でも稼働していれば正常とみなし，プリンターは2台のうちどちらかが稼働していれば正常とみなす。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/32.png\" alt=\"問32画像\"\u003e",
                    "op":  [
                               "ab\u003csup\u003e3\u003c/sup\u003ec\u003csup\u003e2\u003c/sup\u003e",
                               "a(1－b\u003csup\u003e3\u003c/sup\u003e)(1－c\u003csup\u003e2\u003c/sup\u003e)",
@@ -4239,12 +4239,12 @@
                               "a(1－(1－b)\u003csup\u003e3\u003c/sup\u003e)(1－(1－c)\u003csup\u003e2\u003c/sup\u003e)"
                           ],
                    "an":  4,
-                   "al":  "複数機器で構成されているシステムの全体を計算するには、直列接続の稼働率および並列接続の稼働率を求める公式を使います。直列接続の稼働率稼働率がR1、R2である2つの機器があり、両方が稼働していなければシステムが停止してしまう場合の稼働率 R1×R2並列接続の稼働率稼働率がR1、R2である2つの機器があり、少なくとも一つが稼働していればシステムの稼働が継続する場合の稼働率 1－(1－R1)(1－R2)設問のシステム構成を整理すると、最低限サーバ・クライアント・プリンターの各1台が稼働していれば、システムとしての稼働を続けられることがわかります。この様子を直列・並列が直感的にわかるように単純化して図解にすると次のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/32a.png\" alt=\"システムの構成図\"\u003e"
+                   "al":  "複数機器で構成されているシステムの全体を計算するには、直列接続の稼働率および並列接続の稼働率を求める公式を使います。直列接続の稼働率稼働率がR1、R2である2つの機器があり、両方が稼働していなければシステムが停止してしまう場合の稼働率 R1×R2並列接続の稼働率稼働率がR1、R2である2つの機器があり、少なくとも一つが稼働していればシステムの稼働が継続する場合の稼働率 1－(1－R1)(1－R2)設問のシステム構成を整理すると、最低限サーバ・クライアント・プリンターの各1台が稼働していれば、システムとしての稼働を続けられることがわかります。この様子を直列・並列が直感的にわかるように単純化して図解にすると次のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/32a.png\" alt=\"システムの構成図\"\u003e"
                },
         "zh":  {
                    "ti":  "平成20年春季 問32",
                    "ca":  "技術系 » 系統組成要素 » 系統的評價指標",
-                   "q":  "如圖所示，1台伺服器、3台客戶端與2台印表機透過LAN連接。該系統根據來自客戶端的指令，將伺服器中的資料輸出至印表機。若各裝置的稼動率如下表所示，則表示此系統稼動率的計算公式為何？此外，針對客戶端，若3台中只要有1台運作即視為正常；針對印表機，若2台中只要有1台運作即視為正常。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/32.png\" alt=\"問32圖片\"\u003e",
+                   "q":  "如圖所示，1台伺服器、3台客戶端與2台印表機透過LAN連接。該系統根據來自客戶端的指令，將伺服器中的資料輸出至印表機。若各裝置的稼動率如下表所示，則表示此系統稼動率的計算公式為何？此外，針對客戶端，若3台中只要有1台運作即視為正常；針對印表機，若2台中只要有1台運作即視為正常。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/32.png\" alt=\"問32圖片\"\u003e",
                    "op":  [
                               "ab\u003csup\u003e3\u003c/sup\u003ec\u003csup\u003e2\u003c/sup\u003e",
                               "a(1－b\u003csup\u003e3\u003c/sup\u003e)(1－c\u003csup\u003e2\u003c/sup\u003e)",
@@ -4252,7 +4252,7 @@
                               "a(1－(1－b)\u003csup\u003e3\u003c/sup\u003e)(1－(1－c)\u003csup\u003e2\u003c/sup\u003e)"
                           ],
                    "an":  4,
-                   "al":  "若要計算由多個設備構成的系統整體稼動率，需使用串聯連接的稼動率及並聯連接的稼動率公式。\n\n串聯連接的稼動率：\n若有稼動率分別為 R1、R2 的兩個設備，且必須兩者皆運作系統才不會停止時，其稼動率為 R1×R2。\n\n並聯連接的稼動率：\n若有稼動率分別為 R1、R2 的兩個設備，且只要其中至少有一個運作，系統即可持續運作時，其稼動率為 1－(1－R1)(1－R2)。\n\n整理本題的系統架構，可知只要伺服器、客戶端、印表機各至少有1台運作，系統即可持續運作。若將其簡化為直觀顯示串聯與並聯關係的示意圖，如下所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/32a.png\" alt=\"系統架構圖\"\u003e"
+                   "al":  "若要計算由多個設備構成的系統整體稼動率，需使用串聯連接的稼動率及並聯連接的稼動率公式。\n\n串聯連接的稼動率：\n若有稼動率分別為 R1、R2 的兩個設備，且必須兩者皆運作系統才不會停止時，其稼動率為 R1×R2。\n\n並聯連接的稼動率：\n若有稼動率分別為 R1、R2 的兩個設備，且只要其中至少有一個運作，系統即可持續運作時，其稼動率為 1－(1－R1)(1－R2)。\n\n整理本題的系統架構，可知只要伺服器、客戶端、印表機各至少有1台運作，系統即可持續運作。若將其簡化為直觀顯示串聯與並聯關係的示意圖，如下所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/32a.png\" alt=\"系統架構圖\"\u003e"
                }
     },
     {
@@ -4287,7 +4287,7 @@
         "ja":  {
                    "ti":  "令和2年度　問16",
                    "ca":  "テクノロジ系 » システム構成要素 » システムの評価指標",
-                   "q":  "図に示すシステム構成全体の稼働率を表す式はどれか。ここで，システムが正常に稼働するためには，磁気ディスクは2台とも正常でなければならず，それぞれのサイトで少なくとも1台の端末は正常でなければならない。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/16.png\" alt=\"16.png\"\u003e",
+                   "q":  "図に示すシステム構成全体の稼働率を表す式はどれか。ここで，システムが正常に稼働するためには，磁気ディスクは2台とも正常でなければならず，それぞれのサイトで少なくとも1台の端末は正常でなければならない。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/16.png\" alt=\"16.png\"\u003e",
                    "op":  [
                               "D\u003csup\u003e2\u003c/sup\u003eC(1－T\u003csup\u003e2\u003c/sup\u003e)\u003csup\u003e2\u003c/sup\u003e",
                               "D\u003csup\u003e2\u003c/sup\u003eC(1－(1－T)\u003csup\u003e2\u003c/sup\u003e)\u003csup\u003e2\u003c/sup\u003e",
@@ -4300,7 +4300,7 @@
         "zh":  {
                    "ti":  "令和2年度 問16",
                    "ca":  "技術系 » 系統構成要素 » 系統評估指標",
-                   "q":  "圖中所示系統整體稼動率的算式為何？在此，系統要正常運作，前提是兩台磁碟機皆必須正常，且每個站點（site）中至少有一台終端設備必須正常運作。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/16.png\" alt=\"16.png\"\u003e",
+                   "q":  "圖中所示系統整體稼動率的算式為何？在此，系統要正常運作，前提是兩台磁碟機皆必須正常，且每個站點（site）中至少有一台終端設備必須正常運作。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/16.png\" alt=\"16.png\"\u003e",
                    "op":  [
                               "D\u003csup\u003e2\u003c/sup\u003eC(1－T\u003csup\u003e2\u003c/sup\u003e)\u003csup\u003e2\u003c/sup\u003e",
                               "D\u003csup\u003e2\u003c/sup\u003eC(1－(1－T)\u003csup\u003e2\u003c/sup\u003e)\u003csup\u003e2\u003c/sup\u003e",

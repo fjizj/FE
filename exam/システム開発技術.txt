@@ -67,7 +67,7 @@
                               "56"
                           ],
                    "an":  2,
-                   "al":  "埋込みエラーと真のエラーは、同じ割合で検出できると考えます。埋込みエラー48個のうち36個が検出されているので、真のエラーの総数との関係は下図のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/48.png\" alt=\"\"\u003e"
+                   "al":  "埋込みエラーと真のエラーは、同じ割合で検出できると考えます。埋込みエラー48個のうち36個が検出されているので、真のエラーの総数との関係は下図のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/48.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "令和4年度 問48",
@@ -80,7 +80,7 @@
                               "56"
                           ],
                    "an":  2,
-                   "al":  "假設植入錯誤與真實錯誤能以相同的比例被檢測出來。由於在 48 個植入錯誤中檢測出了 36 個，因此與真實錯誤總數的關係如下圖所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/48.png\" alt=\"\"\u003e"
+                   "al":  "假設植入錯誤與真實錯誤能以相同的比例被檢測出來。由於在 48 個植入錯誤中檢測出了 36 個，因此與真實錯誤總數的關係如下圖所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/48.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -95,7 +95,7 @@
                               "データの流れを視覚的に分かりやすく表現する図である。"
                           ],
                    "an":  3,
-                   "al":  "E-R図(Entity-Relationship Diagram)は、データベース化の対象となる実体（エンティティ）と実体の持つ属性（アトリビュート)、実体間の関連（リレーションシップ）を表現する図です。データをモデル化する方法で、関係データベースの設計に利用されます。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/46.png\" alt=\"\"\u003e"
+                   "al":  "E-R図(Entity-Relationship Diagram)は、データベース化の対象となる実体（エンティティ）と実体の持つ属性（アトリビュート)、実体間の関連（リレーションシップ）を表現する図です。データをモデル化する方法で、関係データベースの設計に利用されます。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/46.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成21年春季 問46",
@@ -108,14 +108,14 @@
                               "是用來將資料流向視覺化且易於理解地呈現的圖表。"
                           ],
                    "an":  3,
-                   "al":  "E-R 圖 (Entity-Relationship Diagram) 是一種用來表現資料庫目標實體 (Entity)、實體所擁有的屬性 (Attribute)，以及實體間相互關係 (Relationship) 的圖表。這是一種資料建模的方法，常被用於關聯式資料庫的設計中。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/46.png\" alt=\"\"\u003e"
+                   "al":  "E-R 圖 (Entity-Relationship Diagram) 是一種用來表現資料庫目標實體 (Entity)、實體所擁有的屬性 (Attribute)，以及實體間相互關係 (Relationship) 的圖表。這是一種資料建模的方法，常被用於關聯式資料庫的設計中。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/46.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成18年秋期　問39",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア方式設計・詳細設計",
-                   "q":  "図は構造化分析法で用いられるDFDの例である。図中の“○”が表しているものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/39.png\" alt=\"問39画像\"\u003e",
+                   "q":  "図は構造化分析法で用いられるDFDの例である。図中の“○”が表しているものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/39.png\" alt=\"問39画像\"\u003e",
                    "op":  [
                               "アクティビティ",
                               "データストア",
@@ -123,12 +123,12 @@
                               "プロセス"
                           ],
                    "an":  4,
-                   "al":  "DFD(Data Flow Diagram)は、構造化分析手法の1つでデータの流れに着目して、その対象となる業務のデータの流れと処理の関係をわかりやすく図式化する手法です。各記号の意味は次の表のとおりです。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/39a.png\" alt=\"DFDの記号と意味\"\u003e"
+                   "al":  "DFD(Data Flow Diagram)は、構造化分析手法の1つでデータの流れに着目して、その対象となる業務のデータの流れと処理の関係をわかりやすく図式化する手法です。各記号の意味は次の表のとおりです。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/39a.png\" alt=\"DFDの記号と意味\"\u003e"
                },
         "zh":  {
                    "ti":  "平成18年秋期 問39",
                    "ca":  "技術系 » 系統開發技術 » 軟體架構設計・詳細設計",
-                   "q":  "圖為結構化分析方法中使用的 DFD 範例。圖中的「○」代表的是下列何者？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/39.png\" alt=\"問39圖片\"\u003e",
+                   "q":  "圖為結構化分析方法中使用的 DFD 範例。圖中的「○」代表的是下列何者？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/39.png\" alt=\"問39圖片\"\u003e",
                    "op":  [
                               "活動 (Activity)",
                               "資料儲存 (Data Store)",
@@ -136,7 +136,7 @@
                               "處理程序 (Process)"
                           ],
                    "an":  4,
-                   "al":  "DFD (Data Flow Diagram) 是一種結構化分析方法，著重於資料的流向，將目標業務中的資料流動與處理之間的關係進行圖解化。各符號的意義如下表所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/39a.png\" alt=\"DFD的符號與意義\"\u003e"
+                   "al":  "DFD (Data Flow Diagram) 是一種結構化分析方法，著重於資料的流向，將目標業務中的資料流動與處理之間的關係進行圖解化。各符號的意義如下表所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/39a.png\" alt=\"DFD的符號與意義\"\u003e"
                }
     },
     {
@@ -179,7 +179,7 @@
                               "システムのコンポーネント間の物理的な関係が記述できる。"
                           ],
                    "an":  1,
-                   "al":  "アクティビティ図は、ビジネスプロセスの流れやプログラムの制御フローのような一連の手続きを可視化できる図です。フローチャートのUML版と言えるでしょう。フローチャートと似た表記法で処理の流れを記述できるほか、処理の分岐やマージ、並行処理のフォークやジョイン、タイマー制御や例外処理なども表現できるようになっています。\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/34.png\" alt=\"34.png\"\u003e"
+                   "al":  "アクティビティ図は、ビジネスプロセスの流れやプログラムの制御フローのような一連の手続きを可視化できる図です。フローチャートのUML版と言えるでしょう。フローチャートと似た表記法で処理の流れを記述できるほか、処理の分岐やマージ、並行処理のフォークやジョイン、タイマー制御や例外処理なども表現できるようになっています。\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/34.png\" alt=\"34.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和5年度 問34",
@@ -192,7 +192,7 @@
                               "可以描述系統組件之間的物理關係。"
                           ],
                    "an":  1,
-                   "al":  "活動圖是一種可以將業務流程或程式控制流等一系列程序視覺化的圖表。可以說它是流程圖的 UML 版本。除了能以與流程圖相似的標記法來描述處理流程外，還能表現處理的分支與合併、並行處理的分岔與匯合、計時器控制以及例外處理等。\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/34.png\" alt=\"34.png\"\u003e"
+                   "al":  "活動圖是一種可以將業務流程或程式控制流等一系列程序視覺化的圖表。可以說它是流程圖的 UML 版本。除了能以與流程圖相似的標記法來描述處理流程外，還能表現處理的分支與合併、並行處理的分岔與匯合、計時器控制以及例外處理等。\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/34.png\" alt=\"34.png\"\u003e"
                }
     },
     {
@@ -207,7 +207,7 @@
                               "処理間のデータの流れをデータフロー，処理，データストア及び外部の四つの記号で記述する。"
                           ],
                    "an":  2,
-                   "al":  "状態遷移図は、時間の経過や事象の発生に応じて状態が変わるようなシステムの振る舞いを記述するときに適した図式化手法です。プロセス制御などの事象駆動(イベントドリブン)による処理の仕様を表現するときに適しています。\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/36.png\" alt=\"36.png\"\u003e"
+                   "al":  "状態遷移図は、時間の経過や事象の発生に応じて状態が変わるようなシステムの振る舞いを記述するときに適した図式化手法です。プロセス制御などの事象駆動(イベントドリブン)による処理の仕様を表現するときに適しています。\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/36.png\" alt=\"36.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和6年度 問36",
@@ -220,7 +220,7 @@
                               "使用資料流、處理、資料儲存及外部實體這四種符號來描述處理之間的資料流向。"
                           ],
                    "an":  2,
-                   "al":  "狀態遷移圖是一種適合描述隨時間經過或事件發生而改變狀態的系統行為之圖解方法。適用於表現程序控制等事件驅動（Event-driven）處理的規格。\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/36.png\" alt=\"36.png\"\u003e"
+                   "al":  "狀態遷移圖是一種適合描述隨時間經過或事件發生而改變狀態的系統行為之圖解方法。適用於表現程序控制等事件驅動（Event-driven）處理的規格。\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/36.png\" alt=\"36.png\"\u003e"
                }
     },
     {
@@ -263,7 +263,7 @@
                               "22"
                           ],
                    "an":  3,
-                   "al":  "埋め込みバグ数と検出されたバグ数の関係を図にすると次のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/43.png\" alt=\"問47画像\"\u003e"
+                   "al":  "埋め込みバグ数と検出されたバグ数の関係を図にすると次のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/43.png\" alt=\"問47画像\"\u003e"
                },
         "zh":  {
                    "ti":  "平成20年秋季 問43",
@@ -276,7 +276,7 @@
                               "22"
                           ],
                    "an":  3,
-                   "al":  "植入錯誤數與檢測出的錯誤數關係圖如下所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/43.png\" alt=\"問47圖片\"\u003e"
+                   "al":  "植入錯誤數與檢測出的錯誤數關係圖如下所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/43.png\" alt=\"問47圖片\"\u003e"
                }
     },
     {
@@ -319,7 +319,7 @@
                               "処理間のデータの流れをデータフロー，処理，データストア及び外部の四つの記号で記述する。"
                           ],
                    "an":  2,
-                   "al":  "状態遷移図は、時間の経過や事象の発生に応じて状態が変わるようなシステムの振る舞いを記述するときに適した図式化手法です。プロセス制御などの事象駆動(イベントドリブン)による処理の仕様を表現するときに適しています。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/48.png\" alt=\"\"\u003e"
+                   "al":  "状態遷移図は、時間の経過や事象の発生に応じて状態が変わるようなシステムの振る舞いを記述するときに適した図式化手法です。プロセス制御などの事象駆動(イベントドリブン)による処理の仕様を表現するときに適しています。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/48.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成26年春季 問48",
@@ -332,7 +332,7 @@
                               "使用資料流、處理、資料儲存及外部實體這四種符號，描述處理之間的資料流向。"
                           ],
                    "an":  2,
-                   "al":  "狀態遷移圖是一種適合用於描述系統隨時間經過或事件發生而改變狀態時的行為之圖解手法。適用於表達程序控制等事件驅動（Event-driven）處理的規格。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/48.png\" alt=\"\"\u003e"
+                   "al":  "狀態遷移圖是一種適合用於描述系統隨時間經過或事件發生而改變狀態時的行為之圖解手法。適用於表達程序控制等事件驅動（Event-driven）處理的規格。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/48.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -423,28 +423,28 @@
         "ja":  {
                    "ti":  "平成20年秋期　問44",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア構築",
-                   "q":  "プログラム中の図の部分を判定条件網羅(分岐網羅)でテストするときのテストケースとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/44.png\" alt=\"\"\u003e",
+                   "q":  "プログラム中の図の部分を判定条件網羅(分岐網羅)でテストするときのテストケースとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/44.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/44a.png\" alt=\"問44ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/44i.png\" alt=\"問44イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/44u.png\" alt=\"問44ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/44e.png\" alt=\"問44エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/44a.png\" alt=\"問44ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/44i.png\" alt=\"問44イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/44u.png\" alt=\"問44ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/44e.png\" alt=\"問44エ\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "ホワイトボックステストにおける網羅性のレベルである「分岐網羅」は、プログラム中の判定条件で結果が真となる場合、偽となる場合を少なくとも1回は実行するようにテストケースを設計する手法です。問題の流れ図では、分岐の判定条件が「A OR B」となっているため、この判定条件で真偽の両方に分岐するテストケースとなっているかを検討します。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/44a.png\" alt=\"問44ア\"\u003eテストケースが1つだけなので不適切です。 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/44i.png\" alt=\"問44イ\"\u003e2つのテストケースは「偽 OR 真＝真」「真 OR 偽＝真」となり、両方とも真である場合の処理にしか進まないので不適切です。 [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/44u.png\" alt=\"問44ウ\"\u003e正しい。「偽 OR 偽＝偽」「真 OR 真＝真」となり、それぞれ真の場合の処理、偽の場合の処理に進むので分岐網羅のテストケースとして適切です。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/44e.png\" alt=\"問44エ\"\u003e3つのテストケースは「偽 OR 真＝真」「真 OR 偽＝真」「真 OR 真＝真」となり、すべてが真である場合の処理にしか進まないので不適切です。"
+                   "al":  "ホワイトボックステストにおける網羅性のレベルである「分岐網羅」は、プログラム中の判定条件で結果が真となる場合、偽となる場合を少なくとも1回は実行するようにテストケースを設計する手法です。問題の流れ図では、分岐の判定条件が「A OR B」となっているため、この判定条件で真偽の両方に分岐するテストケースとなっているかを検討します。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/44a.png\" alt=\"問44ア\"\u003eテストケースが1つだけなので不適切です。 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/44i.png\" alt=\"問44イ\"\u003e2つのテストケースは「偽 OR 真＝真」「真 OR 偽＝真」となり、両方とも真である場合の処理にしか進まないので不適切です。 [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/44u.png\" alt=\"問44ウ\"\u003e正しい。「偽 OR 偽＝偽」「真 OR 真＝真」となり、それぞれ真の場合の処理、偽の場合の処理に進むので分岐網羅のテストケースとして適切です。 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/44e.png\" alt=\"問44エ\"\u003e3つのテストケースは「偽 OR 真＝真」「真 OR 偽＝真」「真 OR 真＝真」となり、すべてが真である場合の処理にしか進まないので不適切です。"
                },
         "zh":  {
                    "ti":  "平成20年秋季 問44",
                    "ca":  "技術系 » 系統開發技術 » 軟體建構",
-                   "q":  "當使用判定條件覆蓋（分支覆蓋）來測試程式中圖示部分時，下列哪一個選項是適當的測試案例？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/44.png\" alt=\"\"\u003e",
+                   "q":  "當使用判定條件覆蓋（分支覆蓋）來測試程式中圖示部分時，下列哪一個選項是適當的測試案例？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/44.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/44a.png\" alt=\"問44ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/44i.png\" alt=\"問44イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/44u.png\" alt=\"問44ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/44e.png\" alt=\"問44エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/44a.png\" alt=\"問44ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/44i.png\" alt=\"問44イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/44u.png\" alt=\"問44ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/44e.png\" alt=\"問44エ\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "作為白箱測試中覆蓋率層級之一的「分支覆蓋」，其設計測試案例的方法是確保程式中的判定條件，在結果為真（True）與偽（False）時各至少執行一次。在問題的流程圖中，分支的判定條件為「A OR B」，因此需確認測試案例是否能涵蓋該判定條件下真、偽兩種情況。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/44a.png\" alt=\"問44ア\"\u003e僅有一個測試案例，因此不適當。 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/44i.png\" alt=\"問44イ\"\u003e兩個測試案例分別為「偽 OR 真＝真」、「真 OR 偽＝真」，兩者皆進入真（True）的情況，因此不適當。 [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/44u.png\" alt=\"問44ウ\"\u003e正確。「偽 OR 偽＝偽」、「真 OR 真＝真」，分別進入真與偽的處理流程，適合作為分支覆蓋的測試案例。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/44e.png\" alt=\"問44エ\"\u003e三個測試案例分別為「偽 OR 真＝真」、「真 OR 偽＝真」、「真 OR 真＝真」，皆進入真（True）的情況，因此不適當。"
+                   "al":  "作為白箱測試中覆蓋率層級之一的「分支覆蓋」，其設計測試案例的方法是確保程式中的判定條件，在結果為真（True）與偽（False）時各至少執行一次。在問題的流程圖中，分支的判定條件為「A OR B」，因此需確認測試案例是否能涵蓋該判定條件下真、偽兩種情況。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/44a.png\" alt=\"問44ア\"\u003e僅有一個測試案例，因此不適當。 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/44i.png\" alt=\"問44イ\"\u003e兩個測試案例分別為「偽 OR 真＝真」、「真 OR 偽＝真」，兩者皆進入真（True）的情況，因此不適當。 [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/44u.png\" alt=\"問44ウ\"\u003e正確。「偽 OR 偽＝偽」、「真 OR 真＝真」，分別進入真與偽的處理流程，適合作為分支覆蓋的測試案例。 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/44e.png\" alt=\"問44エ\"\u003e三個測試案例分別為「偽 OR 真＝真」、「真 OR 偽＝真」、「真 OR 真＝真」，皆進入真（True）的情況，因此不適當。"
                }
     },
     {
@@ -599,7 +599,7 @@
                               "ドライバ"
                           ],
                    "an":  3,
-                   "al":  "ソフトウェア結合テストにおいて、未完成のモジュールの代わりに接合されるテスト用モジュールにスタブとドライバがあります。スタブトップダウンテストにおいて未完成の下位モジュールの代わりに結合されるテスト用モジュール。上位モジュールからの呼び出しに対して適切な値を返す役割をもつドライバボトムアップテストにおいて、未完成の上位モジュールの代わりとなるテスト用モジュール。上位モジュールの代わりに下位モジュール内の命令を呼び出す役割をもつ\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/47.png\" alt=\"\"\u003e"
+                   "al":  "ソフトウェア結合テストにおいて、未完成のモジュールの代わりに接合されるテスト用モジュールにスタブとドライバがあります。スタブトップダウンテストにおいて未完成の下位モジュールの代わりに結合されるテスト用モジュール。上位モジュールからの呼び出しに対して適切な値を返す役割をもつドライバボトムアップテストにおいて、未完成の上位モジュールの代わりとなるテスト用モジュール。上位モジュールの代わりに下位モジュール内の命令を呼び出す役割をもつ\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/47.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成24年春季 問47",
@@ -612,14 +612,14 @@
                               "驅動程式 (Driver)"
                           ],
                    "an":  3,
-                   "al":  "在軟體整合測試中，用來替代尚未完成模組的測試用模組包含虛設常式 (Stub) 與驅動程式 (Driver)。虛設常式 (Stub) 是在由上而下 (Top-down) 測試中，為了取代尚未完成的下位模組而連結的測試用模組。其作用為回應來自上位模組的呼叫並回傳適當的值。驅動程式 (Driver) 則是在由下而上 (Bottom-up) 測試中，為了取代尚未完成的上位模組而使用的測試用模組。其作用為代替上位模組來呼叫下位模組內的指令。\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/47.png\" alt=\"\"\u003e"
+                   "al":  "在軟體整合測試中，用來替代尚未完成模組的測試用模組包含虛設常式 (Stub) 與驅動程式 (Driver)。虛設常式 (Stub) 是在由上而下 (Top-down) 測試中，為了取代尚未完成的下位模組而連結的測試用模組。其作用為回應來自上位模組的呼叫並回傳適當的值。驅動程式 (Driver) 則是在由下而上 (Bottom-up) 測試中，為了取代尚未完成的上位模組而使用的測試用模組。其作用為代替上位模組來呼叫下位模組內的指令。\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/47.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成22年春期　問45",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア要件定義",
-                   "q":  "図は構造化分析法で用いられるDFDの例である。図中の“○”が表しているものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/45.png\" alt=\"\"\u003e",
+                   "q":  "図は構造化分析法で用いられるDFDの例である。図中の“○”が表しているものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/45.png\" alt=\"\"\u003e",
                    "op":  [
                               "アクティビティ",
                               "データストア",
@@ -627,12 +627,12 @@
                               "プロセス"
                           ],
                    "an":  4,
-                   "al":  "DFD(Data Flow Diagram)は、構造化分析手法の一つでデータの流れに着目して、その対象となる業務のデータの流れと処理の関係をわかりやすく図式化する手法です。各記号の意味は次の表のとおりです。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/45a.png\" alt=\"DFDの記号と意味\"\u003e"
+                   "al":  "DFD(Data Flow Diagram)は、構造化分析手法の一つでデータの流れに着目して、その対象となる業務のデータの流れと処理の関係をわかりやすく図式化する手法です。各記号の意味は次の表のとおりです。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/45a.png\" alt=\"DFDの記号と意味\"\u003e"
                },
         "zh":  {
                    "ti":  "平成22年春期 問45",
                    "ca":  "技術系 » 系統開發技術 » 軟體需求定義",
-                   "q":  "圖示為結構化分析方法中所使用的 DFD（資料流程圖）範例。圖中的「○」代表什麼？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/45.png\" alt=\"\"\u003e",
+                   "q":  "圖示為結構化分析方法中所使用的 DFD（資料流程圖）範例。圖中的「○」代表什麼？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/45.png\" alt=\"\"\u003e",
                    "op":  [
                               "活動 (Activity)",
                               "資料儲存 (Data Store)",
@@ -640,7 +640,7 @@
                               "處理程序 (Process)"
                           ],
                    "an":  4,
-                   "al":  "DFD（Data Flow Diagram，資料流程圖）是結構化分析方法之一，著重於資料的流向，將目標業務中的資料流動與處理之間的關係以易於理解的方式圖表化。各符號的意義如下表所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/45a.png\" alt=\"DFD的符號與意義\"\u003e"
+                   "al":  "DFD（Data Flow Diagram，資料流程圖）是結構化分析方法之一，著重於資料的流向，將目標業務中的資料流動與處理之間的關係以易於理解的方式圖表化。各符號的意義如下表所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/45a.png\" alt=\"DFD的符號與意義\"\u003e"
                }
     },
     {
@@ -759,7 +759,7 @@
         "ja":  {
                    "ti":  "平成20年春期　問48",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア構築",
-                   "q":  "プログラムの流れ図で示される部分に関するテストデータを，判定条件網羅(分岐網羅)によって設定した。このテストデータを複数条件網羅による設定に変更したとき，加えるべきテストデータのうち，適切なものはどれか。ここで，( )で囲んだ部分は，一組のテストデータを表すものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/48.png\" alt=\"問48画像\"\u003e",
+                   "q":  "プログラムの流れ図で示される部分に関するテストデータを，判定条件網羅(分岐網羅)によって設定した。このテストデータを複数条件網羅による設定に変更したとき，加えるべきテストデータのうち，適切なものはどれか。ここで，( )で囲んだ部分は，一組のテストデータを表すものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/48.png\" alt=\"問48画像\"\u003e",
                    "op":  [
                               "(A＝3，B＝0)，(A＝7，B＝2)",
                               "(A＝3，B＝2)，(A＝8，B＝0)",
@@ -772,7 +772,7 @@
         "zh":  {
                    "ti":  "平成20年春季 問48",
                    "ca":  "技術系 » 系統開發技術 » 軟體建構",
-                   "q":  "針對程式流程圖所示部分所設定的測試資料，原先採用的是「判定條件覆蓋（分支覆蓋）」。若將此測試資料變更為「多重條件覆蓋」設定時，應追加的測試資料中，何者最為適當？在此，( )中所圍住的部分，表示一組測試資料。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/48.png\" alt=\"問48圖片\"\u003e",
+                   "q":  "針對程式流程圖所示部分所設定的測試資料，原先採用的是「判定條件覆蓋（分支覆蓋）」。若將此測試資料變更為「多重條件覆蓋」設定時，應追加的測試資料中，何者最為適當？在此，( )中所圍住的部分，表示一組測試資料。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/48.png\" alt=\"問48圖片\"\u003e",
                    "op":  [
                               "(A＝3，B＝0)，(A＝7，B＝2)",
                               "(A＝3，B＝2)，(A＝8，B＝0)",
@@ -907,7 +907,7 @@
                               "ドライバは，引数を渡してテスト対象モジュールを呼び出す。"
                           ],
                    "an":  4,
-                   "al":  "スタブは、モジュール結合テストの手法であるトップダウンテストにおいて必要となるテスト用のモジュールです。未完成の下位モジュールの代わりとして、テスト対象の上位モジュールからの呼び出しに対して、下位モジュールが返すべき適切な値を返却するなどの役割を担います。一方、ボトムアップテストで必要となるドライバは、未完成の上位モジュールに代わり、テスト対象の下位モジュールに適切な引数を与えて呼び出すなどの役割を担います。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/48.png\" alt=\"\"\u003e"
+                   "al":  "スタブは、モジュール結合テストの手法であるトップダウンテストにおいて必要となるテスト用のモジュールです。未完成の下位モジュールの代わりとして、テスト対象の上位モジュールからの呼び出しに対して、下位モジュールが返すべき適切な値を返却するなどの役割を担います。一方、ボトムアップテストで必要となるドライバは、未完成の上位モジュールに代わり、テスト対象の下位モジュールに適切な引数を与えて呼び出すなどの役割を担います。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/48.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "令和元年秋季　問48",
@@ -920,7 +920,7 @@
                               "驅動程式是透過傳遞引數來呼叫測試對象模組的模組。"
                           ],
                    "an":  4,
-                   "al":  "樁模組（Stub）是在模組整合測試手法——由上而下（Top-down）測試中所需要的測試用模組。它扮演未完成的下層模組之替代角色，針對來自測試對象上層模組的呼叫，執行諸如回傳下層模組應有之適當數值等任務。另一方面，由下而上（Bottom-up）測試所需要的驅動程式（Driver），則扮演未完成上層模組的替代角色，執行諸如給予測試對象下層模組適當的引數並進行呼叫等任務。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/48.png\" alt=\"\"\u003e"
+                   "al":  "樁模組（Stub）是在模組整合測試手法——由上而下（Top-down）測試中所需要的測試用模組。它扮演未完成的下層模組之替代角色，針對來自測試對象上層模組的呼叫，執行諸如回傳下層模組應有之適當數值等任務。另一方面，由下而上（Bottom-up）測試所需要的驅動程式（Driver），則扮演未完成上層模組的替代角色，執行諸如給予測試對象下層模組適當的引數並進行呼叫等任務。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/48.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1069,26 +1069,26 @@
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア要件定義",
                    "q":  "UMLのクラス図のうち，汎化の関係を示したものはどれか。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/45a.png\" alt=\"45a.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/45i.png\" alt=\"45i.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/45u.png\" alt=\"45u.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/45e.png\" alt=\"45e.png\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/45a.png\" alt=\"45a.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/45i.png\" alt=\"45i.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/45u.png\" alt=\"45u.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/45e.png\" alt=\"45e.png\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "汎化－特化関係は、「犬は動物である」などのように「下位クラスは、上位クラスである」という関係を表します。(動物が上位クラス、犬が下位クラス)汎化とは、下位クラスに共通する特性を抜き出した上位クラスを定義すること、または下位クラスとの関係をいいます。UMLでは、汎化の関係は下位クラスから上位クラスへと結んだ「白抜きの矢印」で表現します。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/45a.png\" alt=\"45a.png\"\u003e自動車と車検証が1対1で関連する多重度の関係を示しています。 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/45i.png\" alt=\"45i.png\"\u003e正しい。スポーツカーと自動車の汎化－特化関係を示しています。 [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/45u.png\" alt=\"45u.png\"\u003e黒いひし形の矢印が示すのは「分解－集約関係」(コンポジション関連)です。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/45e.png\" alt=\"45e.png\"\u003e点線の矢印で示されるのは「依存関係」です。"
+                   "al":  "汎化－特化関係は、「犬は動物である」などのように「下位クラスは、上位クラスである」という関係を表します。(動物が上位クラス、犬が下位クラス)汎化とは、下位クラスに共通する特性を抜き出した上位クラスを定義すること、または下位クラスとの関係をいいます。UMLでは、汎化の関係は下位クラスから上位クラスへと結んだ「白抜きの矢印」で表現します。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/45a.png\" alt=\"45a.png\"\u003e自動車と車検証が1対1で関連する多重度の関係を示しています。 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/45i.png\" alt=\"45i.png\"\u003e正しい。スポーツカーと自動車の汎化－特化関係を示しています。 [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/45u.png\" alt=\"45u.png\"\u003e黒いひし形の矢印が示すのは「分解－集約関係」(コンポジション関連)です。 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/45e.png\" alt=\"45e.png\"\u003e点線の矢印で示されるのは「依存関係」です。"
                },
         "zh":  {
                    "ti":  "令和2年度 問45",
                    "ca":  "技術系 » 系統開發技術 » 軟體需求定義",
                    "q":  "在UML類別圖中，下列何者表示「泛化」（Generalization）關係？",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/45a.png\" alt=\"45a.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/45i.png\" alt=\"45i.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/45u.png\" alt=\"45u.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/45e.png\" alt=\"45e.png\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/45a.png\" alt=\"45a.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/45i.png\" alt=\"45i.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/45u.png\" alt=\"45u.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/45e.png\" alt=\"45e.png\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "泛化－特化關係表現的是「狗是動物」等「下位類別是上位類別」的關係。（動物為上位類別，狗為下位類別）。泛化是指將下位類別中共通的特性提取出來定義成上位類別，或指與下位類別之間的關係。在UML中，泛化關係是以從下位類別指向上位類別的「空心箭頭」來表示。\n\n[1]\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/45a.png\" alt=\"45a.png\"\u003e 表示汽車與行車執照之間 1 對 1 的多重性關係。\n[2]\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/45i.png\" alt=\"45i.png\"\u003e 正確。表示跑車與汽車之間的泛化－特化關係。\n[3]\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/45u.png\" alt=\"45u.png\"\u003e 黑色菱形箭頭表示的是「分解－聚合關係」（組合關聯，Composition）。\n[4]\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/45e.png\" alt=\"45e.png\"\u003e 虛線箭頭表示的是「依賴關係」（Dependency）。"
+                   "al":  "泛化－特化關係表現的是「狗是動物」等「下位類別是上位類別」的關係。（動物為上位類別，狗為下位類別）。泛化是指將下位類別中共通的特性提取出來定義成上位類別，或指與下位類別之間的關係。在UML中，泛化關係是以從下位類別指向上位類別的「空心箭頭」來表示。\n\n[1]\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/45a.png\" alt=\"45a.png\"\u003e 表示汽車與行車執照之間 1 對 1 的多重性關係。\n[2]\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/45i.png\" alt=\"45i.png\"\u003e 正確。表示跑車與汽車之間的泛化－特化關係。\n[3]\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/45u.png\" alt=\"45u.png\"\u003e 黑色菱形箭頭表示的是「分解－聚合關係」（組合關聯，Composition）。\n[4]\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/45e.png\" alt=\"45e.png\"\u003e 虛線箭頭表示的是「依賴關係」（Dependency）。"
                }
     },
     {
@@ -1159,7 +1159,7 @@
                               "ドライバはテスト対象モジュールに引数を渡して呼び出す。"
                           ],
                    "an":  4,
-                   "al":  "スタブは、モジュール結合テストの手法であるトップダウンテストにおいて必要となるテスト用のモジュールです。未完成の下位モジュールの代わりとして、テスト対象の上位モジュールからの呼び出しに対して、下位モジュールが返すべき適切な値を返却するなどの役割を担います。一方、ボトムアップテストで必要となるドライバは、未完成の上位モジュールに代わり、テスト対象の下位モジュールに適切な引数を与えて呼び出すなどの役割を担います。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/52.png\" alt=\"\"\u003e"
+                   "al":  "スタブは、モジュール結合テストの手法であるトップダウンテストにおいて必要となるテスト用のモジュールです。未完成の下位モジュールの代わりとして、テスト対象の上位モジュールからの呼び出しに対して、下位モジュールが返すべき適切な値を返却するなどの役割を担います。一方、ボトムアップテストで必要となるドライバは、未完成の上位モジュールに代わり、テスト対象の下位モジュールに適切な引数を与えて呼び出すなどの役割を担います。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/52.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成16年秋季 問52",
@@ -1172,7 +1172,7 @@
                               "驅動程式（Driver）的功能是傳遞引數給受測模組並呼叫它。"
                           ],
                    "an":  4,
-                   "al":  "樁模組（Stub）是在模組整合測試方法中的「由上而下（Top-down）」測試所必要的測試用模組。它用來替代尚未完成的下層模組，承擔回應受測的上層模組之呼叫，並回傳下層模組應有的適當數值等功能。另一方面，在「由下而上（Bottom-up）」測試中所需的驅動程式（Driver），則是用來替代尚未完成的上層模組，承擔給予受測的下層模組適當的引數並進行呼叫等功能。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/52.png\" alt=\"\"\u003e"
+                   "al":  "樁模組（Stub）是在模組整合測試方法中的「由上而下（Top-down）」測試所必要的測試用模組。它用來替代尚未完成的下層模組，承擔回應受測的上層模組之呼叫，並回傳下層模組應有的適當數值等功能。另一方面，在「由下而上（Bottom-up）」測試中所需的驅動程式（Driver），則是用來替代尚未完成的上層模組，承擔給予受測的下層模組適當的引數並進行呼叫等功能。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/52.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1375,7 +1375,7 @@
         "ja":  {
                    "ti":  "平成28年春期　問49",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア構築",
-                   "q":  "流れ図で表される部分を命令網羅によってテストするとき，テストケースは少なくとも幾つ用意する必要があるか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/49.png\" alt=\"\"\u003e",
+                   "q":  "流れ図で表される部分を命令網羅によってテストするとき，テストケースは少なくとも幾つ用意する必要があるか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/49.png\" alt=\"\"\u003e",
                    "op":  [
                               "2",
                               "3",
@@ -1383,12 +1383,12 @@
                               "5"
                           ],
                    "an":  1,
-                   "al":  "ホワイトボックステストにおける網羅性のレベルである「命令網羅」とは、すべての命令を少なくとも1回は実行するようにテストケースを設計することです。網羅性のレベルには以下の5種類があります。命令網羅すべての命令を少なくとも1回は実行する。判定条件網羅判定条件の真偽を少なくとも１回は実行する。条件網羅判定条件が複数ある場合に、それぞれの条件が真・偽の場合を組み合わせたテストケースを設計する。判定条件・条件網羅判定条件網羅と条件網羅を組み合わせてテストケースを設計する。複数条件網羅判定条件のすべての可能な結果の組合せを網羅し、かつ、すべての命令を少なくとも1回は実行するようにテストケースを作成する。問題文の流れ図のテストを命令網羅で行う場合、以下の様に最低2個のテストケースがあれば全ての経路を検証することができます。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/49a.png\" alt=\"\"\u003e"
+                   "al":  "ホワイトボックステストにおける網羅性のレベルである「命令網羅」とは、すべての命令を少なくとも1回は実行するようにテストケースを設計することです。網羅性のレベルには以下の5種類があります。命令網羅すべての命令を少なくとも1回は実行する。判定条件網羅判定条件の真偽を少なくとも１回は実行する。条件網羅判定条件が複数ある場合に、それぞれの条件が真・偽の場合を組み合わせたテストケースを設計する。判定条件・条件網羅判定条件網羅と条件網羅を組み合わせてテストケースを設計する。複数条件網羅判定条件のすべての可能な結果の組合せを網羅し、かつ、すべての命令を少なくとも1回は実行するようにテストケースを作成する。問題文の流れ図のテストを命令網羅で行う場合、以下の様に最低2個のテストケースがあれば全ての経路を検証することができます。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/49a.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成28年春季 問49",
                    "ca":  "技術系 » 系統開發技術 » 軟體建構",
-                   "q":  "當使用「語句覆蓋」（命令網羅）對流程圖所示的部分進行測試時，至少需要準備幾個測試案例？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/49.png\" alt=\"\"\u003e",
+                   "q":  "當使用「語句覆蓋」（命令網羅）對流程圖所示的部分進行測試時，至少需要準備幾個測試案例？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/49.png\" alt=\"\"\u003e",
                    "op":  [
                               "2",
                               "3",
@@ -1396,7 +1396,7 @@
                               "5"
                           ],
                    "an":  1,
-                   "al":  "白盒測試中的覆蓋率等級「語句覆蓋」（命令網羅）是指設計測試案例，確保執行所有指令至少一次。覆蓋率等級共有以下5種：語句覆蓋：所有指令至少執行一次。判定條件覆蓋：判定條件的真與偽至少各執行一次。條件覆蓋：當有多個判定條件時，針對每個條件的真、偽組合進行測試案例設計。判定條件/條件覆蓋：結合判定條件覆蓋與條件覆蓋來設計測試案例。複數條件覆蓋：涵蓋判定條件所有可能的結果組合，並確保所有指令至少執行一次。若要使用語句覆蓋對問題中的流程圖進行測試，如下圖所示，最少只需2個測試案例即可驗證所有路徑。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/49a.png\" alt=\"\"\u003e"
+                   "al":  "白盒測試中的覆蓋率等級「語句覆蓋」（命令網羅）是指設計測試案例，確保執行所有指令至少一次。覆蓋率等級共有以下5種：語句覆蓋：所有指令至少執行一次。判定條件覆蓋：判定條件的真與偽至少各執行一次。條件覆蓋：當有多個判定條件時，針對每個條件的真、偽組合進行測試案例設計。判定條件/條件覆蓋：結合判定條件覆蓋與條件覆蓋來設計測試案例。複數條件覆蓋：涵蓋判定條件所有可能的結果組合，並確保所有指令至少執行一次。若要使用語句覆蓋對問題中的流程圖進行測試，如下圖所示，最少只需2個測試案例即可驗證所有路徑。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/49a.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1459,7 +1459,7 @@
         "ja":  {
                    "ti":  "平成16年春期　問53",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア構築",
-                   "q":  "バグ管理図において，図のようにすべての線が横ばいになっている状況が発生した。この状況から想定できることとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/53.png\" alt=\"問53画像\"\u003e",
+                   "q":  "バグ管理図において，図のようにすべての線が横ばいになっている状況が発生した。この状況から想定できることとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/53.png\" alt=\"問53画像\"\u003e",
                    "op":  [
                               "解決困難なバグに直面して，その後のテストが進捗していない。",
                               "バグが多く摘出され，テスト項目の消化実績が上がらなくなった。",
@@ -1472,7 +1472,7 @@
         "zh":  {
                    "ti":  "平成16年春季 問53",
                    "ca":  "技術系 » 系統開發技術 » 軟體建構",
-                   "q":  "在錯誤管理圖（Bug Tracking Chart）中，發生了如圖所示所有線條均呈現水平的狀況。關於此狀況可以推測出的內容，下列何者最適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/53.png\" alt=\"問53圖片\"\u003e",
+                   "q":  "在錯誤管理圖（Bug Tracking Chart）中，發生了如圖所示所有線條均呈現水平的狀況。關於此狀況可以推測出的內容，下列何者最適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/53.png\" alt=\"問53圖片\"\u003e",
                    "op":  [
                               "面臨難以解決的錯誤（Bug），導致後續的測試進度停滯。",
                               "檢測出大量錯誤，導致測試項目的消化績效無法提升。",
@@ -1487,7 +1487,7 @@
         "ja":  {
                    "ti":  "平成22年春期　問46",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア要件定義",
-                   "q":  "データモデルが次の表記法に従うとき，E-R図の解釈に関する記述のうち，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/46_1.png\" alt=\"\"\u003e",
+                   "q":  "データモデルが次の表記法に従うとき，E-R図の解釈に関する記述のうち，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/46_1.png\" alt=\"\"\u003e",
                    "op":  [
                               "同一の商品は一つの仕入先から仕入れている。",
                               "発注明細と納品明細は1対1に対応している。",
@@ -1495,12 +1495,12 @@
                               "一つの発注で複数の商品を発注することはない。"
                           ],
                    "an":  3,
-                   "al":  "E-R図は、実体（エンティティ)、実体がもつ属性（アトリビュート)、および実体同士の関連（リレーションシップ）の3要素を用いて、現実世界をモデリングする記法です。設問の表記法にあるように、実体同士の関連を表す実線に付いている数字や\"..\"は、あるエンティティ1つに対して相手方のエンティティが幾つ対応するかを表します。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/46_3.png\" alt=\"\"\u003e"
+                   "al":  "E-R図は、実体（エンティティ)、実体がもつ属性（アトリビュート)、および実体同士の関連（リレーションシップ）の3要素を用いて、現実世界をモデリングする記法です。設問の表記法にあるように、実体同士の関連を表す実線に付いている数字や\"..\"は、あるエンティティ1つに対して相手方のエンティティが幾つ対応するかを表します。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/46_3.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成22年春季 問46",
                    "ca":  "技術系 » 系統開發技術 » 軟體需求定義",
-                   "q":  "當資料模型遵循下列標記法時，關於 E-R 圖的解讀，下列敘述何者正確？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/46_1.png\" alt=\"\"\u003e",
+                   "q":  "當資料模型遵循下列標記法時，關於 E-R 圖的解讀，下列敘述何者正確？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/46_1.png\" alt=\"\"\u003e",
                    "op":  [
                               "同一項商品僅向一家供應商採購。",
                               "訂購明細與交貨明細是一對一的對應關係。",
@@ -1508,7 +1508,7 @@
                               "單一訂單不會訂購多項商品。"
                           ],
                    "an":  3,
-                   "al":  "E-R 圖是一種使用實體（Entity）、實體所擁有的屬性（Attribute），以及實體間的關聯（Relationship）這三個要素來對現實世界進行建模的記法。如題目中的標記法所示，連接實體間的實線上所標示的數字或「..」，代表一個實體對應對方實體的數量關係。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/46_3.png\" alt=\"\"\u003e"
+                   "al":  "E-R 圖是一種使用實體（Entity）、實體所擁有的屬性（Attribute），以及實體間的關聯（Relationship）這三個要素來對現實世界進行建模的記法。如題目中的標記法所示，連接實體間的實線上所標示的數字或「..」，代表一個實體對應對方實體的數量關係。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/46_3.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1551,7 +1551,7 @@
                               "ドライバ"
                           ],
                    "an":  3,
-                   "al":  "ソフトウェア結合テストにおいて、未完成のモジュールの代わりに接合されるテスト用モジュールにスタブとドライバがあります。スタブトップダウンテストにおいて未完成の下位モジュールの代わりに結合されるテスト用モジュール。上位モジュールからの呼び出しに対して適切な値を返す役割をもつドライバボトムアップテストにおいて、未完成の上位モジュールの代わりとなるテスト用モジュール。上位モジュールの代わりに下位モジュール内の命令を呼び出す役割をもつ\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/38.png\" alt=\"38.png\"\u003e"
+                   "al":  "ソフトウェア結合テストにおいて、未完成のモジュールの代わりに接合されるテスト用モジュールにスタブとドライバがあります。スタブトップダウンテストにおいて未完成の下位モジュールの代わりに結合されるテスト用モジュール。上位モジュールからの呼び出しに対して適切な値を返す役割をもつドライバボトムアップテストにおいて、未完成の上位モジュールの代わりとなるテスト用モジュール。上位モジュールの代わりに下位モジュール内の命令を呼び出す役割をもつ\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/38.png\" alt=\"38.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和6年度 問38",
@@ -1564,14 +1564,14 @@
                               "驅動程式 (Driver)"
                           ],
                    "an":  3,
-                   "al":  "在軟體整合測試中，為了替代未完成的模組而連接的測試用模組分為 Stub 與 Driver。Stub 為在由上而下 (Top-down) 測試中，為了替代尚未完成的下位模組而結合的測試用模組。其功能為針對來自上位模組的呼叫回傳適當的值。Driver 為在由下而上 (Bottom-up) 測試中，為了替代尚未完成的上位模組而使用的測試用模組。其功能為代表上位模組去呼叫下位模組內的指令。\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/38.png\" alt=\"38.png\"\u003e"
+                   "al":  "在軟體整合測試中，為了替代未完成的模組而連接的測試用模組分為 Stub 與 Driver。Stub 為在由上而下 (Top-down) 測試中，為了替代尚未完成的下位模組而結合的測試用模組。其功能為針對來自上位模組的呼叫回傳適當的值。Driver 為在由下而上 (Bottom-up) 測試中，為了替代尚未完成的上位模組而使用的測試用模組。其功能為代表上位模組去呼叫下位模組內的指令。\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/38.png\" alt=\"38.png\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成30年春期　問49",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア構築",
-                   "q":  "プログラムの流れ図で示される部分に関するテストデータを，判定条件網羅(decision coverage)によって設定した。このテストデータを複数条件網羅(multiple condition coverage)による設定に変更したとき，加えるべきテストデータのうち，適切なものはどれか。ここで，( )で囲んだ部分は，一組みのテストデータを表すものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/49.png\" alt=\"\"\u003e",
+                   "q":  "プログラムの流れ図で示される部分に関するテストデータを，判定条件網羅(decision coverage)によって設定した。このテストデータを複数条件網羅(multiple condition coverage)による設定に変更したとき，加えるべきテストデータのうち，適切なものはどれか。ここで，( )で囲んだ部分は，一組みのテストデータを表すものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/49.png\" alt=\"\"\u003e",
                    "op":  [
                               "(A＝3，B＝0)，(A＝7，B＝2)",
                               "(A＝3，B＝2)，(A＝8，B＝0)",
@@ -1584,7 +1584,7 @@
         "zh":  {
                    "ti":  "平成30年春季 問49",
                    "ca":  "技術系 » 系統開發技術 » 軟體建構",
-                   "q":  "針對程式流程圖所示部分，已透過「判定條件涵蓋率 (decision coverage)」設定了測試資料。若將該測試資料變更為「多重條件涵蓋率 (multiple condition coverage)」來設定，下列何者為應增加的適當測試資料？在此，以 ( ) 括起來的部分代表一組測試資料。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/49.png\" alt=\"\"\u003e",
+                   "q":  "針對程式流程圖所示部分，已透過「判定條件涵蓋率 (decision coverage)」設定了測試資料。若將該測試資料變更為「多重條件涵蓋率 (multiple condition coverage)」來設定，下列何者為應增加的適當測試資料？在此，以 ( ) 括起來的部分代表一組測試資料。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/49.png\" alt=\"\"\u003e",
                    "op":  [
                               "(A＝3，B＝0)，(A＝7，B＝2)",
                               "(A＝3，B＝2)，(A＝8，B＝0)",
@@ -1635,7 +1635,7 @@
                               "処理や選択などの制御の流れを，直線又は矢印で表現したものである。"
                           ],
                    "an":  3,
-                   "al":  "決定表(デシジョンテーブル)は、ある事象について条件や選択肢を表形式で整理し、記述された条件・選択肢の組合せによってどのような処理を行うべきかを列挙したものです。下記の例でいえば、表中の二重線より上が条件を記述する部分で、条件が成立するときは「Y」(Yes)、不成立の時は「N」(No)を記入します。二重線より下が実行される処理を記述する部分で、条件の組合せによって実行すべき処理に「X」(eXecute=実行)を記入します。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/46.png\" alt=\"\"\u003e"
+                   "al":  "決定表(デシジョンテーブル)は、ある事象について条件や選択肢を表形式で整理し、記述された条件・選択肢の組合せによってどのような処理を行うべきかを列挙したものです。下記の例でいえば、表中の二重線より上が条件を記述する部分で、条件が成立するときは「Y」(Yes)、不成立の時は「N」(No)を記入します。二重線より下が実行される処理を記述する部分で、条件の組合せによって実行すべき処理に「X」(eXecute=実行)を記入します。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/46.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成26年秋季 問46",
@@ -1648,7 +1648,7 @@
                               "以直線或箭頭表現處理或選擇等控制流程的表現方式。"
                           ],
                    "an":  3,
-                   "al":  "決策表（Decision Table）是將某個事件的條件或選項以表格形式整理，列舉出根據所記述的條件與選項組合，應執行何種處理的方法。以下列範例而言，表格中雙線上方為條件記述部分，當條件成立時填入「Y」(Yes)，不成立時填入「N」(No)。雙線下方則為應執行處理的記述部分，根據條件組合，在應執行的處理項目處填入「X」(eXecute=執行)。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/46.png\" alt=\"\"\u003e"
+                   "al":  "決策表（Decision Table）是將某個事件的條件或選項以表格形式整理，列舉出根據所記述的條件與選項組合，應執行何種處理的方法。以下列範例而言，表格中雙線上方為條件記述部分，當條件成立時填入「Y」(Yes)，不成立時填入「N」(No)。雙線下方則為應執行處理的記述部分，根據條件組合，在應執行的處理項目處填入「X」(eXecute=執行)。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/46.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1831,7 +1831,7 @@
                               "処理や選択などの制御の流れを，直線又は矢印で表現したものである。"
                           ],
                    "an":  3,
-                   "al":  "決定表(デシジョンテーブル)は、ある事象について条件や選択肢を表形式で整理し、記述された条件・選択肢の組合せによってどのような処理を行うべきかを列挙したものです。下記の例でいえば、表中の二重線より上が条件を記述する部分で、条件が成立するときは「Y」(Yes)、不成立の時は「N」(No)を記入します。二重線より下が実行される処理を記述する部分で、条件の組合せによって実行すべき処理に「X」(eXecute=実行)を記入します。\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/46.png\" alt=\"46.png\"\u003e"
+                   "al":  "決定表(デシジョンテーブル)は、ある事象について条件や選択肢を表形式で整理し、記述された条件・選択肢の組合せによってどのような処理を行うべきかを列挙したものです。下記の例でいえば、表中の二重線より上が条件を記述する部分で、条件が成立するときは「Y」(Yes)、不成立の時は「N」(No)を記入します。二重線より下が実行される処理を記述する部分で、条件の組合せによって実行すべき処理に「X」(eXecute=実行)を記入します。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/46.png\" alt=\"46.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和2年度 問46",
@@ -1844,14 +1844,14 @@
                               "以直線或箭頭表達處理與選擇等控制流程者。"
                           ],
                    "an":  3,
-                   "al":  "判定表（Decision Table）是將某個事象的條件與選擇項目以表格形式整理，並列出依據所記述的條件與選擇項目組合應執行何種處理的圖表。以下列範例而言，表中雙重線上方為記述條件的部分，當條件成立時填入「Y」（Yes），不成立時填入「N」（No）。雙重線下方則為記述執行處理的部分，依據條件組合在應執行的處理上填入「X」（eXecute＝執行）。\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/46.png\" alt=\"46.png\"\u003e"
+                   "al":  "判定表（Decision Table）是將某個事象的條件與選擇項目以表格形式整理，並列出依據所記述的條件與選擇項目組合應執行何種處理的圖表。以下列範例而言，表中雙重線上方為記述條件的部分，當條件成立時填入「Y」（Yes），不成立時填入「N」（No）。雙重線下方則為記述執行處理的部分，依據條件組合在應執行的處理上填入「X」（eXecute＝執行）。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/46.png\" alt=\"46.png\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成20年春期　問42",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア要件定義",
-                   "q":  "図に示す売上管理システムのDFDの中で，Aに該当する項目として，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/42.png\" alt=\"問42画像\"\u003e",
+                   "q":  "図に示す売上管理システムのDFDの中で，Aに該当する項目として，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/42.png\" alt=\"問42画像\"\u003e",
                    "op":  [
                               "売上ファイル",
                               "発注ファイル",
@@ -1864,7 +1864,7 @@
         "zh":  {
                    "ti":  "平成20年春季 問42",
                    "ca":  "技術系 » 系統開發技術 » 軟體需求定義",
-                   "q":  "在圖示的銷售管理系統DFD中，A所對應的項目，下列何者最適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/42.png\" alt=\"問42圖片\"\u003e",
+                   "q":  "在圖示的銷售管理系統DFD中，A所對應的項目，下列何者最適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/42.png\" alt=\"問42圖片\"\u003e",
                    "op":  [
                               "銷售檔案",
                               "訂單檔案",
@@ -2159,7 +2159,7 @@
         "ja":  {
                    "ti":  "平成18年春期　問44",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア構築",
-                   "q":  "あるシステムをサブシステムa，bに分けて開発している。現在はそれぞれのサブシステムのテストが終了した段階である。現在までのテストに関するデータは表のとおりである。ここで，このシステムの基準テスト項目数は，10項目／kステップである。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/44_1.png\" alt=\"\"\u003e",
+                   "q":  "あるシステムをサブシステムa，bに分けて開発している。現在はそれぞれのサブシステムのテストが終了した段階である。現在までのテストに関するデータは表のとおりである。ここで，このシステムの基準テスト項目数は，10項目／kステップである。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/44_1.png\" alt=\"\"\u003e",
                    "op":  [
                               "サブシステムaの方が，サブシステムbよりもバグの検出数が収束しており，品質は高いと判断できる。",
                               "二つのサブシステムとも，品質安定状況になく，追加テストが必要であると判断できる。",
@@ -2172,7 +2172,7 @@
         "zh":  {
                    "ti":  "平成18年春季 問44",
                    "ca":  "技術系統 » 系統開發技術 » 軟體建構",
-                   "q":  "某系統分為子系統 a 與 b 進行開發。目前兩者皆已完成測試階段。截至目前的測試數據如下表所示。此外，該系統的基準測試項目數為 10 項目／k步驟。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/44_1.png\" alt=\"\"\u003e",
+                   "q":  "某系統分為子系統 a 與 b 進行開發。目前兩者皆已完成測試階段。截至目前的測試數據如下表所示。此外，該系統的基準測試項目數為 10 項目／k步驟。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/44_1.png\" alt=\"\"\u003e",
                    "op":  [
                               "子系統 a 比子系統 b 的錯誤（Bug）檢出數更趨於收斂，可判斷品質較高。",
                               "兩個子系統皆未達到品質穩定狀態，可判斷需要進行追加測試。",
@@ -2195,7 +2195,7 @@
                               "オブジェクト間で送受信されるメッセージ"
                           ],
                    "an":  4,
-                   "al":  "シーケンス図とコミュニケーション図は、ともにオブジェクト間のメッセージのやり取りを表現する図です。シーケンス図では時系列に沿って表現するのに対して、コミュニケーション図ではオブジェクト同士の関係の観点から表現する点が異なります。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/46_1.png\" alt=\"\"\u003e"
+                   "al":  "シーケンス図とコミュニケーション図は、ともにオブジェクト間のメッセージのやり取りを表現する図です。シーケンス図では時系列に沿って表現するのに対して、コミュニケーション図ではオブジェクト同士の関係の観点から表現する点が異なります。\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/46_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成30年秋季 問46",
@@ -2208,7 +2208,7 @@
                               "物件之間傳送與接收的訊息"
                           ],
                    "an":  4,
-                   "al":  "時序圖與通訊圖兩者皆是用來表現物件之間訊息傳遞的圖表。兩者的差異在於：時序圖是沿著時間順序來表現，而通訊圖則是從物件之間關係的觀點來表現。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/46_1.png\" alt=\"\"\u003e"
+                   "al":  "時序圖與通訊圖兩者皆是用來表現物件之間訊息傳遞的圖表。兩者的差異在於：時序圖是沿著時間順序來表現，而通訊圖則是從物件之間關係的觀點來表現。\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/46_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2279,7 +2279,7 @@
                               "8"
                           ],
                    "an":  4,
-                   "al":  "同値分割と境界値分析はブラックボックステストのテストケース作成手法です。同値分割正しい入力値のデータクラス、正しいデータ範囲の上限を超えて無効であるデータクラス、正しいデータ範囲の下限を下回って無効であるデータクラスの3つのデータクラスに分割し、その中から1つの代表値を選んでテストケースとする。入力値が整数に限定されており有効値が 0～50 である場合、「有効なデータ範囲 0～50」「有効値を下回る無効なデータ範囲 -∞～-1」「有効値を上回る無効なデータ範囲 51～∞」の中から、それぞれ適当な値を選択しテストケースとする。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/48_1.png\" alt=\"\"\u003e"
+                   "al":  "同値分割と境界値分析はブラックボックステストのテストケース作成手法です。同値分割正しい入力値のデータクラス、正しいデータ範囲の上限を超えて無効であるデータクラス、正しいデータ範囲の下限を下回って無効であるデータクラスの3つのデータクラスに分割し、その中から1つの代表値を選んでテストケースとする。入力値が整数に限定されており有効値が 0～50 である場合、「有効なデータ範囲 0～50」「有効値を下回る無効なデータ範囲 -∞～-1」「有効値を上回る無効なデータ範囲 51～∞」の中から、それぞれ適当な値を選択しテストケースとする。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/48_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成28年秋季 問48",
@@ -2292,7 +2292,7 @@
                               "8"
                           ],
                    "an":  4,
-                   "al":  "等價分割與邊界值分析是黑箱測試的測試案例設計方法。等價分割將資料分為正確的輸入值類別、超出有效數據範圍上限的無效類別，以及低於有效數據範圍下限的無效類別，從中各選擇一個代表值作為測試案例。若輸入值限定為整數且有效值為 0～50 時，則從「有效數據範圍 0～50」、「低於有效值的無效數據範圍 -∞～-1」及「高於有效值的無效數據範圍 51～∞」中，分別選擇適當數值作為測試案例。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/48_1.png\" alt=\"\"\u003e"
+                   "al":  "等價分割與邊界值分析是黑箱測試的測試案例設計方法。等價分割將資料分為正確的輸入值類別、超出有效數據範圍上限的無效類別，以及低於有效數據範圍下限的無效類別，從中各選擇一個代表值作為測試案例。若輸入值限定為整數且有效值為 0～50 時，則從「有效數據範圍 0～50」、「低於有效值的無效數據範圍 -∞～-1」及「高於有效值的無效數據範圍 51～∞」中，分別選擇適當數值作為測試案例。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/48_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2411,7 +2411,7 @@
         "ja":  {
                    "ti":  "平成27年春期　問50",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア構築",
-                   "q":  "図の構造をもつプログラムに対して，ホワイトボックステストのテストケースを設計するとき，少なくとも実施しなければならないテストケース数が最大になるテスト技法はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/50.png\" alt=\"\"\u003e",
+                   "q":  "図の構造をもつプログラムに対して，ホワイトボックステストのテストケースを設計するとき，少なくとも実施しなければならないテストケース数が最大になるテスト技法はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/50.png\" alt=\"\"\u003e",
                    "op":  [
                               "条件網羅",
                               "判定条件網羅",
@@ -2424,7 +2424,7 @@
         "zh":  {
                    "ti":  "平成27年春季 問50",
                    "ca":  "科技系 » 系統開發技術 » 軟體建構",
-                   "q":  "針對具有圖示結構的程式，在設計白箱測試的測試案例時，測試案例數量最多的測試技術是下列何者？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/50.png\" alt=\"\"\u003e",
+                   "q":  "針對具有圖示結構的程式，在設計白箱測試的測試案例時，測試案例數量最多的測試技術是下列何者？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/50.png\" alt=\"\"\u003e",
                    "op":  [
                               "條件覆蓋",
                               "判定條件覆蓋",
@@ -2467,7 +2467,7 @@
         "ja":  {
                    "ti":  "平成29年春期　問49",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア構築",
-                   "q":  "流れ図において，判定条件網羅(分岐網羅)を満たす最少のテストケース数は幾つか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/49.png\" alt=\"\"\u003e",
+                   "q":  "流れ図において，判定条件網羅(分岐網羅)を満たす最少のテストケース数は幾つか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/49.png\" alt=\"\"\u003e",
                    "op":  [
                               "1",
                               "2",
@@ -2480,7 +2480,7 @@
         "zh":  {
                    "ti":  "平成29年春季 問49",
                    "ca":  "技術系 » 系統開發技術 » 軟體建構",
-                   "q":  "在流程圖中，滿足判定條件覆蓋（分支覆蓋）的最少測試案例數為多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/49.png\" alt=\"\"\u003e",
+                   "q":  "在流程圖中，滿足判定條件覆蓋（分支覆蓋）的最少測試案例數為多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/49.png\" alt=\"\"\u003e",
                    "op":  [
                               "1",
                               "2",
@@ -2551,7 +2551,7 @@
         "ja":  {
                    "ti":  "平成17年春期　問45",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア構築",
-                   "q":  "バグ管理図において，図のようにすべての線が横ばい状態になった。この状況から推測できることとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/45.png\" alt=\"問45画像\"\u003e",
+                   "q":  "バグ管理図において，図のようにすべての線が横ばい状態になった。この状況から推測できることとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/45.png\" alt=\"問45画像\"\u003e",
                    "op":  [
                               "解決困難なバグに直面しており，その後のテストが進んでいない。",
                               "テスト項目の消化実績が上がっており，バグの発生がなくなった。",
@@ -2564,7 +2564,7 @@
         "zh":  {
                    "ti":  "平成17年春季 問45",
                    "ca":  "技術系 » 系統開發技術 » 軟體建構",
-                   "q":  "在錯誤管理圖（Bug Tracking Chart）中，如圖所示所有曲線皆呈現平穩狀態。從此情況可推測出的適當選項為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/45.png\" alt=\"問45圖片\"\u003e",
+                   "q":  "在錯誤管理圖（Bug Tracking Chart）中，如圖所示所有曲線皆呈現平穩狀態。從此情況可推測出的適當選項為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/45.png\" alt=\"問45圖片\"\u003e",
                    "op":  [
                               "面臨難以解決的錯誤，後續測試無法推進。",
                               "測試項目的消化績效提升，且不再發生新的錯誤。",
@@ -2587,7 +2587,7 @@
                               "操作，属性，ロール名"
                           ],
                    "an":  4,
-                   "al":  "クラス図は、UMLの1つで、クラス、属性、クラス間の関係からシステムの構造を記述する静的な構造図です。クラス間のリンク、関連、集約、汎化、特化、実現などの関係を表現することができます。\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/45.png\" alt=\"問45画像\"\u003e"
+                   "al":  "クラス図は、UMLの1つで、クラス、属性、クラス間の関係からシステムの構造を記述する静的な構造図です。クラス間のリンク、関連、集約、汎化、特化、実現などの関係を表現することができます。\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/45.png\" alt=\"問45画像\"\u003e"
                },
         "zh":  {
                    "ti":  "平成19年秋期 問45",
@@ -2600,7 +2600,7 @@
                               "操作（Operation）、屬性（Attribute）、角色名稱（Role name）"
                           ],
                    "an":  4,
-                   "al":  "類別圖是 UML 的一種，屬於描述系統靜態結構的圖表，由類別、屬性以及類別間的關係所構成。它可以表現類別之間的連結、關聯、聚合、泛化、特化、實現等關係。\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/45.png\" alt=\"問45圖片\"\u003e"
+                   "al":  "類別圖是 UML 的一種，屬於描述系統靜態結構的圖表，由類別、屬性以及類別間的關係所構成。它可以表現類別之間的連結、關聯、聚合、泛化、特化、實現等關係。\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/45.png\" alt=\"問45圖片\"\u003e"
                }
     },
     {
@@ -2635,7 +2635,7 @@
         "ja":  {
                    "ti":  "平成18年秋期　問44",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア構築",
-                   "q":  "プログラム中に次の複合判定がある。\u003cbr\u003e　　条件1 OR (条件2 AND 条件3)\u003cbr\u003e判定条件網羅(分岐網羅)に基づいてテストする場合，追加するテスト項目として，適切なものはどれか。\u003cbr\u003e\u003cbr\u003e〔終了したテスト項目〕\u003cul\u003e\u003cli class=\"li1\"\u003e条件1が真，条件2が偽，条件3が偽\u003c/li\u003e\u003cli class=\"li2\"\u003e条件1が偽，条件2が真，条件3が真\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/44a.png\" alt=\"問44選択肢\"\u003e",
+                   "q":  "プログラム中に次の複合判定がある。\u003cbr\u003e　　条件1 OR (条件2 AND 条件3)\u003cbr\u003e判定条件網羅(分岐網羅)に基づいてテストする場合，追加するテスト項目として，適切なものはどれか。\u003cbr\u003e\u003cbr\u003e〔終了したテスト項目〕\u003cul\u003e\u003cli class=\"li1\"\u003e条件1が真，条件2が偽，条件3が偽\u003c/li\u003e\u003cli class=\"li2\"\u003e条件1が偽，条件2が真，条件3が真\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/44a.png\" alt=\"問44選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -2648,7 +2648,7 @@
         "zh":  {
                    "ti":  "平成18年秋季 問44",
                    "ca":  "技術系 » 系統開發技術 » 軟體建構",
-                   "q":  "程式中存在以下複合判斷：\u003cbr\u003e　　條件1 OR (條件2 AND 條件3)\u003cbr\u003e若根據判定條件涵蓋（分支涵蓋）進行測試，下列哪項適合作為應追加的測試項目？\u003cbr\u003e\u003cbr\u003e〔已完成的測試項目〕\u003cul\u003e\u003cli class=\"li1\"\u003e條件1為真，條件2為偽，條件3為偽\u003c/li\u003e\u003cli class=\"li2\"\u003e條件1為偽，條件2為真，條件3為真\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/44a.png\" alt=\"問44選択肢\"\u003e",
+                   "q":  "程式中存在以下複合判斷：\u003cbr\u003e　　條件1 OR (條件2 AND 條件3)\u003cbr\u003e若根據判定條件涵蓋（分支涵蓋）進行測試，下列哪項適合作為應追加的測試項目？\u003cbr\u003e\u003cbr\u003e〔已完成的測試項目〕\u003cul\u003e\u003cli class=\"li1\"\u003e條件1為真，條件2為偽，條件3為偽\u003c/li\u003e\u003cli class=\"li2\"\u003e條件1為偽，條件2為真，條件3為真\u003c/li\u003e\u003c/ul\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/44a.png\" alt=\"問44選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -2663,7 +2663,7 @@
         "ja":  {
                    "ti":  "令和5年度　問37",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア構築",
-                   "q":  "次の流れ図において，\u003cbr\u003e　①→②→③→⑤→②→③→④→②→⑥ \u003cbr\u003eの順に実行させるために，①においてmとnに与えるべき初期値aとbの関係はどれか。ここで，a，bはともに正の整数とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/37.png\" alt=\"37.png\"\u003e",
+                   "q":  "次の流れ図において，\u003cbr\u003e　①→②→③→⑤→②→③→④→②→⑥ \u003cbr\u003eの順に実行させるために，①においてmとnに与えるべき初期値aとbの関係はどれか。ここで，a，bはともに正の整数とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/37.png\" alt=\"37.png\"\u003e",
                    "op":  [
                               "a＝2b",
                               "2a＝b",
@@ -2676,7 +2676,7 @@
         "zh":  {
                    "ti":  "令和5年度 問37",
                    "ca":  "技術系 » 系統開發技術 » 軟體建構",
-                   "q":  "在下列流程圖中，為了讓執行順序依照 \u003cbr\u003e　①→②→③→⑤→②→③→④→②→⑥ \u003cbr\u003e進行，在①中給予 m 與 n 的初始值 a 與 b 應具備何種關係？在此，a 與 b 皆為正整數。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/37.png\" alt=\"37.png\"\u003e",
+                   "q":  "在下列流程圖中，為了讓執行順序依照 \u003cbr\u003e　①→②→③→⑤→②→③→④→②→⑥ \u003cbr\u003e進行，在①中給予 m 與 n 的初始值 a 與 b 應具備何種關係？在此，a 與 b 皆為正整數。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/37.png\" alt=\"37.png\"\u003e",
                    "op":  [
                               "a＝2b",
                               "2a＝b",
@@ -2839,7 +2839,7 @@
                               "データの流れを視覚的に分かりやすく表現する図である。"
                           ],
                    "an":  3,
-                   "al":  "E-R図(Entity-Relationship Diagram)は、データベース化の対象となる実体（エンティティ）と実体の持つ属性（アトリビュート)、実体間の関連（リレーションシップ）を表現する図です。データをモデリングする方法で、関係データベースの設計によく利用されます。\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/47.png\" alt=\"\"\u003e"
+                   "al":  "E-R図(Entity-Relationship Diagram)は、データベース化の対象となる実体（エンティティ）と実体の持つ属性（アトリビュート)、実体間の関連（リレーションシップ）を表現する図です。データをモデリングする方法で、関係データベースの設計によく利用されます。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/47.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成27年春期 問47",
@@ -2852,7 +2852,7 @@
                               "是用來將資料流程以視覺化方式清楚表現的圖表。"
                           ],
                    "an":  3,
-                   "al":  "E-R 圖（Entity-Relationship Diagram，實體關聯圖）是用來表現資料庫化對象的實體（Entity）、實體所擁有的屬性（Attribute），以及實體間的關聯（Relationship）之圖表。這是一種資料建模的方法，常被用於關聯式資料庫的設計中。\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/47.png\" alt=\"\"\u003e"
+                   "al":  "E-R 圖（Entity-Relationship Diagram，實體關聯圖）是用來表現資料庫化對象的實體（Entity）、實體所擁有的屬性（Attribute），以及實體間的關聯（Relationship）之圖表。這是一種資料建模的方法，常被用於關聯式資料庫的設計中。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/47.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2867,7 +2867,7 @@
                               "データの流れに注目してシステムの機能を表現する。"
                           ],
                    "an":  3,
-                   "al":  "ユースケース図は、UMLの図法の一つで、システムに要求される機能を利用者の視点から記述した図です。主に要求分析段階でユーザーの要件を特定するために作成され、ユースケース図を有効に活用することにより、システムの全体像を開発者と利用者が一緒に評価しやすくなる利点があります。\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/45.png\" alt=\"45.png\"\u003e"
+                   "al":  "ユースケース図は、UMLの図法の一つで、システムに要求される機能を利用者の視点から記述した図です。主に要求分析段階でユーザーの要件を特定するために作成され、ユースケース図を有効に活用することにより、システムの全体像を開発者と利用者が一緒に評価しやすくなる利点があります。\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/45.png\" alt=\"45.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和3年度 問45",
@@ -2880,7 +2880,7 @@
                               "聚焦於資料流向，以表現系統的功能。"
                           ],
                    "an":  3,
-                   "al":  "使用案例圖是 UML 的圖表類型之一，旨在從使用者的角度描述系統所需的功能。它主要在需求分析階段製作，用於確認使用者的需求。有效利用使用案例圖的優點在於，開發者與使用者可以共同評估系統的全貌。\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/45.png\" alt=\"45.png\"\u003e"
+                   "al":  "使用案例圖是 UML 的圖表類型之一，旨在從使用者的角度描述系統所需的功能。它主要在需求分析階段製作，用於確認使用者的需求。有效利用使用案例圖的優點在於，開發者與使用者可以共同評估系統的全貌。\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/45.png\" alt=\"45.png\"\u003e"
                }
     },
     {
@@ -3001,26 +3001,26 @@
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア要件定義",
                    "q":  "UMLのクラス図のうち，汎化の関係を示したものはどれか。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/46a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/46i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/46u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/46e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/46a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/46i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/46u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/46e.png\" alt=\"\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "汎化－特化関係は、「犬は動物である」などのように「下位クラスは、上位クラスである」という関係を表します。(動物が上位クラス、犬が下位クラス)汎化とは、下位クラスに共通する特性を抜き出した上位クラスを定義すること、または下位クラスとの関係をいいます。UMLでは、汎化の関係は下位クラスから上位クラスへと結んだ「白抜きの矢印」で表現します。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/46a.png\" alt=\"\"\u003e自動車と車検証が1対1で関連する多重度の関係を示しています。 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/46i.png\" alt=\"\"\u003e正しい。スポーツカーと自動車の汎化－特化関係を示しています。 [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/46u.png\" alt=\"\"\u003e黒いひし形の矢印が示すのは「分解－集約関係」(コンポジション関連)です。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/46e.png\" alt=\"\"\u003e点線の矢印で示されるのは「依存関係」です。"
+                   "al":  "汎化－特化関係は、「犬は動物である」などのように「下位クラスは、上位クラスである」という関係を表します。(動物が上位クラス、犬が下位クラス)汎化とは、下位クラスに共通する特性を抜き出した上位クラスを定義すること、または下位クラスとの関係をいいます。UMLでは、汎化の関係は下位クラスから上位クラスへと結んだ「白抜きの矢印」で表現します。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/46a.png\" alt=\"\"\u003e自動車と車検証が1対1で関連する多重度の関係を示しています。 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/46i.png\" alt=\"\"\u003e正しい。スポーツカーと自動車の汎化－特化関係を示しています。 [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/46u.png\" alt=\"\"\u003e黒いひし形の矢印が示すのは「分解－集約関係」(コンポジション関連)です。 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/46e.png\" alt=\"\"\u003e点線の矢印で示されるのは「依存関係」です。"
                },
         "zh":  {
                    "ti":  "平成25年秋期　問46",
                    "ca":  "技術系 » 系統開發技術 » 軟體需求定義",
                    "q":  "在 UML 類別圖中，下列何者顯示了「泛化（Generalization）」關係？",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/46a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/46i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/46u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/46e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/46a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/46i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/46u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/46e.png\" alt=\"\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "泛化（Generalization）- 特化（Specialization）關係代表著「下位類別是上位類別的一種」，例如「狗是動物」（動物為上位類別，狗為下位類別）。泛化是指定義一個提取了下位類別共同特性的上位類別，或指與下位類別之間的關係。在 UML 中，泛化關係是以從下位類別指向上位類別的「空心箭頭」來表示。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/46a.png\" alt=\"\"\u003e 顯示了汽車與行車執照之間 1 對 1 的多重性關係。 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/46i.png\" alt=\"\"\u003e 正確。顯示了跑車與汽車之間的泛化-特化關係。 [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/46u.png\" alt=\"\"\u003e 實心菱形箭頭代表的是「組成關係」（Composition）。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/46e.png\" alt=\"\"\u003e 虛線箭頭代表的是「依賴關係」（Dependency）。"
+                   "al":  "泛化（Generalization）- 特化（Specialization）關係代表著「下位類別是上位類別的一種」，例如「狗是動物」（動物為上位類別，狗為下位類別）。泛化是指定義一個提取了下位類別共同特性的上位類別，或指與下位類別之間的關係。在 UML 中，泛化關係是以從下位類別指向上位類別的「空心箭頭」來表示。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/46a.png\" alt=\"\"\u003e 顯示了汽車與行車執照之間 1 對 1 的多重性關係。 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/46i.png\" alt=\"\"\u003e 正確。顯示了跑車與汽車之間的泛化-特化關係。 [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/46u.png\" alt=\"\"\u003e 實心菱形箭頭代表的是「組成關係」（Composition）。 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/46e.png\" alt=\"\"\u003e 虛線箭頭代表的是「依賴關係」（Dependency）。"
                }
     },
     {
@@ -3139,28 +3139,28 @@
         "ja":  {
                    "ti":  "平成27年秋期　問47",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア構築",
-                   "q":  "プログラム中の図の部分を判定条件網羅(分岐網羅)でテストするときのテストケースとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/47.png\" alt=\"\"\u003e",
+                   "q":  "プログラム中の図の部分を判定条件網羅(分岐網羅)でテストするときのテストケースとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/47.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/47a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/47i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/47u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/47e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/47a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/47i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/47u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/47e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "ホワイトボックステストにおける網羅性のレベルである「分岐網羅」は、プログラム中の判定条件で結果が真となる場合、偽となる場合を少なくとも1回は実行するようにテストケースを設計する手法です。問題の流れ図では、分岐の判定条件が「A OR B」となっているため、この判定条件で真偽の両方に分岐するテストケースとなっているかを検討します。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/47a.png\" alt=\"\"\u003eテストケースが1つだけなので不適切です。 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/47i.png\" alt=\"\"\u003e2つのテストケースは「偽 OR 真＝真」「真 OR 偽＝真」となり、両方とも真である場合の処理にしか進まないので不適切です。 [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/47u.png\" alt=\"\"\u003e正しい。「偽 OR 偽＝偽」「真 OR 真＝真」となり、それぞれ真の場合の処理、偽の場合の処理に進むので分岐網羅のテストケースとして適切です。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/47e.png\" alt=\"\"\u003e3つのテストケースは「偽 OR 真＝真」「真 OR 偽＝真」「真 OR 真＝真」となり、すべてが真である場合の処理にしか進まないので不適切です。"
+                   "al":  "ホワイトボックステストにおける網羅性のレベルである「分岐網羅」は、プログラム中の判定条件で結果が真となる場合、偽となる場合を少なくとも1回は実行するようにテストケースを設計する手法です。問題の流れ図では、分岐の判定条件が「A OR B」となっているため、この判定条件で真偽の両方に分岐するテストケースとなっているかを検討します。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/47a.png\" alt=\"\"\u003eテストケースが1つだけなので不適切です。 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/47i.png\" alt=\"\"\u003e2つのテストケースは「偽 OR 真＝真」「真 OR 偽＝真」となり、両方とも真である場合の処理にしか進まないので不適切です。 [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/47u.png\" alt=\"\"\u003e正しい。「偽 OR 偽＝偽」「真 OR 真＝真」となり、それぞれ真の場合の処理、偽の場合の処理に進むので分岐網羅のテストケースとして適切です。 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/47e.png\" alt=\"\"\u003e3つのテストケースは「偽 OR 真＝真」「真 OR 偽＝真」「真 OR 真＝真」となり、すべてが真である場合の処理にしか進まないので不適切です。"
                },
         "zh":  {
                    "ti":  "平成27年秋季 問47",
                    "ca":  "技術系 » 系統開發技術 » 軟體建構",
-                   "q":  "當使用判定條件覆蓋率（分支覆蓋）來測試程式中圖示部分時，下列何者為適當的測試案例？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/47.png\" alt=\"\"\u003e",
+                   "q":  "當使用判定條件覆蓋率（分支覆蓋）來測試程式中圖示部分時，下列何者為適當的測試案例？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/47.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/47a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/47i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/47u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/47e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/47a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/47i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/47u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/47e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "作為白箱測試中覆蓋率層級之一的「分支覆蓋」，其設計測試案例的手法是確保程式中判定條件的真（True）與偽（False）結果至少各執行一次。在問題的流程圖中，分支的判定條件為「A OR B」，因此需檢討測試案例是否能使該判定條件分別進入真與偽的分支。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/47a.png\" alt=\"\"\u003e 測試案例僅有一個，故不適當。 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/47i.png\" alt=\"\"\u003e 兩個測試案例分別為「偽 OR 真＝真」、「真 OR 偽＝真」，兩者皆只會執行「真」時的處理流程，故不適當。 [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/47u.png\" alt=\"\"\u003e 正確。分別為「偽 OR 偽＝偽」、「真 OR 真＝真」，各自進入「真」的處理與「偽」的處理流程，因此作為分支覆蓋的測試案例是適當的。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/47e.png\" alt=\"\"\u003e 三個測試案例分別為「偽 OR 真＝真」、「真 OR 偽＝真」、「真 OR 真＝真」，全部都只會進入「真」時的處理流程，故不適當。"
+                   "al":  "作為白箱測試中覆蓋率層級之一的「分支覆蓋」，其設計測試案例的手法是確保程式中判定條件的真（True）與偽（False）結果至少各執行一次。在問題的流程圖中，分支的判定條件為「A OR B」，因此需檢討測試案例是否能使該判定條件分別進入真與偽的分支。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/47a.png\" alt=\"\"\u003e 測試案例僅有一個，故不適當。 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/47i.png\" alt=\"\"\u003e 兩個測試案例分別為「偽 OR 真＝真」、「真 OR 偽＝真」，兩者皆只會執行「真」時的處理流程，故不適當。 [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/47u.png\" alt=\"\"\u003e 正確。分別為「偽 OR 偽＝偽」、「真 OR 真＝真」，各自進入「真」的處理與「偽」的處理流程，因此作為分支覆蓋的測試案例是適當的。 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/47e.png\" alt=\"\"\u003e 三個測試案例分別為「偽 OR 真＝真」、「真 OR 偽＝真」、「真 OR 真＝真」，全部都只會進入「真」時的處理流程，故不適當。"
                }
     },
     {
@@ -3343,7 +3343,7 @@
                               "適用業務をデータの流れに注目して視覚的に表現したもの"
                           ],
                    "an":  4,
-                   "al":  "DFD(Data Flow Diagram)は、データの流れに着目し、データフロー，プロセス，データストア，源泉の４つの構成要素を組み合わせることで、その対象となる業務のデータの流れと処理の関係をわかりやすく図式化する構造化分析手法です。\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/43.png\" alt=\"DFDの例\"\u003e"
+                   "al":  "DFD(Data Flow Diagram)は、データの流れに着目し、データフロー，プロセス，データストア，源泉の４つの構成要素を組み合わせることで、その対象となる業務のデータの流れと処理の関係をわかりやすく図式化する構造化分析手法です。\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/43.png\" alt=\"DFDの例\"\u003e"
                },
         "zh":  {
                    "ti":  "平成19年秋期 問43",
@@ -3356,7 +3356,7 @@
                               "將應用業務中資料的流向以視覺化方式呈現"
                           ],
                    "an":  4,
-                   "al":  "DFD (Data Flow Diagram，資料流程圖) 是一種結構化分析方法，著重於資料的流向，透過組合資料流、處理程序 (Process)、資料儲存 (Data Store) 及外部實體 (Source/Sink) 等四種構成要素，將目標業務中的資料流向與處理之間的關係以易於理解的方式圖表化。\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/43.png\" alt=\"DFD範例\"\u003e"
+                   "al":  "DFD (Data Flow Diagram，資料流程圖) 是一種結構化分析方法，著重於資料的流向，透過組合資料流、處理程序 (Process)、資料儲存 (Data Store) 及外部實體 (Source/Sink) 等四種構成要素，將目標業務中的資料流向與處理之間的關係以易於理解的方式圖表化。\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/43.png\" alt=\"DFD範例\"\u003e"
                }
     },
     {
@@ -3399,7 +3399,7 @@
                               "ドライバ"
                           ],
                    "an":  3,
-                   "al":  "ソフトウェア結合テストにおいて、未完成のモジュールの代わりに接合されるテスト用モジュールにスタブとドライバがあります。スタブトップダウンテストにおいて未完成の下位モジュールの代わりに結合されるテスト用モジュール。上位モジュールからの呼び出しに対して適切な値を返す役割をもつドライバボトムアップテストにおいて、未完成の上位モジュールの代わりとなるテスト用モジュール。上位モジュールの代わりに下位モジュール内の命令を呼び出す役割をもつ\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/44.png\" alt=\"\"\u003e"
+                   "al":  "ソフトウェア結合テストにおいて、未完成のモジュールの代わりに接合されるテスト用モジュールにスタブとドライバがあります。スタブトップダウンテストにおいて未完成の下位モジュールの代わりに結合されるテスト用モジュール。上位モジュールからの呼び出しに対して適切な値を返す役割をもつドライバボトムアップテストにおいて、未完成の上位モジュールの代わりとなるテスト用モジュール。上位モジュールの代わりに下位モジュール内の命令を呼び出す役割をもつ\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/44.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成19年春季 問44",
@@ -3412,7 +3412,7 @@
                               "驅動模組 (Driver)"
                           ],
                    "an":  3,
-                   "al":  "在軟體整合測試中，用於取代未完成模組而進行連接的測試用模組有樁模組 (Stub) 與驅動模組 (Driver)。樁模組是指在由上而下 (Top-down) 測試中，為了取代未完成的下位模組而連接的測試用模組。其作用是針對上位模組的呼叫回傳適當的值。驅動模組是指在由下而上 (Bottom-up) 測試中，用來取代未完成上位模組的測試用模組。其作用是代替上位模組來呼叫下位模組內的指令。\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/44.png\" alt=\"\"\u003e"
+                   "al":  "在軟體整合測試中，用於取代未完成模組而進行連接的測試用模組有樁模組 (Stub) 與驅動模組 (Driver)。樁模組是指在由上而下 (Top-down) 測試中，為了取代未完成的下位模組而連接的測試用模組。其作用是針對上位模組的呼叫回傳適當的值。驅動模組是指在由下而上 (Bottom-up) 測試中，用來取代未完成上位模組的測試用模組。其作用是代替上位模組來呼叫下位模組內的指令。\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/44.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -3475,7 +3475,7 @@
         "ja":  {
                    "ti":  "平成26年春期　問46",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア要件定義",
-                   "q":  "UMLにおける図の\u003cspan class=\"bb\"\u003e　\u003c/span\u003eの中に記述するものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/46.png\" alt=\"\"\u003e",
+                   "q":  "UMLにおける図の\u003cspan class=\"bb\"\u003e　\u003c/span\u003eの中に記述するものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/46.png\" alt=\"\"\u003e",
                    "op":  [
                               "関連名",
                               "クラス名",
@@ -3488,7 +3488,7 @@
         "zh":  {
                    "ti":  "平成26年春期 問46",
                    "ca":  "技術系 » 系統開發技術 » 軟體需求定義",
-                   "q":  "在UML圖中，填入\u003cspan class=\"bb\"\u003e　\u003c/span\u003e中的內容應為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/46.png\" alt=\"\"\u003e",
+                   "q":  "在UML圖中，填入\u003cspan class=\"bb\"\u003e　\u003c/span\u003e中的內容應為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/46.png\" alt=\"\"\u003e",
                    "op":  [
                               "關聯名稱",
                               "類別名稱",
@@ -3539,7 +3539,7 @@
                               "中之島公園，代々木公園"
                           ],
                    "an":  2,
-                   "al":  "オブジェクト指向において、クラスはオブジェクトがもつ性質を集めた設計図、オブジェクトは実体(インスタンス)です。例として「人」クラスを考えてみます。人クラスには、人であれば誰もが持つ名前、年齢、性別、身長、体重などの属性が存在するでしょう。ただしクラスは枠組みだけを定義した抽象的な概念であり個別の「人」を表してはいません。この人クラスという枠組みに実際に値を割り当てて実体を示したものがオブジェクトです。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/47.png\" alt=\"\"\u003e"
+                   "al":  "オブジェクト指向において、クラスはオブジェクトがもつ性質を集めた設計図、オブジェクトは実体(インスタンス)です。例として「人」クラスを考えてみます。人クラスには、人であれば誰もが持つ名前、年齢、性別、身長、体重などの属性が存在するでしょう。ただしクラスは枠組みだけを定義した抽象的な概念であり個別の「人」を表してはいません。この人クラスという枠組みに実際に値を割り当てて実体を示したものがオブジェクトです。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/47.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成29年秋期　問47",
@@ -3552,7 +3552,7 @@
                               "中之島公園，代代木公園"
                           ],
                    "an":  2,
-                   "al":  "在物件導向中，類別是彙集物件所具備性質的藍圖，而物件則是實體（Instance）。以「人」這個類別為例，人這個類別會包含每個人都擁有的屬性，如姓名、年齡、性別、身高、體重等。然而，類別只是定義了框架的抽象概念，並未表示特定的「某個人」。將實際數值賦予這個類別框架後所呈現的實體，即為物件。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/47.png\" alt=\"\"\u003e"
+                   "al":  "在物件導向中，類別是彙集物件所具備性質的藍圖，而物件則是實體（Instance）。以「人」這個類別為例，人這個類別會包含每個人都擁有的屬性，如姓名、年齡、性別、身高、體重等。然而，類別只是定義了框架的抽象概念，並未表示特定的「某個人」。將實際數值賦予這個類別框架後所呈現的實體，即為物件。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/47.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -3643,7 +3643,7 @@
         "ja":  {
                    "ti":  "令和元年秋期　問45",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア要件定義",
-                   "q":  "図は構造化分析法で用いられるDFDの例である。図中の\"○\"が表しているものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/45.png\" alt=\"\"\u003e",
+                   "q":  "図は構造化分析法で用いられるDFDの例である。図中の\"○\"が表しているものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/45.png\" alt=\"\"\u003e",
                    "op":  [
                               "アクティビティ",
                               "データストア",
@@ -3651,12 +3651,12 @@
                               "プロセス"
                           ],
                    "an":  4,
-                   "al":  "DFD(Data Flow Diagram)は、構造化分析手法の一つでデータの流れに着目して、その対象となる業務のデータの流れと処理の関係をわかりやすく図式化する手法です。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/45_1.png\" alt=\"\"\u003e"
+                   "al":  "DFD(Data Flow Diagram)は、構造化分析手法の一つでデータの流れに着目して、その対象となる業務のデータの流れと処理の関係をわかりやすく図式化する手法です。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/45_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "令和元年秋期 問45",
                    "ca":  "技術系 » 系統開發技術 » 軟體需求定義",
-                   "q":  "圖示為結構化分析法中使用的 DFD（資料流程圖）範例。圖中的「○」代表什麼？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/45.png\" alt=\"\"\u003e",
+                   "q":  "圖示為結構化分析法中使用的 DFD（資料流程圖）範例。圖中的「○」代表什麼？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/45.png\" alt=\"\"\u003e",
                    "op":  [
                               "活動 (Activity)",
                               "資料儲存 (Data Store)",
@@ -3664,7 +3664,7 @@
                               "處理 (Process)"
                           ],
                    "an":  4,
-                   "al":  "DFD (Data Flow Diagram) 是一種結構化分析方法，旨在專注於資料的流向，將目標業務中的資料流動與處理之間的關係進行淺顯易懂的圖式化。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/45_1.png\" alt=\"\"\u003e"
+                   "al":  "DFD (Data Flow Diagram) 是一種結構化分析方法，旨在專注於資料的流向，將目標業務中的資料流動與處理之間的關係進行淺顯易懂的圖式化。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/45_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -3755,7 +3755,7 @@
         "ja":  {
                    "ti":  "平成18年春期　問39",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア要件定義",
-                   "q":  "UMLのクラス図において，集約の関係にあるクラスはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/39.png\" alt=\"問39画像\"\u003e",
+                   "q":  "UMLのクラス図において，集約の関係にあるクラスはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/39.png\" alt=\"問39画像\"\u003e",
                    "op":  [
                               "クラスA と クラスB",
                               "クラスA と クラスC",
@@ -3763,12 +3763,12 @@
                               "クラスC と クラスD"
                           ],
                    "an":  2,
-                   "al":  "UMLのクラス図においてクラス間の関係は次の図法で記述されます。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/39a.png\" alt=\"\"\u003e"
+                   "al":  "UMLのクラス図においてクラス間の関係は次の図法で記述されます。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/39a.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成18年春季 問39",
                    "ca":  "技術系 » 系統開發技術 » 軟體需求定義",
-                   "q":  "在 UML 的類別圖中，下列哪組類別之間存在「聚合」（Aggregation）關係？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/39.png\" alt=\"問39圖片\"\u003e",
+                   "q":  "在 UML 的類別圖中，下列哪組類別之間存在「聚合」（Aggregation）關係？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/39.png\" alt=\"問39圖片\"\u003e",
                    "op":  [
                               "類別 A 與 類別 B",
                               "類別 A 與 類別 C",
@@ -3776,7 +3776,7 @@
                               "類別 C 與 類別 D"
                           ],
                    "an":  2,
-                   "al":  "在 UML 類別圖中，類別之間的關係是依據下圖的方法來描述的。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/39a.png\" alt=\"\"\u003e"
+                   "al":  "在 UML 類別圖中，類別之間的關係是依據下圖的方法來描述的。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/39a.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -3867,7 +3867,7 @@
         "ja":  {
                    "ti":  "平成27年春期　問49",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア構築",
-                   "q":  "図は，テスト項目消化件数 X において，目標値として設定したバグ累積件数に到達したことを示す。この図の状況の説明として，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/49.png\" alt=\"\"\u003e",
+                   "q":  "図は，テスト項目消化件数 X において，目標値として設定したバグ累積件数に到達したことを示す。この図の状況の説明として，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/49.png\" alt=\"\"\u003e",
                    "op":  [
                               "テスト工程が順調に終了したことを示す。",
                               "テスト前段階での机上チェックやシミュレーションが十分にされていることを示す。",
@@ -3880,7 +3880,7 @@
         "zh":  {
                    "ti":  "平成27年春季 第49題",
                    "ca":  "技術領域 » 系統開發技術 » 軟體建構",
-                   "q":  "圖中顯示在測試項目完成數達到 X 時，已達到設定為目標值的累積 Bug 數量。關於此圖狀況的說明，下列何者適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/49.png\" alt=\"\"\u003e",
+                   "q":  "圖中顯示在測試項目完成數達到 X 時，已達到設定為目標值的累積 Bug 數量。關於此圖狀況的說明，下列何者適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/49.png\" alt=\"\"\u003e",
                    "op":  [
                               "表示測試階段順利結束。",
                               "表示在測試前階段已進行充分的桌面檢查與模擬。",
@@ -3895,7 +3895,7 @@
         "ja":  {
                    "ti":  "平成19年秋期　問47",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア構築",
-                   "q":  "プログラムテストの管理図において，図のようにすべての線が横ばい状態になった。この状況から推測できることとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/47.png\" alt=\"問47画像\"\u003e",
+                   "q":  "プログラムテストの管理図において，図のようにすべての線が横ばい状態になった。この状況から推測できることとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/47.png\" alt=\"問47画像\"\u003e",
                    "op":  [
                               "解決困難なバグに直面しており，その後のテストが進んでいない。",
                               "テスト項目の消化実績が上がっており，バグの発生がなくなった。",
@@ -3908,7 +3908,7 @@
         "zh":  {
                    "ti":  "平成19年秋期 問47",
                    "ca":  "技術系 » 系統開發技術 » 軟體建置",
-                   "q":  "在程式測試的管理圖中，若出現如圖所示所有線條皆呈現平坦（橫向）狀態。關於此情況，下列推測何者最為適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/47.png\" alt=\"問47圖片\"\u003e",
+                   "q":  "在程式測試的管理圖中，若出現如圖所示所有線條皆呈現平坦（橫向）狀態。關於此情況，下列推測何者最為適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/47.png\" alt=\"問47圖片\"\u003e",
                    "op":  [
                               "面臨難以解決的程式錯誤（Bug），導致後續測試無法進展。",
                               "測試項目的消化進度順利，且已不再發生新的程式錯誤。",
@@ -4007,7 +4007,7 @@
         "ja":  {
                    "ti":  "令和3年度　問47",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア構築",
-                   "q":  "流れ図において，分岐網羅を満たし，かつ，条件網羅を満たすテストデータの組はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/47.png\" alt=\"47.png\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/47_1.png\" alt=\"47_1.png\"\u003e",
+                   "q":  "流れ図において，分岐網羅を満たし，かつ，条件網羅を満たすテストデータの組はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/47.png\" alt=\"47.png\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/47_1.png\" alt=\"47_1.png\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -4020,7 +4020,7 @@
         "zh":  {
                    "ti":  "令和3年度 問47",
                    "ca":  "科技系 » 系統開發技術 » 軟體建構",
-                   "q":  "在流程圖中，下列哪一組測試資料同時滿足分支涵蓋（Branch Coverage）與條件涵蓋（Condition Coverage）？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/47.png\" alt=\"47.png\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/47_1.png\" alt=\"47_1.png\"\u003e",
+                   "q":  "在流程圖中，下列哪一組測試資料同時滿足分支涵蓋（Branch Coverage）與條件涵蓋（Condition Coverage）？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/47.png\" alt=\"47.png\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/47_1.png\" alt=\"47_1.png\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -4043,7 +4043,7 @@
                               "\u003cspan class=\"frac\"\u003e\u003cspan\u003em"
                           ],
                    "an":  1,
-                   "al":  "まず4つのエラー数の関係を図示します。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/47.png\" alt=\"\"\u003e"
+                   "al":  "まず4つのエラー数の関係を図示します。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/47.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "令和元年秋季 問47",
@@ -4056,7 +4056,7 @@
                               "\u003cspan class=\"frac\"\u003e\u003cspan\u003em\u003c/span\u003e\u003cspan class=\"m\"\u003eS\u003c/span\u003e\u003c/span\u003e = \u003cspan class=\"frac\"\u003e\u003cspan\u003en - m\u003c/span\u003e\u003cspan class=\"T + S\"\u003e\u003c/span\u003e\u003c/span\u003e"
                           ],
                    "an":  1,
-                   "al":  "首先將這四個錯誤數的關係圖示如下。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/47.png\" alt=\"\"\u003e"
+                   "al":  "首先將這四個錯誤數的關係圖示如下。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/47.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -4239,7 +4239,7 @@
                               "命令網羅を満足するならば，判定条件網羅も満足する。"
                           ],
                    "an":  2,
-                   "al":  "命令網羅と判定条件網羅は、どちらもホワイトボックステストのテストケース設計に関する網羅度のレベルです。それぞれについて意味を確認しておきます。命令網羅全ての命令を少なくとも1回は実行するテストケースを設計する。最も網羅性が低い設計方法。判定条件網羅（分岐網羅）全ての分岐について分岐先の全ての経路を少なくとも1回は実行するようにテストケースを設計する。例として以下の流れ図で表されるプログラムがあったときを考えます。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/49_1.png\" alt=\"\"\u003e"
+                   "al":  "命令網羅と判定条件網羅は、どちらもホワイトボックステストのテストケース設計に関する網羅度のレベルです。それぞれについて意味を確認しておきます。命令網羅全ての命令を少なくとも1回は実行するテストケースを設計する。最も網羅性が低い設計方法。判定条件網羅（分岐網羅）全ての分岐について分岐先の全ての経路を少なくとも1回は実行するようにテストケースを設計する。例として以下の流れ図で表されるプログラムがあったときを考えます。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/49_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "令和元年秋期 問49",
@@ -4252,7 +4252,7 @@
                               "若滿足指令涵蓋率，則一定會滿足判定條件涵蓋率。"
                           ],
                    "an":  2,
-                   "al":  "指令涵蓋率與判定條件涵蓋率皆為白箱測試中關於測試案例設計的涵蓋程度等級。各項定義如下：指令涵蓋率：設計測試案例，使所有指令至少執行一次。為涵蓋率最低的設計方法。判定條件涵蓋率（分支涵蓋率）：設計測試案例，使所有分支的執行路徑至少各執行一次。以下圖所示的程式流程圖為例進行說明。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/49_1.png\" alt=\"\"\u003e"
+                   "al":  "指令涵蓋率與判定條件涵蓋率皆為白箱測試中關於測試案例設計的涵蓋程度等級。各項定義如下：指令涵蓋率：設計測試案例，使所有指令至少執行一次。為涵蓋率最低的設計方法。判定條件涵蓋率（分支涵蓋率）：設計測試案例，使所有分支的執行路徑至少各執行一次。以下圖所示的程式流程圖為例進行說明。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/49_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -4315,7 +4315,7 @@
         "ja":  {
                    "ti":  "平成16年春期　問50",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア要件定義",
-                   "q":  "次の図で用いられている表記法はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/50.png\" alt=\"\"\u003e",
+                   "q":  "次の図で用いられている表記法はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/50.png\" alt=\"\"\u003e",
                    "op":  [
                               "DFD",
                               "状態遷移図",
@@ -4323,12 +4323,12 @@
                               "ペトリネット"
                           ],
                    "an":  1,
-                   "al":  "DFD(Data Flow Diagram)は、データの流れに着目して、その対象となる業務のデータの流れと処理の関係をわかりやすく図式化する構造化分析の手法です。「○」処理・プロセス，「□」データの吸収先，「→」データの流れ，「〓」データストアの4つの記号を用いて対象業務のモデル化を行います。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/50a.png\" alt=\"\"\u003e"
+                   "al":  "DFD(Data Flow Diagram)は、データの流れに着目して、その対象となる業務のデータの流れと処理の関係をわかりやすく図式化する構造化分析の手法です。「○」処理・プロセス，「□」データの吸収先，「→」データの流れ，「〓」データストアの4つの記号を用いて対象業務のモデル化を行います。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/50a.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成16年春季 問50",
                    "ca":  "技術系 » 系統開發技術 » 軟體需求定義",
-                   "q":  "下圖所使用的標記法為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/50.png\" alt=\"\"\u003e",
+                   "q":  "下圖所使用的標記法為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/50.png\" alt=\"\"\u003e",
                    "op":  [
                               "DFD (資料流程圖)",
                               "狀態遷移圖",
@@ -4336,7 +4336,7 @@
                               "Petri 網"
                           ],
                    "an":  1,
-                   "al":  "DFD (Data Flow Diagram) 是一種結構化分析手法，著重於資料流向，將目標業務中的資料流動與處理之間的關係以易於理解的方式圖表化。它使用「○」處理/程序、「□」資料吸收處（外部實體）、「→」資料流、「〓」資料儲存庫這四種符號來對目標業務進行建模。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/50a.png\" alt=\"\"\u003e"
+                   "al":  "DFD (Data Flow Diagram) 是一種結構化分析手法，著重於資料流向，將目標業務中的資料流動與處理之間的關係以易於理解的方式圖表化。它使用「○」處理/程序、「□」資料吸收處（外部實體）、「→」資料流、「〓」資料儲存庫這四種符號來對目標業務進行建模。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/50a.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -4379,7 +4379,7 @@
                               "ドライバ"
                           ],
                    "an":  3,
-                   "al":  "ソフトウェア結合テストにおいて、未完成のモジュールの代わりに接合されるテスト用モジュールにスタブとドライバがあります。スタブトップダウンテストにおいて未完成の下位モジュールの代わりに結合されるテスト用モジュール。上位モジュールからの呼び出しに対して適切な値を返す役割をもつドライバボトムアップテストにおいて、未完成の上位モジュールの代わりとなるテスト用モジュール。上位モジュールの代わりに下位モジュール内の命令を呼び出す役割をもつ\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/49.png\" alt=\"\"\u003e"
+                   "al":  "ソフトウェア結合テストにおいて、未完成のモジュールの代わりに接合されるテスト用モジュールにスタブとドライバがあります。スタブトップダウンテストにおいて未完成の下位モジュールの代わりに結合されるテスト用モジュール。上位モジュールからの呼び出しに対して適切な値を返す役割をもつドライバボトムアップテストにおいて、未完成の上位モジュールの代わりとなるテスト用モジュール。上位モジュールの代わりに下位モジュール内の命令を呼び出す役割をもつ\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/49.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成28年秋季 問49",
@@ -4392,7 +4392,7 @@
                               "驅動程式 (Driver)"
                           ],
                    "an":  3,
-                   "al":  "在軟體整合測試中，用來替代未完成模組的測試用模組分為虛設常式 (Stub) 與驅動程式 (Driver)。虛設常式 (Stub) 是在由上而下 (Top-down) 測試中，為了替代未完成的下位模組而結合的測試用模組，其功能是接收上位模組的呼叫並回傳適當的值。驅動程式 (Driver) 是在由下而上 (Bottom-up) 測試中，用來替代未完成上位模組的測試用模組，其功能是負責呼叫下位模組內的指令。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/49.png\" alt=\"\"\u003e"
+                   "al":  "在軟體整合測試中，用來替代未完成模組的測試用模組分為虛設常式 (Stub) 與驅動程式 (Driver)。虛設常式 (Stub) 是在由上而下 (Top-down) 測試中，為了替代未完成的下位模組而結合的測試用模組，其功能是接收上位模組的呼叫並回傳適當的值。驅動程式 (Driver) 是在由下而上 (Bottom-up) 測試中，用來替代未完成上位模組的測試用模組，其功能是負責呼叫下位模組內的指令。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/49.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -4427,7 +4427,7 @@
         "ja":  {
                    "ti":  "平成18年秋期　問45",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア構築",
-                   "q":  "図に示すテスト工程品質管理図の解釈と今後の対応のうち，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/45.png\" alt=\"問45画像\"\u003e",
+                   "q":  "図に示すテスト工程品質管理図の解釈と今後の対応のうち，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/45.png\" alt=\"問45画像\"\u003e",
                    "op":  [
                               "作り込み品質が悪いと判断できるので，誤り多発箇所の重点対策が必要である。前工程の品質状況を見直し，必要であれば前工程をやり直す。",
                               "テスト項目の消化が遅く，今のうちにテスト環境の不備や開発要員の不足について，対策を検討しておくべきである。品質については，予測した以上に誤りを検出しており，問題はない。",
@@ -4440,7 +4440,7 @@
         "zh":  {
                    "ti":  "平成18年秋季 問45",
                    "ca":  "技術系 » 系統開發技術 » 軟體建構",
-                   "q":  "關於圖示測試工程品質管理圖的解讀與後續應對，下列敘述何者正確？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/45.png\" alt=\"問45圖片\"\u003e",
+                   "q":  "關於圖示測試工程品質管理圖的解讀與後續應對，下列敘述何者正確？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/45.png\" alt=\"問45圖片\"\u003e",
                    "op":  [
                               "可判斷導入品質不良，需針對錯誤多發的部位採取重點對策。檢視前置工程的品質狀況，若有必要則須重新執行前置工程。",
                               "測試項目消化緩慢，應趁現在針對測試環境的不完善或開發人員不足等問題研擬對策。關於品質，由於檢測出的錯誤比預期多，因此沒有問題。",
@@ -4511,7 +4511,7 @@
         "ja":  {
                    "ti":  "平成16年秋期　問49",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア要件定義",
-                   "q":  "学校における教師，クラス，教室の三つのエンティティの関係を表すE-R図(a),(b)について考える。この二つのE-R図の読み方のうち，適切なものはどれか。ここで，\"\u003cu\u003e1 1\u003c/u\u003e\"は1対1の対応関係を表し，\"\u003cu\u003e1 *\u003c/u\u003e\"は1対多の対応関係を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/49.png\" alt=\"問49画像\"\u003e",
+                   "q":  "学校における教師，クラス，教室の三つのエンティティの関係を表すE-R図(a),(b)について考える。この二つのE-R図の読み方のうち，適切なものはどれか。ここで，\"\u003cu\u003e1 1\u003c/u\u003e\"は1対1の対応関係を表し，\"\u003cu\u003e1 *\u003c/u\u003e\"は1対多の対応関係を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/49.png\" alt=\"問49画像\"\u003e",
                    "op":  [
                               "(a)では，教師か教室を決めるとクラスが決まるが，(b)では，教師と教室を決めるとクラスが決まる。",
                               "(a)では，教師の担当できるクラスは一つだけであるが，(b)では，複数のクラスを担当することがある。",
@@ -4524,7 +4524,7 @@
         "zh":  {
                    "ti":  "平成16年秋季 問49",
                    "ca":  "技術系 » 系統開發技術 » 軟體需求定義",
-                   "q":  "關於學校中教師、班級、教室三個實體的關係，考慮 E-R 圖 (a) 與 (b)。關於這兩個 E-R 圖的解讀方式，下列何者正確？在此，「\u003cu\u003e1 1\u003c/u\u003e」表示 1 對 1 的對應關係，「\u003cu\u003e1 *\u003c/u\u003e」表示 1 對多的對應關係。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/49.png\" alt=\"問49圖片\"\u003e",
+                   "q":  "關於學校中教師、班級、教室三個實體的關係，考慮 E-R 圖 (a) 與 (b)。關於這兩個 E-R 圖的解讀方式，下列何者正確？在此，「\u003cu\u003e1 1\u003c/u\u003e」表示 1 對 1 的對應關係，「\u003cu\u003e1 *\u003c/u\u003e」表示 1 對多的對應關係。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/49.png\" alt=\"問49圖片\"\u003e",
                    "op":  [
                               "(a) 若決定教師或教室即可決定班級，但在 (b) 中，須同時決定教師與教室才能決定班級。",
                               "(a) 中教師只能負責一個班級，但在 (b) 中，可能負責多個班級。",
@@ -4575,7 +4575,7 @@
                               "一つのオブジェクトの状態がイベントの発生や時間の経過とともにどのように変化するかを表現する。"
                           ],
                    "an":  1,
-                   "al":  "アクティビティ図は、ビジネスプロセスの流れやプログラムの制御フローのような一連の手続きを可視化できる図です。フローチャートのUML版と言えるでしょう。分岐やマージなどの他に、フォークやジョイン、タイマー制御や例外処理なども表現できるようになっています。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/46.png\" alt=\"\"\u003e"
+                   "al":  "アクティビティ図は、ビジネスプロセスの流れやプログラムの制御フローのような一連の手続きを可視化できる図です。フローチャートのUML版と言えるでしょう。分岐やマージなどの他に、フォークやジョイン、タイマー制御や例外処理なども表現できるようになっています。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/46.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成31年春季 問46",
@@ -4588,14 +4588,14 @@
                               "表現單一物件的狀態如何隨著事件的發生或時間的推移而變化。"
                           ],
                    "an":  1,
-                   "al":  "活動圖是用於將業務流程或程式控制流程等一系列程序視覺化的圖表，可以說是 UML 版的流程圖。除了分支（Branch）與合併（Merge）之外，還能表現分岔（Fork）、會合（Join）、計時器控制及例外處理等。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/46.png\" alt=\"\"\u003e"
+                   "al":  "活動圖是用於將業務流程或程式控制流程等一系列程序視覺化的圖表，可以說是 UML 版的流程圖。除了分支（Branch）與合併（Merge）之外，還能表現分岔（Fork）、會合（Join）、計時器控制及例外處理等。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/46.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成18年秋期　問43",
                    "ca":  "テクノロジ系 » システム開発技術 » ソフトウェア構築",
-                   "q":  "表は，あるプログラムの入力データを，有効同値クラスと無効同値クラスに分けたものである。同値分割法によってテストケースを設計する場合，最小限のテストデータの組み合わせとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/43.png\" alt=\"問43画像\"\u003e",
+                   "q":  "表は，あるプログラムの入力データを，有効同値クラスと無効同値クラスに分けたものである。同値分割法によってテストケースを設計する場合，最小限のテストデータの組み合わせとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/43.png\" alt=\"問43画像\"\u003e",
                    "op":  [
                               "-2，0，1，5，6，8",
                               "0，1，5，6",
@@ -4603,12 +4603,12 @@
                               "1，5"
                           ],
                    "an":  3,
-                   "al":  "同値分割は、ブラックボックステストのテストケースを作成する手法の1つです。一般的に、正しい入力値のデータクラス、正しいデータ範囲の上限を超えて無効であるデータクラス、正しいデータ範囲の下限を下回って無効であるデータクラスの3つのデータクラスに分割し、その中から代表として1つの値を選んでテストケースとします。例えば、正しい入力値の範囲が0～50の場合、\"有効なデータ範囲0～50\", \"有効範囲を下回る無効なデータ範囲∞～-1\", \"有効範囲を上回る無効なデータ範囲51～∞\"の中から、それぞれ適当な値を選択しテストケースとします。選択肢にも\"無効-下限\"、\"有効\"、\"無効-上限\"の3つのデータクラスがあるので、この3つからそれぞれ1つずつ抽出した「-1，3，6」がテストケースとして適切です。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/43a.png\" alt=\"問43解説\"\u003e"
+                   "al":  "同値分割は、ブラックボックステストのテストケースを作成する手法の1つです。一般的に、正しい入力値のデータクラス、正しいデータ範囲の上限を超えて無効であるデータクラス、正しいデータ範囲の下限を下回って無効であるデータクラスの3つのデータクラスに分割し、その中から代表として1つの値を選んでテストケースとします。例えば、正しい入力値の範囲が0～50の場合、\"有効なデータ範囲0～50\", \"有効範囲を下回る無効なデータ範囲∞～-1\", \"有効範囲を上回る無効なデータ範囲51～∞\"の中から、それぞれ適当な値を選択しテストケースとします。選択肢にも\"無効-下限\"、\"有効\"、\"無効-上限\"の3つのデータクラスがあるので、この3つからそれぞれ1つずつ抽出した「-1，3，6」がテストケースとして適切です。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/43a.png\" alt=\"問43解説\"\u003e"
                },
         "zh":  {
                    "ti":  "平成18年秋期　問43",
                    "ca":  "技術系 » 系統開發技術 » 軟體建構",
-                   "q":  "下表為某程式輸入資料的有效等價類與無效等價類劃分。若使用等價分割法設計測試案例，下列哪一組是最小限度的測試資料組合？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/43.png\" alt=\"問43圖片\"\u003e",
+                   "q":  "下表為某程式輸入資料的有效等價類與無效等價類劃分。若使用等價分割法設計測試案例，下列哪一組是最小限度的測試資料組合？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/43.png\" alt=\"問43圖片\"\u003e",
                    "op":  [
                               "-2，0，1，5，6，8",
                               "0，1，5，6",
@@ -4616,7 +4616,7 @@
                               "1，5"
                           ],
                    "an":  3,
-                   "al":  "等價分割是黑箱測試中建立測試案例的方法之一。一般而言，會將資料分為三類：正確的輸入值資料類、超過正確資料範圍上限的無效資料類，以及低於正確資料範圍下限的無效資料類。並從中各選取一個代表值作為測試案例。例如，若正確的輸入值範圍為 0～50，則會從「有效資料範圍 0～50」、「低於有效範圍的無效資料範圍 ∞～-1」、「超過有效範圍的無效資料範圍 51～∞」中，各挑選一個適當的值作為測試案例。選項中同樣具備「無效-下限」、「有效」、「無效-上限」這三種資料類別，因此從這三類中各選取一個的「-1，3，6」即為適當的測試案例。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/43a.png\" alt=\"問43解說\"\u003e"
+                   "al":  "等價分割是黑箱測試中建立測試案例的方法之一。一般而言，會將資料分為三類：正確的輸入值資料類、超過正確資料範圍上限的無效資料類，以及低於正確資料範圍下限的無效資料類。並從中各選取一個代表值作為測試案例。例如，若正確的輸入值範圍為 0～50，則會從「有效資料範圍 0～50」、「低於有效範圍的無效資料範圍 ∞～-1」、「超過有效範圍的無效資料範圍 51～∞」中，各挑選一個適當的值作為測試案例。選項中同樣具備「無效-下限」、「有效」、「無效-上限」這三種資料類別，因此從這三類中各選取一個的「-1，3，6」即為適當的測試案例。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/43a.png\" alt=\"問43解說\"\u003e"
                }
     }
 ]

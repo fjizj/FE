@@ -3,7 +3,7 @@
         "ja":  {
                    "ti":  "平成21年秋期　問51",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "図は，あるプロジェクトの作業(A～I)とその作業日数を表している。このプロジェクトが終了するまでに必要な最短日数は何日か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/51.png\" alt=\"\"\u003e",
+                   "q":  "図は，あるプロジェクトの作業(A～I)とその作業日数を表している。このプロジェクトが終了するまでに必要な最短日数は何日か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/51.png\" alt=\"\"\u003e",
                    "op":  [
                               "27",
                               "28",
@@ -16,7 +16,7 @@
         "zh":  {
                    "ti":  "平成21年秋季 問題51",
                    "ca":  "管理類 » 專案管理 » 專案工期",
-                   "q":  "圖表顯示某專案的作業(A～I)及其所需工日。這個專案完成所需的最少天數是多少天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/51.png\" alt=\"\"\u003e\u003c/div\u003e",
+                   "q":  "圖表顯示某專案的作業(A～I)及其所需工日。這個專案完成所需的最少天數是多少天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/51.png\" alt=\"\"\u003e\u003c/div\u003e",
                    "op":  [
                               "27",
                               "28",
@@ -31,7 +31,7 @@
         "ja":  {
                    "ti":  "平成23年秋期　問51",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "次のアローダイアグラムで表されるプロジェクトがある。結合点5の最早結合点時刻は第何日か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/51.png\" alt=\"問51画像\"\u003e",
+                   "q":  "次のアローダイアグラムで表されるプロジェクトがある。結合点5の最早結合点時刻は第何日か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/51.png\" alt=\"問51画像\"\u003e",
                    "op":  [
                               "4",
                               "5",
@@ -44,7 +44,7 @@
         "zh":  {
                    "ti":  "平成23年秋季 題51",
                    "ca":  "管理類 » 專案管理 » 專案時間",
-                   "q":  "有如下箭線圖所表示的專案。結合點5的最早結合點時刻是第幾日？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/51.png\" alt=\"題51圖片\"\u003e",
+                   "q":  "有如下箭線圖所表示的專案。結合點5的最早結合點時刻是第幾日？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/51.png\" alt=\"題51圖片\"\u003e",
                    "op":  [
                               "4",
                               "5",
@@ -59,7 +59,7 @@
         "ja":  {
                    "ti":  "平成22年春期　問51",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "九つの作業からなるプロジェクトがある。作業Eの所要日数を9日から6日に短縮すると，このプロジェクトの最短作業日数を何日短縮できるか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/51.png\" alt=\"\"\u003e",
+                   "q":  "九つの作業からなるプロジェクトがある。作業Eの所要日数を9日から6日に短縮すると，このプロジェクトの最短作業日数を何日短縮できるか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/51.png\" alt=\"\"\u003e",
                    "op":  [
                               "0(短縮できない)",
                               "1",
@@ -72,7 +72,7 @@
         "zh":  {
                    "ti":  "平成22年春期 題51",
                    "ca":  "管理系 » 專案管理 » 專案工期",
-                   "q":  "有一個由九個作業組成的專案。若將作業E的所需天數從9日縮短至6日，則這個專案的最短作業日數可以縮短幾日。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/51.png\" alt=\"\"\u003e\u003c/div\u003e",
+                   "q":  "有一個由九個作業組成的專案。若將作業E的所需天數從9日縮短至6日，則這個專案的最短作業日數可以縮短幾日。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/51.png\" alt=\"\"\u003e\u003c/div\u003e",
                    "op":  [
                               "0(無法縮短)",
                               "1",
@@ -123,7 +123,7 @@
                               "ワークパッケージを完了するために必要な作業"
                           ],
                    "an":  1,
-                   "al":  "WBS(Work Breakdown Structure)は、プロジェクト目標を達成し、必要な成果物を過不足なく作成するために、プロジェクトチームが実行すべき作業を、成果物を主体に階層的に要素分解したものです。この階層的に細分化された構造図の中で最下層に位置する個々の部分をワークパッケージといい、プロジェクトを実施する際のコントロール単位となります。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/51.png\" alt=\"\"\u003e"
+                   "al":  "WBS(Work Breakdown Structure)は、プロジェクト目標を達成し、必要な成果物を過不足なく作成するために、プロジェクトチームが実行すべき作業を、成果物を主体に階層的に要素分解したものです。この階層的に細分化された構造図の中で最下層に位置する個々の部分をワークパッケージといい、プロジェクトを実施する際のコントロール単位となります。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/51.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成26年秋季 問51",
@@ -136,14 +136,14 @@
                               "完成工作包所需執行的作業"
                           ],
                    "an":  1,
-                   "al":  "WBS(Work Breakdown Structure)是為了達成專案目標，恰當地製作必要的成果物，將專案團隊應執行的作業，以成果物為主體進行階層式要素分解的東西。在這個階層式細分的結構圖中位於最底層的個別部分稱為工作包，作為執行專案時的控制單位。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/51.png\" alt=\"\"\u003e"
+                   "al":  "WBS(Work Breakdown Structure)是為了達成專案目標，恰當地製作必要的成果物，將專案團隊應執行的作業，以成果物為主體進行階層式要素分解的東西。在這個階層式細分的結構圖中位於最底層的個別部分稱為工作包，作為執行專案時的控制單位。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/51.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成16年秋期　問54",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "次のアローダイアグラムで表される業務について各作業内容を見直したところ，作業Dだけが短縮可能であり，作業日数を6日間にできることが分かった。業務全体の所要日数は何日間短縮できるか。ここで，点線の矢印は擬似(ダミー)作業である。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/54.png\" alt=\"問54画像\"\u003e",
+                   "q":  "次のアローダイアグラムで表される業務について各作業内容を見直したところ，作業Dだけが短縮可能であり，作業日数を6日間にできることが分かった。業務全体の所要日数は何日間短縮できるか。ここで，点線の矢印は擬似(ダミー)作業である。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/54.png\" alt=\"問54画像\"\u003e",
                    "op":  [
                               "1",
                               "2",
@@ -156,7 +156,7 @@
         "zh":  {
                    "ti":  "平成16年秋季 問54",
                    "ca":  "管理類 » 專案管理 » 專案時程",
-                   "q":  "針對以下箭線圖（Arrow Diagram）所表示的業務內容進行重新檢視後，發現僅有作業D可以縮短，且該作業天數可縮短至6天。請問業務整體的所需天數可以縮短幾天？此外，虛線箭頭代表虛擬（Dummy）作業。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/54.png\" alt=\"問54圖片\"\u003e",
+                   "q":  "針對以下箭線圖（Arrow Diagram）所表示的業務內容進行重新檢視後，發現僅有作業D可以縮短，且該作業天數可縮短至6天。請問業務整體的所需天數可以縮短幾天？此外，虛線箭頭代表虛擬（Dummy）作業。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/54.png\" alt=\"問54圖片\"\u003e",
                    "op":  [
                               "1",
                               "2",
@@ -171,7 +171,7 @@
         "ja":  {
                    "ti":  "令和5年度　問41",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "図に示すとおりに作業を実施する予定であったが，作業Aで1日の遅れが生じた。各作業の費用増加率を表の値とするとき，当初の予定日数で終了するために掛かる増加費用を最も少なくするには，どの作業を短縮すべきか。ここで，費用増加率とは，作業を1日短縮するのに要する増加費用のことである。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/41.png\" alt=\"41.png\"\u003e",
+                   "q":  "図に示すとおりに作業を実施する予定であったが，作業Aで1日の遅れが生じた。各作業の費用増加率を表の値とするとき，当初の予定日数で終了するために掛かる増加費用を最も少なくするには，どの作業を短縮すべきか。ここで，費用増加率とは，作業を1日短縮するのに要する増加費用のことである。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/41.png\" alt=\"41.png\"\u003e",
                    "op":  [
                               "B",
                               "C",
@@ -184,7 +184,7 @@
         "zh":  {
                    "ti":  "令和5年度 問41",
                    "ca":  "管理類 » 專案管理 » 專案時程",
-                   "q":  "原定計畫如圖所示進行作業，但在作業A發生了1天的延誤。若各作業的費用增加率如表中數值所示，為了在當初預定的天數內完成，應縮短哪一項作業才能使增加的費用最少？在此，費用增加率是指縮短1天作業所需增加的費用。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/41.png\" alt=\"41.png\"\u003e",
+                   "q":  "原定計畫如圖所示進行作業，但在作業A發生了1天的延誤。若各作業的費用增加率如表中數值所示，為了在當初預定的天數內完成，應縮短哪一項作業才能使增加的費用最少？在此，費用增加率是指縮短1天作業所需增加的費用。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/41.png\" alt=\"41.png\"\u003e",
                    "op":  [
                               "B",
                               "C",
@@ -227,7 +227,7 @@
         "ja":  {
                    "ti":  "平成30年春期　問52",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "あるプロジェクトの工数配分は表のとおりである。基本設計からプログラム設計までは計画どおり終了した。現在はプログラミング段階であり，3,000本のプログラムのうち1,200本が完成したところである。プロジェクト全体の進捗度は何％か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/52.png\" alt=\"\"\u003e",
+                   "q":  "あるプロジェクトの工数配分は表のとおりである。基本設計からプログラム設計までは計画どおり終了した。現在はプログラミング段階であり，3,000本のプログラムのうち1,200本が完成したところである。プロジェクト全体の進捗度は何％か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/52.png\" alt=\"\"\u003e",
                    "op":  [
                               "40 ",
                               "44 ",
@@ -240,7 +240,7 @@
         "zh":  {
                    "ti":  "平成30年春季 問52",
                    "ca":  "管理類 » 專案管理 » 專案時程",
-                   "q":  "某專案的工時分配如下表所示。從基本設計到程式設計階段均已按計畫完成。目前正處於程式編寫階段，在 3,000 個程式中已完成了 1,200 個。請問整個專案的進度為百分之多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/52.png\" alt=\"\"\u003e",
+                   "q":  "某專案的工時分配如下表所示。從基本設計到程式設計階段均已按計畫完成。目前正處於程式編寫階段，在 3,000 個程式中已完成了 1,200 個。請問整個專案的進度為百分之多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/52.png\" alt=\"\"\u003e",
                    "op":  [
                               "40 ",
                               "44 ",
@@ -283,7 +283,7 @@
         "ja":  {
                    "ti":  "平成20年春期　問75",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "アローダイアグラムのクリティカルパスでの総所要日数は何日か。ここで，矢印に示す数字は各作業の所要日数を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/75.png\" alt=\"問75画像\"\u003e",
+                   "q":  "アローダイアグラムのクリティカルパスでの総所要日数は何日か。ここで，矢印に示す数字は各作業の所要日数を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/75.png\" alt=\"問75画像\"\u003e",
                    "op":  [
                               "7",
                               "8",
@@ -296,7 +296,7 @@
         "zh":  {
                    "ti":  "平成20年春季 問75",
                    "ca":  "管理類 » 專案管理 » 專案時程",
-                   "q":  "箭線圖（Arrow Diagram）中，要徑（Critical Path）的總所需天數為幾天？此處，箭頭上標示的數字代表各項作業的所需天數。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/75.png\" alt=\"問75圖片\"\u003e",
+                   "q":  "箭線圖（Arrow Diagram）中，要徑（Critical Path）的總所需天數為幾天？此處，箭頭上標示的數字代表各項作業的所需天數。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/75.png\" alt=\"問75圖片\"\u003e",
                    "op":  [
                               "7",
                               "8",
@@ -311,7 +311,7 @@
         "ja":  {
                    "ti":  "平成23年特別　問51",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "ファストトラッキング技法を用いてスケジュールの短縮を行う。当初の計画は図1のとおりである。作業Eを作業E1，E2，E3に分けて，図2のように計画を変更すると，スケジュールは全体で何日短縮できるか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/51.png\" alt=\"問51画像\"\u003e",
+                   "q":  "ファストトラッキング技法を用いてスケジュールの短縮を行う。当初の計画は図1のとおりである。作業Eを作業E1，E2，E3に分けて，図2のように計画を変更すると，スケジュールは全体で何日短縮できるか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/51.png\" alt=\"問51画像\"\u003e",
                    "op":  [
                               "1",
                               "2",
@@ -319,12 +319,12 @@
                               "4"
                           ],
                    "an":  1,
-                   "al":  "この設問の変更例のように、開始当初の計画では直列に並んでいた作業を同時並行的に行い期間短縮を図る方法をファストトラッキングといいます。ただし、本来は順番通りになされるべきであった作業を並行して行うことになるので、順序や前後関係がより複雑になるなどの弊害もあります。単純なアローダイアグラムなので、それぞれのパスの日数計算は省きます。図1では「A→B→E→H→I」がクリティカルパスとなり、全体の最短完了日数は以下のようにパス上の作業日数の合計です。 5＋8＋9＋4＋2＝28(日)図2では、図1でクリティカルパスにあった作業E(9日)がファストトラッキング技法によって分割され、E2(4日)→E3(2日)の6日に短縮されています。このまま最短完了日数が3日短縮といいたいところですが、作業Eが短縮されたことによってクリティカルパスが「A→B→D→G」に移り、最短完了日数も以下のように変わります。 5＋8＋7＋7＝27(日)\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/51a.png\" alt=\"\"\u003e"
+                   "al":  "この設問の変更例のように、開始当初の計画では直列に並んでいた作業を同時並行的に行い期間短縮を図る方法をファストトラッキングといいます。ただし、本来は順番通りになされるべきであった作業を並行して行うことになるので、順序や前後関係がより複雑になるなどの弊害もあります。単純なアローダイアグラムなので、それぞれのパスの日数計算は省きます。図1では「A→B→E→H→I」がクリティカルパスとなり、全体の最短完了日数は以下のようにパス上の作業日数の合計です。 5＋8＋9＋4＋2＝28(日)図2では、図1でクリティカルパスにあった作業E(9日)がファストトラッキング技法によって分割され、E2(4日)→E3(2日)の6日に短縮されています。このまま最短完了日数が3日短縮といいたいところですが、作業Eが短縮されたことによってクリティカルパスが「A→B→D→G」に移り、最短完了日数も以下のように変わります。 5＋8＋7＋7＝27(日)\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/51a.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成23年特別 問51",
                    "ca":  "管理類 » 專案管理 » 專案時程",
-                   "q":  "使用快速跟進（Fast Tracking）技術來縮短時程。最初的計畫如圖1所示。若將作業E分為作業E1、E2、E3，並將計畫變更為如圖2所示，則整體時程可縮短幾天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/51.png\" alt=\"問51圖片\"\u003e",
+                   "q":  "使用快速跟進（Fast Tracking）技術來縮短時程。最初的計畫如圖1所示。若將作業E分為作業E1、E2、E3，並將計畫變更為如圖2所示，則整體時程可縮短幾天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/51.png\" alt=\"問51圖片\"\u003e",
                    "op":  [
                               "1",
                               "2",
@@ -332,14 +332,14 @@
                               "4"
                           ],
                    "an":  1,
-                   "al":  "如本題的變更範例所示，將原始計畫中原本需依序進行的作業改為同時平行執行以縮短期間的方法，稱為「快速跟進」。然而，由於將原本應按順序進行的作業改為並行處理，可能會產生順序或前後關係變得更加複雜等弊病。由於這是簡單的箭線圖（Arrow Diagram），故省略各路徑的天數計算。在圖1中，「A→B→E→H→I」為要徑（Critical Path），整體最短完成天數為路徑上作業天數的總和，即：5＋8＋9＋4＋2＝28（天）。在圖2中，圖1原屬要徑的作業E（9天）透過快速跟進技術被分割，縮短為E2（4天）→E3（2天），共計6天。雖然直覺上可能會認為最短完成天數縮短了3天，但由於作業E的縮短，要徑已轉移至「A→B→D→G」，最短完成天數也變更為：5＋8＋7＋7＝27（天）。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/51a.png\" alt=\"\"\u003e"
+                   "al":  "如本題的變更範例所示，將原始計畫中原本需依序進行的作業改為同時平行執行以縮短期間的方法，稱為「快速跟進」。然而，由於將原本應按順序進行的作業改為並行處理，可能會產生順序或前後關係變得更加複雜等弊病。由於這是簡單的箭線圖（Arrow Diagram），故省略各路徑的天數計算。在圖1中，「A→B→E→H→I」為要徑（Critical Path），整體最短完成天數為路徑上作業天數的總和，即：5＋8＋9＋4＋2＝28（天）。在圖2中，圖1原屬要徑的作業E（9天）透過快速跟進技術被分割，縮短為E2（4天）→E3（2天），共計6天。雖然直覺上可能會認為最短完成天數縮短了3天，但由於作業E的縮短，要徑已轉移至「A→B→D→G」，最短完成天數也變更為：5＋8＋7＋7＝27（天）。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/51a.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成16年秋期　問55",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトのコスト",
-                   "q":  "あるアプリケーションプログラムの，ファンクションポイント法によるユーザーファンクションタイプごとの個数及び重み付け係数は，表のとおりである。このアプリケーションプログラムのファンクションポイント数は幾らか。ここで，複雑さの補正係数は0.75とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/55.png\" alt=\"問55画像\"\u003e",
+                   "q":  "あるアプリケーションプログラムの，ファンクションポイント法によるユーザーファンクションタイプごとの個数及び重み付け係数は，表のとおりである。このアプリケーションプログラムのファンクションポイント数は幾らか。ここで，複雑さの補正係数は0.75とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/55.png\" alt=\"問55画像\"\u003e",
                    "op":  [
                               "18",
                               "24",
@@ -352,7 +352,7 @@
         "zh":  {
                    "ti":  "平成16年秋季 問55",
                    "ca":  "管理類 » 專案管理 » 專案成本",
-                   "q":  "某應用程式根據功能點法（Function Point Method），其各使用者功能類型的數量及加權係數如下表所示。請問該應用程式的功能點數為多少？在此，複雜度修正係數設為 0.75。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/55.png\" alt=\"問55圖片\"\u003e",
+                   "q":  "某應用程式根據功能點法（Function Point Method），其各使用者功能類型的數量及加權係數如下表所示。請問該應用程式的功能點數為多少？在此，複雜度修正係數設為 0.75。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/55.png\" alt=\"問55圖片\"\u003e",
                    "op":  [
                               "18",
                               "24",
@@ -395,7 +395,7 @@
         "ja":  {
                    "ti":  "平成24年秋期　問52",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "図のアローダイアグラムにおいて，プロジェクト全体の期間を短縮するために，作業A～Eの幾つかを1日ずつ短縮する。プロジェクト全体を2日短縮できる作業の組合せはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/52.png\" alt=\"問52画像\"\u003e",
+                   "q":  "図のアローダイアグラムにおいて，プロジェクト全体の期間を短縮するために，作業A～Eの幾つかを1日ずつ短縮する。プロジェクト全体を2日短縮できる作業の組合せはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/52.png\" alt=\"問52画像\"\u003e",
                    "op":  [
                               "A，C，E",
                               "A，D",
@@ -408,7 +408,7 @@
         "zh":  {
                    "ti":  "2012年秋季 問52",
                    "ca":  "管理類 » 專案管理 » 專案時程",
-                   "q":  "在圖示的箭線圖（Arrow Diagram）中，為了縮短整個專案的期間，將作業 A～E 中的部分作業各縮短 1 天。下列哪一組作業組合可以將整個專案縮短 2 天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/52.png\" alt=\"問52圖像\"\u003e",
+                   "q":  "在圖示的箭線圖（Arrow Diagram）中，為了縮短整個專案的期間，將作業 A～E 中的部分作業各縮短 1 天。下列哪一組作業組合可以將整個專案縮短 2 天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/52.png\" alt=\"問52圖像\"\u003e",
                    "op":  [
                               "A，C，E",
                               "A，D",
@@ -423,7 +423,7 @@
         "ja":  {
                    "ti":  "平成25年秋期　問54",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトのコスト",
-                   "q":  "全部で100画面から構成されるシステムの画面作成作業において，規模が小かつ複雑度が単純な画面が30，中規模かつ普通の画面が40，大規模かつ普通の画面が20，大規模かつ複雑な画面が10である場合の工数を，表の標準作業日数を用いて標準タスク法で見積もると何人日になるか。ここで，全部の画面のレビューに5人日を要し，作業の管理にレビューを含めた作業工数の20%を要するものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/54.png\" alt=\"\"\u003e",
+                   "q":  "全部で100画面から構成されるシステムの画面作成作業において，規模が小かつ複雑度が単純な画面が30，中規模かつ普通の画面が40，大規模かつ普通の画面が20，大規模かつ複雑な画面が10である場合の工数を，表の標準作業日数を用いて標準タスク法で見積もると何人日になるか。ここで，全部の画面のレビューに5人日を要し，作業の管理にレビューを含めた作業工数の20%を要するものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/54.png\" alt=\"\"\u003e",
                    "op":  [
                               "80",
                               "85",
@@ -436,7 +436,7 @@
         "zh":  {
                    "ti":  "平成25年秋季 問54",
                    "ca":  "管理系 » 專案管理 » 專案成本",
-                   "q":  "在一個由總共100個畫面組成的系統畫面製作作業中，若規模小且複雜度簡單的畫面有30個、中等規模且普通複雜度的畫面有40個、大規模且普通複雜度的畫面有20個、大規模且複雜的畫面有10個。試使用表中的標準作業天數，以標準工時法（標準タスク法）估算所需的總人天數為何？此外，全部畫面的審查（Review）需耗時5人天，作業管理需佔含審查在內的總作業工時的20%。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/54.png\" alt=\"\"\u003e",
+                   "q":  "在一個由總共100個畫面組成的系統畫面製作作業中，若規模小且複雜度簡單的畫面有30個、中等規模且普通複雜度的畫面有40個、大規模且普通複雜度的畫面有20個、大規模且複雜的畫面有10個。試使用表中的標準作業天數，以標準工時法（標準タスク法）估算所需的總人天數為何？此外，全部畫面的審查（Review）需耗時5人天，作業管理需佔含審查在內的總作業工時的20%。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/54.png\" alt=\"\"\u003e",
                    "op":  [
                               "80",
                               "85",
@@ -451,7 +451,7 @@
         "ja":  {
                    "ti":  "令和2年度　問53",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "図のアローダイアグラムから読み取れることとして，適切なものはどれか。ここで，プロジェクトの開始日を1日目とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/53.png\" alt=\"53.png\"\u003e",
+                   "q":  "図のアローダイアグラムから読み取れることとして，適切なものはどれか。ここで，プロジェクトの開始日を1日目とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/53.png\" alt=\"53.png\"\u003e",
                    "op":  [
                               "作業Cを最も早く開始できるのは6日目である。",
                               "作業Dはクリティカルパス上の作業である。",
@@ -464,7 +464,7 @@
         "zh":  {
                    "ti":  "令和2年度 問53",
                    "ca":  "管理系 » 專案管理 » 專案時程",
-                   "q":  "根據下圖箭頭圖（Arrow Diagram）可讀出的內容，下列何者正確？在此，假設專案開始日為第1天。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/53.png\" alt=\"53.png\"\u003e",
+                   "q":  "根據下圖箭頭圖（Arrow Diagram）可讀出的內容，下列何者正確？在此，假設專案開始日為第1天。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/53.png\" alt=\"53.png\"\u003e",
                    "op":  [
                               "作業C最早可於第6天開始。",
                               "作業D為關鍵路徑（Critical Path）上的作業。",
@@ -479,7 +479,7 @@
         "ja":  {
                    "ti":  "平成24年春期　問52",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "プロジェクトのタイムマネジメントのために次のアローダイアグラムを作成した。クリティカルパスはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/52.png\" alt=\"問52画像\"\u003e",
+                   "q":  "プロジェクトのタイムマネジメントのために次のアローダイアグラムを作成した。クリティカルパスはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/52.png\" alt=\"問52画像\"\u003e",
                    "op":  [
                               "A→C→E→F",
                               "A→D→G",
@@ -492,7 +492,7 @@
         "zh":  {
                    "ti":  "平成24年春期 問52",
                    "ca":  "管理類 » 專案管理 » 專案時程管理",
-                   "q":  "為了進行專案時程管理，製作了以下箭線圖（Arrow Diagram）。請問要徑（Critical Path）為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/52.png\" alt=\"問52圖片\"\u003e",
+                   "q":  "為了進行專案時程管理，製作了以下箭線圖（Arrow Diagram）。請問要徑（Critical Path）為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/52.png\" alt=\"問52圖片\"\u003e",
                    "op":  [
                               "A→C→E→F",
                               "A→D→G",
@@ -507,7 +507,7 @@
         "ja":  {
                    "ti":  "平成29年秋期　問52",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトのコスト",
-                   "q":  "全部で100画面から構成されるシステムの画面を作成する。100画面を規模と複雑さで分類したときの内訳は次のとおりである。\u003cbr\u003e\u003cul class=\"none\"\u003e\u003cli\u003e規模が\"小\"で，複雑度が\"単純\"である画面：30\u003c/li\u003e\u003cli\u003e規模が\"中\"で，複雑度が\"普通\"である画面：40\u003c/li\u003e\u003cli\u003e規模が\"大\"で，複雑度が\"普通\"である画面：20\u003c/li\u003e\u003cli\u003e規模が\"大\"で，複雑度が\"複雑\"である画面：10\u003c/li\u003e\u003c/ul\u003e全ての画面を作成する総工数を，表の作成工数を用いて見積もると何人日になるか。ここで，全部の画面のレビューと修正に5人日を要し，作業の管理にはレビューと修正の工数を含めた作業工数の20%を要するものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/52.png\" alt=\"\"\u003e",
+                   "q":  "全部で100画面から構成されるシステムの画面を作成する。100画面を規模と複雑さで分類したときの内訳は次のとおりである。\u003cbr\u003e\u003cul class=\"none\"\u003e\u003cli\u003e規模が\"小\"で，複雑度が\"単純\"である画面：30\u003c/li\u003e\u003cli\u003e規模が\"中\"で，複雑度が\"普通\"である画面：40\u003c/li\u003e\u003cli\u003e規模が\"大\"で，複雑度が\"普通\"である画面：20\u003c/li\u003e\u003cli\u003e規模が\"大\"で，複雑度が\"複雑\"である画面：10\u003c/li\u003e\u003c/ul\u003e全ての画面を作成する総工数を，表の作成工数を用いて見積もると何人日になるか。ここで，全部の画面のレビューと修正に5人日を要し，作業の管理にはレビューと修正の工数を含めた作業工数の20%を要するものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/52.png\" alt=\"\"\u003e",
                    "op":  [
                               "80",
                               "85",
@@ -520,7 +520,7 @@
         "zh":  {
                    "ti":  "平成29年秋季 問52",
                    "ca":  "管理系 » 專案管理 » 專案成本",
-                   "q":  "製作一個由總計 100 個畫面組成的系統。將 100 個畫面按規模與複雜度分類後的明細如下：\u003cbr\u003e\u003cul class=\"none\"\u003e\u003cli\u003e規模為「小」，複雜度為「簡單」的畫面：30 個\u003c/li\u003e\u003cli\u003e規模為「中」，複雜度為「普通」的畫面：40 個\u003c/li\u003e\u003cli\u003e規模為「大」，複雜度為「普通」的畫面：20 個\u003c/li\u003e\u003cli\u003e規模為「大」，複雜度為「複雜」的畫面：10 個\u003c/li\u003e\u003c/ul\u003e請根據表格中的製作工時，計算製作所有畫面的總工時為多少人日？在此，所有畫面的審查與修正需耗時 5 人日，且作業管理需耗費包含審查與修正工時在內的總作業工時之 20%。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/52.png\" alt=\"\"\u003e",
+                   "q":  "製作一個由總計 100 個畫面組成的系統。將 100 個畫面按規模與複雜度分類後的明細如下：\u003cbr\u003e\u003cul class=\"none\"\u003e\u003cli\u003e規模為「小」，複雜度為「簡單」的畫面：30 個\u003c/li\u003e\u003cli\u003e規模為「中」，複雜度為「普通」的畫面：40 個\u003c/li\u003e\u003cli\u003e規模為「大」，複雜度為「普通」的畫面：20 個\u003c/li\u003e\u003cli\u003e規模為「大」，複雜度為「複雜」的畫面：10 個\u003c/li\u003e\u003c/ul\u003e請根據表格中的製作工時，計算製作所有畫面的總工時為多少人日？在此，所有畫面的審查與修正需耗時 5 人日，且作業管理需耗費包含審查與修正工時在內的總作業工時之 20%。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/52.png\" alt=\"\"\u003e",
                    "op":  [
                               "80",
                               "85",
@@ -535,7 +535,7 @@
         "ja":  {
                    "ti":  "平成26年秋期　問54",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの資源",
-                   "q":  "システムを構成するプログラムの本数とプログラム1本当りのコーディング所要工数が表のとおりであるとき，システムを95日間で開発するには少なくとも何人の要員が必要か。ここで，システムの開発にはコーディングの他に，設計やテストの作業が必要であり，それらの作業の遂行にはコーディング所要工数の8倍の工数が掛かるものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/54.png\" alt=\"\"\u003e",
+                   "q":  "システムを構成するプログラムの本数とプログラム1本当りのコーディング所要工数が表のとおりであるとき，システムを95日間で開発するには少なくとも何人の要員が必要か。ここで，システムの開発にはコーディングの他に，設計やテストの作業が必要であり，それらの作業の遂行にはコーディング所要工数の8倍の工数が掛かるものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/54.png\" alt=\"\"\u003e",
                    "op":  [
                               "8",
                               "9",
@@ -548,7 +548,7 @@
         "zh":  {
                    "ti":  "平成26年秋期 問54",
                    "ca":  "管理類 » 專案管理 » 專案資源",
-                   "q":  "若系統構成程式的數量與每支程式編碼所需工時如下表所示，若要在95天內完成系統開發，至少需要多少名人員？此外，系統開發除了編碼之外，還需要設計與測試工作，這些作業所需的工時為編碼所需工時的8倍。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/54.png\" alt=\"\"\u003e",
+                   "q":  "若系統構成程式的數量與每支程式編碼所需工時如下表所示，若要在95天內完成系統開發，至少需要多少名人員？此外，系統開發除了編碼之外，還需要設計與測試工作，這些作業所需的工時為編碼所需工時的8倍。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/54.png\" alt=\"\"\u003e",
                    "op":  [
                               "8",
                               "9",
@@ -571,7 +571,7 @@
                               "変更性(Changeability)"
                           ],
                    "an":  1,
-                   "al":  "ソフトウェアの品質特性とは、ソフトウェアの品質を評価する基準のことです。ISO/IEC 9126では、この評価基準として6つの特性とそれぞれの品質特性を細分化した21の副特性を定めています。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/52.png\" alt=\"\"\u003e"
+                   "al":  "ソフトウェアの品質特性とは、ソフトウェアの品質を評価する基準のことです。ISO/IEC 9126では、この評価基準として6つの特性とそれぞれの品質特性を細分化した21の副特性を定めています。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/52.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成22年春季 問52",
@@ -584,7 +584,7 @@
                               "變更性 (Changeability)"
                           ],
                    "an":  1,
-                   "al":  "軟體品質特性是評估軟體品質的基準。ISO/IEC 9126 定義了 6 個特性，並將其細分為 21 個副特性作為評估基準。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/52.png\" alt=\"\"\u003e"
+                   "al":  "軟體品質特性是評估軟體品質的基準。ISO/IEC 9126 定義了 6 個特性，並將其細分為 21 個副特性作為評估基準。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/52.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -619,7 +619,7 @@
         "ja":  {
                    "ti":  "平成29年秋期　問53",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "図に示すプロジェクト活動のクリティカルパスはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/53.png\" alt=\"\"\u003e",
+                   "q":  "図に示すプロジェクト活動のクリティカルパスはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/53.png\" alt=\"\"\u003e",
                    "op":  [
                               "A→B→E→I→L",
                               "A→C→D→E→H→K",
@@ -632,7 +632,7 @@
         "zh":  {
                    "ti":  "平成29年秋季 問53",
                    "ca":  "管理系 » 專案管理 » 專案時程",
-                   "q":  "圖中所示專案活動的關鍵路徑為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/53.png\" alt=\"\"\u003e",
+                   "q":  "圖中所示專案活動的關鍵路徑為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/53.png\" alt=\"\"\u003e",
                    "op":  [
                               "A→B→E→I→L",
                               "A→C→D→E→H→K",
@@ -683,7 +683,7 @@
                               "日程について予定と実績を対比することができる。"
                           ],
                    "an":  4,
-                   "al":  "ガントチャート(Gantt chart)は、縦軸に作業項目・横軸に時間をとり、作業に必要な期間を横棒の長さで表記する図法です。作業項目同士の日程的な重なりがわかりやすいため日程計画の策定に使用されたり、計画と実績を並べて表記することで進捗度を管理する方法としても用いられます。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/46.png\" alt=\"\"\u003e"
+                   "al":  "ガントチャート(Gantt chart)は、縦軸に作業項目・横軸に時間をとり、作業に必要な期間を横棒の長さで表記する図法です。作業項目同士の日程的な重なりがわかりやすいため日程計画の策定に使用されたり、計画と実績を並べて表記することで進捗度を管理する方法としても用いられます。\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/46.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成17年春季 問46",
@@ -696,7 +696,7 @@
                               "可以將時程上的計畫與實際執行狀況進行對比。"
                           ],
                    "an":  4,
-                   "al":  "甘特圖（Gantt chart）是以縱軸表示作業項目、橫軸表示時間，並以橫條長度來表示作業所需期間的圖表法。由於其容易辨識作業項目之間在日程上的重疊情形，因此常被用於制定日程計畫，或是透過並列顯示計畫與實際執行狀況來進行進度管理。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/46.png\" alt=\"\"\u003e"
+                   "al":  "甘特圖（Gantt chart）是以縱軸表示作業項目、橫軸表示時間，並以橫條長度來表示作業所需期間的圖表法。由於其容易辨識作業項目之間在日程上的重疊情形，因此常被用於制定日程計畫，或是透過並列顯示計畫與實際執行狀況來進行進度管理。\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/46.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -759,7 +759,7 @@
         "ja":  {
                    "ti":  "平成23年秋期　問52",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトのコスト",
-                   "q":  "表の機能と特性をもったプログラムのファンクションポイント値は幾らか。ここで，複雑さの補正係数は0.75とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/52.png\" alt=\"問52画像\"\u003e",
+                   "q":  "表の機能と特性をもったプログラムのファンクションポイント値は幾らか。ここで，複雑さの補正係数は0.75とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/52.png\" alt=\"問52画像\"\u003e",
                    "op":  [
                               "18",
                               "24",
@@ -772,7 +772,7 @@
         "zh":  {
                    "ti":  "平成23年秋季 問52",
                    "ca":  "管理類 » 專案管理 » 專案成本",
-                   "q":  "根據下表的功能與特性，該程式的機能點（Function Point）數值為多少？在此，複雜度補正係數設為 0.75。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/52.png\" alt=\"問52圖片\"\u003e",
+                   "q":  "根據下表的功能與特性，該程式的機能點（Function Point）數值為多少？在此，複雜度補正係數設為 0.75。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/52.png\" alt=\"問52圖片\"\u003e",
                    "op":  [
                               "18",
                               "24",
@@ -871,35 +871,35 @@
         "ja":  {
                    "ti":  "令和4年度　問51",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "次のプレシデンスダイアグラムで表現されたプロジェクトスケジュールネットワーク図を，アローダイアグラムに書き直したものはどれか。ここで，プレシデンスダイアグラムの依存関係は全てFS関係とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/51.png\" alt=\"\"\u003e",
+                   "q":  "次のプレシデンスダイアグラムで表現されたプロジェクトスケジュールネットワーク図を，アローダイアグラムに書き直したものはどれか。ここで，プレシデンスダイアグラムの依存関係は全てFS関係とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/51.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/51a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/51i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/51u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/51e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/51a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/51i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/51u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/51e.png\" alt=\"\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "プレシデンスダイアグラム法(PDM法)は、個々の作業を四角で囲み、作業同士を矢印で結ぶことで作業順序や依存関係を表現する図法です。作業同士の関係を表すという意味ではアローダイアグラムと同じですが、アローダイアグラムでは作業を矢印で結合点を丸のノードで示すので、記述方法が根本的に異なります。またアローダイアグラムでは、ある作業の終了が別の作業の開始条件となる「終了－開始」(FS：Finish to Start)の依存関係しか表現できませんが、プレシデンスダイアグラムではこの他に、「開始-開始」(SS：Start to Start)、「開始-終了」(SF：Start to Finish)、「終了-終了」(FF：Finish to Finish)の関係を記述できることが特徴です。上記の説明でも触れましたが、本設問のFS関係とは「ある作業の終了が別の作業の開始条件となっている関係」を意味しており、アローダイアグラムの矢印で示される依存関係がこれに相当します。選択肢の各図は基本的には同じ造りであり、異なるのはダミー作業を表す点線のみです。プレシデンスダイアグラムの矢印に注目すると、作業Aと作業Dからの矢印が作業Fに向かって伸びています。これは、作業Fの開始条件が作業Aおよび作業Dの両方の完了であることを示しています。すなわちアローダイアグラムの中で、作業Aの結合点からのダミー作業線および作業Dの矢印が、作業F開始の結合点に向かって記述されている「イ」が適切です。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/51a.png\" alt=\"\"\u003e作業Aと作業FのFS関係が表現されていないので誤りです。 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/51i.png\" alt=\"\"\u003e正しい。 [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/51u.png\" alt=\"\"\u003eプレシデンスダイアグラムに存在しない作業Aと作業HのFS関係が記述されているため誤りです。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/51e.png\" alt=\"\"\u003eこの図のダミー作業線は、作業Aと作業HのFS関係を表すため誤りです。"
+                   "al":  "プレシデンスダイアグラム法(PDM法)は、個々の作業を四角で囲み、作業同士を矢印で結ぶことで作業順序や依存関係を表現する図法です。作業同士の関係を表すという意味ではアローダイアグラムと同じですが、アローダイアグラムでは作業を矢印で結合点を丸のノードで示すので、記述方法が根本的に異なります。またアローダイアグラムでは、ある作業の終了が別の作業の開始条件となる「終了－開始」(FS：Finish to Start)の依存関係しか表現できませんが、プレシデンスダイアグラムではこの他に、「開始-開始」(SS：Start to Start)、「開始-終了」(SF：Start to Finish)、「終了-終了」(FF：Finish to Finish)の関係を記述できることが特徴です。上記の説明でも触れましたが、本設問のFS関係とは「ある作業の終了が別の作業の開始条件となっている関係」を意味しており、アローダイアグラムの矢印で示される依存関係がこれに相当します。選択肢の各図は基本的には同じ造りであり、異なるのはダミー作業を表す点線のみです。プレシデンスダイアグラムの矢印に注目すると、作業Aと作業Dからの矢印が作業Fに向かって伸びています。これは、作業Fの開始条件が作業Aおよび作業Dの両方の完了であることを示しています。すなわちアローダイアグラムの中で、作業Aの結合点からのダミー作業線および作業Dの矢印が、作業F開始の結合点に向かって記述されている「イ」が適切です。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/51a.png\" alt=\"\"\u003e作業Aと作業FのFS関係が表現されていないので誤りです。 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/51i.png\" alt=\"\"\u003e正しい。 [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/51u.png\" alt=\"\"\u003eプレシデンスダイアグラムに存在しない作業Aと作業HのFS関係が記述されているため誤りです。 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/51e.png\" alt=\"\"\u003eこの図のダミー作業線は、作業Aと作業HのFS関係を表すため誤りです。"
                },
         "zh":  {
                    "ti":  "令和4年度 問51",
                    "ca":  "管理類 » 專案管理 » 專案時程",
-                   "q":  "將以下以「前置圖法（PDM）」所表示的專案時程網路圖，改寫為「箭線圖法（ADM）」後，正確的是哪一個？在此，前置圖法的依存關係皆為「結束－開始（FS）」關係。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/51.png\" alt=\"\"\u003e",
+                   "q":  "將以下以「前置圖法（PDM）」所表示的專案時程網路圖，改寫為「箭線圖法（ADM）」後，正確的是哪一個？在此，前置圖法的依存關係皆為「結束－開始（FS）」關係。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/51.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/51a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/51i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/51u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/51e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/51a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/51i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/51u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/51e.png\" alt=\"\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "前置圖法（PDM）是一種將各項作業用方框圈起，並以箭頭連結各作業來表示作業順序與依存關係的圖解法。就表示作業間的關係而言，與箭線圖法相同，但箭線圖法是以箭頭代表作業、以圓形節點代表連接點，描述方式根本不同。此外，箭線圖法僅能表現「結束－開始（FS：Finish to Start）」的依存關係（即某作業結束為另一作業的開始條件），而前置圖法還能描述「開始－開始（SS：Start to Start）」、「開始－結束（SF：Start to Finish）」及「結束－結束（FF：Finish to Finish）」等關係。如前所述，本題的 FS 關係是指「某項作業的結束為另一項作業的開始條件」，這相當於箭線圖中以箭頭表示的依存關係。選項中的各圖基本結構相同，差異僅在於表示虛擬作業（Dummy activity）的虛線。觀察前置圖的箭頭，可發現從作業 A 與作業 D 指向作業 F 的箭頭。這表示作業 F 的開始條件為作業 A 與作業 D 皆已完成。亦即在箭線圖中，將來自作業 A 連接點的虛擬作業線與作業 D 的箭頭指向作業 F 開始的連接點，選項「イ」最為正確。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/51a.png\" alt=\"\"\u003e未正確表現作業 A 與作業 F 的 FS 關係，故錯誤。 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/51i.png\" alt=\"\"\u003e正確。 [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/51u.png\" alt=\"\"\u003e描述了前置圖中不存在的作業 A 與作業 H 的 FS 關係，故錯誤。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/51e.png\" alt=\"\"\u003e此圖中的虛擬作業線代表作業 A 與作業 H 的 FS 關係，故錯誤。"
+                   "al":  "前置圖法（PDM）是一種將各項作業用方框圈起，並以箭頭連結各作業來表示作業順序與依存關係的圖解法。就表示作業間的關係而言，與箭線圖法相同，但箭線圖法是以箭頭代表作業、以圓形節點代表連接點，描述方式根本不同。此外，箭線圖法僅能表現「結束－開始（FS：Finish to Start）」的依存關係（即某作業結束為另一作業的開始條件），而前置圖法還能描述「開始－開始（SS：Start to Start）」、「開始－結束（SF：Start to Finish）」及「結束－結束（FF：Finish to Finish）」等關係。如前所述，本題的 FS 關係是指「某項作業的結束為另一項作業的開始條件」，這相當於箭線圖中以箭頭表示的依存關係。選項中的各圖基本結構相同，差異僅在於表示虛擬作業（Dummy activity）的虛線。觀察前置圖的箭頭，可發現從作業 A 與作業 D 指向作業 F 的箭頭。這表示作業 F 的開始條件為作業 A 與作業 D 皆已完成。亦即在箭線圖中，將來自作業 A 連接點的虛擬作業線與作業 D 的箭頭指向作業 F 開始的連接點，選項「イ」最為正確。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/51a.png\" alt=\"\"\u003e未正確表現作業 A 與作業 F 的 FS 關係，故錯誤。 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/51i.png\" alt=\"\"\u003e正確。 [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/51u.png\" alt=\"\"\u003e描述了前置圖中不存在的作業 A 與作業 H 的 FS 關係，故錯誤。 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/51e.png\" alt=\"\"\u003e此圖中的虛擬作業線代表作業 A 與作業 H 的 FS 關係，故錯誤。"
                }
     },
     {
         "ja":  {
                    "ti":  "平成30年春期　問54",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトのコスト",
-                   "q":  "あるソフトウェアにおいて，機能の個数と機能の複雑度に対する重み付け係数は表のとおりである。このソフトウェアのファンクションポイント値は幾らか。ここで，ソフトウェアの全体的な複雑さの補正係数は0.75とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/54.png\" alt=\"\"\u003e",
+                   "q":  "あるソフトウェアにおいて，機能の個数と機能の複雑度に対する重み付け係数は表のとおりである。このソフトウェアのファンクションポイント値は幾らか。ここで，ソフトウェアの全体的な複雑さの補正係数は0.75とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/54.png\" alt=\"\"\u003e",
                    "op":  [
                               "18",
                               "24",
@@ -912,7 +912,7 @@
         "zh":  {
                    "ti":  "平成30年春季 問54",
                    "ca":  "管理系 » 專案管理 » 專案成本",
-                   "q":  "關於某軟體，其功能個數與功能複雜度之加權係數如下表所示。試問該軟體的函數點（Function Point）數值為多少？其中，軟體整體複雜度的修正係數為 0.75。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/54.png\" alt=\"\"\u003e",
+                   "q":  "關於某軟體，其功能個數與功能複雜度之加權係數如下表所示。試問該軟體的函數點（Function Point）數值為多少？其中，軟體整體複雜度的修正係數為 0.75。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/54.png\" alt=\"\"\u003e",
                    "op":  [
                               "18",
                               "24",
@@ -927,7 +927,7 @@
         "ja":  {
                    "ti":  "令和元年秋期　問52",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "あるプロジェクトの日程計画をアローダイアグラムで示す。クリティカルパスはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/52.png\" alt=\"\"\u003e",
+                   "q":  "あるプロジェクトの日程計画をアローダイアグラムで示す。クリティカルパスはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/52.png\" alt=\"\"\u003e",
                    "op":  [
                               "A，C，E，F",
                               "A，D，G",
@@ -940,7 +940,7 @@
         "zh":  {
                    "ti":  "令和元年秋季 問52",
                    "ca":  "管理系 » 專案管理 » 專案時程",
-                   "q":  "以箭線圖（Arrow Diagram）表示某專案的時程規劃。請問關鍵路徑（Critical Path）為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/52.png\" alt=\"\"\u003e",
+                   "q":  "以箭線圖（Arrow Diagram）表示某專案的時程規劃。請問關鍵路徑（Critical Path）為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/52.png\" alt=\"\"\u003e",
                    "op":  [
                               "A，C，E，F",
                               "A，D，G",
@@ -963,7 +963,7 @@
                               "Control"
                           ],
                    "an":  3,
-                   "al":  "PDCAは、Plan・Do・Check・Actの各フェーズの略で、この一連の流れを繰り返すことでシステムの維持・改善に努める管理サイクルのことです。Plan（計画）目標を決め、実現するための計画を策定するDo（実行）計画を業務に適用するCheck（点検・評価）計画通りに業務が行われているか確認するAct(処置・改善)必要に応じて計画に修正を加えるしたがって「Check」が適切です。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/51.png\" alt=\"\"\u003e"
+                   "al":  "PDCAは、Plan・Do・Check・Actの各フェーズの略で、この一連の流れを繰り返すことでシステムの維持・改善に努める管理サイクルのことです。Plan（計画）目標を決め、実現するための計画を策定するDo（実行）計画を業務に適用するCheck（点検・評価）計画通りに業務が行われているか確認するAct(処置・改善)必要に応じて計画に修正を加えるしたがって「Check」が適切です。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/51.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成26年春季 問51",
@@ -976,7 +976,7 @@
                               "Control"
                           ],
                    "an":  3,
-                   "al":  "PDCA 是 Plan（計畫）、Do（執行）、Check（檢查/評估）、Act（處置/改善）各階段的縮寫，透過循環往復這一連串流程，致力於系統的維護與優化。Plan（計畫）：設定目標並制定實現計畫。Do（執行）：將計畫應用於實際業務。Check（檢查/評估）：確認業務執行是否符合計畫。Act（處置/改善）：視需要對計畫進行修正。因此，「Check」是正確選項。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/51.png\" alt=\"\"\u003e"
+                   "al":  "PDCA 是 Plan（計畫）、Do（執行）、Check（檢查/評估）、Act（處置/改善）各階段的縮寫，透過循環往復這一連串流程，致力於系統的維護與優化。Plan（計畫）：設定目標並制定實現計畫。Do（執行）：將計畫應用於實際業務。Check（檢查/評估）：確認業務執行是否符合計畫。Act（處置/改善）：視需要對計畫進行修正。因此，「Check」是正確選項。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/51.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1011,7 +1011,7 @@
         "ja":  {
                    "ti":  "平成26年春期　問52",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトのスコープ",
-                   "q":  "図のように，プロジェクトチームが実行すべき作業を上位の階層から下位の階層へ段階的に分解したものを何と呼ぶか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/52.png\" alt=\"\"\u003e",
+                   "q":  "図のように，プロジェクトチームが実行すべき作業を上位の階層から下位の階層へ段階的に分解したものを何と呼ぶか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/52.png\" alt=\"\"\u003e",
                    "op":  [
                               "CPM",
                               "EVM",
@@ -1024,7 +1024,7 @@
         "zh":  {
                    "ti":  "平成26年春期 問52",
                    "ca":  "管理系 » 專案管理 » 專案範疇",
-                   "q":  "如圖所示，將專案團隊應執行的工作從上位階層逐步分解至下位階層，這種做法稱為什麼？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/52.png\" alt=\"\"\u003e",
+                   "q":  "如圖所示，將專案團隊應執行的工作從上位階層逐步分解至下位階層，這種做法稱為什麼？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/52.png\" alt=\"\"\u003e",
                    "op":  [
                               "CPM",
                               "EVM",
@@ -1039,7 +1039,7 @@
         "ja":  {
                    "ti":  "平成25年春期　問53",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトのコスト",
-                   "q":  "表の機能と特性をもったプログラムのファンクションポイント値は幾らか。ここで，複雑さの補正係数は0.75とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/53.png\" alt=\"\"\u003e",
+                   "q":  "表の機能と特性をもったプログラムのファンクションポイント値は幾らか。ここで，複雑さの補正係数は0.75とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/53.png\" alt=\"\"\u003e",
                    "op":  [
                               "18",
                               "24",
@@ -1052,7 +1052,7 @@
         "zh":  {
                    "ti":  "平成25年春季 問53",
                    "ca":  "管理類 » 專案管理 » 專案成本",
-                   "q":  "試計算具有下表功能與特性的程式之功能點（Function Point）值。在此，複雜度修正係數為 0.75。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/53.png\" alt=\"\"\u003e",
+                   "q":  "試計算具有下表功能與特性的程式之功能點（Function Point）值。在此，複雜度修正係數為 0.75。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/53.png\" alt=\"\"\u003e",
                    "op":  [
                               "18",
                               "24",
@@ -1095,7 +1095,7 @@
         "ja":  {
                    "ti":  "平成31年春期　問54",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの資源",
-                   "q":  "システムを構成するプログラムの本数とプログラム1本当りのコーディング所要工数が表のとおりであるとき，システムを95日間で開発するには少なくとも何人の要員が必要か。ここで，システムの開発にはコーディングのほかに，設計及びテストの作業が必要であり，それらの作業にはコーディング所要工数の8倍の工数が掛かるものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/54.png\" alt=\"\"\u003e",
+                   "q":  "システムを構成するプログラムの本数とプログラム1本当りのコーディング所要工数が表のとおりであるとき，システムを95日間で開発するには少なくとも何人の要員が必要か。ここで，システムの開発にはコーディングのほかに，設計及びテストの作業が必要であり，それらの作業にはコーディング所要工数の8倍の工数が掛かるものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/54.png\" alt=\"\"\u003e",
                    "op":  [
                               "8",
                               "9",
@@ -1108,7 +1108,7 @@
         "zh":  {
                    "ti":  "平成31年春季　問54",
                    "ca":  "管理類 » 專案管理 » 專案資源",
-                   "q":  "若構成系統的程式數量及每支程式所需的程式編寫工時如下表所示，當要在95天內完成系統開發時，至少需要多少人力？在此，系統開發除了程式編寫外，還需要設計及測試作業，且該類作業所需的工時為程式編寫工時的8倍。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/54.png\" alt=\"\"\u003e",
+                   "q":  "若構成系統的程式數量及每支程式所需的程式編寫工時如下表所示，當要在95天內完成系統開發時，至少需要多少人力？在此，系統開發除了程式編寫外，還需要設計及測試作業，且該類作業所需的工時為程式編寫工時的8倍。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/54.png\" alt=\"\"\u003e",
                    "op":  [
                               "8",
                               "9",
@@ -1131,7 +1131,7 @@
                               "作業の出来高の時間的な推移を表現するのに適しており，費用管理と進捗管理が同時に行える。"
                           ],
                    "an":  3,
-                   "al":  "ガントチャート(Gantt chart)は、縦軸に作業項目・横軸に時間をとり、作業に必要な期間を横棒の長さで表記する図法です。作業項目同士の日程的な重なりが視覚的に把握しやすいので日程計画の策定に使用されたり、計画と実績を並べて表記することで進捗度を管理する方法として使用されたりします。\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/53.png\" alt=\"53.png\"\u003e"
+                   "al":  "ガントチャート(Gantt chart)は、縦軸に作業項目・横軸に時間をとり、作業に必要な期間を横棒の長さで表記する図法です。作業項目同士の日程的な重なりが視覚的に把握しやすいので日程計画の策定に使用されたり、計画と実績を並べて表記することで進捗度を管理する方法として使用されたりします。\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/53.png\" alt=\"53.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和3年度 問53",
@@ -1144,7 +1144,7 @@
                               "適合表現作業完成量的時間推移，並能同時進行成本管理與進度管理。"
                           ],
                    "an":  3,
-                   "al":  "甘特圖（Gantt chart）是一種將縱軸設為作業項目、橫軸設為時間，並以橫條長度表示作業所需期間的圖表法。由於可以直觀地掌握作業項目之間在日程上的重疊情形，因此常用於擬定日程計畫，或是將計畫與實際執行情形並列，以作為管理進度的方法使用。\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/53.png\" alt=\"53.png\"\u003e"
+                   "al":  "甘特圖（Gantt chart）是一種將縱軸設為作業項目、橫軸設為時間，並以橫條長度表示作業所需期間的圖表法。由於可以直觀地掌握作業項目之間在日程上的重疊情形，因此常用於擬定日程計畫，或是將計畫與實際執行情形並列，以作為管理進度的方法使用。\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/53.png\" alt=\"53.png\"\u003e"
                }
     },
     {
@@ -1159,7 +1159,7 @@
                               "ワークパッケージを完了するために必要な作業"
                           ],
                    "an":  1,
-                   "al":  "WBS(Work Breakdown Structure)は、プロジェクト目標を達成し、必要な成果物を過不足なく作成するために、プロジェクトチームが実行すべき作業を、成果物を主体に階層的に要素分解したものです。この階層的に細分化された構造図の中で最下層に位置する個々の部分をワークパッケージといい、プロジェクトを実施する際のコントロール単位となります。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/51.png\" alt=\"\"\u003e"
+                   "al":  "WBS(Work Breakdown Structure)は、プロジェクト目標を達成し、必要な成果物を過不足なく作成するために、プロジェクトチームが実行すべき作業を、成果物を主体に階層的に要素分解したものです。この階層的に細分化された構造図の中で最下層に位置する個々の部分をワークパッケージといい、プロジェクトを実施する際のコントロール単位となります。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/51.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成25年春期 問51",
@@ -1172,7 +1172,7 @@
                               "完成工項所必要的作業"
                           ],
                    "an":  1,
-                   "al":  "WBS（Work Breakdown Structure，工作分解結構）是為了達成專案目標並完整產出必要的交付標的，以交付標的為主體，將專案團隊所應執行的工作進行階層化要素分解的結構。在這個階層化細分後的結構圖中，位於最下層的各個部分稱為工項（Work Package），是執行專案時的控管單位。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/51.png\" alt=\"\"\u003e"
+                   "al":  "WBS（Work Breakdown Structure，工作分解結構）是為了達成專案目標並完整產出必要的交付標的，以交付標的為主體，將專案團隊所應執行的工作進行階層化要素分解的結構。在這個階層化細分後的結構圖中，位於最下層的各個部分稱為工項（Work Package），是執行專案時的控管單位。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/51.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1187,7 +1187,7 @@
                               "SS関係(Start-to-Start)"
                           ],
                    "an":  2,
-                   "al":  "4つの関係は、それぞれアクティビティ同士の依存関係を表現します。FF関係（Finish-to-Finish，終了-終了）「受付が終了したら試験会場への入場を終了する」というように、あるアクティビティの終了が、他方のアクティビティの終了条件になっている関係。FS関係（Finish-to-Start，終了-開始）「受付が終了してから試験を開始する」というように、あるアクティビティの終了が、他方のアクティビティの開始条件になっている関係。SF関係（Start-to-Finish，開始-終了）「試験が開始されたら受付を終了する」というように、あるアクティビティの開始が、他方のアクティビティの終了条件になっている関係。SS関係（Start-to-Start，開始-開始）「受付が開始されたら試験会場への入場を開始する」というように、あるアクティビティの開始が、他方のアクティビティの開始条件になっている関係。「\"システム要件定義プロセス\"が完了すれば，\"システム方式設計プロセス\"が開始できる」の事例は、システム要件定義プロセスの終了が、システム方式設計プロセスの開始条件となっているため「FS関係(Finish-to-Start)」に該当します。したがって「イ」が正解です。アローダイアグラムでは、先行作業の完了を待って後続の作業が開始する「FS関係(Finish-to-Start)」しか扱えませんが、アローダイアグラムと同様に作業同士の依存関係をネットワーク図で表すプレシデンスダイアグラム法では、FF、SF、SSの関係も扱えるようになっています。今後の出題が予想されますので確認しておきましょう。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/51.png\" alt=\"\"\u003e"
+                   "al":  "4つの関係は、それぞれアクティビティ同士の依存関係を表現します。FF関係（Finish-to-Finish，終了-終了）「受付が終了したら試験会場への入場を終了する」というように、あるアクティビティの終了が、他方のアクティビティの終了条件になっている関係。FS関係（Finish-to-Start，終了-開始）「受付が終了してから試験を開始する」というように、あるアクティビティの終了が、他方のアクティビティの開始条件になっている関係。SF関係（Start-to-Finish，開始-終了）「試験が開始されたら受付を終了する」というように、あるアクティビティの開始が、他方のアクティビティの終了条件になっている関係。SS関係（Start-to-Start，開始-開始）「受付が開始されたら試験会場への入場を開始する」というように、あるアクティビティの開始が、他方のアクティビティの開始条件になっている関係。「\"システム要件定義プロセス\"が完了すれば，\"システム方式設計プロセス\"が開始できる」の事例は、システム要件定義プロセスの終了が、システム方式設計プロセスの開始条件となっているため「FS関係(Finish-to-Start)」に該当します。したがって「イ」が正解です。アローダイアグラムでは、先行作業の完了を待って後続の作業が開始する「FS関係(Finish-to-Start)」しか扱えませんが、アローダイアグラムと同様に作業同士の依存関係をネットワーク図で表すプレシデンスダイアグラム法では、FF、SF、SSの関係も扱えるようになっています。今後の出題が予想されますので確認しておきましょう。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/51.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "令和元年秋季 問51",
@@ -1200,14 +1200,14 @@
                               "SS 關係 (Start-to-Start，開始-開始)"
                           ],
                    "an":  2,
-                   "al":  "四種關係分別表示活動之間的相依性：\u003cbr\u003eFF 關係（完成-完成）：例如「報名結束後，方可結束進入考試會場」，意指某活動的結束為另一活動的結束條件。\u003cbr\u003eFS 關係（完成-開始）：例如「報名結束後，才開始考試」，意指某活動的結束為另一活動的開始條件。\u003cbr\u003eSF 關係（開始-完成）：例如「考試開始後，結束報名」，意指某活動的開始為另一活動的結束條件。\u003cbr\u003eSS 關係（開始-開始）：例如「報名開始後，開始進入考試會場」，意指某活動的開始為另一活動的開始條件。\u003cbr\u003e\u003cbr\u003e案例中「『系統需求定義程序』完成後，即可開始『系統架構設計程序』」，由於系統需求定義程序的結束是系統架構設計程序的開始條件，因此屬於「FS 關係 (Finish-to-Start)」。故「イ」(選項2)為正確答案。\u003cbr\u003e\u003cbr\u003e在箭線圖（Arrow Diagram）中，僅能處理前置作業完成後才能開始後續作業的「FS 關係」，但在與箭線圖同樣利用網路圖表示作業間相依性的前置圖法（Precedence Diagram Method, PDM）中，亦可處理 FF、SF 及 SS 關係。建議確認這些觀念，以備未來考試出題。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/51.png\" alt=\"\"\u003e"
+                   "al":  "四種關係分別表示活動之間的相依性：\u003cbr\u003eFF 關係（完成-完成）：例如「報名結束後，方可結束進入考試會場」，意指某活動的結束為另一活動的結束條件。\u003cbr\u003eFS 關係（完成-開始）：例如「報名結束後，才開始考試」，意指某活動的結束為另一活動的開始條件。\u003cbr\u003eSF 關係（開始-完成）：例如「考試開始後，結束報名」，意指某活動的開始為另一活動的結束條件。\u003cbr\u003eSS 關係（開始-開始）：例如「報名開始後，開始進入考試會場」，意指某活動的開始為另一活動的開始條件。\u003cbr\u003e\u003cbr\u003e案例中「『系統需求定義程序』完成後，即可開始『系統架構設計程序』」，由於系統需求定義程序的結束是系統架構設計程序的開始條件，因此屬於「FS 關係 (Finish-to-Start)」。故「イ」(選項2)為正確答案。\u003cbr\u003e\u003cbr\u003e在箭線圖（Arrow Diagram）中，僅能處理前置作業完成後才能開始後續作業的「FS 關係」，但在與箭線圖同樣利用網路圖表示作業間相依性的前置圖法（Precedence Diagram Method, PDM）中，亦可處理 FF、SF 及 SS 關係。建議確認這些觀念，以備未來考試出題。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/51.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成30年秋期　問52",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "図のプロジェクトの日程計画において，プロジェクトの所要日数は何日か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/52.png\" alt=\"\"\u003e",
+                   "q":  "図のプロジェクトの日程計画において，プロジェクトの所要日数は何日か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/52.png\" alt=\"\"\u003e",
                    "op":  [
                               "40",
                               "45",
@@ -1220,7 +1220,7 @@
         "zh":  {
                    "ti":  "平成30年秋季 問52",
                    "ca":  "管理類 » 專案管理 » 專案時程",
-                   "q":  "在圖示的專案時程計畫中，該專案的所需天數為幾天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/52.png\" alt=\"\"\u003e",
+                   "q":  "在圖示的專案時程計畫中，該專案的所需天數為幾天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/52.png\" alt=\"\"\u003e",
                    "op":  [
                               "40",
                               "45",
@@ -1243,7 +1243,7 @@
                               "試験の開始から20分経過したら，受付を終了する。"
                           ],
                    "an":  4,
-                   "al":  "プレシデンスダイアグラム法(PDM法)は、個々の作業を四角で囲み、作業同士を矢印で結ぶことで作業順序や依存関係を表現する図法です。作業同士の関係を表すという意味ではアローダイアグラムと同じですが、アローダイアグラムでは作業を矢印で結合点を丸のノードで示すので、記述方法が根本的に異なります。またアローダイアグラムでは、ある作業の終了が別の作業の開始条件となる「終了－開始」(FS：Finish to Start)の依存関係しか表現できませんが、プレシデンスダイアグラムではこの他に、「開始-開始」(SS：Start to Start)、「開始-終了」(SF：Start to Finish)、「終了-終了」(FF：Finish to Finish)の関係を記述できることが特徴です。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/52.png\" alt=\"\"\u003e"
+                   "al":  "プレシデンスダイアグラム法(PDM法)は、個々の作業を四角で囲み、作業同士を矢印で結ぶことで作業順序や依存関係を表現する図法です。作業同士の関係を表すという意味ではアローダイアグラムと同じですが、アローダイアグラムでは作業を矢印で結合点を丸のノードで示すので、記述方法が根本的に異なります。またアローダイアグラムでは、ある作業の終了が別の作業の開始条件となる「終了－開始」(FS：Finish to Start)の依存関係しか表現できませんが、プレシデンスダイアグラムではこの他に、「開始-開始」(SS：Start to Start)、「開始-終了」(SF：Start to Finish)、「終了-終了」(FF：Finish to Finish)の関係を記述できることが特徴です。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/52.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成31年春季 問52",
@@ -1256,7 +1256,7 @@
                               "考試開始後經過20分鐘，受理報到結束。"
                           ],
                    "an":  4,
-                   "al":  "優先圖法（PDM法）是一種透過方框表示各項作業，並以箭頭連接作業來呈現作業順序與依賴關係的圖解法。雖然在表示作業間關係的意義上與箭頭圖法（Arrow Diagram）相同，但箭頭圖法是以節點圓圈表示作業連接點，故描述方式有根本上的差異。此外，箭頭圖法僅能表示「完成-開始（FS：Finish to Start）」的依賴關係（即前一作業完成為後一作業的開始條件），而優先圖法的特點在於還能描述「開始-開始（SS：Start to Start）」、「開始-完成（SF：Start to Finish）」及「完成-完成（FF：Finish to Finish）」的關係。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/52.png\" alt=\"\"\u003e"
+                   "al":  "優先圖法（PDM法）是一種透過方框表示各項作業，並以箭頭連接作業來呈現作業順序與依賴關係的圖解法。雖然在表示作業間關係的意義上與箭頭圖法（Arrow Diagram）相同，但箭頭圖法是以節點圓圈表示作業連接點，故描述方式有根本上的差異。此外，箭頭圖法僅能表示「完成-開始（FS：Finish to Start）」的依賴關係（即前一作業完成為後一作業的開始條件），而優先圖法的特點在於還能描述「開始-開始（SS：Start to Start）」、「開始-完成（SF：Start to Finish）」及「完成-完成（FF：Finish to Finish）」的關係。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/52.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1299,7 +1299,7 @@
                               "単位作業量の基準値を決めておき，作業項目を単位作業項目まで分解し，その積算で全体の作業量を見積もる方法である。"
                           ],
                    "an":  3,
-                   "al":  "ファンクションポイント法は、外部入出力や内部ファイルの数と難易度の高さから、ファンクションポイントという数値を算出し、それを元に論理的に開発規模を見積もる手法です。画面や帳票の数などを基準に見積もるので、依頼者からのコンセンサス(合意)が得られやすいという長所があります。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/52.png\" alt=\"\"\u003e"
+                   "al":  "ファンクションポイント法は、外部入出力や内部ファイルの数と難易度の高さから、ファンクションポイントという数値を算出し、それを元に論理的に開発規模を見積もる手法です。画面や帳票の数などを基準に見積もるので、依頼者からのコンセンサス(合意)が得られやすいという長所があります。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/52.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成29年春季 問52",
@@ -1312,14 +1312,14 @@
                               "預先設定單位作業量的基準值，將作業項目分解至單位作業項目，並透過累加來估算整體作業量的方法。"
                           ],
                    "an":  3,
-                   "al":  "功能點法是根據外部輸入輸出與內部檔案的數量及其複雜度，算出名為「功能點」的數值，並以此為基礎從邏輯上估算開發規模的方法。由於是基於畫面或報表數量等作為估算基準，因此具有較容易獲得委託方共識的優點。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/52.png\" alt=\"\"\u003e"
+                   "al":  "功能點法是根據外部輸入輸出與內部檔案的數量及其複雜度，算出名為「功能點」的數值，並以此為基礎從邏輯上估算開發規模的方法。由於是基於畫面或報表數量等作為估算基準，因此具有較容易獲得委託方共識的優點。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/52.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成21年春期　問53",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "表は，1人で行うプログラム開発の開始時点での計画表である。6月1日に作業を開始し，6月16日の終了時点でコーディング作業の25%が終了した。6月16日の終了時点で残っている作業は全体の約何％か。ここで，開発は，土日を除く週5日間に行うものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/53.png\" alt=\"問53画像\"\u003e",
+                   "q":  "表は，1人で行うプログラム開発の開始時点での計画表である。6月1日に作業を開始し，6月16日の終了時点でコーディング作業の25%が終了した。6月16日の終了時点で残っている作業は全体の約何％か。ここで，開発は，土日を除く週5日間に行うものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/53.png\" alt=\"問53画像\"\u003e",
                    "op":  [
                               "30",
                               "47",
@@ -1332,7 +1332,7 @@
         "zh":  {
                    "ti":  "平成21年春季 問53",
                    "ca":  "管理類 » 專案管理 » 專案時程管理",
-                   "q":  "下表為單人進行程式開發時的起始計畫表。於6月1日開始作業，在6月16日結束時，編碼（Coding）作業完成了25%。請問在6月16日結束時，剩餘的作業量約佔整體的百分之幾？在此，開發作業假設為週一至週五，不含週六、週日。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/53.png\" alt=\"問53圖片\"\u003e",
+                   "q":  "下表為單人進行程式開發時的起始計畫表。於6月1日開始作業，在6月16日結束時，編碼（Coding）作業完成了25%。請問在6月16日結束時，剩餘的作業量約佔整體的百分之幾？在此，開發作業假設為週一至週五，不含週六、週日。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/53.png\" alt=\"問53圖片\"\u003e",
                    "op":  [
                               "30",
                               "47",
@@ -1355,7 +1355,7 @@
                               "受容"
                           ],
                    "an":  4,
-                   "al":  "PMBOKによればプロジェクトにマイナスの影響を与えるリスク(脅威)への対応戦略には「回避」「転嫁」「軽減」「受容」の4種類があります。回避リスクそのものの除去や、プロジェクトのスコープや目標を縮小・変更するなどしてリスクの影響をゼロにする戦略転嫁リスクのある業務・作業のアウトソーシングや、損害保険の契約によってリスクによるマイナスの影響を第三者へ移転する戦略軽減リスクが現実化したときの損害、リスクの発生確率のいずれか一方または両方を低くする戦略受容リスクが現実化した時の影響が許容可能範囲内である場合やリスクの除去が困難であるときに、特に対策をせずにそのままにしておく戦略。対策費用が予想される損失金額を上回っているときなどに採られるこれに対し、プロジェクトにプラスの影響を与えるリスク(好機)への対応戦略にも「活用」「共有」「強化」「受容」の4種類があります。活用好機が確実に到来するように、現実化の不確実性を取り除くための戦略共有好機を得られる能力の高い第三者にプロジェクトの実行権限の一部または全部を与える戦略強化好機のプラスの影響を増加させたり、その発生確率を高めたりする戦略受容積極的な利用はしないが、好機が実現したときにはその利益を享受しようとする戦略。対策費用が予想される利得を上回っているときなどに採られる\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/55.png\" alt=\"\"\u003e"
+                   "al":  "PMBOKによればプロジェクトにマイナスの影響を与えるリスク(脅威)への対応戦略には「回避」「転嫁」「軽減」「受容」の4種類があります。回避リスクそのものの除去や、プロジェクトのスコープや目標を縮小・変更するなどしてリスクの影響をゼロにする戦略転嫁リスクのある業務・作業のアウトソーシングや、損害保険の契約によってリスクによるマイナスの影響を第三者へ移転する戦略軽減リスクが現実化したときの損害、リスクの発生確率のいずれか一方または両方を低くする戦略受容リスクが現実化した時の影響が許容可能範囲内である場合やリスクの除去が困難であるときに、特に対策をせずにそのままにしておく戦略。対策費用が予想される損失金額を上回っているときなどに採られるこれに対し、プロジェクトにプラスの影響を与えるリスク(好機)への対応戦略にも「活用」「共有」「強化」「受容」の4種類があります。活用好機が確実に到来するように、現実化の不確実性を取り除くための戦略共有好機を得られる能力の高い第三者にプロジェクトの実行権限の一部または全部を与える戦略強化好機のプラスの影響を増加させたり、その発生確率を高めたりする戦略受容積極的な利用はしないが、好機が実現したときにはその利益を享受しようとする戦略。対策費用が予想される利得を上回っているときなどに採られる\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/55.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成26年秋季 問55",
@@ -1368,7 +1368,7 @@
                               "接受"
                           ],
                    "an":  4,
-                   "al":  "根據PMBOK，針對會對專案產生負面影響的風險（威脅）的應對策略有「規避」、「轉移」、「減輕」與「接受」四種。\n\n*   規避：透過消除風險本身，或縮減、變更專案範圍或目標，使風險影響歸零的策略。\n*   轉移：透過將有風險的業務或作業外包，或是簽訂損害保險，將風險帶來的負面影響轉移給第三方的策略。\n*   減輕：降低風險發生時的損害程度、降低風險發生的機率，或是兩者並行，以降低風險的策略。\n*   接受：當風險發生時的影響在容許範圍內，或是難以消除風險時，不採取特別對策而維持現狀的策略。當對策成本高於預期損失金額時，通常會採取此策略。\n\n相對地，針對會對專案產生正面影響的風險（機會）的應對策略，也有「利用」、「分享」、「強化」、「接受」四種。\n\n*   利用：為了確保機會確實到來，排除現實化不確定性的策略。\n*   分享：將專案的部分或全部執行權限，委託給具備高能力獲取機會之第三方的策略。\n*   強化：增加機會帶來的正面影響，或是提高其發生機率的策略。\n*   接受：雖不積極利用，但在機會實現時享受其利益的策略。當對策成本高於預期利得時，通常會採取此策略。\n\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/55.png\" alt=\"\"\u003e"
+                   "al":  "根據PMBOK，針對會對專案產生負面影響的風險（威脅）的應對策略有「規避」、「轉移」、「減輕」與「接受」四種。\n\n*   規避：透過消除風險本身，或縮減、變更專案範圍或目標，使風險影響歸零的策略。\n*   轉移：透過將有風險的業務或作業外包，或是簽訂損害保險，將風險帶來的負面影響轉移給第三方的策略。\n*   減輕：降低風險發生時的損害程度、降低風險發生的機率，或是兩者並行，以降低風險的策略。\n*   接受：當風險發生時的影響在容許範圍內，或是難以消除風險時，不採取特別對策而維持現狀的策略。當對策成本高於預期損失金額時，通常會採取此策略。\n\n相對地，針對會對專案產生正面影響的風險（機會）的應對策略，也有「利用」、「分享」、「強化」、「接受」四種。\n\n*   利用：為了確保機會確實到來，排除現實化不確定性的策略。\n*   分享：將專案的部分或全部執行權限，委託給具備高能力獲取機會之第三方的策略。\n*   強化：增加機會帶來的正面影響，或是提高其發生機率的策略。\n*   接受：雖不積極利用，但在機會實現時享受其利益的策略。當對策成本高於預期利得時，通常會採取此策略。\n\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/55.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1403,7 +1403,7 @@
         "ja":  {
                    "ti":  "平成19年秋期　問48",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "次のアローダイアグラムで表される作業A～Hを見直したところ，作業Dだけが短縮可能であり，その所要日数を6日間にできることが分かった。業務全体の所要日数は何日間短縮できるか。ここで，矢印に示す数字は各作業の標準日数を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/48.png\" alt=\"問48画像\"\u003e",
+                   "q":  "次のアローダイアグラムで表される作業A～Hを見直したところ，作業Dだけが短縮可能であり，その所要日数を6日間にできることが分かった。業務全体の所要日数は何日間短縮できるか。ここで，矢印に示す数字は各作業の標準日数を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/48.png\" alt=\"問48画像\"\u003e",
                    "op":  [
                               "1 ",
                               "2 ",
@@ -1416,7 +1416,7 @@
         "zh":  {
                    "ti":  "平成19年秋期 第48題",
                    "ca":  "管理系 » 專案管理 » 專案時間",
-                   "q":  "重新檢視以下箭線圖（Arrow Diagram）所表示的作業A～H後，發現僅有作業D可以縮短，且其所需天數可縮短為6天。整體業務所需的總天數可以縮短多少天？在此，箭頭所示的數字代表各作業的標準天數。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/48.png\" alt=\"第48題圖片\"\u003e",
+                   "q":  "重新檢視以下箭線圖（Arrow Diagram）所表示的作業A～H後，發現僅有作業D可以縮短，且其所需天數可縮短為6天。整體業務所需的總天數可以縮短多少天？在此，箭頭所示的數字代表各作業的標準天數。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/48.png\" alt=\"第48題圖片\"\u003e",
                    "op":  [
                               "1 ",
                               "2 ",
@@ -1487,7 +1487,7 @@
         "ja":  {
                    "ti":  "平成21年春期　問51",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "アローダイアグラムのクリティカルパスと，Hの最早開始日の適切な組合せはどれか。ここで，矢線の数字は作業所要日数を示し，Aの作業開始時を0日とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/51_1.png\" alt=\"問51画像\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/51_2.png\" alt=\"\"\u003e",
+                   "q":  "アローダイアグラムのクリティカルパスと，Hの最早開始日の適切な組合せはどれか。ここで，矢線の数字は作業所要日数を示し，Aの作業開始時を0日とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/51_1.png\" alt=\"問51画像\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/51_2.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -1500,7 +1500,7 @@
         "zh":  {
                    "ti":  "平成21年春季 問51",
                    "ca":  "管理類 » 專案管理 » 專案時程管理",
-                   "q":  "關於箭線圖（Arrow Diagram）的要徑（Critical Path）以及作業H的最早開始日期，下列組合何者正確？在此，箭線上的數字表示作業所需天數，並假設作業A的開始時間為第0天。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/51_1.png\" alt=\"問51圖片\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/51_2.png\" alt=\"\"\u003e",
+                   "q":  "關於箭線圖（Arrow Diagram）的要徑（Critical Path）以及作業H的最早開始日期，下列組合何者正確？在此，箭線上的數字表示作業所需天數，並假設作業A的開始時間為第0天。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/51_1.png\" alt=\"問51圖片\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/51_2.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -1523,7 +1523,7 @@
                               "モンテカルロ法"
                           ],
                    "an":  1,
-                   "al":  "プロジェクトの所要時間を短縮する方法は「クラッシング」と「ファストトラッキング」に大別されます。クラッシングメンバーの時間外勤務を増やしたり、業務内容に精通したメンバーを新たに増員するなど、クリティカルパス上のアクティビティに資源を追加投入して短縮を図る方法\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/52_1.png\" alt=\"\"\u003e"
+                   "al":  "プロジェクトの所要時間を短縮する方法は「クラッシング」と「ファストトラッキング」に大別されます。クラッシングメンバーの時間外勤務を増やしたり、業務内容に精通したメンバーを新たに増員するなど、クリティカルパス上のアクティビティに資源を追加投入して短縮を図る方法\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/52_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成28年秋期 問52",
@@ -1536,14 +1536,14 @@
                               "蒙地卡羅法（Monte Carlo Method）"
                           ],
                    "an":  1,
-                   "al":  "縮短專案所需時間的方法大致可分為「趕工」與「快速跟進」。趕工是指透過增加加班時間，或是增派精通業務的人員等方式，對關鍵路徑上的活動追加投入資源，以達成縮短時程的方法。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/52_1.png\" alt=\"\"\u003e"
+                   "al":  "縮短專案所需時間的方法大致可分為「趕工」與「快速跟進」。趕工是指透過增加加班時間，或是增派精通業務的人員等方式，對關鍵路徑上的活動追加投入資源，以達成縮短時程的方法。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/52_1.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成22年秋期　問51",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトのスコープ",
-                   "q":  "図のように，プロジェクトチームが実行すべき作業を上位から下位の階層へ段階的に分解したものを何と呼ぶか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/51.png\" alt=\"\"\u003e",
+                   "q":  "図のように，プロジェクトチームが実行すべき作業を上位から下位の階層へ段階的に分解したものを何と呼ぶか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/51.png\" alt=\"\"\u003e",
                    "op":  [
                               "CPM",
                               "EVM",
@@ -1556,7 +1556,7 @@
         "zh":  {
                    "ti":  "平成22年秋季 問51",
                    "ca":  "管理類 » 專案管理 » 專案範疇",
-                   "q":  "如圖所示，將專案團隊應執行之工作從上位至下位階層進行階段性分解的工具稱為什麼？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/51.png\" alt=\"\"\u003e",
+                   "q":  "如圖所示，將專案團隊應執行之工作從上位至下位階層進行階段性分解的工具稱為什麼？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/51.png\" alt=\"\"\u003e",
                    "op":  [
                               "CPM",
                               "EVM",
@@ -1599,7 +1599,7 @@
         "ja":  {
                    "ti":  "平成26年春期　問53",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "図に示すプロジェクト活動のクリティカルパスはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/53.png\" alt=\"\"\u003e",
+                   "q":  "図に示すプロジェクト活動のクリティカルパスはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/53.png\" alt=\"\"\u003e",
                    "op":  [
                               "A→B→E→I→L",
                               "A→C→D→E→H→K",
@@ -1612,7 +1612,7 @@
         "zh":  {
                    "ti":  "平成26年春季 問53",
                    "ca":  "管理類 » 專案管理 » 專案時程",
-                   "q":  "圖中所示專案活動的要徑（Critical Path）為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/53.png\" alt=\"\"\u003e",
+                   "q":  "圖中所示專案活動的要徑（Critical Path）為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/53.png\" alt=\"\"\u003e",
                    "op":  [
                               "A→B→E→I→L",
                               "A→C→D→E→H→K",
@@ -1719,7 +1719,7 @@
                               "利用可能な資源を考慮した作業スケジュールを作成する。"
                           ],
                    "an":  3,
-                   "al":  "WBS(Work Breakdown Structure)は、プロジェクト目標を達成し、必要な成果物を過不足なく作成するために、プロジェクトチームが実行すべき作業を、成果物を主体に階層的に要素分解したものです。分解後の最下層に位置する作業単位ごとに内容・日程・目標を設定し、プロジェクト実行中も作業単位ごとに計画と実績の差異を確認することで、進捗管理を効率的に行える利点があります。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/45.png\" alt=\"Work Breakdown Structure\"\u003e"
+                   "al":  "WBS(Work Breakdown Structure)は、プロジェクト目標を達成し、必要な成果物を過不足なく作成するために、プロジェクトチームが実行すべき作業を、成果物を主体に階層的に要素分解したものです。分解後の最下層に位置する作業単位ごとに内容・日程・目標を設定し、プロジェクト実行中も作業単位ごとに計画と実績の差異を確認することで、進捗管理を効率的に行える利点があります。\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/45.png\" alt=\"Work Breakdown Structure\"\u003e"
                },
         "zh":  {
                    "ti":  "平成17年秋季 問45",
@@ -1732,14 +1732,14 @@
                               "考量可用資源並建立工作時程表。"
                           ],
                    "an":  3,
-                   "al":  "WBS（Work Breakdown Structure，工作分解結構）是為了達成專案目標，並完整無誤地產出必要成果物，由專案團隊以成果物為主體，將需執行的工作進行階層式分解的結構。藉由針對分解後最底層的每個工作單位設定內容、日程與目標，並在專案執行過程中逐一確認各工作單位的計畫與實際成果差異，具有能有效進行進度管理的優點。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/45.png\" alt=\"Work Breakdown Structure\"\u003e"
+                   "al":  "WBS（Work Breakdown Structure，工作分解結構）是為了達成專案目標，並完整無誤地產出必要成果物，由專案團隊以成果物為主體，將需執行的工作進行階層式分解的結構。藉由針對分解後最底層的每個工作單位設定內容、日程與目標，並在專案執行過程中逐一確認各工作單位的計畫與實際成果差異，具有能有效進行進度管理的優點。\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/45.png\" alt=\"Work Breakdown Structure\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成30年秋期　問53",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "表は，1人で行うプログラム開発の開始時点での計画表である。6月1日に開発を開始し，6月11日の終了時点でコーディング作業の25%が終了した。6月11日の終了時点で残っている作業量は全体の約何%か。ここで，開発は，土曜日と日曜日を除く週5日間で行うものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/53.png\" alt=\"\"\u003e",
+                   "q":  "表は，1人で行うプログラム開発の開始時点での計画表である。6月1日に開発を開始し，6月11日の終了時点でコーディング作業の25%が終了した。6月11日の終了時点で残っている作業量は全体の約何%か。ここで，開発は，土曜日と日曜日を除く週5日間で行うものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/53.png\" alt=\"\"\u003e",
                    "op":  [
                               "30",
                               "47",
@@ -1752,7 +1752,7 @@
         "zh":  {
                    "ti":  "平成30年秋季 問53",
                    "ca":  "管理類 » 專案管理 » 專案時程",
-                   "q":  "下表為一人進行程式開發時的起始計畫表。於6月1日開始開發，至6月11日結束時，編碼作業已完成25%。請問在6月11日結束時，剩餘的作業量約為整體的百分之幾？在此，開發作業排除週六與週日，每週工作5天。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/53.png\" alt=\"\"\u003e",
+                   "q":  "下表為一人進行程式開發時的起始計畫表。於6月1日開始開發，至6月11日結束時，編碼作業已完成25%。請問在6月11日結束時，剩餘的作業量約為整體的百分之幾？在此，開發作業排除週六與週日，每週工作5天。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/53.png\" alt=\"\"\u003e",
                    "op":  [
                               "30",
                               "47",
@@ -1767,7 +1767,7 @@
         "ja":  {
                    "ti":  "令和3年度　問54",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの資源",
-                   "q":  "開発期間10か月，開発工数200人月のプロジェクトを計画する。次の配分表を前提とすると，ピーク時の要員は何人か。ここで，各工程の開始から終了までの要員数は一定とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/54.png\" alt=\"54.png\"\u003e",
+                   "q":  "開発期間10か月，開発工数200人月のプロジェクトを計画する。次の配分表を前提とすると，ピーク時の要員は何人か。ここで，各工程の開始から終了までの要員数は一定とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/54.png\" alt=\"54.png\"\u003e",
                    "op":  [
                               "18",
                               "20",
@@ -1780,7 +1780,7 @@
         "zh":  {
                    "ti":  "令和3年度 問54",
                    "ca":  "管理系 » 專案管理 » 專案資源",
-                   "q":  "計畫一個開發期間為 10 個月、開發工時為 200 人月的專案。在以下分配表的條件下，尖峰時期的所需人員為何？此外，各階段從開始到結束的人員配置數量固定。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/54.png\" alt=\"54.png\"\u003e",
+                   "q":  "計畫一個開發期間為 10 個月、開發工時為 200 人月的專案。在以下分配表的條件下，尖峰時期的所需人員為何？此外，各階段從開始到結束的人員配置數量固定。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/54.png\" alt=\"54.png\"\u003e",
                    "op":  [
                               "18",
                               "20",
@@ -1795,7 +1795,7 @@
         "ja":  {
                    "ti":  "平成24年春期　問53",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの資源",
-                   "q":  "設計書の作成状況が表のとおりであるとき，3種類の設計書全ての作成を完了させるために必要な今後の工数(人時)は幾らか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/53.png\" alt=\"問53画像\"\u003e",
+                   "q":  "設計書の作成状況が表のとおりであるとき，3種類の設計書全ての作成を完了させるために必要な今後の工数(人時)は幾らか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/53.png\" alt=\"問53画像\"\u003e",
                    "op":  [
                               "550",
                               "900",
@@ -1808,7 +1808,7 @@
         "zh":  {
                    "ti":  "平成24年春季 問53",
                    "ca":  "管理類 » 專案管理 » 專案資源",
-                   "q":  "若設計書的製作狀況如表所示，為了完成三種設計書的製作，今後所需的工數（人時）為多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/53.png\" alt=\"問53圖片\"\u003e",
+                   "q":  "若設計書的製作狀況如表所示，為了完成三種設計書的製作，今後所需的工數（人時）為多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/53.png\" alt=\"問53圖片\"\u003e",
                    "op":  [
                               "550",
                               "900",
@@ -1851,7 +1851,7 @@
         "ja":  {
                    "ti":  "令和2年度　問54",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "あるシステムの設計から結合テストまでの作業について，開発工程ごとの見積工数を表1に，開発工程ごとの上級技術者と初級技術者の要員割当てを表2に示す。上級技術者は，初級技術者に比べて，プログラム作成・単体テストにおいて2倍の生産性を有する。表1の見積工数は，上級技術者の生産性を基に算出している。\u003cbr\u003e　全ての開発工程に対して，上級技術者を1人追加して割り当てると，この作業に要する期間は何か月短縮できるか。ここで，開発工程の期間は重複させないものとし，要員全員が1カ月当たり1人月の工数を投入するものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/54.png\" alt=\"54.png\"\u003e",
+                   "q":  "あるシステムの設計から結合テストまでの作業について，開発工程ごとの見積工数を表1に，開発工程ごとの上級技術者と初級技術者の要員割当てを表2に示す。上級技術者は，初級技術者に比べて，プログラム作成・単体テストにおいて2倍の生産性を有する。表1の見積工数は，上級技術者の生産性を基に算出している。\u003cbr\u003e　全ての開発工程に対して，上級技術者を1人追加して割り当てると，この作業に要する期間は何か月短縮できるか。ここで，開発工程の期間は重複させないものとし，要員全員が1カ月当たり1人月の工数を投入するものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/54.png\" alt=\"54.png\"\u003e",
                    "op":  [
                               "1",
                               "2",
@@ -1864,7 +1864,7 @@
         "zh":  {
                    "ti":  "令和2年度 問54",
                    "ca":  "管理類 » 專案管理 » 專案時程",
-                   "q":  "關於某系統從設計到整合測試的作業，表1顯示了各開發階段的預估工時，表2顯示了各開發階段中高級工程師與初級工程師的人員分配。高級工程師在「程式編寫與單元測試」階段的生產力是初級工程師的2倍。表1的預估工時是基於高級工程師的生產力所計算出的。若在所有開發階段各增加並分配1名高級工程師，則此作業所需的期間可以縮短幾個月？在此，假設各開發階段的期間不重疊，且所有人員每個月投入的工時為1人月。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/54.png\" alt=\"54.png\"\u003e",
+                   "q":  "關於某系統從設計到整合測試的作業，表1顯示了各開發階段的預估工時，表2顯示了各開發階段中高級工程師與初級工程師的人員分配。高級工程師在「程式編寫與單元測試」階段的生產力是初級工程師的2倍。表1的預估工時是基於高級工程師的生產力所計算出的。若在所有開發階段各增加並分配1名高級工程師，則此作業所需的期間可以縮短幾個月？在此，假設各開發階段的期間不重疊，且所有人員每個月投入的工時為1人月。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/54.png\" alt=\"54.png\"\u003e",
                    "op":  [
                               "1",
                               "2",
@@ -1915,7 +1915,7 @@
                               "単位作業項目に適用する作業量の基準値を決めておき，作業項目を単位作業項目まで分解し，基準値を適用して算出した作業量の積算で全体の作業量を見積もる方法である。"
                           ],
                    "an":  3,
-                   "al":  "ファンクションポイント法は、外部入出力や内部ファイルの数と難易度の高さから、ファンクションポイントという数値を算出し、それを元に論理的に開発規模を見積もる手法です。画面や帳票の数などを基準に見積もるので、依頼者からのコンセンサス(合意)が得られやすいという長所があります。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/53.png\" alt=\"\"\u003e"
+                   "al":  "ファンクションポイント法は、外部入出力や内部ファイルの数と難易度の高さから、ファンクションポイントという数値を算出し、それを元に論理的に開発規模を見積もる手法です。画面や帳票の数などを基準に見積もるので、依頼者からのコンセンサス(合意)が得られやすいという長所があります。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/53.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "令和元年秋季 問53",
@@ -1928,14 +1928,14 @@
                               "預先決定單位工作項目的作業量基準值，將工作項目分解至單位工作項目，並以套用基準值後算出的總和來估算整體作業量的方法。"
                           ],
                    "an":  3,
-                   "al":  "功能點法是根據外部輸入輸出與內部檔案的數量及其複雜度，計算出「功能點（Function Point）」數值，並以此為基礎在邏輯上估算開發規模的手法。由於是以畫面或報表數量等作為估算基準，因此具有較容易從委託者處獲得共識的優點。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/53.png\" alt=\"\"\u003e"
+                   "al":  "功能點法是根據外部輸入輸出與內部檔案的數量及其複雜度，計算出「功能點（Function Point）」數值，並以此為基礎在邏輯上估算開發規模的手法。由於是以畫面或報表數量等作為估算基準，因此具有較容易從委託者處獲得共識的優點。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/53.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成19年秋期　問49",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "あるプロジェクトの工数配分は表のとおりである。基本設計からプログラム設計までは計画どおり終了した。現在はプログラミング段階であり，3,000本のプログラムのうち1,200本が完成したところである。プロジェクト全体の進捗度は何％か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/49.png\" alt=\"問49画像\"\u003e",
+                   "q":  "あるプロジェクトの工数配分は表のとおりである。基本設計からプログラム設計までは計画どおり終了した。現在はプログラミング段階であり，3,000本のプログラムのうち1,200本が完成したところである。プロジェクト全体の進捗度は何％か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/49.png\" alt=\"問49画像\"\u003e",
                    "op":  [
                               "40 ",
                               "44 ",
@@ -1948,7 +1948,7 @@
         "zh":  {
                    "ti":  "平成19年秋季 問49",
                    "ca":  "管理系 » 專案管理 » 專案時程",
-                   "q":  "某專案的工時分配如下表所示。從基本設計到程式設計階段皆已按計畫完成。目前正處於程式編寫階段，在 3,000 支程式中已完成 1,200 支。試問整個專案的進度為百分之多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/49.png\" alt=\"問49圖片\"\u003e",
+                   "q":  "某專案的工時分配如下表所示。從基本設計到程式設計階段皆已按計畫完成。目前正處於程式編寫階段，在 3,000 支程式中已完成 1,200 支。試問整個專案的進度為百分之多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/49.png\" alt=\"問49圖片\"\u003e",
                    "op":  [
                               "40 ",
                               "44 ",
@@ -1971,7 +1971,7 @@
                               "作業を階層的に詳細化して，管理可能な大きさに細分化する。"
                           ],
                    "an":  4,
-                   "al":  "WBS(Work Breakdown Structure)は、プロジェクト目標を達成し、必要な成果物を過不足なく作成するために、プロジェクトチームが実行すべき作業を、成果物を主体に階層的に要素分解したものです。作業の漏れや抜けを防ぎ、プロジェクトの範囲を明確にすると同時に、作業単位ごとに内容・日程・目標を設定することでコントロールをしやすくする目的があります。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/51.png\" alt=\"\"\u003e"
+                   "al":  "WBS(Work Breakdown Structure)は、プロジェクト目標を達成し、必要な成果物を過不足なく作成するために、プロジェクトチームが実行すべき作業を、成果物を主体に階層的に要素分解したものです。作業の漏れや抜けを防ぎ、プロジェクトの範囲を明確にすると同時に、作業単位ごとに内容・日程・目標を設定することでコントロールをしやすくする目的があります。\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/51.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成30年秋季 問51",
@@ -1984,14 +1984,14 @@
                               "將作業層級化並詳細展開，細分為可管理的規模。"
                           ],
                    "an":  4,
-                   "al":  "WBS（Work Breakdown Structure）是為了達成專案目標並完整產出必要成果，以成果物為主體，將專案團隊應執行的作業進行階層式分解。其目的在於防止作業遺漏、明確專案範疇，同時透過針對各個作業單位設定內容、日程與目標，使其更易於控管。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/51.png\" alt=\"\"\u003e"
+                   "al":  "WBS（Work Breakdown Structure）是為了達成專案目標並完整產出必要成果，以成果物為主體，將專案團隊應執行的作業進行階層式分解。其目的在於防止作業遺漏、明確專案範疇，同時透過針對各個作業單位設定內容、日程與目標，使其更易於控管。\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/51.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成29年春期　問51",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "図のアローダイアグラムで表されるプロジェクトは，完了までに最短で何日を要するか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/51.png\" alt=\"\"\u003e",
+                   "q":  "図のアローダイアグラムで表されるプロジェクトは，完了までに最短で何日を要するか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/51.png\" alt=\"\"\u003e",
                    "op":  [
                               "105",
                               "115",
@@ -2004,7 +2004,7 @@
         "zh":  {
                    "ti":  "平成29年春季 問51",
                    "ca":  "管理類 » 專案管理 » 專案時程",
-                   "q":  "下圖箭線圖（Arrow Diagram）所表示的專案，最短需要幾天才能完成？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/51.png\" alt=\"\"\u003e",
+                   "q":  "下圖箭線圖（Arrow Diagram）所表示的專案，最短需要幾天才能完成？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/51.png\" alt=\"\"\u003e",
                    "op":  [
                               "105",
                               "115",
@@ -2083,7 +2083,7 @@
                               "パレート図"
                           ],
                    "an":  4,
-                   "al":  "パレート図は、値の大きい順に分析対象の項目を並べた棒グラフと、累積構成比を表す折れ線グラフを組み合わせた複合グラフで、主に複数の分析対象の中から重要である要素を識別するために使用します。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/54.png\" alt=\"\"\u003e"
+                   "al":  "パレート図は、値の大きい順に分析対象の項目を並べた棒グラフと、累積構成比を表す折れ線グラフを組み合わせた複合グラフで、主に複数の分析対象の中から重要である要素を識別するために使用します。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/54.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成23年特別 問54",
@@ -2096,7 +2096,7 @@
                               "柏拉圖 (Pareto Chart)"
                           ],
                    "an":  4,
-                   "al":  "柏拉圖是將分析對象項目按數值大小順序排列的長條圖，並結合累積構成比的折線圖所組成的複合圖表，主要用於從多個分析對象中識別出重要因素。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/54.png\" alt=\"\"\u003e"
+                   "al":  "柏拉圖是將分析對象項目按數值大小順序排列的長條圖，並結合累積構成比的折線圖所組成的複合圖表，主要用於從多個分析對象中識別出重要因素。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/54.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2139,7 +2139,7 @@
                               "作業を階層に分解して，管理可能な大きさに細分化する。"
                           ],
                    "an":  4,
-                   "al":  "WBS(Work Breakdown Structure)は、プロジェクト目標を達成し、必要な成果物を過不足なく作成するために、プロジェクトチームが実行すべき作業を、成果物を主体に階層的に要素分解したものです。作業の漏れや抜けを防ぎ、プロジェクトの範囲を明確にすると同時に、作業単位ごとに内容・日程・目標を設定することでコントロールをしやすくする目的があります。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/51.png\" alt=\"\"\u003e"
+                   "al":  "WBS(Work Breakdown Structure)は、プロジェクト目標を達成し、必要な成果物を過不足なく作成するために、プロジェクトチームが実行すべき作業を、成果物を主体に階層的に要素分解したものです。作業の漏れや抜けを防ぎ、プロジェクトの範囲を明確にすると同時に、作業単位ごとに内容・日程・目標を設定することでコントロールをしやすくする目的があります。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/51.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成28年春季 問51",
@@ -2152,7 +2152,7 @@
                               "將作業分解為層級，細分為可管理的規模。"
                           ],
                    "an":  4,
-                   "al":  "WBS (Work Breakdown Structure) 是為了達成專案目標，並完整且無遺漏地產出必要成果，將專案團隊應執行之作業，以成果物為主體進行階層式分解的結構。其目的在於防止作業遺漏、明確界定專案範疇，同時透過針對每個作業單元設定內容、日程與目標，以利於進行專案控管。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/51.png\" alt=\"\"\u003e"
+                   "al":  "WBS (Work Breakdown Structure) 是為了達成專案目標，並完整且無遺漏地產出必要成果，將專案團隊應執行之作業，以成果物為主體進行階層式分解的結構。其目的在於防止作業遺漏、明確界定專案範疇，同時透過針對每個作業單元設定內容、日程與目標，以利於進行專案控管。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/51.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2223,7 +2223,7 @@
                               "作業を階層に分解して，管理可能な大きさに細分化する。"
                           ],
                    "an":  4,
-                   "al":  "WBS(Work Breakdown Structure)は、プロジェクト目標を達成し、必要な成果物を過不足なく作成するために、プロジェクトチームが実行すべき作業を、成果物を主体に階層的に要素分解したものです。作業の漏れや抜けを防ぎ、プロジェクトの範囲を明確にすると同時に、作業単位ごとに内容・日程・目標を設定することでコントロールをしやすくする目的があります。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/52.png\" alt=\"\"\u003e"
+                   "al":  "WBS(Work Breakdown Structure)は、プロジェクト目標を達成し、必要な成果物を過不足なく作成するために、プロジェクトチームが実行すべき作業を、成果物を主体に階層的に要素分解したものです。作業の漏れや抜けを防ぎ、プロジェクトの範囲を明確にすると同時に、作業単位ごとに内容・日程・目標を設定することでコントロールをしやすくする目的があります。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/52.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成25年秋期　問52",
@@ -2236,7 +2236,7 @@
                               "將作業分解為層級結構，細分為可管理的適當大小。"
                           ],
                    "an":  4,
-                   "al":  "WBS（Work Breakdown Structure）是為了達成專案目標，並確保所需交付成果無遺漏地製作完成，以交付成果為主體，將專案團隊應執行之工作進行階層式要素分解的方法。其目的在於防止作業遺漏、明確界定專案範圍，同時針對每個作業單位設定內容、日程與目標，以便於進行管控。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/52.png\" alt=\"\"\u003e"
+                   "al":  "WBS（Work Breakdown Structure）是為了達成專案目標，並確保所需交付成果無遺漏地製作完成，以交付成果為主體，將專案團隊應執行之工作進行階層式要素分解的方法。其目的在於防止作業遺漏、明確界定專案範圍，同時針對每個作業單位設定內容、日程與目標，以便於進行管控。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/52.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2251,7 +2251,7 @@
                               "品質，リスク"
                           ],
                    "an":  1,
-                   "al":  "EVM(Earned Value Management)は、プロジェクトにおける作業を金銭の価値に置き換えて、コストとスケジュールの2つを定量的に管理する進捗管理手法です。EVMでは予算値と実績値からPV、EV、ACの各指標を算出し、それぞれを比較することでコスト差異とスケジュール差異を把握します。したがって「ア」の組合せが適切です。\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/51.png\" alt=\"51.png\"\u003e"
+                   "al":  "EVM(Earned Value Management)は、プロジェクトにおける作業を金銭の価値に置き換えて、コストとスケジュールの2つを定量的に管理する進捗管理手法です。EVMでは予算値と実績値からPV、EV、ACの各指標を算出し、それぞれを比較することでコスト差異とスケジュール差異を把握します。したがって「ア」の組合せが適切です。\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/51.png\" alt=\"51.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和3年度 問51",
@@ -2264,7 +2264,7 @@
                               "品質，風險"
                           ],
                    "an":  1,
-                   "al":  "EVM (Earned Value Management，實獲值管理) 是一種進度管理手法，將專案中的工作轉換為貨幣價值，以定量地管理「成本」與「時程」這兩項要素。EVM 透過預算值與實際值算出 PV、EV、AC 等各項指標，並藉由相互比較來掌握成本差異與時程差異。因此，選項「ア」的組合最為合適。\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/51.png\" alt=\"51.png\"\u003e"
+                   "al":  "EVM (Earned Value Management，實獲值管理) 是一種進度管理手法，將專案中的工作轉換為貨幣價值，以定量地管理「成本」與「時程」這兩項要素。EVM 透過預算值與實際值算出 PV、EV、AC 等各項指標，並藉由相互比較來掌握成本差異與時程差異。因此，選項「ア」的組合最為合適。\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/51.png\" alt=\"51.png\"\u003e"
                }
     },
     {
@@ -2327,7 +2327,7 @@
         "ja":  {
                    "ti":  "平成30年春期　問51",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "図のアローダイアグラムにおいて，プロジェクト全体の期間を短縮するために，作業A～Eの幾つかを1日ずつ短縮する。プロジェクト全体を2日短縮できる作業の組合せはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/51.png\" alt=\"\"\u003e",
+                   "q":  "図のアローダイアグラムにおいて，プロジェクト全体の期間を短縮するために，作業A～Eの幾つかを1日ずつ短縮する。プロジェクト全体を2日短縮できる作業の組合せはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/51.png\" alt=\"\"\u003e",
                    "op":  [
                               "A，C，E",
                               "A，D",
@@ -2340,7 +2340,7 @@
         "zh":  {
                    "ti":  "2018年春季 問51",
                    "ca":  "管理系 » 專案管理 » 專案時程",
-                   "q":  "在圖中的箭線圖（Arrow Diagram）中，為了縮短專案整體的期間，將作業 A～E 中的幾項各縮短 1 天。下列哪一組作業組合可以將專案整體縮短 2 天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/51.png\" alt=\"\"\u003e",
+                   "q":  "在圖中的箭線圖（Arrow Diagram）中，為了縮短專案整體的期間，將作業 A～E 中的幾項各縮短 1 天。下列哪一組作業組合可以將專案整體縮短 2 天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/51.png\" alt=\"\"\u003e",
                    "op":  [
                               "A，C，E",
                               "A，D",
@@ -2357,26 +2357,26 @@
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの品質",
                    "q":  "テスト工程での品質状況を判断するためには，テスト項目消化件数と累積バグ件数との関係を分析し，評価する必要がある。品質が安定しつつあることを表しているグラフはどれか。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/53a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/53i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/53u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/53e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/53a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/53i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/53u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/53e.png\" alt=\"\"\u003e"
                           ],
                    "an":  4,
-                   "al":  "ソフトウェアテスト工程ではテスト計画に基づき、バグ管理図などを用いてテストの進捗とバグ摘出数の関係を分析します。そして記録されたデータをゴンペルツ曲線や過去の実績と比較することで、プログラムの品質を予測します。ゴンペルツ曲線とは、以下のようなS字曲線です。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/53.png\" alt=\"\"\u003e"
+                   "al":  "ソフトウェアテスト工程ではテスト計画に基づき、バグ管理図などを用いてテストの進捗とバグ摘出数の関係を分析します。そして記録されたデータをゴンペルツ曲線や過去の実績と比較することで、プログラムの品質を予測します。ゴンペルツ曲線とは、以下のようなS字曲線です。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/53.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成29年春季 問53",
                    "ca":  "管理類 » 專案管理 » 專案品質",
                    "q":  "為了判斷測試階段的品質狀況，需要分析並評估「測試項目消化件數」與「累積錯誤（Bug）件數」之間的關係。請問下列哪一個圖表顯示品質正趨於穩定？",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/53a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/53i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/53u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/53e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/53a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/53i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/53u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/53e.png\" alt=\"\"\u003e"
                           ],
                    "an":  4,
-                   "al":  "在軟體測試階段，會根據測試計畫利用錯誤管理圖等工具，分析測試進度與錯誤檢出數之間的關係。並將記錄的數據與貢珀茨曲線（Gompertz curve）或過去的績效進行比較，以預測程式的品質。所謂的貢珀茨曲線，即為如下所示的 S 型曲線。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/53.png\" alt=\"\"\u003e"
+                   "al":  "在軟體測試階段，會根據測試計畫利用錯誤管理圖等工具，分析測試進度與錯誤檢出數之間的關係。並將記錄的數據與貢珀茨曲線（Gompertz curve）或過去的績效進行比較，以預測程式的品質。所謂的貢珀茨曲線，即為如下所示的 S 型曲線。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/53.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2411,7 +2411,7 @@
         "ja":  {
                    "ti":  "平成22年秋期　問52",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "図のアローダイアグラムで表されるプロジェクトは，完了までに最短で何日を要するか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/52.png\" alt=\"\"\u003e",
+                   "q":  "図のアローダイアグラムで表されるプロジェクトは，完了までに最短で何日を要するか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/52.png\" alt=\"\"\u003e",
                    "op":  [
                               "115",
                               "120",
@@ -2424,7 +2424,7 @@
         "zh":  {
                    "ti":  "平成22年秋季 問52",
                    "ca":  "管理系 » 專案管理 » 專案時程",
-                   "q":  "下圖箭線圖（Arrow Diagram）所示的專案，完成所需的最短天數為幾天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/52.png\" alt=\"\"\u003e",
+                   "q":  "下圖箭線圖（Arrow Diagram）所示的專案，完成所需的最短天數為幾天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/52.png\" alt=\"\"\u003e",
                    "op":  [
                               "115",
                               "120",
@@ -2439,7 +2439,7 @@
         "ja":  {
                    "ti":  "令和6年度　問42",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "アローダイアグラムで表されるプロジェクトは，完了までに最少で何日を要するか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/42.png\" alt=\"42.png\"\u003e",
+                   "q":  "アローダイアグラムで表されるプロジェクトは，完了までに最少で何日を要するか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/42.png\" alt=\"42.png\"\u003e",
                    "op":  [
                               "105",
                               "115",
@@ -2452,7 +2452,7 @@
         "zh":  {
                    "ti":  "令和6年度 問42",
                    "ca":  "管理類 » 專案管理 » 專案時程",
-                   "q":  "以箭線圖（Arrow Diagram）表示的專案，完成至少需要多少天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/42.png\" alt=\"42.png\"\u003e",
+                   "q":  "以箭線圖（Arrow Diagram）表示的專案，完成至少需要多少天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/42.png\" alt=\"42.png\"\u003e",
                    "op":  [
                               "105",
                               "115",
@@ -2475,7 +2475,7 @@
                               "プロジェクト憲章の作成"
                           ],
                    "an":  1,
-                   "al":  "PMBOKではプロジェクトマネジメントのプロセスは、「立ち上げ」「計画」「実行」「監視・コントロール」「終結」の5つのプロセスグループで構成され、各プロセスは10つの知識エリア(サブジェクトグループ)※に分類されています。立ち上げプロジェクトを開始する必要性の明確化、および組織としてプロジェクトに着手することの宣言を行う計画要求を満足するための、実行可能な作業の仕組みを確立、およびその仕組みを維持する実行人及びその他資源を活用し、計画を実行する監視・コントロール進捗の監視・測定、および予定-実績の相違の検出し是正措置を実行する終結プロジェクトの結果の文書化、および顧客による検収の確認、プロジェクトの完了手続きを行う\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/51_1.png\" alt=\"\"\u003e"
+                   "al":  "PMBOKではプロジェクトマネジメントのプロセスは、「立ち上げ」「計画」「実行」「監視・コントロール」「終結」の5つのプロセスグループで構成され、各プロセスは10つの知識エリア(サブジェクトグループ)※に分類されています。立ち上げプロジェクトを開始する必要性の明確化、および組織としてプロジェクトに着手することの宣言を行う計画要求を満足するための、実行可能な作業の仕組みを確立、およびその仕組みを維持する実行人及びその他資源を活用し、計画を実行する監視・コントロール進捗の監視・測定、および予定-実績の相違の検出し是正措置を実行する終結プロジェクトの結果の文書化、および顧客による検収の確認、プロジェクトの完了手続きを行う\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/51_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成28年秋季 問51",
@@ -2488,7 +2488,7 @@
                               "制定專案章程"
                           ],
                    "an":  1,
-                   "al":  "在 PMBOK 中，專案管理流程由「啟動」、「規劃」、「執行」、「監控」、「結束」這五大流程群組所構成，且各流程被分類為十大知識領域（知識體系）。\u003cbr\u003e啟動：釐清專案需求，並宣告組織正式啟動專案。\u003cbr\u003e規劃：為滿足需求，建立可執行的工作機制，並維持該機制。\u003cbr\u003e執行：運用人力及其他資源，執行規劃內容。\u003cbr\u003e監控：監控並衡量進度，檢測計畫與實際績效之差異，並執行矯正措施。\u003cbr\u003e結束：將專案結果文件化，確認客戶驗收，並執行專案結案程序。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/51_1.png\" alt=\"\"\u003e"
+                   "al":  "在 PMBOK 中，專案管理流程由「啟動」、「規劃」、「執行」、「監控」、「結束」這五大流程群組所構成，且各流程被分類為十大知識領域（知識體系）。\u003cbr\u003e啟動：釐清專案需求，並宣告組織正式啟動專案。\u003cbr\u003e規劃：為滿足需求，建立可執行的工作機制，並維持該機制。\u003cbr\u003e執行：運用人力及其他資源，執行規劃內容。\u003cbr\u003e監控：監控並衡量進度，檢測計畫與實際績效之差異，並執行矯正措施。\u003cbr\u003e結束：將專案結果文件化，確認客戶驗收，並執行專案結案程序。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/51_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2503,7 +2503,7 @@
                               "レーダーチャート"
                           ],
                    "an":  2,
-                   "al":  "帯グラフは、帯状の長方形をある長さで区切り、その各部分の面積で数量の大きさを表します。全体に対しての割合の大小を見るのに便利なグラフです。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/54.png\" alt=\"\"\u003e"
+                   "al":  "帯グラフは、帯状の長方形をある長さで区切り、その各部分の面積で数量の大きさを表します。全体に対しての割合の大小を見るのに便利なグラフです。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/54.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成21年春季 問54",
@@ -2516,14 +2516,14 @@
                               "雷達圖"
                           ],
                    "an":  2,
-                   "al":  "長條統計圖 (堆疊式) 是將帶狀的長方形按一定的長度區分，並以各部分的面積來表示數量的多寡。這是一種適合用來觀察整體比例大小的圖表。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/54.png\" alt=\"\"\u003e"
+                   "al":  "長條統計圖 (堆疊式) 是將帶狀的長方形按一定的長度區分，並以各部分的面積來表示數量的多寡。這是一種適合用來觀察整體比例大小的圖表。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/54.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成26年秋期　問52",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "図に示すアローダイアグラムは，あるシステムの開発作業を表したものである。クリティカルパスはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/52.png\" alt=\"\"\u003e",
+                   "q":  "図に示すアローダイアグラムは，あるシステムの開発作業を表したものである。クリティカルパスはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/52.png\" alt=\"\"\u003e",
                    "op":  [
                               "A－B－G－L－N",
                               "A－B－H－K－N",
@@ -2536,7 +2536,7 @@
         "zh":  {
                    "ti":  "平成26年秋季 問52",
                    "ca":  "管理類 » 專案管理 » 專案時程",
-                   "q":  "圖中所示的箭線圖（Arrow Diagram）表示某系統的開發作業。請問要徑（Critical Path）為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/52.png\" alt=\"\"\u003e",
+                   "q":  "圖中所示的箭線圖（Arrow Diagram）表示某系統的開發作業。請問要徑（Critical Path）為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/52.png\" alt=\"\"\u003e",
                    "op":  [
                               "A－B－G－L－N",
                               "A－B－H－K－N",
@@ -2551,7 +2551,7 @@
         "ja":  {
                    "ti":  "平成25年秋期　問53",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "図は作業A～Eで構成されるプロジェクトのアローダイアグラムである。全ての作業を1人で実施する予定だったが，2日目から6日目までの5日間は，別の1人が手伝うことになった。手伝いがない場合と比較し，開始から終了までの日数は最大で何日短くなるか。ここで，一つの作業を2人で同時には行えないが，他者から引き継ぐことはできる。また，引継ぎによる作業日数の増加はないものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/53.png\" alt=\"\"\u003e",
+                   "q":  "図は作業A～Eで構成されるプロジェクトのアローダイアグラムである。全ての作業を1人で実施する予定だったが，2日目から6日目までの5日間は，別の1人が手伝うことになった。手伝いがない場合と比較し，開始から終了までの日数は最大で何日短くなるか。ここで，一つの作業を2人で同時には行えないが，他者から引き継ぐことはできる。また，引継ぎによる作業日数の増加はないものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/53.png\" alt=\"\"\u003e",
                    "op":  [
                               "3",
                               "4",
@@ -2559,12 +2559,12 @@
                               "6"
                           ],
                    "an":  1,
-                   "al":  "全ての作業を1人で行う場合、A～Eの作業すべてを1人で実施しなけばなりません。完了までに要する日数は次のとおりです。 3＋1＋1＋3＋4＝12日開始から2～6日目を手伝いの1人を含めた2人で行う場合、「作業Aの完了待ち」と「作業Cの完了待ち」により手伝いの要員をフルには使えませんが、下図のように割り振ることで9日で完了することができます。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/53a.png\" alt=\"\"\u003e"
+                   "al":  "全ての作業を1人で行う場合、A～Eの作業すべてを1人で実施しなけばなりません。完了までに要する日数は次のとおりです。 3＋1＋1＋3＋4＝12日開始から2～6日目を手伝いの1人を含めた2人で行う場合、「作業Aの完了待ち」と「作業Cの完了待ち」により手伝いの要員をフルには使えませんが、下図のように割り振ることで9日で完了することができます。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/53a.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成25年秋季 問53",
                    "ca":  "管理類 » 專案管理 » 專案時程",
-                   "q":  "圖為由作業A至E組成的專案箭頭圖（PERT圖）。原定所有作業皆由1人執行，但從第2天到第6天這5天內，會有另外1人協助。與無人協助的情況相比，從開始到結束的總天數最多可縮短幾天？在此，一項作業無法同時由2人進行，但可以從他人手中接手。此外，假設交接不會增加作業天數。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/53.png\" alt=\"\"\u003e",
+                   "q":  "圖為由作業A至E組成的專案箭頭圖（PERT圖）。原定所有作業皆由1人執行，但從第2天到第6天這5天內，會有另外1人協助。與無人協助的情況相比，從開始到結束的總天數最多可縮短幾天？在此，一項作業無法同時由2人進行，但可以從他人手中接手。此外，假設交接不會增加作業天數。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/53.png\" alt=\"\"\u003e",
                    "op":  [
                               "3",
                               "4",
@@ -2572,7 +2572,7 @@
                               "6"
                           ],
                    "an":  1,
-                   "al":  "若所有作業皆由1人執行，必須完成A至E的所有作業。完成所需的總天數如下：3＋1＋1＋3＋4＝12天。若從第2天到第6天由包含協助者在內的2人執行，雖因「等待作業A完成」及「等待作業C完成」導致無法完全活用人力，但透過如下圖所示的分配方式，可以在9天內完成。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/53a.png\" alt=\"\"\u003e"
+                   "al":  "若所有作業皆由1人執行，必須完成A至E的所有作業。完成所需的總天數如下：3＋1＋1＋3＋4＝12天。若從第2天到第6天由包含協助者在內的2人執行，雖因「等待作業A完成」及「等待作業C完成」導致無法完全活用人力，但透過如下圖所示的分配方式，可以在9天內完成。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/53a.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2587,7 +2587,7 @@
                               "20"
                           ],
                    "an":  3,
-                   "al":  "0.5kステップ／人日の生産性とは、1人が1日当たり0.5kステップの作業を完了するペースということです（※0.5kステップ＝500行のソースコードと考えてください）。10人が0.5kステップ／人日の生産性で30日間作業を行う計画なので、プログラミング作業で作成を予定している総ステップ数は以下のように計算できます。 10[人]×0.5[ステップ／人日]×30[日]＝150[kステップ]10日目完了時点で30kステップ分の作業が終了したので、この10日間の生産性(実績)は次の通りです。 30[kステップ]÷10[日]÷10[人]＝0.3k[ステップ／人日]10日間の完了実績は30kステップなので、予定通りにプログラミング作業を完了するためには、残りの20日間で「150－30＝120kステップ」分の作業を完了させなければなりません。追加する要員の生産性が現在の要因と同じ0.3kステップ／人日だとすると、必要な要員数は、 120[kステップ]÷20[日]÷0.3[ステップ／人日]＝20[人]現状の要員数は10人であるため、少なくともあと10名の追加が必要です。\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/53.png\" alt=\"\"\u003e"
+                   "al":  "0.5kステップ／人日の生産性とは、1人が1日当たり0.5kステップの作業を完了するペースということです（※0.5kステップ＝500行のソースコードと考えてください）。10人が0.5kステップ／人日の生産性で30日間作業を行う計画なので、プログラミング作業で作成を予定している総ステップ数は以下のように計算できます。 10[人]×0.5[ステップ／人日]×30[日]＝150[kステップ]10日目完了時点で30kステップ分の作業が終了したので、この10日間の生産性(実績)は次の通りです。 30[kステップ]÷10[日]÷10[人]＝0.3k[ステップ／人日]10日間の完了実績は30kステップなので、予定通りにプログラミング作業を完了するためには、残りの20日間で「150－30＝120kステップ」分の作業を完了させなければなりません。追加する要員の生産性が現在の要因と同じ0.3kステップ／人日だとすると、必要な要員数は、 120[kステップ]÷20[日]÷0.3[ステップ／人日]＝20[人]現状の要員数は10人であるため、少なくともあと10名の追加が必要です。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/53.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成27年秋季 問53",
@@ -2600,7 +2600,7 @@
                               "20"
                           ],
                    "an":  3,
-                   "al":  "生產力為 0.5k 行／人日的含義是：1 個人 1 天能完成 0.5k 行的作業（※請將 0.5k 行視為 500 行原始碼）。由於計畫是由 10 人以 0.5k 行／人日的生產力工作 30 天，因此程式開發作業預計完成的總行數計算如下： 10[人]×0.5[行／人日]×30[日]＝150[k行]。在第 10 天結束時完成了 30k 行的作業，因此這 10 天的實際生產力為： 30[k行]÷10[日]÷10[人]＝0.3k[行／人日]。由於 10 天累計僅完成 30k 行，為了如期完成程式開發，剩下的 20 天內必須完成「150－30＝120k行」的作業。若新增人力的生產力與目前人力相同，即為 0.3k 行／人日，則所需的人力總數為： 120[k行]÷20[日]÷0.3[行／人日]＝20[人]。由於目前已有 10 人，因此至少還需要增加 10 名人力。\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/53.png\" alt=\"\"\u003e"
+                   "al":  "生產力為 0.5k 行／人日的含義是：1 個人 1 天能完成 0.5k 行的作業（※請將 0.5k 行視為 500 行原始碼）。由於計畫是由 10 人以 0.5k 行／人日的生產力工作 30 天，因此程式開發作業預計完成的總行數計算如下： 10[人]×0.5[行／人日]×30[日]＝150[k行]。在第 10 天結束時完成了 30k 行的作業，因此這 10 天的實際生產力為： 30[k行]÷10[日]÷10[人]＝0.3k[行／人日]。由於 10 天累計僅完成 30k 行，為了如期完成程式開發，剩下的 20 天內必須完成「150－30＝120k行」的作業。若新增人力的生產力與目前人力相同，即為 0.3k 行／人日，則所需的人力總數為： 120[k行]÷20[日]÷0.3[行／人日]＝20[人]。由於目前已有 10 人，因此至少還需要增加 10 名人力。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/53.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2615,7 +2615,7 @@
                               "作業の順序や相互関係をネットワーク状に示したもの"
                           ],
                    "an":  3,
-                   "al":  "トレンドチャートは、計画の予算・工期、および実績の費用・進捗を表す2本の折れ線グラフを並べたグラフで、差異の把握や傾向(トレンド)の分析に用いられます。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/54.png\" alt=\"\"\u003e"
+                   "al":  "トレンドチャートは、計画の予算・工期、および実績の費用・進捗を表す2本の折れ線グラフを並べたグラフで、差異の把握や傾向(トレンド)の分析に用いられます。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/54.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成29年春季 問54",
@@ -2628,7 +2628,7 @@
                               "以網路狀形式呈現作業順序與相互關係的圖表"
                           ],
                    "an":  3,
-                   "al":  "趨勢圖（Trend Chart）是一種將計畫的預算/工期與實際的費用/進度，以兩條折線圖並列呈現的圖表，用於掌握差異及分析趨勢（Trend）。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/54.png\" alt=\"\"\u003e"
+                   "al":  "趨勢圖（Trend Chart）是一種將計畫的預算/工期與實際的費用/進度，以兩條折線圖並列呈現的圖表，用於掌握差異及分析趨勢（Trend）。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/54.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2671,7 +2671,7 @@
                               "42"
                           ],
                    "an":  2,
-                   "al":  "メンバーが増えるのに伴って打合せの回数は次のように増えていきます。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/54.png\" alt=\"\"\u003e"
+                   "al":  "メンバーが増えるのに伴って打合せの回数は次のように増えていきます。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/54.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "令和元年秋季 問54",
@@ -2684,7 +2684,7 @@
                               "42"
                           ],
                    "an":  2,
-                   "al":  "隨著成員增加，會議次數的增加方式如下：\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/54.png\" alt=\"\"\u003e"
+                   "al":  "隨著成員增加，會議次數的增加方式如下：\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/54.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2699,7 +2699,7 @@
                               "160"
                           ],
                    "an":  2,
-                   "al":  "式の工数の部分に4,096を代入すると次のようになります。 期間＝2.5×4,0961/3通常であれば、分数の指数は指数法則により\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/53.png\" alt=\"\"\u003e"
+                   "al":  "式の工数の部分に4,096を代入すると次のようになります。 期間＝2.5×4,0961/3通常であれば、分数の指数は指数法則により\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/53.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成30年春季 第53題",
@@ -2712,14 +2712,14 @@
                               "160"
                           ],
                    "an":  2,
-                   "al":  "將 4,096 代入公式中的工作量部分，結果如下： 工期＝2.5×4,096\u003csup\u003e1/3\u003c/sup\u003e 通常情況下，分數指數根據指數法則\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/53.png\" alt=\"\"\u003e"
+                   "al":  "將 4,096 代入公式中的工作量部分，結果如下： 工期＝2.5×4,096\u003csup\u003e1/3\u003c/sup\u003e 通常情況下，分數指數根據指數法則\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/53.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "令和3年度　問52",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "次のアローダイアグラムで表される作業A～Hを見直したところ，作業Dだけが短縮可能であり，その所要日数を6日間にできることが分かった。業務全体の所要日数は何日間短縮できるか。ここで，矢印に示す数字は各作業の標準日数を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/52.png\" alt=\"52.png\"\u003e",
+                   "q":  "次のアローダイアグラムで表される作業A～Hを見直したところ，作業Dだけが短縮可能であり，その所要日数を6日間にできることが分かった。業務全体の所要日数は何日間短縮できるか。ここで，矢印に示す数字は各作業の標準日数を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/52.png\" alt=\"52.png\"\u003e",
                    "op":  [
                               "1 ",
                               "2 ",
@@ -2732,7 +2732,7 @@
         "zh":  {
                    "ti":  "令和3年度 第52題",
                    "ca":  "管理系 » 專案管理 » 專案時間",
-                   "q":  "檢視以下箭線圖（Arrow Diagram）所表示的工作A～H後，發現只有工作D可以縮短，其所需天數可縮短為6天。整體業務所需的總天數可以縮短幾天？在此，箭頭所示的數字代表各工作的標準天數。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/52.png\" alt=\"52.png\"\u003e",
+                   "q":  "檢視以下箭線圖（Arrow Diagram）所表示的工作A～H後，發現只有工作D可以縮短，其所需天數可縮短為6天。整體業務所需的總天數可以縮短幾天？在此，箭頭所示的數字代表各工作的標準天數。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/52.png\" alt=\"52.png\"\u003e",
                    "op":  [
                               "1 ",
                               "2 ",
@@ -2747,7 +2747,7 @@
         "ja":  {
                    "ti":  "平成18年秋期　問46",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトのコスト",
-                   "q":  "表の機能と特性をもったプログラムのファンクションポイント値は幾らか。ここで，複雑さの補正係数は0.75とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/46.png\" alt=\"問46画像\"\u003e",
+                   "q":  "表の機能と特性をもったプログラムのファンクションポイント値は幾らか。ここで，複雑さの補正係数は0.75とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/46.png\" alt=\"問46画像\"\u003e",
                    "op":  [
                               "18",
                               "24",
@@ -2760,7 +2760,7 @@
         "zh":  {
                    "ti":  "平成18年秋季 第46題",
                    "ca":  "管理系 » 專案管理 » 專案成本",
-                   "q":  "具有表中功能與特性的程式，其功能點數（Function Point）值為多少？在此，複雜度修正係數為 0.75。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/46.png\" alt=\"第46題圖片\"\u003e",
+                   "q":  "具有表中功能與特性的程式，其功能點數（Function Point）值為多少？在此，複雜度修正係數為 0.75。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/46.png\" alt=\"第46題圖片\"\u003e",
                    "op":  [
                               "18",
                               "24",
@@ -2839,7 +2839,7 @@
                               "パレート図"
                           ],
                    "an":  1,
-                   "al":  "管理図は、中央線および上限と下限を示す限界線を引いて、製品などの特性値を打点することで、工程の状態や品質を時系列に表した図で、工程が安定した状態にあるかどうかを判断するために使用されます。生産管理に用いる場合は、縦軸に不良品の個数、横軸に日付をとり、統計的に求めた上方管理限界と下方管理限界の線を横軸と平行に引いた図を使用します。毎日不良品個数を打点していき、管理限界から超えた位置に点があれば、その日付に何らかの異常が発生していることがわかります。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/54.png\" alt=\"\"\u003e"
+                   "al":  "管理図は、中央線および上限と下限を示す限界線を引いて、製品などの特性値を打点することで、工程の状態や品質を時系列に表した図で、工程が安定した状態にあるかどうかを判断するために使用されます。生産管理に用いる場合は、縦軸に不良品の個数、横軸に日付をとり、統計的に求めた上方管理限界と下方管理限界の線を横軸と平行に引いた図を使用します。毎日不良品個数を打点していき、管理限界から超えた位置に点があれば、その日付に何らかの異常が発生していることがわかります。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/54.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成23年秋期　問54",
@@ -2852,14 +2852,14 @@
                               "柏拉圖"
                           ],
                    "an":  1,
-                   "al":  "管制圖（Control Chart）是透過繪製中央線以及表示上限與下限的界限線，並將產品等特性值點在圖上，藉此以時間序列呈現製程狀態或品質，並用來判斷製程是否處於穩定狀態。在應用於生產管理時，通常以縱軸表示不良品數量，橫軸表示日期，並畫出與橫軸平行的統計上限管理界限與下限管理界限。每天記錄不良品數量並點在圖上，若有數據點超出管理界限，即可得知該日期發生了某種異常。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/54.png\" alt=\"\"\u003e"
+                   "al":  "管制圖（Control Chart）是透過繪製中央線以及表示上限與下限的界限線，並將產品等特性值點在圖上，藉此以時間序列呈現製程狀態或品質，並用來判斷製程是否處於穩定狀態。在應用於生產管理時，通常以縱軸表示不良品數量，橫軸表示日期，並畫出與橫軸平行的統計上限管理界限與下限管理界限。每天記錄不良品數量並點在圖上，若有數據點超出管理界限，即可得知該日期發生了某種異常。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/54.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成27年秋期　問51",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "図のアローダイアグラムで表されるプロジェクトは，完了までに最短で何日を要するか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/51.png\" alt=\"\"\u003e",
+                   "q":  "図のアローダイアグラムで表されるプロジェクトは，完了までに最短で何日を要するか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/51.png\" alt=\"\"\u003e",
                    "op":  [
                               "115",
                               "120",
@@ -2872,7 +2872,7 @@
         "zh":  {
                    "ti":  "平成27年秋期　問51",
                    "ca":  "管理系 » 專案管理 » 專案時程",
-                   "q":  "如下圖所示的箭線圖（Arrow Diagram）專案，完成該專案最短需要多少天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/51.png\" alt=\"\"\u003e",
+                   "q":  "如下圖所示的箭線圖（Arrow Diagram）專案，完成該專案最短需要多少天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/51.png\" alt=\"\"\u003e",
                    "op":  [
                               "115",
                               "120",
@@ -2887,7 +2887,7 @@
         "ja":  {
                    "ti":  "平成28年秋期　問54",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの資源",
-                   "q":  "開発期間10か月，開発工数200人月のプロジェクトを計画する。次の配分表を前提とすると，ピーク時の要員は何人か。ここで，各工程の開始から終了までの要員数は一定とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/54.png\" alt=\"\"\u003e",
+                   "q":  "開発期間10か月，開発工数200人月のプロジェクトを計画する。次の配分表を前提とすると，ピーク時の要員は何人か。ここで，各工程の開始から終了までの要員数は一定とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/54.png\" alt=\"\"\u003e",
                    "op":  [
                               "18",
                               "20",
@@ -2900,7 +2900,7 @@
         "zh":  {
                    "ti":  "平成28年秋期 問54",
                    "ca":  "管理類 » 專案管理 » 專案資源",
-                   "q":  "規劃一個開發期間為10個月、總開發工數為200人月的專案。根據下表的分配比例，試問高峰時期的所需人力為多少人？在此，各階段從開始到結束期間的人力需求為固定值。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/54.png\" alt=\"\"\u003e",
+                   "q":  "規劃一個開發期間為10個月、總開發工數為200人月的專案。根據下表的分配比例，試問高峰時期的所需人力為多少人？在此，各階段從開始到結束期間的人力需求為固定值。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/54.png\" alt=\"\"\u003e",
                    "op":  [
                               "18",
                               "20",
@@ -2951,7 +2951,7 @@
                               "パレート図"
                           ],
                    "an":  4,
-                   "al":  "パレート図は、値の大きい順に分析対象の項目を並べた棒グラフと、累積構成比を表す折れ線グラフを組み合わせた複合グラフで、主に複数の分析対象の中から重要である要素を識別するために使用します。\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/54.png\" alt=\"54.png\"\u003e"
+                   "al":  "パレート図は、値の大きい順に分析対象の項目を並べた棒グラフと、累積構成比を表す折れ線グラフを組み合わせた複合グラフで、主に複数の分析対象の中から重要である要素を識別するために使用します。\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/54.png\" alt=\"54.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和4年度 問54",
@@ -2964,14 +2964,14 @@
                               "柏拉圖"
                           ],
                    "an":  4,
-                   "al":  "柏拉圖（Pareto Chart）是由按數值大小順序排列的長條圖以及表示累積構成比的折線圖所組成的複合圖表，主要用於從多個分析對象中識別出重要的要素。\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/54.png\" alt=\"54.png\"\u003e"
+                   "al":  "柏拉圖（Pareto Chart）是由按數值大小順序排列的長條圖以及表示累積構成比的折線圖所組成的複合圖表，主要用於從多個分析對象中識別出重要的要素。\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/54.png\" alt=\"54.png\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成27年春期　問54",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "図は，あるプロジェクトの作業(A～I)とその作業日数を表している。このプロジェクトが終了するまでに必要な最短日数は何日か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/54.png\" alt=\"\"\u003e",
+                   "q":  "図は，あるプロジェクトの作業(A～I)とその作業日数を表している。このプロジェクトが終了するまでに必要な最短日数は何日か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/54.png\" alt=\"\"\u003e",
                    "op":  [
                               "27",
                               "28",
@@ -2984,7 +2984,7 @@
         "zh":  {
                    "ti":  "平成27年春季 問54",
                    "ca":  "管理類 » 專案管理 » 專案時間管理",
-                   "q":  "下圖顯示了某個專案的作業（A～I）及其所需天數。完成此專案所需的最短天數為幾天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/54.png\" alt=\"\"\u003e",
+                   "q":  "下圖顯示了某個專案的作業（A～I）及其所需天數。完成此專案所需的最短天數為幾天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/54.png\" alt=\"\"\u003e",
                    "op":  [
                               "27",
                               "28",
@@ -2999,7 +2999,7 @@
         "ja":  {
                    "ti":  "平成20年秋期　問46",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの資源",
-                   "q":  "開発期間10か月，開発工数200人月のプロジェクトを計画する。次の配分表を前提とすると，ピーク時の要員は何人となるか。ここで，各工程の開始から終了までの人数は変わらないものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/46.png\" alt=\"問46画像\"\u003e",
+                   "q":  "開発期間10か月，開発工数200人月のプロジェクトを計画する。次の配分表を前提とすると，ピーク時の要員は何人となるか。ここで，各工程の開始から終了までの人数は変わらないものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/46.png\" alt=\"問46画像\"\u003e",
                    "op":  [
                               "18",
                               "20",
@@ -3012,7 +3012,7 @@
         "zh":  {
                    "ti":  "平成20年秋季 問46",
                    "ca":  "管理類 » 專案管理 » 專案資源",
-                   "q":  "規劃一個開發期間為10個月、總開發工時為200人月的專案。根據下表的分配比例，高峰時期的人員需求為多少人？假設各工程從開始到結束的人數保持不變。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/46.png\" alt=\"問46圖片\"\u003e",
+                   "q":  "規劃一個開發期間為10個月、總開發工時為200人月的專案。根據下表的分配比例，高峰時期的人員需求為多少人？假設各工程從開始到結束的人數保持不變。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/46.png\" alt=\"問46圖片\"\u003e",
                    "op":  [
                               "18",
                               "20",
@@ -3027,7 +3027,7 @@
         "ja":  {
                    "ti":  "平成22年秋期　問53",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの資源",
-                   "q":  "システムを構成するプログラムの本数とプログラム1本当りのコーディング所要工数が表のとき，システムを 95日間で開発するには少なくとも何人の要員が必要か。ここで，コーディングのほかに，設計やテストの作業が必要であり，それらの作業の遂行にはコーディング所要工数の8倍の工数がかかるものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/53.png\" alt=\"\"\u003e",
+                   "q":  "システムを構成するプログラムの本数とプログラム1本当りのコーディング所要工数が表のとき，システムを 95日間で開発するには少なくとも何人の要員が必要か。ここで，コーディングのほかに，設計やテストの作業が必要であり，それらの作業の遂行にはコーディング所要工数の8倍の工数がかかるものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/53.png\" alt=\"\"\u003e",
                    "op":  [
                               "8",
                               "9",
@@ -3040,7 +3040,7 @@
         "zh":  {
                    "ti":  "平成22年秋季 問53",
                    "ca":  "管理系 » 專案管理 » 專案資源",
-                   "q":  "若系統構成的程式數量與每支程式所需的程式撰寫工時如下表所示，若要在 95 天內完成系統開發，至少需要多少名人員？在此，除了程式撰寫之外，還需要設計與測試作業，且這些作業所需的工時為程式撰寫所需工時的 8 倍。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/53.png\" alt=\"\"\u003e",
+                   "q":  "若系統構成的程式數量與每支程式所需的程式撰寫工時如下表所示，若要在 95 天內完成系統開發，至少需要多少名人員？在此，除了程式撰寫之外，還需要設計與測試作業，且這些作業所需的工時為程式撰寫所需工時的 8 倍。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/53.png\" alt=\"\"\u003e",
                    "op":  [
                               "8",
                               "9",
@@ -3063,7 +3063,7 @@
                               "内部設計の誤りは，設計レビューによってほとんど除去できるので，もし発見されでも，コーディングの誤りに比べて修復コストは安い。"
                           ],
                    "an":  1,
-                   "al":  "ウォーターフォールモデルは、最初に開発全体の計画とスケジュールを決めた上で、要求定義・設計・実装・テスト・運用といった各工程を一つずつ完了させながら、順番に開発を進める手法です。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/53.png\" alt=\"\"\u003e"
+                   "al":  "ウォーターフォールモデルは、最初に開発全体の計画とスケジュールを決めた上で、要求定義・設計・実装・テスト・運用といった各工程を一つずつ完了させながら、順番に開発を進める手法です。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/53.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成23年特別 問53",
@@ -3076,14 +3076,14 @@
                               "內部的設計錯誤，由於幾乎可以透過設計審查來排除，因此即使被發現，與編碼的錯誤相比，修復成本較低。"
                           ],
                    "an":  1,
-                   "al":  "瀑布模型是一種在決定整個開發計畫與時程後，依照需求定義、設計、實作、測試、運營等各工程逐一完成，並依序推進開發的手法。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/53.png\" alt=\"\"\u003e"
+                   "al":  "瀑布模型是一種在決定整個開發計畫與時程後，依照需求定義、設計、實作、測試、運營等各工程逐一完成，並依序推進開發的手法。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/53.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成18年春期　問46",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "図に示すアローダイアグラムは，あるシステムの開発作業を表したものである。クリティカルパスはどれか。ここで，矢印に示す数字は各作業の所要日数を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/46.png\" alt=\"問46画像\"\u003e",
+                   "q":  "図に示すアローダイアグラムは，あるシステムの開発作業を表したものである。クリティカルパスはどれか。ここで，矢印に示す数字は各作業の所要日数を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/46.png\" alt=\"問46画像\"\u003e",
                    "op":  [
                               "A－B－G－L－N",
                               "A－B－H－K－N",
@@ -3096,7 +3096,7 @@
         "zh":  {
                    "ti":  "平成18年春季 問46",
                    "ca":  "管理系 » 專案管理 » 專案時程",
-                   "q":  "圖中所示的箭線圖（Arrow Diagram）表示某個系統的開發作業。請問要徑（Critical Path）為何？在此，箭頭上的數字表示各項作業所需的日數。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/46.png\" alt=\"問46圖片\"\u003e",
+                   "q":  "圖中所示的箭線圖（Arrow Diagram）表示某個系統的開發作業。請問要徑（Critical Path）為何？在此，箭頭上的數字表示各項作業所需的日數。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/46.png\" alt=\"問46圖片\"\u003e",
                    "op":  [
                               "A－B－G－L－N",
                               "A－B－H－K－N",
@@ -3139,7 +3139,7 @@
         "ja":  {
                    "ti":  "平成27年秋期　問52",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトのコスト",
-                   "q":  "表の機能と特性をもったプログラムのファンクションポイント値は幾らか。ここで，複雑さの補正係数は0.75とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/52.png\" alt=\"\"\u003e",
+                   "q":  "表の機能と特性をもったプログラムのファンクションポイント値は幾らか。ここで，複雑さの補正係数は0.75とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/52.png\" alt=\"\"\u003e",
                    "op":  [
                               "18",
                               "24",
@@ -3152,7 +3152,7 @@
         "zh":  {
                    "ti":  "平成27年秋季 問52",
                    "ca":  "管理類 » 專案管理 » 專案成本",
-                   "q":  "請計算出具有下表功能與特性的程式之功能點（Function Point）數值。在此，複雜度補正係數設為 0.75。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/52.png\" alt=\"\"\u003e",
+                   "q":  "請計算出具有下表功能與特性的程式之功能點（Function Point）數值。在此，複雜度補正係數設為 0.75。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/52.png\" alt=\"\"\u003e",
                    "op":  [
                               "18",
                               "24",
@@ -3203,7 +3203,7 @@
                               "過去の類似例を探し，その実績や開発するシステムとの差異などを分析・評価して開発規模を見積もる。"
                           ],
                    "an":  3,
-                   "al":  "ファンクションポイント法は、ソフトウェアに含まれる機能とその複雑さを基準に論理的に開発工数を見積もる方法です。ここでいうシステムの機能とは、外部入出力、ファイル、外部インタフェースなどのことで、これらの数と複雑さ・難度などの因子をもとにファンクションポイント数を算出し、それを基にして開発工数を見積ります。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/51.png\" alt=\"\"\u003e"
+                   "al":  "ファンクションポイント法は、ソフトウェアに含まれる機能とその複雑さを基準に論理的に開発工数を見積もる方法です。ここでいうシステムの機能とは、外部入出力、ファイル、外部インタフェースなどのことで、これらの数と複雑さ・難度などの因子をもとにファンクションポイント数を算出し、それを基にして開発工数を見積ります。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/51.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成29年秋季 問51",
@@ -3216,14 +3216,14 @@
                               "搜尋過去類似的案例，並透過分析與評估其實際成果及與開發中系統的差異，來估算開發規模。"
                           ],
                    "an":  3,
-                   "al":  "功能點法是一種根據軟體所含功能及其複雜度，邏輯性地估算開發工時的方法。此處所指的系統功能，包含外部輸入輸出、檔案、外部介面等。透過這些項目的數量、複雜度與難易度等因子計算出功能點數（Function Point），並以此為基礎來估算開發工時。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/51.png\" alt=\"\"\u003e"
+                   "al":  "功能點法是一種根據軟體所含功能及其複雜度，邏輯性地估算開發工時的方法。此處所指的系統功能，包含外部輸入輸出、檔案、外部介面等。透過這些項目的數量、複雜度與難易度等因子計算出功能點數（Function Point），並以此為基礎來估算開發工時。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/51.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成31年春期　問53",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "アローダイアグラムの日程計画をもつプロジェクトの，開始から終了までの最少所要日数は何日か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/53.png\" alt=\"\"\u003e",
+                   "q":  "アローダイアグラムの日程計画をもつプロジェクトの，開始から終了までの最少所要日数は何日か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/53.png\" alt=\"\"\u003e",
                    "op":  [
                               "9",
                               "10",
@@ -3236,7 +3236,7 @@
         "zh":  {
                    "ti":  "平成31年春季 問53",
                    "ca":  "管理系 » 專案管理 » 專案時程",
-                   "q":  "在擁有箭線圖時程計畫的專案中，從開始到結束的最短所需天數為幾天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/53.png\" alt=\"\"\u003e",
+                   "q":  "在擁有箭線圖時程計畫的專案中，從開始到結束的最短所需天數為幾天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/53.png\" alt=\"\"\u003e",
                    "op":  [
                               "9",
                               "10",
@@ -3259,7 +3259,7 @@
                               "単位作業量の基準値を決めておき，作業項目を単位作業項目まで分解し，その積算で全体の作業量を見積もる方法である。"
                           ],
                    "an":  3,
-                   "al":  "ファンクションポイント法は、外部入出力や内部ファイルの数と難易度の高さから、ファンクションポイントという数値を算出し、それを元に論理的に開発規模を見積もる手法です。画面や帳票の数などを基準に見積もるので、依頼者からのコンセンサス(合意)が得られやすいという長所があります。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/53.png\" alt=\"\"\u003e"
+                   "al":  "ファンクションポイント法は、外部入出力や内部ファイルの数と難易度の高さから、ファンクションポイントという数値を算出し、それを元に論理的に開発規模を見積もる手法です。画面や帳票の数などを基準に見積もるので、依頼者からのコンセンサス(合意)が得られやすいという長所があります。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/53.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成26年秋季 問53",
@@ -3272,14 +3272,14 @@
                               "預先設定單位作業量的基準值，將作業項目分解至單位作業項目，並透過累計加總來估算整體作業量的方法。"
                           ],
                    "an":  3,
-                   "al":  "功能點法是透過外部輸入輸出及內部檔案的數量與難易度，算出「功能點」這一數值，並以此為基礎從邏輯上估算開發規模的方法。由於是根據畫面或報表數量等為基準進行估算，因此具有容易獲得委託方共識（同意）的優點。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/53.png\" alt=\"\"\u003e"
+                   "al":  "功能點法是透過外部輸入輸出及內部檔案的數量與難易度，算出「功能點」這一數值，並以此為基礎從邏輯上估算開發規模的方法。由於是根據畫面或報表數量等為基準進行估算，因此具有容易獲得委託方共識（同意）的優點。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/53.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "令和7年度　問14",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "図は，あるプロジェクトの作業A～Iとその作業日数を表している。このプロジェクトの最短所要日数は何日か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/07_haru/img/14.png\" alt=\"\"\u003e",
+                   "q":  "図は，あるプロジェクトの作業A～Iとその作業日数を表している。このプロジェクトの最短所要日数は何日か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/07_haru/img/14.png\" alt=\"\"\u003e",
                    "op":  [
                               "27",
                               "28",
@@ -3292,7 +3292,7 @@
         "zh":  {
                    "ti":  "令和7年度 問14",
                    "ca":  "管理系 » 專案管理 » 專案時程",
-                   "q":  "圖表顯示了某個專案的工作 A～I 及其所需天數。此專案的最短完成天數為多少天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/07_haru/img/14.png\" alt=\"\"\u003e",
+                   "q":  "圖表顯示了某個專案的工作 A～I 及其所需天數。此專案的最短完成天數為多少天？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/07_haru/img/14.png\" alt=\"\"\u003e",
                    "op":  [
                               "27",
                               "28",
@@ -3335,7 +3335,7 @@
         "ja":  {
                    "ti":  "平成16年春期　問54",
                    "ca":  "マネジメント系 » プロジェクトマネジメント » プロジェクトの時間",
-                   "q":  "図は，あるプロジェクトの作業工程(A～I)とその作業日数を表している。このプロジェクトが終了するまでに必要な最短の日数は幾らか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/54.png\" alt=\"問54画像\"\u003e",
+                   "q":  "図は，あるプロジェクトの作業工程(A～I)とその作業日数を表している。このプロジェクトが終了するまでに必要な最短の日数は幾らか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/54.png\" alt=\"問54画像\"\u003e",
                    "op":  [
                               "27",
                               "28",
@@ -3348,7 +3348,7 @@
         "zh":  {
                    "ti":  "平成16年春季 問54",
                    "ca":  "管理類 » 專案管理 » 專案時程",
-                   "q":  "下圖顯示了某專案的工作流程（A～I）及其所需天數。完成該專案所需的最短天數為多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/54.png\" alt=\"問54圖片\"\u003e",
+                   "q":  "下圖顯示了某專案的工作流程（A～I）及其所需天數。完成該專案所需的最短天數為多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/54.png\" alt=\"問54圖片\"\u003e",
                    "op":  [
                               "27",
                               "28",

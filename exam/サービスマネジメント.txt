@@ -199,7 +199,7 @@
         "ja":  {
                    "ti":  "平成21年秋期　問56",
                    "ca":  "マネジメント系 » サービスマネジメント » サービスマネジメントプロセス",
-                   "q":  "ITIL v2において，日々のITサービス運営手法を示したサービスサポートに分類されている5プロセスと機能を一覧表にまとめたとき，表中の a に該当するプロセスはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/56.png\" alt=\"\"\u003e",
+                   "q":  "ITIL v2において，日々のITサービス運営手法を示したサービスサポートに分類されている5プロセスと機能を一覧表にまとめたとき，表中の a に該当するプロセスはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/56.png\" alt=\"\"\u003e",
                    "op":  [
                               "ITサービス継続性管理",
                               "可用性管理",
@@ -212,7 +212,7 @@
         "zh":  {
                    "ti":  "平成21年秋季 問56",
                    "ca":  "管理類 » 服務管理 » 服務管理流程",
-                   "q":  "在 ITIL v2 中，將顯示日常 IT 服務運作手法的「服務支援（Service Support）」所分類的 5 個流程與功能整理成列表時，表中 a 對應的流程為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/56.png\" alt=\"\"\u003e",
+                   "q":  "在 ITIL v2 中，將顯示日常 IT 服務運作手法的「服務支援（Service Support）」所分類的 5 個流程與功能整理成列表時，表中 a 對應的流程為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/56.png\" alt=\"\"\u003e",
                    "op":  [
                               "IT 服務持續性管理",
                               "可用性管理",
@@ -397,26 +397,26 @@
                    "ca":  "マネジメント系 » サービスマネジメント » サービスの運用",
                    "q":  "コンピュータシステムの利用料金を逓減課金方式にしたときのグラフはどれか。ここで，横軸を使用量，縦軸を利用料金とする。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/50a.png\" alt=\"問50ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/50i.png\" alt=\"問50イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/50u.png\" alt=\"問50ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/50e.png\" alt=\"問50エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/50a.png\" alt=\"問50ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/50i.png\" alt=\"問50イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/50u.png\" alt=\"問50ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/50e.png\" alt=\"問50エ\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "逓減(ていげん)課金方式とは、システムの累積使用量が増加するに従って利用単位当たりの利用料金が減っていく、つまり使えば使うほど割安な単価で利用できるようになっていく課金方式のことです。例えば、100回までのサービス使用は1回100円、100回を超えて500回までは1回70円、500回を超えると1回50円というような感じです。この逓減課金方式における使用量と利用料金の関係をグラフにすると、累積使用量が多くなるほど利用料金の増加量がなだらかに減っていく「ウ」のような形状になります。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/50a.png\" alt=\"問50ア\"\u003e当然ですが使えば使うほど合計金額は高くなっていきます。このグラフは使用量が増えるほど合計金額が安くなってしまっているので誤りです。 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/50i.png\" alt=\"問50イ\"\u003e使用量に比例して利用料金も上がっていきますが、使用量が一定の閾値を超えるとそれ以上は利用料金が上がらなくなっています。よって、このグラフは従量制をベースに利用料金の上限を設けた従量課金上限制（キャップ制や天井付きとも呼ばれます）を表したものです。 [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/50u.png\" alt=\"問50ウ\"\u003e正しい。逓減課金方式のグラフです。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/50e.png\" alt=\"問50エ\"\u003e累積使用量が増えるほど利用単位当たりの料金が高くなっているので、このグラフは逓増課金方式を表したものです。"
+                   "al":  "逓減(ていげん)課金方式とは、システムの累積使用量が増加するに従って利用単位当たりの利用料金が減っていく、つまり使えば使うほど割安な単価で利用できるようになっていく課金方式のことです。例えば、100回までのサービス使用は1回100円、100回を超えて500回までは1回70円、500回を超えると1回50円というような感じです。この逓減課金方式における使用量と利用料金の関係をグラフにすると、累積使用量が多くなるほど利用料金の増加量がなだらかに減っていく「ウ」のような形状になります。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/50a.png\" alt=\"問50ア\"\u003e当然ですが使えば使うほど合計金額は高くなっていきます。このグラフは使用量が増えるほど合計金額が安くなってしまっているので誤りです。 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/50i.png\" alt=\"問50イ\"\u003e使用量に比例して利用料金も上がっていきますが、使用量が一定の閾値を超えるとそれ以上は利用料金が上がらなくなっています。よって、このグラフは従量制をベースに利用料金の上限を設けた従量課金上限制（キャップ制や天井付きとも呼ばれます）を表したものです。 [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/50u.png\" alt=\"問50ウ\"\u003e正しい。逓減課金方式のグラフです。 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/50e.png\" alt=\"問50エ\"\u003e累積使用量が増えるほど利用単位当たりの料金が高くなっているので、このグラフは逓増課金方式を表したものです。"
                },
         "zh":  {
                    "ti":  "平成20年春季 問50",
                    "ca":  "管理類 » 服務管理 » 服務運作",
                    "q":  "當電腦系統的費用計算方式採用「遞減計費方式」時，下列哪一個圖表是正確的？其中，橫軸為使用量，縱軸為利用費用。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/50a.png\" alt=\"問50ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/50i.png\" alt=\"問50イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/50u.png\" alt=\"問50ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/50e.png\" alt=\"問50エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/50a.png\" alt=\"問50ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/50i.png\" alt=\"問50イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/50u.png\" alt=\"問50ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/50e.png\" alt=\"問50エ\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "遞減計費方式是指隨著系統累積使用量的增加，單位使用量的費用會逐漸降低，也就是說，使用量越多，單價越便宜的計費方式。例如：前100次使用每次100日圓，超過100次到500次之間每次70日圓，超過500次後每次50日圓。將此遞減計費方式下的使用量與利用費用關係繪製成圖表，會呈現如「ウ」般，隨著累積使用量增加，費用增加幅度逐漸趨緩的形狀。\n\n[1]\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/50a.png\" alt=\"問50ア\"\u003e 理所當然地，使用越多總金額會越高。但此圖表顯示使用量越多總金額反而越低，因此錯誤。\n\n[2]\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/50i.png\" alt=\"問50イ\"\u003e 利用費用隨使用量按比例上升，但在使用量達到一定閾值後，費用便不再增加。因此，此圖表代表的是以按量計費為基礎，設有收費上限的「上限計費制」（Cap制）。\n\n[3]\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/50u.png\" alt=\"問50ウ\"\u003e 正確。這是遞減計費方式的圖表。\n\n[4]\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/50e.png\" alt=\"問50エ\"\u003e 隨著累積使用量增加，單位費用反而變高，因此此圖表代表的是「遞增計費方式」。"
+                   "al":  "遞減計費方式是指隨著系統累積使用量的增加，單位使用量的費用會逐漸降低，也就是說，使用量越多，單價越便宜的計費方式。例如：前100次使用每次100日圓，超過100次到500次之間每次70日圓，超過500次後每次50日圓。將此遞減計費方式下的使用量與利用費用關係繪製成圖表，會呈現如「ウ」般，隨著累積使用量增加，費用增加幅度逐漸趨緩的形狀。\n\n[1]\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/50a.png\" alt=\"問50ア\"\u003e 理所當然地，使用越多總金額會越高。但此圖表顯示使用量越多總金額反而越低，因此錯誤。\n\n[2]\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/50i.png\" alt=\"問50イ\"\u003e 利用費用隨使用量按比例上升，但在使用量達到一定閾值後，費用便不再增加。因此，此圖表代表的是以按量計費為基礎，設有收費上限的「上限計費制」（Cap制）。\n\n[3]\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/50u.png\" alt=\"問50ウ\"\u003e 正確。這是遞減計費方式的圖表。\n\n[4]\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/50e.png\" alt=\"問50エ\"\u003e 隨著累積使用量增加，單位費用反而變高，因此此圖表代表的是「遞增計費方式」。"
                }
     },
     {
@@ -535,7 +535,7 @@
         "ja":  {
                    "ti":  "令和4年度　問56",
                    "ca":  "マネジメント系 » サービスマネジメント » サービスの設計・移行",
-                   "q":  "新システムの開発を計画している。このシステムの総所有費用(TCO)は何千円か。ここで，このシステムは開発された後，3年間使用されるものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/56.png\" alt=\"56.png\"\u003e",
+                   "q":  "新システムの開発を計画している。このシステムの総所有費用(TCO)は何千円か。ここで，このシステムは開発された後，3年間使用されるものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/56.png\" alt=\"56.png\"\u003e",
                    "op":  [
                               "40,500",
                               "90,000",
@@ -548,7 +548,7 @@
         "zh":  {
                    "ti":  "令和4年度 問56",
                    "ca":  "管理系 » 服務管理 » 服務設計與移轉",
-                   "q":  "正在計畫開發一套新系統。該系統的總擁有成本 (TCO) 為多少千日圓？在此，假設該系統在開發完成後將使用 3 年。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/56.png\" alt=\"56.png\"\u003e",
+                   "q":  "正在計畫開發一套新系統。該系統的總擁有成本 (TCO) 為多少千日圓？在此，假設該系統在開發完成後將使用 3 年。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/56.png\" alt=\"56.png\"\u003e",
                    "op":  [
                               "40,500",
                               "90,000",
@@ -1097,26 +1097,26 @@
                    "ca":  "マネジメント系 » サービスマネジメント » サービスの運用",
                    "q":  "コンピュータシステムの利用料金を逓減課金方式にしたときのグラフはどれか。ここで，横軸を使用量，縦軸を利用料金とする。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/49a.png\" alt=\"問49ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/49i.png\" alt=\"問49イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/49u.png\" alt=\"問49ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/49e.png\" alt=\"問49エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/49a.png\" alt=\"問49ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/49i.png\" alt=\"問49イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/49u.png\" alt=\"問49ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/49e.png\" alt=\"問49エ\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "逓減(ていげん)課金方式とは、システムの累積使用量が増加するに従って利用単位当たりの利用料金が減っていく、つまり使えば使うほど割安な単価で利用できるようになっていく課金方式のことです。例えば、100回までのサービス使用は1回100円、100回を超えて500回までは1回70円、500回を超えると1回50円というような感じです。この逓減課金方式における使用量と利用料金の関係をグラフにすると、累積使用量が多くなるほど利用料金の増加量がなだらかに減っていく「ウ」のような形状になります。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/49a.png\" alt=\"問49ア\"\u003e当然ですが使えば使うほど合計金額は高くなっていきます。このグラフは使用量が増えるほど合計金額が安くなってしまっているので誤りです。 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/49i.png\" alt=\"問49イ\"\u003e使用量に比例して利用料金も上がっていきますが、使用量が一定の閾値を超えるとそれ以上は利用料金が上がらなくなっています。よって、このグラフは従量制をベースに利用料金の上限を設けた従量課金上限制（キャップ制や天井付きとも呼ばれます）を表したものです。 [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/49u.png\" alt=\"問49ウ\"\u003e正しい。逓減課金方式のグラフです。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/49e.png\" alt=\"問49エ\"\u003e累積使用量が増えるほど利用単位当たりの料金が高くなっているので、このグラフは逓増課金方式を表したものです。"
+                   "al":  "逓減(ていげん)課金方式とは、システムの累積使用量が増加するに従って利用単位当たりの利用料金が減っていく、つまり使えば使うほど割安な単価で利用できるようになっていく課金方式のことです。例えば、100回までのサービス使用は1回100円、100回を超えて500回までは1回70円、500回を超えると1回50円というような感じです。この逓減課金方式における使用量と利用料金の関係をグラフにすると、累積使用量が多くなるほど利用料金の増加量がなだらかに減っていく「ウ」のような形状になります。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/49a.png\" alt=\"問49ア\"\u003e当然ですが使えば使うほど合計金額は高くなっていきます。このグラフは使用量が増えるほど合計金額が安くなってしまっているので誤りです。 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/49i.png\" alt=\"問49イ\"\u003e使用量に比例して利用料金も上がっていきますが、使用量が一定の閾値を超えるとそれ以上は利用料金が上がらなくなっています。よって、このグラフは従量制をベースに利用料金の上限を設けた従量課金上限制（キャップ制や天井付きとも呼ばれます）を表したものです。 [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/49u.png\" alt=\"問49ウ\"\u003e正しい。逓減課金方式のグラフです。 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/49e.png\" alt=\"問49エ\"\u003e累積使用量が増えるほど利用単位当たりの料金が高くなっているので、このグラフは逓増課金方式を表したものです。"
                },
         "zh":  {
                    "ti":  "平成18年春季 問49",
                    "ca":  "管理系 » 服務管理 » 服務運作",
                    "q":  "當電腦系統的計費方式採用「遞減計費方式」時，下列哪一個圖表是正確的？在此，橫軸為使用量，縱軸為利用費用。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/49a.png\" alt=\"問49ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/49i.png\" alt=\"問49イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/49u.png\" alt=\"問49ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/49e.png\" alt=\"問49エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/49a.png\" alt=\"問49ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/49i.png\" alt=\"問49イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/49u.png\" alt=\"問49ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/49e.png\" alt=\"問49エ\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "遞減計費方式是指隨著系統累計使用量增加，單位使用量的計費單價隨之遞減的計費方式；換言之，使用量越多，平均單位成本越便宜。例如：使用 100 次以內，每次收費 100 日圓；超過 100 次至 500 次，每次收費 70 日圓；超過 500 次後，每次收費 50 日圓。將此遞減計費方式的使用量與利用費用關係繪製成圖表時，隨著累計使用量增加，費用增加幅度會逐漸趨緩，呈現出如「ウ」所示的曲線。\n\n[1]\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/49a.png\" alt=\"問49ア\"\u003e理所當然，使用越多總金額會越高。但此圖表顯示使用量增加時總金額反而變低，故為錯誤。\n\n[2]\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/49i.png\" alt=\"問49イ\"\u003e費用隨使用量按比例上升，但在使用量達到一定閾值後，費用便不再增加。因此，該圖表代表的是以計量制為基礎並設有費用上限的「計量收費上限制」（也稱為封頂制）。\n\n[3]\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/49u.png\" alt=\"問49ウ\"\u003e正確。這是遞減計費方式的圖表。\n\n[4]\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/49e.png\" alt=\"問49エ\"\u003e隨著累計使用量增加，單位使用量的費用反而變高，因此該圖表代表的是「遞增計費方式」。"
+                   "al":  "遞減計費方式是指隨著系統累計使用量增加，單位使用量的計費單價隨之遞減的計費方式；換言之，使用量越多，平均單位成本越便宜。例如：使用 100 次以內，每次收費 100 日圓；超過 100 次至 500 次，每次收費 70 日圓；超過 500 次後，每次收費 50 日圓。將此遞減計費方式的使用量與利用費用關係繪製成圖表時，隨著累計使用量增加，費用增加幅度會逐漸趨緩，呈現出如「ウ」所示的曲線。\n\n[1]\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/49a.png\" alt=\"問49ア\"\u003e理所當然，使用越多總金額會越高。但此圖表顯示使用量增加時總金額反而變低，故為錯誤。\n\n[2]\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/49i.png\" alt=\"問49イ\"\u003e費用隨使用量按比例上升，但在使用量達到一定閾值後，費用便不再增加。因此，該圖表代表的是以計量制為基礎並設有費用上限的「計量收費上限制」（也稱為封頂制）。\n\n[3]\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/49u.png\" alt=\"問49ウ\"\u003e正確。這是遞減計費方式的圖表。\n\n[4]\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/49e.png\" alt=\"問49エ\"\u003e隨著累計使用量增加，單位使用量的費用反而變高，因此該圖表代表的是「遞增計費方式」。"
                }
     },
     {
@@ -1347,7 +1347,7 @@
         "ja":  {
                    "ti":  "平成22年春期　問55",
                    "ca":  "マネジメント系 » サービスマネジメント » サービスの設計・移行",
-                   "q":  "A社の会員登録処理では，次の形式のIDを発行している。各年度末での発行済ID数の推移は表のとおりである。今後もこの傾向が続くと仮定した場合，この形式によるIDは何年度に発行し尽くすと予想されるか。ここで，脱会した会員のIDは欠番として管理し，再利用は行わない。\u003cbr\u003e\u003cbr\u003e〔IDの形式〕\u003cbr\u003e　XXNNN(例：AZ059 など)\u003cul\u003e\u003cli\u003eXには英大文字(A～Z)を設定する。\u003c/li\u003e\u003cli\u003eNには数字(0～9)を設定する。\u003c/li\u003e\u003c/ul\u003e〔各年度末における発行済ID数の推移〕\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/55.png\" alt=\"\"\u003e",
+                   "q":  "A社の会員登録処理では，次の形式のIDを発行している。各年度末での発行済ID数の推移は表のとおりである。今後もこの傾向が続くと仮定した場合，この形式によるIDは何年度に発行し尽くすと予想されるか。ここで，脱会した会員のIDは欠番として管理し，再利用は行わない。\u003cbr\u003e\u003cbr\u003e〔IDの形式〕\u003cbr\u003e　XXNNN(例：AZ059 など)\u003cul\u003e\u003cli\u003eXには英大文字(A～Z)を設定する。\u003c/li\u003e\u003cli\u003eNには数字(0～9)を設定する。\u003c/li\u003e\u003c/ul\u003e〔各年度末における発行済ID数の推移〕\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/55.png\" alt=\"\"\u003e",
                    "op":  [
                               "2010年度",
                               "2011年度",
@@ -1360,7 +1360,7 @@
         "zh":  {
                    "ti":  "平成22年春季 問55",
                    "ca":  "管理系 » 服務管理 » 服務設計與移轉",
-                   "q":  "A公司的會員註冊處理採用下列格式發行ID。各年度末已發行ID數的推移如下表所示。若假設此趨勢持續下去，預計此格式的ID將於哪一年度發行完畢？在此，退會會員的ID將作為缺號管理，不再重複利用。\u003cbr\u003e\u003cbr\u003e〔ID格式〕\u003cbr\u003e　XXNNN (例：AZ059 等)\u003cul\u003e\u003cli\u003eX：設定為英文大寫字母 (A～Z)\u003c/li\u003e\u003cli\u003eN：設定為數字 (0～9)\u003c/li\u003e\u003c/ul\u003e〔各年度末已發行ID數的推移〕\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/55.png\" alt=\"\"\u003e",
+                   "q":  "A公司的會員註冊處理採用下列格式發行ID。各年度末已發行ID數的推移如下表所示。若假設此趨勢持續下去，預計此格式的ID將於哪一年度發行完畢？在此，退會會員的ID將作為缺號管理，不再重複利用。\u003cbr\u003e\u003cbr\u003e〔ID格式〕\u003cbr\u003e　XXNNN (例：AZ059 等)\u003cul\u003e\u003cli\u003eX：設定為英文大寫字母 (A～Z)\u003c/li\u003e\u003cli\u003eN：設定為數字 (0～9)\u003c/li\u003e\u003c/ul\u003e〔各年度末已發行ID數的推移〕\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/55.png\" alt=\"\"\u003e",
                    "op":  [
                               "2010年度",
                               "2011年度",
@@ -2245,26 +2245,26 @@
                    "ca":  "マネジメント系 » サービスマネジメント » サービスの運用",
                    "q":  "コンピュータシステムの利用料金を逓減課金方式にしたときのグラフはどれか。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/57a.png\" alt=\"問57ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/57i.png\" alt=\"問57イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/57u.png\" alt=\"問57ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/57e.png\" alt=\"問57エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/57a.png\" alt=\"問57ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/57i.png\" alt=\"問57イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/57u.png\" alt=\"問57ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/57e.png\" alt=\"問57エ\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "逓減(ていげん)課金方式とは、システムの累積使用量が増加するに従って利用単位当たりの利用料金が減っていく、つまり使えば使うほど割安な単価で利用できるようになっていく課金方式のことです。例えば、100回までのサービス使用は1回100円、100回を超えて500回までは1回70円、500回を超えると1回50円というような感じです。この逓減課金方式における使用量と利用料金の関係をグラフにすると、累積使用量が多くなるほど利用料金の増加量がなだらかに減っていく「ウ」のような形状になります。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/57a.png\" alt=\"問57ア\"\u003e当然ですが使えば使うほど合計金額は高くなっていきます。このグラフは使用量が増えるほど合計金額が安くなってしまっているので誤りです。 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/57i.png\" alt=\"問57イ\"\u003e使用量に比例して利用料金も上がっていきますが、使用量が一定の閾値を超えるとそれ以上は利用料金が上がらなくなっています。よって、このグラフは従量制をベースに利用料金の上限を設けた従量課金上限制（キャップ制や天井付きとも呼ばれます）を表したものです。 [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/57u.png\" alt=\"問57ウ\"\u003e正しい。逓減課金方式のグラフです。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/57e.png\" alt=\"問57エ\"\u003e累積使用量が増えるほど利用単位当たりの料金が高くなっているので、このグラフは逓増課金方式を表したものです。"
+                   "al":  "逓減(ていげん)課金方式とは、システムの累積使用量が増加するに従って利用単位当たりの利用料金が減っていく、つまり使えば使うほど割安な単価で利用できるようになっていく課金方式のことです。例えば、100回までのサービス使用は1回100円、100回を超えて500回までは1回70円、500回を超えると1回50円というような感じです。この逓減課金方式における使用量と利用料金の関係をグラフにすると、累積使用量が多くなるほど利用料金の増加量がなだらかに減っていく「ウ」のような形状になります。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/57a.png\" alt=\"問57ア\"\u003e当然ですが使えば使うほど合計金額は高くなっていきます。このグラフは使用量が増えるほど合計金額が安くなってしまっているので誤りです。 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/57i.png\" alt=\"問57イ\"\u003e使用量に比例して利用料金も上がっていきますが、使用量が一定の閾値を超えるとそれ以上は利用料金が上がらなくなっています。よって、このグラフは従量制をベースに利用料金の上限を設けた従量課金上限制（キャップ制や天井付きとも呼ばれます）を表したものです。 [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/57u.png\" alt=\"問57ウ\"\u003e正しい。逓減課金方式のグラフです。 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/57e.png\" alt=\"問57エ\"\u003e累積使用量が増えるほど利用単位当たりの料金が高くなっているので、このグラフは逓増課金方式を表したものです。"
                },
         "zh":  {
                    "ti":  "平成23年特別 問57",
                    "ca":  "管理類 » 服務管理 » 服務運作",
                    "q":  "關於電腦系統利用費用的遞減計費方式，下列哪一個是其對應的圖表？",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/57a.png\" alt=\"問57ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/57i.png\" alt=\"問57イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/57u.png\" alt=\"問57ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/57e.png\" alt=\"問57エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/57a.png\" alt=\"問57ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/57i.png\" alt=\"問57イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/57u.png\" alt=\"問57ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/57e.png\" alt=\"問57エ\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "遞減計費方式是指隨著系統累積使用量的增加，單位使用量的費用逐漸降低，亦即使用量越多，單價越便宜的計費方式。例如：使用服務達 100 次以內，每次 100 日圓；超過 100 次至 500 次，每次 70 日圓；超過 500 次後，每次 50 日圓。若將此遞減計費方式下的使用量與利用費用關係繪製成圖表，會呈現如「ウ」所示，即隨著累積使用量增加，利用費用的增加幅度逐漸趨緩的形狀。\n\n[1]\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/57a.png\" alt=\"問57ア\"\u003e理所當然，使用越多總金額應越高。此圖表顯示使用量增加時總金額反而變低，故為錯誤。\n\n[2]\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/57i.png\" alt=\"問57イ\"\u003e此為利用費用隨使用量成比例增加，但當使用量超過一定閾值後，費用不再增加。因此，此圖表代表的是以按量計費為基礎並設定上限的「封頂計費制」（Cap 制）。\n\n[3]\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/57u.png\" alt=\"問57ウ\"\u003e正確。這是遞減計費方式的圖表。\n\n[4]\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/57e.png\" alt=\"問57エ\"\u003e由於隨著累積使用量增加，單位使用量的費用反而變高，故此圖表代表的是「遞增計費方式」。"
+                   "al":  "遞減計費方式是指隨著系統累積使用量的增加，單位使用量的費用逐漸降低，亦即使用量越多，單價越便宜的計費方式。例如：使用服務達 100 次以內，每次 100 日圓；超過 100 次至 500 次，每次 70 日圓；超過 500 次後，每次 50 日圓。若將此遞減計費方式下的使用量與利用費用關係繪製成圖表，會呈現如「ウ」所示，即隨著累積使用量增加，利用費用的增加幅度逐漸趨緩的形狀。\n\n[1]\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/57a.png\" alt=\"問57ア\"\u003e理所當然，使用越多總金額應越高。此圖表顯示使用量增加時總金額反而變低，故為錯誤。\n\n[2]\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/57i.png\" alt=\"問57イ\"\u003e此為利用費用隨使用量成比例增加，但當使用量超過一定閾值後，費用不再增加。因此，此圖表代表的是以按量計費為基礎並設定上限的「封頂計費制」（Cap 制）。\n\n[3]\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/57u.png\" alt=\"問57ウ\"\u003e正確。這是遞減計費方式的圖表。\n\n[4]\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/57e.png\" alt=\"問57エ\"\u003e由於隨著累積使用量增加，單位使用量的費用反而變高，故此圖表代表的是「遞增計費方式」。"
                }
     },
     {
@@ -2467,7 +2467,7 @@
         "ja":  {
                    "ti":  "平成20年秋期　問49",
                    "ca":  "マネジメント系 » サービスマネジメント » サービスの設計・移行",
-                   "q":  "A社の会員登録処理では，次の形式のIDを発行している。各年度末での発行済ID数の推移は表のとおりである。今後もこの傾向が続くと仮定した場合，この形式によるIDは何年度に使い尽くすと予想されるか。ここで，脱会した会員のIDは欠番として管理し，再利用は行わない。\u003cbr\u003e\u003cbr\u003e〔ID の形式〕\u003cbr\u003e XXNNN(例：AZ059 など)\u003cul\u003e\u003cli\u003eXには英大文字(A～Zの26文字)を設定する。\u003c/li\u003e\u003cli\u003eNには数字(0～9の10文字)を設定する。\u003c/li\u003e\u003c/ul\u003e〔各年度末における発行済ID数の推移〕\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/49.png\" alt=\"\"\u003e",
+                   "q":  "A社の会員登録処理では，次の形式のIDを発行している。各年度末での発行済ID数の推移は表のとおりである。今後もこの傾向が続くと仮定した場合，この形式によるIDは何年度に使い尽くすと予想されるか。ここで，脱会した会員のIDは欠番として管理し，再利用は行わない。\u003cbr\u003e\u003cbr\u003e〔ID の形式〕\u003cbr\u003e XXNNN(例：AZ059 など)\u003cul\u003e\u003cli\u003eXには英大文字(A～Zの26文字)を設定する。\u003c/li\u003e\u003cli\u003eNには数字(0～9の10文字)を設定する。\u003c/li\u003e\u003c/ul\u003e〔各年度末における発行済ID数の推移〕\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/49.png\" alt=\"\"\u003e",
                    "op":  [
                               "2008年度",
                               "2009年度",
@@ -2480,7 +2480,7 @@
         "zh":  {
                    "ti":  "平成20年秋季 問49",
                    "ca":  "管理系 » 服務管理 » 服務設計與移轉",
-                   "q":  "A公司的會員註冊流程中，採用以下格式發放ID。各年度末的已發放ID數量變動如下表所示。若假設此趨勢今後持續下去，預計在幾年度會將此格式的ID用盡？此外，已退會會員的ID將視為缺號管理，不進行重複使用。\u003cbr\u003e\u003cbr\u003e〔ID 格式〕\u003cbr\u003e XXNNN（例：AZ059 等）\u003cul\u003e\u003cli\u003eX 設定為大寫英文字母（A～Z 共 26 個字）。\u003c/li\u003e\u003cli\u003eN 設定為數字（0～9 共 10 個字）。\u003c/li\u003e\u003c/ul\u003e〔各年度末之已發放ID數量變動〕\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/49.png\" alt=\"\"\u003e",
+                   "q":  "A公司的會員註冊流程中，採用以下格式發放ID。各年度末的已發放ID數量變動如下表所示。若假設此趨勢今後持續下去，預計在幾年度會將此格式的ID用盡？此外，已退會會員的ID將視為缺號管理，不進行重複使用。\u003cbr\u003e\u003cbr\u003e〔ID 格式〕\u003cbr\u003e XXNNN（例：AZ059 等）\u003cul\u003e\u003cli\u003eX 設定為大寫英文字母（A～Z 共 26 個字）。\u003c/li\u003e\u003cli\u003eN 設定為數字（0～9 共 10 個字）。\u003c/li\u003e\u003c/ul\u003e〔各年度末之已發放ID數量變動〕\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/49.png\" alt=\"\"\u003e",
                    "op":  [
                               "2008年度",
                               "2009年度",
@@ -2861,26 +2861,26 @@
                    "ca":  "マネジメント系 » サービスマネジメント » サービスの運用",
                    "q":  "ITサービスにおけるコンピュータシステムの利用料金を逓減課金方式にしたときのグラフはどれか。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/58a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/58i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/58u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/58e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/58a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/58i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/58u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/58e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "逓減(ていげん)課金方式とは、システムの累積使用量が増加するに従って利用単位当たりの利用料金が減っていく、つまり使えば使うほど割安な単価で利用できるようになっていく課金方式のことです。例えば、100回までのサービス使用は1回100円、100回を超えて500回までは1回70円、500回を超えると1回50円というような感じです。この逓減課金方式における使用量と利用料金の関係をグラフにすると、累積使用量が多くなるほど利用料金の増加量がなだらかに減っていく「ウ」のような形状になります。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/58a.png\" alt=\"\"\u003e当然ですが使えば使うほど合計金額は高くなっていきます。このグラフは使用量が増えるほど合計金額が安くなってしまっているので誤りです。 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/58i.png\" alt=\"\"\u003e使用量に比例して利用料金も上がっていきますが、使用量が一定の閾値を超えるとそれ以上は利用料金が上がらなくなっています。よって、このグラフは従量制をベースに利用料金の上限を設けた従量課金上限制（キャップ制や天井付きとも呼ばれます）を表したものです。 [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/58u.png\" alt=\"\"\u003e正しい。逓減課金方式のグラフです。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/58e.png\" alt=\"\"\u003e累積使用量が増えるほど利用単位当たりの料金が高くなっているので、このグラフは逓増課金方式を表したものです。"
+                   "al":  "逓減(ていげん)課金方式とは、システムの累積使用量が増加するに従って利用単位当たりの利用料金が減っていく、つまり使えば使うほど割安な単価で利用できるようになっていく課金方式のことです。例えば、100回までのサービス使用は1回100円、100回を超えて500回までは1回70円、500回を超えると1回50円というような感じです。この逓減課金方式における使用量と利用料金の関係をグラフにすると、累積使用量が多くなるほど利用料金の増加量がなだらかに減っていく「ウ」のような形状になります。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/58a.png\" alt=\"\"\u003e当然ですが使えば使うほど合計金額は高くなっていきます。このグラフは使用量が増えるほど合計金額が安くなってしまっているので誤りです。 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/58i.png\" alt=\"\"\u003e使用量に比例して利用料金も上がっていきますが、使用量が一定の閾値を超えるとそれ以上は利用料金が上がらなくなっています。よって、このグラフは従量制をベースに利用料金の上限を設けた従量課金上限制（キャップ制や天井付きとも呼ばれます）を表したものです。 [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/58u.png\" alt=\"\"\u003e正しい。逓減課金方式のグラフです。 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/58e.png\" alt=\"\"\u003e累積使用量が増えるほど利用単位当たりの料金が高くなっているので、このグラフは逓増課金方式を表したものです。"
                },
         "zh":  {
                    "ti":  "平成25年秋季 問58",
                    "ca":  "管理系 » 服務管理 » 服務運作",
                    "q":  "在IT服務中，關於電腦系統的使用費用採用「遞減計費方式」時，下列哪一個是其對應的圖表？",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/58a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/58i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/58u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/58e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/58a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/58i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/58u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/58e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "「遞減計費方式」是指隨著系統累計使用量增加，單位使用量的費用會逐漸降低，也就是說，使用量越多，單價就越便宜的一種計費方式。例如：使用100次以內為每次100日圓，超過100次至500次為每次70日圓，超過500次後為每次50日圓。若將此遞減計費方式下的使用量與利用費用關係繪製成圖表，會呈現出隨著累計使用量增加，利用費用的增加幅度變得越來越平緩的形狀，即「ウ」所示之圖形。\n\n[1]\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/58a.png\" alt=\"\"\u003e 理所當然地，使用越多總金額應該越高。此圖表顯示隨著使用量增加，總金額反而變低，故為錯誤。\n\n[2]\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/58i.png\" alt=\"\"\u003e 利用費用隨使用量成比例增加，但在使用量達到一定閾值後，費用便不再增加。因此，此圖表代表的是以按量計費為基礎並設定費用上限的「封頂計費制」（Cap制）。\n\n[3]\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/58u.png\" alt=\"\"\u003e 正確。這是遞減計費方式的圖表。\n\n[4]\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/58e.png\" alt=\"\"\u003e 隨著累計使用量增加，單位利用費用變得更高，因此該圖表代表的是「遞增計費方式」。"
+                   "al":  "「遞減計費方式」是指隨著系統累計使用量增加，單位使用量的費用會逐漸降低，也就是說，使用量越多，單價就越便宜的一種計費方式。例如：使用100次以內為每次100日圓，超過100次至500次為每次70日圓，超過500次後為每次50日圓。若將此遞減計費方式下的使用量與利用費用關係繪製成圖表，會呈現出隨著累計使用量增加，利用費用的增加幅度變得越來越平緩的形狀，即「ウ」所示之圖形。\n\n[1]\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/58a.png\" alt=\"\"\u003e 理所當然地，使用越多總金額應該越高。此圖表顯示隨著使用量增加，總金額反而變低，故為錯誤。\n\n[2]\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/58i.png\" alt=\"\"\u003e 利用費用隨使用量成比例增加，但在使用量達到一定閾值後，費用便不再增加。因此，此圖表代表的是以按量計費為基礎並設定費用上限的「封頂計費制」（Cap制）。\n\n[3]\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/58u.png\" alt=\"\"\u003e 正確。這是遞減計費方式的圖表。\n\n[4]\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/58e.png\" alt=\"\"\u003e 隨著累計使用量增加，單位利用費用變得更高，因此該圖表代表的是「遞增計費方式」。"
                }
     }
 ]

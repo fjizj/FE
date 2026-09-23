@@ -5,33 +5,33 @@
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
                    "q":  "入力XとYの値が同じときにだけ，出力Zに1を出力する回路はどれか。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22a.png\" alt=\"問22ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22i.png\" alt=\"問22イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22u.png\" alt=\"問22ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22e.png\" alt=\"問22エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22a.png\" alt=\"問22ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22i.png\" alt=\"問22イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22u.png\" alt=\"問22ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22e.png\" alt=\"問22エ\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "「入力XとYの値が同じときにだけ，出力Zに1を出力する」ということは、裏を返せば「入力XとYの値が異なるときには1を出力しない」ということです。このため、(X，Y)が(0，0)と(1，1)のときに1を出力するかどうかだけでなく、それ以外の(1，0)と(0，1)のときに出力が0になっているかどうかも確認する必要があります。それぞれの論理回路に(0，0)、(1，0)、(0，1)、(1，1)の4つを入力して得られる結果は次のようになります。XとYが同じときに1を出力しているもの、XとYが異なるときに1を出力していないものには○を、そうではないものには×を付けてあります。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22a.png\" alt=\"問22ア\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22_1.png\" alt=\"\"\u003e [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22i.png\" alt=\"問22イ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22_2.png\" alt=\"\"\u003e [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22u.png\" alt=\"問22ウ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22_3.png\" alt=\"\"\u003e [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22e.png\" alt=\"問22エ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22_4.png\" alt=\"\"\u003e"
+                   "al":  "「入力XとYの値が同じときにだけ，出力Zに1を出力する」ということは、裏を返せば「入力XとYの値が異なるときには1を出力しない」ということです。このため、(X，Y)が(0，0)と(1，1)のときに1を出力するかどうかだけでなく、それ以外の(1，0)と(0，1)のときに出力が0になっているかどうかも確認する必要があります。それぞれの論理回路に(0，0)、(1，0)、(0，1)、(1，1)の4つを入力して得られる結果は次のようになります。XとYが同じときに1を出力しているもの、XとYが異なるときに1を出力していないものには○を、そうではないものには×を付けてあります。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22a.png\" alt=\"問22ア\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22_1.png\" alt=\"\"\u003e [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22i.png\" alt=\"問22イ\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22_2.png\" alt=\"\"\u003e [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22u.png\" alt=\"問22ウ\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22_3.png\" alt=\"\"\u003e [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22e.png\" alt=\"問22エ\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22_4.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成26年春期　題22",
                    "ca":  "科技類 » 硬體 » 硬體",
                    "q":  "只有當輸入X和Y的值相同時，才將1輸出至輸出Z的電路是哪一個？",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22a.png\" alt=\"問22ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22i.png\" alt=\"問22イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22u.png\" alt=\"問22ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22e.png\" alt=\"問22エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22a.png\" alt=\"問22ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22i.png\" alt=\"問22イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22u.png\" alt=\"問22ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22e.png\" alt=\"問22エ\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "「只有當輸入X和Y的值相同時，才將1輸出至輸出Z」，換句話說，也就是「當輸入X和Y的值不同時，不輸出1」。因此，不僅需要確認(X，Y)在(0，0)和(1，1)時是否輸出1，還需要確認在其餘的(1，0)和(0，1)時輸出是否為0。分別將(0，0)、(1，0)、(0，1)、(1，1)四個輸入各個邏輯電路所得到的結果如下所示。將X和Y相同時輸出1，以及X和Y不同時不輸出1的標記○，否則標記×。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22a.png\" alt=\"問22ア\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22_1.png\" alt=\"\"\u003e [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22i.png\" alt=\"問22イ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22_2.png\" alt=\"\"\u003e [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22u.png\" alt=\"問22ウ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22_3.png\" alt=\"\"\u003e [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22e.png\" alt=\"問22エ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/22_4.png\" alt=\"\"\u003e"
+                   "al":  "「只有當輸入X和Y的值相同時，才將1輸出至輸出Z」，換句話說，也就是「當輸入X和Y的值不同時，不輸出1」。因此，不僅需要確認(X，Y)在(0，0)和(1，1)時是否輸出1，還需要確認在其餘的(1，0)和(0，1)時輸出是否為0。分別將(0，0)、(1，0)、(0，1)、(1，1)四個輸入各個邏輯電路所得到的結果如下所示。將X和Y相同時輸出1，以及X和Y不同時不輸出1的標記○，否則標記×。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22a.png\" alt=\"問22ア\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22_1.png\" alt=\"\"\u003e [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22i.png\" alt=\"問22イ\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22_2.png\" alt=\"\"\u003e [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22u.png\" alt=\"問22ウ\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22_3.png\" alt=\"\"\u003e [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22e.png\" alt=\"問22エ\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/22_4.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "令和2年度　問22",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図の回路が実現する論理式はどれか。ここで，論理式中の\"・\"は論理積，\"＋\"は論理和を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/22.png\" alt=\"22.png\"\u003e",
+                   "q":  "図の回路が実現する論理式はどれか。ここで，論理式中の\"・\"は論理積，\"＋\"は論理和を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/22.png\" alt=\"22.png\"\u003e",
                    "op":  [
                               "F＝A",
                               "F＝B",
@@ -39,12 +39,12 @@
                               "F＝A＋B"
                           ],
                    "an":  2,
-                   "al":  "設問中の上下2つのAND回路からの出力を論理式で表すと、\"A・B\"と\"A・B\"になります。\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/22_1.png\" alt=\"22_1.png\"\u003e"
+                   "al":  "設問中の上下2つのAND回路からの出力を論理式で表すと、\"A・B\"と\"A・B\"になります。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/22_1.png\" alt=\"22_1.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和2年度 問22",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "下圖電路所實現的邏輯式為何？在此，邏輯式中的「・」代表邏輯積（AND），「＋」代表邏輯和（OR）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/22.png\" alt=\"22.png\"\u003e",
+                   "q":  "下圖電路所實現的邏輯式為何？在此，邏輯式中的「・」代表邏輯積（AND），「＋」代表邏輯和（OR）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/22.png\" alt=\"22.png\"\u003e",
                    "op":  [
                               "F＝A",
                               "F＝B",
@@ -52,14 +52,14 @@
                               "F＝A＋B"
                           ],
                    "an":  2,
-                   "al":  "題目中上下兩個 AND 電路的輸出，用邏輯式表示為「A・B」與「A・B」。\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/22_1.png\" alt=\"22_1.png\"\u003e"
+                   "al":  "題目中上下兩個 AND 電路的輸出，用邏輯式表示為「A・B」與「A・B」。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/22_1.png\" alt=\"22_1.png\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成22年秋期　問25",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "次の条件を満足する論理回路はどれか。\u003cbr\u003e\u003cbr\u003e〔条件〕\u003cbr\u003e　階段の上下にあるスイッチA又はBで，一つの照明を点灯・消灯する。すなわち，一方のスイッチの状態にかかわらず，他方のスイッチで照明を点灯・消灯できる。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/25.png\" alt=\"\"\u003e",
+                   "q":  "次の条件を満足する論理回路はどれか。\u003cbr\u003e\u003cbr\u003e〔条件〕\u003cbr\u003e　階段の上下にあるスイッチA又はBで，一つの照明を点灯・消灯する。すなわち，一方のスイッチの状態にかかわらず，他方のスイッチで照明を点灯・消灯できる。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/25.png\" alt=\"\"\u003e",
                    "op":  [
                               "AND ",
                               "NAND ",
@@ -67,12 +67,12 @@
                               "XOR "
                           ],
                    "an":  4,
-                   "al":  "階段の上と下に設置されているスイッチを思い浮かべてみればわかるように、各スイッチにはON/OFFの区別があるわけではなく、どちらのスイッチ押しても現在の照明の状態を変えることができます。つまりスイッチを押すと(1を入力すると)相手スイッチ状態(0または1)にかかわらず、照明の状態を反転する(0→1, 1→0)ことが求められます。XOR回路には、特定のビットと1でXORをとると、そのビットを反転できるという特徴があり、この目的に合う論理回路として最適です。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/25_1.png\" alt=\"\"\u003e"
+                   "al":  "階段の上と下に設置されているスイッチを思い浮かべてみればわかるように、各スイッチにはON/OFFの区別があるわけではなく、どちらのスイッチ押しても現在の照明の状態を変えることができます。つまりスイッチを押すと(1を入力すると)相手スイッチ状態(0または1)にかかわらず、照明の状態を反転する(0→1, 1→0)ことが求められます。XOR回路には、特定のビットと1でXORをとると、そのビットを反転できるという特徴があり、この目的に合う論理回路として最適です。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/25_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成22年秋季 問25",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "下列哪一個邏輯電路滿足以下條件？\u003cbr\u003e\u003cbr\u003e〔條件〕\u003cbr\u003e　使用樓梯上下方的開關A或B來開關同一盞燈。換句話說，無論另一側的開關狀態為何，都可以透過其中一側的開關來開啟或關閉照明。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/25.png\" alt=\"\"\u003e",
+                   "q":  "下列哪一個邏輯電路滿足以下條件？\u003cbr\u003e\u003cbr\u003e〔條件〕\u003cbr\u003e　使用樓梯上下方的開關A或B來開關同一盞燈。換句話說，無論另一側的開關狀態為何，都可以透過其中一側的開關來開啟或關閉照明。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/25.png\" alt=\"\"\u003e",
                    "op":  [
                               "AND ",
                               "NAND ",
@@ -80,42 +80,42 @@
                               "XOR "
                           ],
                    "an":  4,
-                   "al":  "正如聯想樓梯上下方安裝的開關一樣，各個開關並沒有固定的開／關區別，無論按哪一個開關，都能改變照明目前的狀態。也就是說，當按下開關（輸入1）時，無論另一個開關的狀態為何（0或1），照明的狀態都會反轉（0→1, 1→0）。XOR電路具有「將特定位元與1進行XOR運算時，該位元會反轉」的特性，因此是符合此目的的最佳邏輯電路。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/25_1.png\" alt=\"\"\u003e"
+                   "al":  "正如聯想樓梯上下方安裝的開關一樣，各個開關並沒有固定的開／關區別，無論按哪一個開關，都能改變照明目前的狀態。也就是說，當按下開關（輸入1）時，無論另一個開關的狀態為何（0或1），照明的狀態都會反轉（0→1, 1→0）。XOR電路具有「將特定位元與1進行XOR運算時，該位元會反轉」的特性，因此是符合此目的的最佳邏輯電路。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/25_1.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成28年秋期　問23",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "真理値表に示す3入力多数決回路はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23.png\" alt=\"\"\u003e",
+                   "q":  "真理値表に示す3入力多数決回路はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/23.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/23a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/23i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/23u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/23e.png\" alt=\"\"\u003e"
                           ],
                    "an":  1,
-                   "al":  "3入力多数決回路なので、真理値表にあるように3つの入力中2つ以上が\"1\"（＝\"1\"が多数）であれば結果に\"1\"を出力、そして2つ以上が\"0\"（＝\"0\"が多数）であれば結果に\"0\"を出力するものになっている必要があります。回路ごとにA、B、Cの値を与えた場合の出力を照合していくと、正しいのは「ア」の回路とわかります。「ア」の回路は、論理的には次のような演算を行う回路と考えられます。まず「A，B」「A，C」「B，C」それぞれの論理積を求める。3つの論理積演算の結果に\"1\"が現れれば、3つの入力中に\"1\"が2つ以上あることが確定する。逆に\"1\"が現れなければ3つの入力中の\"1\"の個数は1以下ということになる。3つの論理積演算の結果の中に少なくとも\"1\"が1つ以上ある場合には\"1\"(可決)、そうでなければ\"0\"(否決)を出力すればよいので、3つの演算結果を論理和演算した結果を最終的な出力とする。 [1]まず「A，B」「A，C」「B，C」それぞれの論理積を求める。 [2]3つの論理積演算の結果に\"1\"が現れれば、3つの入力中に\"1\"が2つ以上あることが確定する。逆に\"1\"が現れなければ3つの入力中の\"1\"の個数は1以下ということになる。 [3]3つの論理積演算の結果の中に少なくとも\"1\"が1つ以上ある場合には\"1\"(可決)、そうでなければ\"0\"(否決)を出力すればよいので、3つの演算結果を論理和演算した結果を最終的な出力とする。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23a.png\" alt=\"\"\u003e正しい。"
+                   "al":  "3入力多数決回路なので、真理値表にあるように3つの入力中2つ以上が\"1\"（＝\"1\"が多数）であれば結果に\"1\"を出力、そして2つ以上が\"0\"（＝\"0\"が多数）であれば結果に\"0\"を出力するものになっている必要があります。回路ごとにA、B、Cの値を与えた場合の出力を照合していくと、正しいのは「ア」の回路とわかります。「ア」の回路は、論理的には次のような演算を行う回路と考えられます。まず「A，B」「A，C」「B，C」それぞれの論理積を求める。3つの論理積演算の結果に\"1\"が現れれば、3つの入力中に\"1\"が2つ以上あることが確定する。逆に\"1\"が現れなければ3つの入力中の\"1\"の個数は1以下ということになる。3つの論理積演算の結果の中に少なくとも\"1\"が1つ以上ある場合には\"1\"(可決)、そうでなければ\"0\"(否決)を出力すればよいので、3つの演算結果を論理和演算した結果を最終的な出力とする。 [1]まず「A，B」「A，C」「B，C」それぞれの論理積を求める。 [2]3つの論理積演算の結果に\"1\"が現れれば、3つの入力中に\"1\"が2つ以上あることが確定する。逆に\"1\"が現れなければ3つの入力中の\"1\"の個数は1以下ということになる。 [3]3つの論理積演算の結果の中に少なくとも\"1\"が1つ以上ある場合には\"1\"(可決)、そうでなければ\"0\"(否決)を出力すればよいので、3つの演算結果を論理和演算した結果を最終的な出力とする。 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/23a.png\" alt=\"\"\u003e正しい。"
                },
         "zh":  {
                    "ti":  "平成28年秋季 問23",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "下圖中的真值表對應的是哪一個3輸入多數決電路？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23.png\" alt=\"\"\u003e",
+                   "q":  "下圖中的真值表對應的是哪一個3輸入多數決電路？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/23.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/23a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/23i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/23u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/23e.png\" alt=\"\"\u003e"
                           ],
                    "an":  1,
-                   "al":  "由於是3輸入多數決電路，如真值表所示，當3個輸入中有2個以上為\"1\"（即\"1\"佔多數）時，輸出結果必須為\"1\"；反之，若有2個以上為\"0\"（即\"0\"佔多數）時，輸出結果則必須為\"0\"。透過檢查各個電路在輸入A、B、C時的輸出，可知正確的電路為「ア」。\n\n「ア」電路在邏輯上可以被視為進行以下運算的電路：\n首先，求出「A與B」、「A與C」、「B與C」各自的邏輯積（AND）。如果這三個邏輯積運算結果中出現\"1\"，即代表3個輸入中有2個以上為\"1\"。反之，如果沒有出現\"1\"，則代表輸入中\"1\"的個數為1個以下。只要三個邏輯積運算結果中至少有一個\"1\"，就輸出\"1\"（通過），否則輸出\"0\"（否決），因此將三個運算結果進行邏輯和（OR）運算即可得到最終輸出。\n\n[1] 首先求出「A與B」、「A與C」、「B與C」各自的邏輯積。\n[2] 如果這三個邏輯積運算結果中出現\"1\"，即確定3個輸入中有2個以上為\"1\"。反之，若未出現\"1\"，則代表輸入中\"1\"的個數為1個以下。\n[3] 因為只要三個邏輯積運算結果中至少有一個\"1\"就輸出\"1\"（通過），否則輸出\"0\"（否決），所以將三個運算結果進行邏輯和運算作為最終輸出。\n[4] \u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/23a.png\" alt=\"\"\u003e 正確。"
+                   "al":  "由於是3輸入多數決電路，如真值表所示，當3個輸入中有2個以上為\"1\"（即\"1\"佔多數）時，輸出結果必須為\"1\"；反之，若有2個以上為\"0\"（即\"0\"佔多數）時，輸出結果則必須為\"0\"。透過檢查各個電路在輸入A、B、C時的輸出，可知正確的電路為「ア」。\n\n「ア」電路在邏輯上可以被視為進行以下運算的電路：\n首先，求出「A與B」、「A與C」、「B與C」各自的邏輯積（AND）。如果這三個邏輯積運算結果中出現\"1\"，即代表3個輸入中有2個以上為\"1\"。反之，如果沒有出現\"1\"，則代表輸入中\"1\"的個數為1個以下。只要三個邏輯積運算結果中至少有一個\"1\"，就輸出\"1\"（通過），否則輸出\"0\"（否決），因此將三個運算結果進行邏輯和（OR）運算即可得到最終輸出。\n\n[1] 首先求出「A與B」、「A與C」、「B與C」各自的邏輯積。\n[2] 如果這三個邏輯積運算結果中出現\"1\"，即確定3個輸入中有2個以上為\"1\"。反之，若未出現\"1\"，則代表輸入中\"1\"的個數為1個以下。\n[3] 因為只要三個邏輯積運算結果中至少有一個\"1\"就輸出\"1\"（通過），否則輸出\"0\"（否決），所以將三個運算結果進行邏輯和運算作為最終輸出。\n[4] \u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/23a.png\" alt=\"\"\u003e 正確。"
                }
     },
     {
         "ja":  {
                    "ti":  "平成18年春期　問16",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "NAND回路による次の組合せ回路の出力Zを表す式はどれか。ここで，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/nand.png\" alt=\"NAND回路\"\u003e は NAND 回路，・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eは X の否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/16.png\" alt=\"論理回路図\"\u003e",
+                   "q":  "NAND回路による次の組合せ回路の出力Zを表す式はどれか。ここで，\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/nand.png\" alt=\"NAND回路\"\u003e は NAND 回路，・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eは X の否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/16.png\" alt=\"論理回路図\"\u003e",
                    "op":  [
                               "X・Y",
                               "X＋Y",
@@ -123,12 +123,12 @@
                               "\u003cspan class=\"ol\"\u003eX・Y"
                           ],
                    "an":  2,
-                   "al":  "NAND回路は、NAND(Not AND)の名称どおりAND回路の逆を出力する回路で、2つの入力がともに\"1\"のときだけ\"0\"を出力し、それ以外の入力では\"1\"を出力します。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/16_1.png\" alt=\"NAND回路図\"\u003e"
+                   "al":  "NAND回路は、NAND(Not AND)の名称どおりAND回路の逆を出力する回路で、2つの入力がともに\"1\"のときだけ\"0\"を出力し、それ以外の入力では\"1\"を出力します。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/16_1.png\" alt=\"NAND回路図\"\u003e"
                },
         "zh":  {
                    "ti":  "平成18年春季 問16",
                    "ca":  "科技系 » 硬體 » 硬體",
-                   "q":  "下圖由 NAND 電路組成的組合邏輯電路，其輸出 Z 的邏輯式為何？在此，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/nand.png\" alt=\"NAND電路\"\u003e 代表 NAND 電路，・代表邏輯乘（AND），＋代表邏輯加（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e 代表 X 的反相（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/16.png\" alt=\"邏輯電路圖\"\u003e",
+                   "q":  "下圖由 NAND 電路組成的組合邏輯電路，其輸出 Z 的邏輯式為何？在此，\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/nand.png\" alt=\"NAND電路\"\u003e 代表 NAND 電路，・代表邏輯乘（AND），＋代表邏輯加（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e 代表 X 的反相（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/16.png\" alt=\"邏輯電路圖\"\u003e",
                    "op":  [
                               "X・Y",
                               "X＋Y",
@@ -136,7 +136,7 @@
                               "\u003cspan class=\"ol\"\u003eX・Y"
                           ],
                    "an":  2,
-                   "al":  "NAND 電路正如其名（Not AND），是將 AND 電路的輸出取反的電路。當兩個輸入皆為 \"1\" 時輸出為 \"0\"，其他情況下輸出均為 \"1\"。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/16_1.png\" alt=\"NAND電路圖\"\u003e"
+                   "al":  "NAND 電路正如其名（Not AND），是將 AND 電路的輸出取反的電路。當兩個輸入皆為 \"1\" 時輸出為 \"0\"，其他情況下輸出均為 \"1\"。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/16_1.png\" alt=\"NAND電路圖\"\u003e"
                }
     },
     {
@@ -171,28 +171,28 @@
         "ja":  {
                    "ti":  "平成25年春期　問24",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図の論理回路と等価な回路はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24.png\" alt=\"問24画像\"\u003e",
+                   "q":  "図の論理回路と等価な回路はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/24.png\" alt=\"問24画像\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24a.png\" alt=\"問24ア\"\u003e(論理和素子)",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24i.png\" alt=\"問24イ\"\u003e(論理積素子)",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24u.png\" alt=\"問24ウ\"\u003e(排他的論理和素子)",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24e.png\" alt=\"問24エ\"\u003e(否定論理和素子)"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/24a.png\" alt=\"問24ア\"\u003e(論理和素子)",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/24i.png\" alt=\"問24イ\"\u003e(論理積素子)",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/24u.png\" alt=\"問24ウ\"\u003e(排他的論理和素子)",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/24e.png\" alt=\"問24エ\"\u003e(否定論理和素子)"
                           ],
                    "an":  3,
-                   "al":  "設問の回路素子はNAND回路を表しています。設問の回路図にAとBにそれぞれ0または1の値を与えたとき、各回路の出力であるYの値がどうなるかを考えます。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24_1.png\" alt=\"\"\u003e"
+                   "al":  "設問の回路素子はNAND回路を表しています。設問の回路図にAとBにそれぞれ0または1の値を与えたとき、各回路の出力であるYの値がどうなるかを考えます。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/24_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成25年春季 問24",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "下列哪一個是與圖中邏輯電路等效的電路？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24.png\" alt=\"問24圖片\"\u003e",
+                   "q":  "下列哪一個是與圖中邏輯電路等效的電路？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/24.png\" alt=\"問24圖片\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24a.png\" alt=\"問24ア\"\u003e(或閘)",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24i.png\" alt=\"問24イ\"\u003e(及閘)",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24u.png\" alt=\"問24ウ\"\u003e(互斥或閘)",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24e.png\" alt=\"問24エ\"\u003e(反或閘)"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/24a.png\" alt=\"問24ア\"\u003e(或閘)",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/24i.png\" alt=\"問24イ\"\u003e(及閘)",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/24u.png\" alt=\"問24ウ\"\u003e(互斥或閘)",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/24e.png\" alt=\"問24エ\"\u003e(反或閘)"
                           ],
                    "an":  3,
-                   "al":  "設問中的電路元件代表NAND（反及）閘。當我們在設問電路圖的A與B輸入0或1的值時，請思考各電路輸出的Y值為何。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/24_1.png\" alt=\"\"\u003e"
+                   "al":  "設問中的電路元件代表NAND（反及）閘。當我們在設問電路圖的A與B輸入0或1的值時，請思考各電路輸出的Y值為何。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/24_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -201,26 +201,26 @@
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
                    "q":  "論理式X＝\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・B＋A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・\u003cspan class=\"ol\"\u003eB\u003c/span\u003eと同じ結果が得られる論理回路はどれか。ここで，論理式中の・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの否定を表す。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/25a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/25i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/25u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/25e.png\" alt=\"\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "集合演算則を用いて解く方法と、ベン図を用いて解く方法の2通りを解説します。[集合演算則を用いた解法] A・B＋A・B＋A・B＝ A・(B＋B)＋A・B //第1項と第3項をAでくくる＝ A＋A・B //B＋Bは1，1・X＝X＝ A・(A＋B) //ド・モルガン則を逆に適用する＝ A・A＋A・B //分配の法則＝ A・B //A・Aは0，0＋X＝XA・Bは、NAND(not AND)回路の出力と同じなので正解は「イ」になります。[ベン図を用いた解法]第1項～第3項の論理式をベン図で表すと次のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25_1.png\" alt=\"\"\u003e"
+                   "al":  "集合演算則を用いて解く方法と、ベン図を用いて解く方法の2通りを解説します。[集合演算則を用いた解法] A・B＋A・B＋A・B＝ A・(B＋B)＋A・B //第1項と第3項をAでくくる＝ A＋A・B //B＋Bは1，1・X＝X＝ A・(A＋B) //ド・モルガン則を逆に適用する＝ A・A＋A・B //分配の法則＝ A・B //A・Aは0，0＋X＝XA・Bは、NAND(not AND)回路の出力と同じなので正解は「イ」になります。[ベン図を用いた解法]第1項～第3項の論理式をベン図で表すと次のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/25_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成25年秋季 問25",
                    "ca":  "技術系 » 硬體 » 硬體",
                    "q":  "與邏輯式 X＝\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・B＋A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e 得到相同結果的邏輯電路為何？在此，邏輯式中的「・」表示邏輯積（AND），「＋」表示邏輯和（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e 表示 X 的反相（NOT）。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/25a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/25i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/25u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/25e.png\" alt=\"\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "在此說明使用集合運算法則與使用文氏圖法兩種解法。[使用集合運算法則的解法] A・B＋A・B＋A・B＝ A・(B＋B)＋A・B //將第1項與第3項提取A＝ A＋A・B //B＋B為1，1・X＝X＝ A・(A＋B) //逆向應用德摩根定律＝ A・A＋A・B //分配律＝ A・B //A・A為0，0＋X＝XA・B 與 NAND (not AND) 電路的輸出相同，故正解為「イ」（選項2）。[使用文氏圖的解法] 將第1項至第3項的邏輯式以文氏圖表示如下。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/25_1.png\" alt=\"\"\u003e"
+                   "al":  "在此說明使用集合運算法則與使用文氏圖法兩種解法。[使用集合運算法則的解法] A・B＋A・B＋A・B＝ A・(B＋B)＋A・B //將第1項與第3項提取A＝ A＋A・B //B＋B為1，1・X＝X＝ A・(A＋B) //逆向應用德摩根定律＝ A・A＋A・B //分配律＝ A・B //A・A為0，0＋X＝XA・B 與 NAND (not AND) 電路的輸出相同，故正解為「イ」（選項2）。[使用文氏圖的解法] 將第1項至第3項的邏輯式以文氏圖表示如下。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/25_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -255,7 +255,7 @@
         "ja":  {
                    "ti":  "平成31年春期　問22",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "二つの入力と一つの出力をもつ論理回路で，二つの入力A，Bがともに1のときだけ，出力Xが0になるものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/22.png\" alt=\"\"\u003e",
+                   "q":  "二つの入力と一つの出力をもつ論理回路で，二つの入力A，Bがともに1のときだけ，出力Xが0になるものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/22.png\" alt=\"\"\u003e",
                    "op":  [
                               "AND回路",
                               "NAND回路",
@@ -263,12 +263,12 @@
                               "XOR回路"
                           ],
                    "an":  2,
-                   "al":  "NAND回路の\"NAND\"はNot ANDを表し、AND回路の出力を反転させた回路です。したがってNAND回路は、二つの入力がともに1のときだけ0を出力し、その他の場合は1を出力します。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/22i.png\" alt=\"NAND回路の真理値表\"\u003e"
+                   "al":  "NAND回路の\"NAND\"はNot ANDを表し、AND回路の出力を反転させた回路です。したがってNAND回路は、二つの入力がともに1のときだけ0を出力し、その他の場合は1を出力します。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/22i.png\" alt=\"NAND回路の真理値表\"\u003e"
                },
         "zh":  {
                    "ti":  "平成31年春季 問22",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "這是一個擁有兩個輸入和一個輸出的邏輯電路，請問僅在兩個輸入 A、B 皆為 1 時，輸出 X 為 0 的電路是哪一個？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/22.png\" alt=\"\"\u003e",
+                   "q":  "這是一個擁有兩個輸入和一個輸出的邏輯電路，請問僅在兩個輸入 A、B 皆為 1 時，輸出 X 為 0 的電路是哪一個？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/22.png\" alt=\"\"\u003e",
                    "op":  [
                               "AND 電路",
                               "NAND 電路",
@@ -276,14 +276,14 @@
                               "XOR 電路"
                           ],
                    "an":  2,
-                   "al":  "NAND 電路的「NAND」代表 Not AND，是將 AND 電路的輸出進行反轉後的電路。因此，NAND 電路僅在兩個輸入皆為 1 時輸出 0，其他情況下則輸出 1。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/22i.png\" alt=\"NAND 電路的真值表\"\u003e"
+                   "al":  "NAND 電路的「NAND」代表 Not AND，是將 AND 電路的輸出進行反轉後的電路。因此，NAND 電路僅在兩個輸入皆為 1 時輸出 0，其他情況下則輸出 1。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/22i.png\" alt=\"NAND 電路的真值表\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "令和4年度　問22",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図に示す全加算器の入力xに1，yに0，zに1を入力したとき，出力となるc(けた上げ数)，s(和)の値の組合せとして，正しいものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/22_1.png\" alt=\"22_1.png\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/22_2.png\" alt=\"22_2.png\"\u003e",
+                   "q":  "図に示す全加算器の入力xに1，yに0，zに1を入力したとき，出力となるc(けた上げ数)，s(和)の値の組合せとして，正しいものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/22_1.png\" alt=\"22_1.png\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/22_2.png\" alt=\"22_2.png\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -296,7 +296,7 @@
         "zh":  {
                    "ti":  "令和4年度 問22",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "如下圖所示的全加法器，當輸入 x 為 1，y 為 0，z 為 1 時，其輸出 c（進位）與 s（和）的數值組合，正確的是哪一個？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/22_1.png\" alt=\"22_1.png\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/22_2.png\" alt=\"22_2.png\"\u003e",
+                   "q":  "如下圖所示的全加法器，當輸入 x 為 1，y 為 0，z 為 1 時，其輸出 c（進位）與 s（和）的數值組合，正確的是哪一個？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/22_1.png\" alt=\"22_1.png\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/22_2.png\" alt=\"22_2.png\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -311,28 +311,28 @@
         "ja":  {
                    "ti":  "平成17年春期　問17",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図の論理回路と同じ出力が得られる論理回路はどれか。ここで，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/and.png\" alt=\"\"\u003e は論理積(AND)，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/or.png\" alt=\"\"\u003e は論理和(OR)，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/not.png\" alt=\"\"\u003e は否定(NOT)を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17.png\" alt=\"問17画像\"\u003e",
+                   "q":  "図の論理回路と同じ出力が得られる論理回路はどれか。ここで，\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/and.png\" alt=\"\"\u003e は論理積(AND)，\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/or.png\" alt=\"\"\u003e は論理和(OR)，\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/not.png\" alt=\"\"\u003e は否定(NOT)を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/17.png\" alt=\"問17画像\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17a.png\" alt=\"問17ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17i.png\" alt=\"問17イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17u.png\" alt=\"問17ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17e.png\" alt=\"問17エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/17a.png\" alt=\"問17ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/17i.png\" alt=\"問17イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/17u.png\" alt=\"問17ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/17e.png\" alt=\"問17エ\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "設問の論理回路に(A=0，B=0)，(A=1，B=0)，(A=0，B=1)，(A=1，B=1)の4つの値を入力するとXには次の値が出力されます。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17_1.png\" alt=\"\"\u003e"
+                   "al":  "設問の論理回路に(A=0，B=0)，(A=1，B=0)，(A=0，B=1)，(A=1，B=1)の4つの値を入力するとXには次の値が出力されます。\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/17_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成17年春季 問17",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "下列哪一個邏輯電路與圖中的邏輯電路輸出結果相同？在此，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/and.png\" alt=\"\"\u003e 代表邏輯積 (AND)，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/or.png\" alt=\"\"\u003e 代表邏輯和 (OR)，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/not.png\" alt=\"\"\u003e 代表否定 (NOT)。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17.png\" alt=\"問17圖片\"\u003e",
+                   "q":  "下列哪一個邏輯電路與圖中的邏輯電路輸出結果相同？在此，\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/and.png\" alt=\"\"\u003e 代表邏輯積 (AND)，\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/or.png\" alt=\"\"\u003e 代表邏輯和 (OR)，\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/not.png\" alt=\"\"\u003e 代表否定 (NOT)。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/17.png\" alt=\"問17圖片\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17a.png\" alt=\"問17ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17i.png\" alt=\"問17イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17u.png\" alt=\"問17ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17e.png\" alt=\"問17エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/17a.png\" alt=\"問17ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/17i.png\" alt=\"問17イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/17u.png\" alt=\"問17ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/17e.png\" alt=\"問17エ\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "若將 (A=0, B=0), (A=1, B=0), (A=0, B=1), (A=1, B=1) 四種值輸入至題目所示的邏輯電路中，X 的輸出結果如下：\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/17_1.png\" alt=\"\"\u003e"
+                   "al":  "若將 (A=0, B=0), (A=1, B=0), (A=0, B=1), (A=1, B=1) 四種值輸入至題目所示的邏輯電路中，X 的輸出結果如下：\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/17_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -341,26 +341,26 @@
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
                    "q":  "入力XとYの値が同じときにだけ，出力Zに1を出力する回路はどれか。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26a.png\" alt=\"問26ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26i.png\" alt=\"問26イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26u.png\" alt=\"問26ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26e.png\" alt=\"問26エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26a.png\" alt=\"問26ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26i.png\" alt=\"問26イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26u.png\" alt=\"問26ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26e.png\" alt=\"問26エ\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "「入力XとYの値が同じときにだけ，出力Zに1を出力する」ということは、裏を返せば「入力XとYの値が異なるときには1を出力しない」ということです。このため、(X，Y)が(0，0)と(1，1)のときに1を出力するかどうかだけでなく、それ以外の(1，0)と(0，1)のときに出力が0になっているかどうかも確認する必要があります。それぞれの論理回路に(0，0)、(1，0)、(0，1)、(1，1)の4つを入力して得られる結果は次のようになります。XとYが同じときに1を出力しているもの、XとYが異なるときに1を出力していないものには○を、そうではないものには×を付けてあります。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26a.png\" alt=\"問26ア\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26_1.png\" alt=\"\"\u003e [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26i.png\" alt=\"問26イ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26_2.png\" alt=\"\"\u003e [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26u.png\" alt=\"問26ウ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26_3.png\" alt=\"\"\u003e [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26e.png\" alt=\"問26エ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26_4.png\" alt=\"\"\u003e"
+                   "al":  "「入力XとYの値が同じときにだけ，出力Zに1を出力する」ということは、裏を返せば「入力XとYの値が異なるときには1を出力しない」ということです。このため、(X，Y)が(0，0)と(1，1)のときに1を出力するかどうかだけでなく、それ以外の(1，0)と(0，1)のときに出力が0になっているかどうかも確認する必要があります。それぞれの論理回路に(0，0)、(1，0)、(0，1)、(1，1)の4つを入力して得られる結果は次のようになります。XとYが同じときに1を出力しているもの、XとYが異なるときに1を出力していないものには○を、そうではないものには×を付けてあります。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26a.png\" alt=\"問26ア\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26_1.png\" alt=\"\"\u003e [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26i.png\" alt=\"問26イ\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26_2.png\" alt=\"\"\u003e [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26u.png\" alt=\"問26ウ\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26_3.png\" alt=\"\"\u003e [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26e.png\" alt=\"問26エ\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26_4.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成22年春季 問26",
                    "ca":  "技術系 » 硬體 » 硬體",
                    "q":  "僅在輸入 X 與 Y 的值相同時，輸出 Z 為 1 的電路為何？",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26a.png\" alt=\"問26ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26i.png\" alt=\"問26イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26u.png\" alt=\"問26ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26e.png\" alt=\"問26エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26a.png\" alt=\"問26ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26i.png\" alt=\"問26イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26u.png\" alt=\"問26ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26e.png\" alt=\"問26エ\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "「僅在輸入 X 與 Y 的值相同時，輸出 Z 為 1」，換言之，即「在輸入 X 與 Y 的值不同時，不輸出 1」。因此，不僅要確認 (X, Y) 為 (0, 0) 與 (1, 1) 時輸出是否為 1，還需要確認除此之外的 (1, 0) 與 (0, 1) 時輸出是否為 0。將 (0, 0)、(1, 0)、(0, 1)、(1, 1) 四種情況輸入至各邏輯電路所得的結果如下。符合 X 與 Y 相同時輸出 1、且 X 與 Y 不同時輸出不為 1 的電路標記為○，不符合者標記為×。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26a.png\" alt=\"問26ア\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26_1.png\" alt=\"\"\u003e [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26i.png\" alt=\"問26イ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26_2.png\" alt=\"\"\u003e [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26u.png\" alt=\"問26ウ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26_3.png\" alt=\"\"\u003e [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26e.png\" alt=\"問26エ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/26_4.png\" alt=\"\"\u003e"
+                   "al":  "「僅在輸入 X 與 Y 的值相同時，輸出 Z 為 1」，換言之，即「在輸入 X 與 Y 的值不同時，不輸出 1」。因此，不僅要確認 (X, Y) 為 (0, 0) 與 (1, 1) 時輸出是否為 1，還需要確認除此之外的 (1, 0) 與 (0, 1) 時輸出是否為 0。將 (0, 0)、(1, 0)、(0, 1)、(1, 1) 四種情況輸入至各邏輯電路所得的結果如下。符合 X 與 Y 相同時輸出 1、且 X 與 Y 不同時輸出不為 1 的電路標記為○，不符合者標記為×。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26a.png\" alt=\"問26ア\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26_1.png\" alt=\"\"\u003e [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26i.png\" alt=\"問26イ\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26_2.png\" alt=\"\"\u003e [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26u.png\" alt=\"問26ウ\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26_3.png\" alt=\"\"\u003e [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26e.png\" alt=\"問26エ\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/26_4.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -395,7 +395,7 @@
         "ja":  {
                    "ti":  "平成16年秋期　問17",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図の論理回路において，A＝1，B＝0，C＝1のとき，P，Q，Rの値の適切な組合せはどれか。ここで，\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/and.png\" alt=\"\"\u003eは AND回路，\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/or.png\" alt=\"\"\u003eは OR回路，\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/not.png\" alt=\"\"\u003eは NOT回路を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/17.png\" alt=\"問17画像\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/17a.png\" alt=\"問17選択肢\"\u003e",
+                   "q":  "図の論理回路において，A＝1，B＝0，C＝1のとき，P，Q，Rの値の適切な組合せはどれか。ここで，\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/and.png\" alt=\"\"\u003eは AND回路，\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/or.png\" alt=\"\"\u003eは OR回路，\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/not.png\" alt=\"\"\u003eは NOT回路を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/17.png\" alt=\"問17画像\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/17a.png\" alt=\"問17選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -403,12 +403,12 @@
                               "エ"
                           ],
                    "an":  1,
-                   "al":  "P＝A AND B＝1 AND 0＝0Q＝P OR C＝0 OR 1＝1R＝NOT Q＝NOT 1＝0したがって正解は「ア」になります。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/17_1.png\" alt=\"問17解説\"\u003e"
+                   "al":  "P＝A AND B＝1 AND 0＝0Q＝P OR C＝0 OR 1＝1R＝NOT Q＝NOT 1＝0したがって正解は「ア」になります。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/17_1.png\" alt=\"問17解説\"\u003e"
                },
         "zh":  {
                    "ti":  "平成16年秋季 問17",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "在圖示的邏輯電路中，當 A＝1、B＝0、C＝1 時，P、Q、R 的值的組合何者正確？此處，\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/and.png\" alt=\"\"\u003e 代表 AND 電路，\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/or.png\" alt=\"\"\u003e 代表 OR 電路，\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/not.png\" alt=\"\"\u003e 代表 NOT 電路。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/17.png\" alt=\"問17圖像\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/17a.png\" alt=\"問17選択肢\"\u003e",
+                   "q":  "在圖示的邏輯電路中，當 A＝1、B＝0、C＝1 時，P、Q、R 的值的組合何者正確？此處，\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/and.png\" alt=\"\"\u003e 代表 AND 電路，\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/or.png\" alt=\"\"\u003e 代表 OR 電路，\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/not.png\" alt=\"\"\u003e 代表 NOT 電路。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/17.png\" alt=\"問17圖像\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/17a.png\" alt=\"問17選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -416,7 +416,7 @@
                               "エ"
                           ],
                    "an":  1,
-                   "al":  "P＝A AND B＝1 AND 0＝0Q＝P OR C＝0 OR 1＝1R＝NOT Q＝NOT 1＝0因此正確答案為「ア」。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/17_1.png\" alt=\"問17解析\"\u003e"
+                   "al":  "P＝A AND B＝1 AND 0＝0Q＝P OR C＝0 OR 1＝1R＝NOT Q＝NOT 1＝0因此正確答案為「ア」。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/17_1.png\" alt=\"問17解析\"\u003e"
                }
     },
     {
@@ -451,7 +451,7 @@
         "ja":  {
                    "ti":  "平成21年春期　問25",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図に示す1けたの2進数xとyを加算し，z(和の1けた目)及び c(けた上げ)を出力する半加算器において，AとBの素子の組合せとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/25.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/25a.png\" alt=\"\"\u003e",
+                   "q":  "図に示す1けたの2進数xとyを加算し，z(和の1けた目)及び c(けた上げ)を出力する半加算器において，AとBの素子の組合せとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/25.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/25a.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -459,12 +459,12 @@
                               "エ"
                           ],
                    "an":  1,
-                   "al":  "桁上げの出力cは入力される2つの数値がともに\"1\"のときにだけ\"1\"を出力します。この関係はAND回路(論理積)の真理値表と一致します。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/25_1.png\" alt=\"\"\u003e"
+                   "al":  "桁上げの出力cは入力される2つの数値がともに\"1\"のときにだけ\"1\"を出力します。この関係はAND回路(論理積)の真理値表と一致します。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/25_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成21年春季 問25",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "如圖所示，將1位元的二進位數 x 與 y 相加，並輸出 z（和的第1位）及 c（進位）的半加法器中，下列關於 A 與 B 組件組合的敘述，何者最為適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/25.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/25a.png\" alt=\"\"\u003e",
+                   "q":  "如圖所示，將1位元的二進位數 x 與 y 相加，並輸出 z（和的第1位）及 c（進位）的半加法器中，下列關於 A 與 B 組件組合的敘述，何者最為適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/25.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/25a.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -472,7 +472,7 @@
                               "エ"
                           ],
                    "an":  1,
-                   "al":  "進位輸出 c 僅在輸入的兩個數值皆為 \"1\" 時才會輸出 \"1\"。此關係與 AND 電路（邏輯積）的真值表一致。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/25_1.png\" alt=\"\"\u003e"
+                   "al":  "進位輸出 c 僅在輸入的兩個數值皆為 \"1\" 時才會輸出 \"1\"。此關係與 AND 電路（邏輯積）的真值表一致。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/25_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -535,7 +535,7 @@
         "ja":  {
                    "ti":  "平成27年春期　問23",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図に示すデジタル回路と等価な論理式はどれか。ここで，論理式中の・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/23.png\" alt=\"\"\u003e",
+                   "q":  "図に示すデジタル回路と等価な論理式はどれか。ここで，論理式中の・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/23.png\" alt=\"\"\u003e",
                    "op":  [
                               "X＝A・B＋\u003cspan class=\"ol\"\u003eA・B",
                               "X＝A・B＋\u003cspan class=\"ol\"\u003eA",
@@ -543,12 +543,12 @@
                               "X＝(\u003cspan class=\"ol\"\u003eA"
                           ],
                    "an":  3,
-                   "al":  "複雑な論理回路図の問題では、手間はかかりますが確実に答えがでる方法で解くのがおすすめです。まず(A=0, B=0),(A=1, B=0),(A=0, B=1),(A=1, B=1)の4つのケースについて回路図を追跡し、結果Xを真理値表にまとめます。\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/23a.png\" alt=\"\"\u003e"
+                   "al":  "複雑な論理回路図の問題では、手間はかかりますが確実に答えがでる方法で解くのがおすすめです。まず(A=0, B=0),(A=1, B=0),(A=0, B=1),(A=1, B=1)の4つのケースについて回路図を追跡し、結果Xを真理値表にまとめます。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/23a.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成27年春季 問23",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "下列何者為圖示數位電路之等效邏輯式？在此，邏輯式中的「・」代表邏輯乘（AND），「＋」代表邏輯和（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/23.png\" alt=\"\"\u003e",
+                   "q":  "下列何者為圖示數位電路之等效邏輯式？在此，邏輯式中的「・」代表邏輯乘（AND），「＋」代表邏輯和（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/23.png\" alt=\"\"\u003e",
                    "op":  [
                               "X＝A・B＋\u003cspan class=\"ol\"\u003eA・B\u003c/span\u003e",
                               "X＝A・B＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e",
@@ -556,14 +556,14 @@
                               "X＝(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e"
                           ],
                    "an":  3,
-                   "al":  "對於複雜的邏輯電路圖問題，雖然較為費時，但建議使用能確保得到答案的方法來解題。首先，針對(A=0, B=0)、(A=1, B=0)、(A=0, B=1)、(A=1, B=1)這四種情況追蹤電路圖，並將結果X整理成真值表。\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/23a.png\" alt=\"\"\u003e"
+                   "al":  "對於複雜的邏輯電路圖問題，雖然較為費時，但建議使用能確保得到答案的方法來解題。首先，針對(A=0, B=0)、(A=1, B=0)、(A=0, B=1)、(A=1, B=1)這四種情況追蹤電路圖，並將結果X整理成真值表。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/23a.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成27年秋期　問23",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図のNANDゲートの組合せ回路で，入力A，B，C，Dに対する出力Xの論理式はどれか。ここで，論理式中の\"・\"は論理積，\"＋\"は論理和を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/23.png\" alt=\"\"\u003e",
+                   "q":  "図のNANDゲートの組合せ回路で，入力A，B，C，Dに対する出力Xの論理式はどれか。ここで，論理式中の\"・\"は論理積，\"＋\"は論理和を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/23.png\" alt=\"\"\u003e",
                    "op":  [
                               "(A＋B)・(C＋D)",
                               "A＋B＋C＋D",
@@ -571,12 +571,12 @@
                               "A・B・C・D"
                           ],
                    "an":  3,
-                   "al":  "NAND回路のNANDは\"NOT AND\"を表していて、AND回路の出力を反転させた回路です。したがって、二つの入力が共に1の時だけ0を出力し、その他の場合は1を出力します。\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/23_1.png\" alt=\"\"\u003e"
+                   "al":  "NAND回路のNANDは\"NOT AND\"を表していて、AND回路の出力を反転させた回路です。したがって、二つの入力が共に1の時だけ0を出力し、その他の場合は1を出力します。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/23_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成27年秋季 問23",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "在圖示的NAND閘組合電路中，關於輸入A、B、C、D對應的輸出X之邏輯式為何？在此，邏輯式中的「・」代表邏輯積（AND），「＋」代表邏輯和（OR）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/23.png\" alt=\"\"\u003e",
+                   "q":  "在圖示的NAND閘組合電路中，關於輸入A、B、C、D對應的輸出X之邏輯式為何？在此，邏輯式中的「・」代表邏輯積（AND），「＋」代表邏輯和（OR）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/23.png\" alt=\"\"\u003e",
                    "op":  [
                               "(A＋B)・(C＋D)",
                               "A＋B＋C＋D",
@@ -584,7 +584,7 @@
                               "A・B・C・D"
                           ],
                    "an":  3,
-                   "al":  "NAND電路的NAND代表「NOT AND」，即將AND電路的輸出進行反相的電路。因此，只有當兩個輸入皆為1時輸出0，其他情況皆輸出1。\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/23_1.png\" alt=\"\"\u003e"
+                   "al":  "NAND電路的NAND代表「NOT AND」，即將AND電路的輸出進行反相的電路。因此，只有當兩個輸入皆為1時輸出0，其他情況皆輸出1。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/23_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -703,35 +703,35 @@
         "ja":  {
                    "ti":  "平成17年秋期　問16",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "4ビットの入力データに対し，1の入力数が0個又は偶数個のとき出力が1に，奇数個のとき出力が0になる回路はどれか。ここで，図中の\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/and.png\" alt=\"\"\u003eはAND素子，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/or.png\" alt=\"\"\u003eはOR素子，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/xor.png\" alt=\"\"\u003eはXOR素子，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/not.png\" alt=\"\"\u003eはNOT素子を表す。",
+                   "q":  "4ビットの入力データに対し，1の入力数が0個又は偶数個のとき出力が1に，奇数個のとき出力が0になる回路はどれか。ここで，図中の\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/and.png\" alt=\"\"\u003eはAND素子，\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/or.png\" alt=\"\"\u003eはOR素子，\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/xor.png\" alt=\"\"\u003eはXOR素子，\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/not.png\" alt=\"\"\u003eはNOT素子を表す。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16a.png\" alt=\"問16ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16i.png\" alt=\"問16イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16u.png\" alt=\"問16ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16e.png\" alt=\"問16エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/16a.png\" alt=\"問16ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/16i.png\" alt=\"問16イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/16u.png\" alt=\"問16ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/16e.png\" alt=\"問16エ\"\u003e"
                           ],
                    "an":  4,
-                   "al":  "論理回路に使われている論理演算を次の表にまとめておきます。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16_1.png\" alt=\"論理演算\"\u003e"
+                   "al":  "論理回路に使われている論理演算を次の表にまとめておきます。\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/16_1.png\" alt=\"論理演算\"\u003e"
                },
         "zh":  {
                    "ti":  "平成17年秋季 問16",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "針對4位元的輸入數據，當輸入的「1」的個數為0個或偶數個時輸出為1，為奇數個時輸出為0的電路為何？在此，圖中的\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/and.png\" alt=\"\"\u003e代表AND閘，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/or.png\" alt=\"\"\u003e代表OR閘，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/xor.png\" alt=\"\"\u003e代表XOR閘，\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/not.png\" alt=\"\"\u003e代表NOT閘。",
+                   "q":  "針對4位元的輸入數據，當輸入的「1」的個數為0個或偶數個時輸出為1，為奇數個時輸出為0的電路為何？在此，圖中的\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/and.png\" alt=\"\"\u003e代表AND閘，\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/or.png\" alt=\"\"\u003e代表OR閘，\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/xor.png\" alt=\"\"\u003e代表XOR閘，\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/not.png\" alt=\"\"\u003e代表NOT閘。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16a.png\" alt=\"問16ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16i.png\" alt=\"問16イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16u.png\" alt=\"問16ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16e.png\" alt=\"問16エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/16a.png\" alt=\"問16ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/16i.png\" alt=\"問16イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/16u.png\" alt=\"問16ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/16e.png\" alt=\"問16エ\"\u003e"
                           ],
                    "an":  4,
-                   "al":  "邏輯電路中所使用的邏輯運算彙整如下表。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/16_1.png\" alt=\"邏輯運算\"\u003e"
+                   "al":  "邏輯電路中所使用的邏輯運算彙整如下表。\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/16_1.png\" alt=\"邏輯運算\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "令和5年度　問16",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "ワンチップマイコンにおける内部クロック発生器のブロック図を示す。15MHzの発振器と，内部のPLL1，PLL2及び分周器の組合せでCPUに240MHz，シリアル通信(SIO)に115kHzのクロック信号を供給する場合の分周器の値は幾らか。ここで，シリアル通信のクロック精度は±5%以内とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/16.png\" alt=\"16.png\"\u003e",
+                   "q":  "ワンチップマイコンにおける内部クロック発生器のブロック図を示す。15MHzの発振器と，内部のPLL1，PLL2及び分周器の組合せでCPUに240MHz，シリアル通信(SIO)に115kHzのクロック信号を供給する場合の分周器の値は幾らか。ここで，シリアル通信のクロック精度は±5%以内とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/16.png\" alt=\"16.png\"\u003e",
                    "op":  [
                               "1／2\u003csup\u003e4\u003c/sup\u003e",
                               "1／2\u003csup\u003e6\u003c/sup\u003e",
@@ -739,12 +739,12 @@
                               "1／2\u003csup\u003e10\u003c/sup\u003e"
                           ],
                    "an":  4,
-                   "al":  "発振器から出力された15MHzは、PLL1で8倍にされて120MHzになります。その後、PLL2でさらに2倍されて240MHzのクロック信号がCPUに届けられます。\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/16a.png\" alt=\"16a.png\"\u003e"
+                   "al":  "発振器から出力された15MHzは、PLL1で8倍にされて120MHzになります。その後、PLL2でさらに2倍されて240MHzのクロック信号がCPUに届けられます。\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/16a.png\" alt=\"16a.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和5年度 問16",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "下圖為單晶片微電腦內部的時脈產生器方塊圖。若利用15MHz的振盪器，並配合內部的PLL1、PLL2及分頻器，以供給CPU 240MHz以及序列通訊（SIO）115kHz的時脈訊號，請問分頻器的數值應為多少？此外，序列通訊的時脈精度需在±5%以內。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/16.png\" alt=\"16.png\"\u003e",
+                   "q":  "下圖為單晶片微電腦內部的時脈產生器方塊圖。若利用15MHz的振盪器，並配合內部的PLL1、PLL2及分頻器，以供給CPU 240MHz以及序列通訊（SIO）115kHz的時脈訊號，請問分頻器的數值應為多少？此外，序列通訊的時脈精度需在±5%以內。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/16.png\" alt=\"16.png\"\u003e",
                    "op":  [
                               "1／2\u003csup\u003e4\u003c/sup\u003e",
                               "1／2\u003csup\u003e6\u003c/sup\u003e",
@@ -752,35 +752,35 @@
                               "1／2\u003csup\u003e10\u003c/sup\u003e"
                           ],
                    "an":  4,
-                   "al":  "從振盪器輸出的15MHz訊號，經由PLL1倍頻8倍後變為120MHz。隨後，再經由PLL2倍頻2倍，供給CPU 240MHz的時脈訊號。\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/16a.png\" alt=\"16a.png\"\u003e"
+                   "al":  "從振盪器輸出的15MHz訊號，經由PLL1倍頻8倍後變為120MHz。隨後，再經由PLL2倍頻2倍，供給CPU 240MHz的時脈訊號。\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/16a.png\" alt=\"16a.png\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成30年春期　問23",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "真理値表に示す3入力多数決回路はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23.png\" alt=\"\"\u003e",
+                   "q":  "真理値表に示す3入力多数決回路はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/23.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/23a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/23i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/23u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/23e.png\" alt=\"\"\u003e"
                           ],
                    "an":  1,
-                   "al":  "3入力多数決回路なので、真理値表にあるように3つの入力中2つ以上が\"1\"（＝\"1\"が多数）であれば結果に\"1\"を出力、そして2つ以上が\"0\"（＝\"0\"が多数）であれば結果に\"0\"を出力するものになっている必要があります。回路ごとにA、B、Cの値を与えた場合の出力を照合していくと、正しいのは「ア」の回路とわかります。「ア」の回路は、論理的には次のような演算を行う回路と考えられます。まず「A，B」「A，C」「B，C」それぞれの論理積を求める。3つの論理積演算の結果に\"1\"が現れれば、3つの入力中に\"1\"が2つ以上あることが確定する。逆に\"1\"が現れなければ3つの入力中の\"1\"の個数は1以下ということになる。3つの論理積演算の結果の中に少なくとも\"1\"が1つ以上ある場合には\"1\"(可決)、そうでなければ\"0\"(否決)を出力すればよいので、3つの演算結果を論理和演算した結果を最終的な出力とする。 [1]まず「A，B」「A，C」「B，C」それぞれの論理積を求める。 [2]3つの論理積演算の結果に\"1\"が現れれば、3つの入力中に\"1\"が2つ以上あることが確定する。逆に\"1\"が現れなければ3つの入力中の\"1\"の個数は1以下ということになる。 [3]3つの論理積演算の結果の中に少なくとも\"1\"が1つ以上ある場合には\"1\"(可決)、そうでなければ\"0\"(否決)を出力すればよいので、3つの演算結果を論理和演算した結果を最終的な出力とする。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23a.png\" alt=\"\"\u003e正しい。"
+                   "al":  "3入力多数決回路なので、真理値表にあるように3つの入力中2つ以上が\"1\"（＝\"1\"が多数）であれば結果に\"1\"を出力、そして2つ以上が\"0\"（＝\"0\"が多数）であれば結果に\"0\"を出力するものになっている必要があります。回路ごとにA、B、Cの値を与えた場合の出力を照合していくと、正しいのは「ア」の回路とわかります。「ア」の回路は、論理的には次のような演算を行う回路と考えられます。まず「A，B」「A，C」「B，C」それぞれの論理積を求める。3つの論理積演算の結果に\"1\"が現れれば、3つの入力中に\"1\"が2つ以上あることが確定する。逆に\"1\"が現れなければ3つの入力中の\"1\"の個数は1以下ということになる。3つの論理積演算の結果の中に少なくとも\"1\"が1つ以上ある場合には\"1\"(可決)、そうでなければ\"0\"(否決)を出力すればよいので、3つの演算結果を論理和演算した結果を最終的な出力とする。 [1]まず「A，B」「A，C」「B，C」それぞれの論理積を求める。 [2]3つの論理積演算の結果に\"1\"が現れれば、3つの入力中に\"1\"が2つ以上あることが確定する。逆に\"1\"が現れなければ3つの入力中の\"1\"の個数は1以下ということになる。 [3]3つの論理積演算の結果の中に少なくとも\"1\"が1つ以上ある場合には\"1\"(可決)、そうでなければ\"0\"(否決)を出力すればよいので、3つの演算結果を論理和演算した結果を最終的な出力とする。 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/23a.png\" alt=\"\"\u003e正しい。"
                },
         "zh":  {
                    "ti":  "平成30年春季 問23",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "真值表所示的3輸入多數決電路為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23.png\" alt=\"\"\u003e",
+                   "q":  "真值表所示的3輸入多數決電路為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/23.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/23a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/23i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/23u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/23e.png\" alt=\"\"\u003e"
                           ],
                    "an":  1,
-                   "al":  "由於是3輸入多數決電路，如真值表所示，必須滿足當3個輸入中有2個以上為\"1\"（即\"1\"佔多數）時輸出\"1\"，而當2個以上為\"0\"（即\"0\"佔多數）時輸出\"0\"的特性。針對各個電路輸入A、B、C的值進行輸出對照，可知正確的是「亞」電路。 「亞」電路在邏輯上可視為執行以下運算的電路：首先分別求出「A與B」、「A與C」、「B與C」的邏輯積（AND）。若3個邏輯積運算的結果中出現\"1\"，即可確定3個輸入中至少有2個\"1\"。反之，若未出現\"1\"，則代表輸入中\"1\"的個數為1個或以下。在3個邏輯積運算結果中，只要至少有1個\"1\"就輸出\"1\"（通過），否則輸出\"0\"（否決），因此將3個運算結果進行邏輯和（OR）運算作為最終輸出。 [1]首先分別求出「A與B」、「A與C」、「B與C」的邏輯積。 [2]若3個邏輯積運算結果出現\"1\"，表示3個輸入中有2個以上為\"1\"。反之，若未出現\"1\"，則表示輸入中\"1\"的個數在1個以下。 [3]因3個邏輯積運算結果中只要有1個以上為\"1\"即輸出\"1\"（通過），否則輸出\"0\"（否決），故將3個運算結果進行邏輯和運算作為最終輸出。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/23a.png\" alt=\"\"\u003e正確。"
+                   "al":  "由於是3輸入多數決電路，如真值表所示，必須滿足當3個輸入中有2個以上為\"1\"（即\"1\"佔多數）時輸出\"1\"，而當2個以上為\"0\"（即\"0\"佔多數）時輸出\"0\"的特性。針對各個電路輸入A、B、C的值進行輸出對照，可知正確的是「亞」電路。 「亞」電路在邏輯上可視為執行以下運算的電路：首先分別求出「A與B」、「A與C」、「B與C」的邏輯積（AND）。若3個邏輯積運算的結果中出現\"1\"，即可確定3個輸入中至少有2個\"1\"。反之，若未出現\"1\"，則代表輸入中\"1\"的個數為1個或以下。在3個邏輯積運算結果中，只要至少有1個\"1\"就輸出\"1\"（通過），否則輸出\"0\"（否決），因此將3個運算結果進行邏輯和（OR）運算作為最終輸出。 [1]首先分別求出「A與B」、「A與C」、「B與C」的邏輯積。 [2]若3個邏輯積運算結果出現\"1\"，表示3個輸入中有2個以上為\"1\"。反之，若未出現\"1\"，則表示輸入中\"1\"的個數在1個以下。 [3]因3個邏輯積運算結果中只要有1個以上為\"1\"即輸出\"1\"（通過），否則輸出\"0\"（否決），故將3個運算結果進行邏輯和運算作為最終輸出。 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/23a.png\" alt=\"\"\u003e正確。"
                }
     },
     {
@@ -815,28 +815,28 @@
         "ja":  {
                    "ti":  "令和元年秋期　問22",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "次の回路の入力と出力の関係として，正しいものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22.png\" alt=\"\"\u003e",
+                   "q":  "次の回路の入力と出力の関係として，正しいものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/22.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/22a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/22i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/22u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/22e.png\" alt=\"\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "設問中の各回路とその意味は次の通りです。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22_1.png\" alt=\"\"\u003e"
+                   "al":  "設問中の各回路とその意味は次の通りです。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/22_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "令和元年秋季 問22",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "下列電路的輸入與輸出的關係，何者正確？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22.png\" alt=\"\"\u003e",
+                   "q":  "下列電路的輸入與輸出的關係，何者正確？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/22.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/22a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/22i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/22u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/22e.png\" alt=\"\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "題目中的各電路及其意義如下所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/22_1.png\" alt=\"\"\u003e"
+                   "al":  "題目中的各電路及其意義如下所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/22_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -871,35 +871,35 @@
         "ja":  {
                    "ti":  "平成26年秋期　問21",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図の論理回路と等価な回路はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21.png\" alt=\"\"\u003e",
+                   "q":  "図の論理回路と等価な回路はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/21.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21a.png\" alt=\"\"\u003e(論理和素子)",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21i.png\" alt=\"\"\u003e(論理積素子)",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21u.png\" alt=\"\"\u003e(排他的論理和素子)",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21e.png\" alt=\"\"\u003e(否定論理和素子)"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/21a.png\" alt=\"\"\u003e(論理和素子)",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/21i.png\" alt=\"\"\u003e(論理積素子)",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/21u.png\" alt=\"\"\u003e(排他的論理和素子)",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/21e.png\" alt=\"\"\u003e(否定論理和素子)"
                           ],
                    "an":  3,
-                   "al":  "設問の回路素子はNAND回路を表しています。設問の回路図にAとBにそれぞれ0または1の値を与えたとき、各回路の出力であるYの値がどうなるかを考えます。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21_1.png\" alt=\"\"\u003e"
+                   "al":  "設問の回路素子はNAND回路を表しています。設問の回路図にAとBにそれぞれ0または1の値を与えたとき、各回路の出力であるYの値がどうなるかを考えます。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/21_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成26年秋季 問21",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "下列何者與圖中的邏輯電路等效？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21.png\" alt=\"\"\u003e",
+                   "q":  "下列何者與圖中的邏輯電路等效？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/21.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21a.png\" alt=\"\"\u003e(或閘/OR)",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21i.png\" alt=\"\"\u003e(及閘/AND)",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21u.png\" alt=\"\"\u003e(互斥或閘/XOR)",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21e.png\" alt=\"\"\u003e(反或閘/NOR)"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/21a.png\" alt=\"\"\u003e(或閘/OR)",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/21i.png\" alt=\"\"\u003e(及閘/AND)",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/21u.png\" alt=\"\"\u003e(互斥或閘/XOR)",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/21e.png\" alt=\"\"\u003e(反或閘/NOR)"
                           ],
                    "an":  3,
-                   "al":  "題目中的電路元件表示為NAND（反及閘）電路。思考當分別給予題目電路圖中的A與B值為0或1時，各電路輸出Y的值為何。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/21_1.png\" alt=\"\"\u003e"
+                   "al":  "題目中的電路元件表示為NAND（反及閘）電路。思考當分別給予題目電路圖中的A與B值為0或1時，各電路輸出Y的值為何。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/21_1.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成26年秋期　問23",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "家庭用の100V電源で動作し，運転中に10Aの電流が流れる機器を，図のとおりに0分から120分まで運転した。このとき消費する電力量は何Whか。ここで，電圧及び電流の値は実効値であり，停止時に電流は流れないものとする。また，力率は1とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/23.png\" alt=\"\"\u003e",
+                   "q":  "家庭用の100V電源で動作し，運転中に10Aの電流が流れる機器を，図のとおりに0分から120分まで運転した。このとき消費する電力量は何Whか。ここで，電圧及び電流の値は実効値であり，停止時に電流は流れないものとする。また，力率は1とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/23.png\" alt=\"\"\u003e",
                    "op":  [
                               "1,000",
                               "1,200",
@@ -912,7 +912,7 @@
         "zh":  {
                    "ti":  "平成26年秋期 問23",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "一台使用家用100V電源運作，運轉時電流為10A的設備，依據圖示從0分鐘運轉至120分鐘。此時消耗的電力量為多少Wh？在此，電壓及電流數值為有效值，停止時電流不流動。此外，功率因數設為1。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/23.png\" alt=\"\"\u003e",
+                   "q":  "一台使用家用100V電源運作，運轉時電流為10A的設備，依據圖示從0分鐘運轉至120分鐘。此時消耗的電力量為多少Wh？在此，電壓及電流數值為有效值，停止時電流不流動。此外，功率因數設為1。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/23.png\" alt=\"\"\u003e",
                    "op":  [
                               "1,000",
                               "1,200",
@@ -927,7 +927,7 @@
         "ja":  {
                    "ti":  "平成18年秋期　問17",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図の論理回路において，A＝1，B＝0，C＝1のとき，P，Q，Rの値の適切な組合せはどれか。ここで，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/and.png\" alt=\"AND回路\"\u003eは AND回路，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/or.png\" alt=\"OR回路\"\u003eは OR回路，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/not.png\" alt=\"NOT回路\"\u003eは NOT回路を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/17.png\" alt=\"問17画像\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/17a.png\" alt=\"問17選択肢\"\u003e",
+                   "q":  "図の論理回路において，A＝1，B＝0，C＝1のとき，P，Q，Rの値の適切な組合せはどれか。ここで，\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/and.png\" alt=\"AND回路\"\u003eは AND回路，\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/or.png\" alt=\"OR回路\"\u003eは OR回路，\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/not.png\" alt=\"NOT回路\"\u003eは NOT回路を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/17.png\" alt=\"問17画像\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/17a.png\" alt=\"問17選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -935,12 +935,12 @@
                               "エ"
                           ],
                    "an":  1,
-                   "al":  "P＝A AND B＝1 AND 0＝0Q＝P OR C＝0 OR 1＝1R＝NOT Q＝NOT 1＝0したがって正解は「ア」になります。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/17_1.png\" alt=\"問17解説\"\u003e"
+                   "al":  "P＝A AND B＝1 AND 0＝0Q＝P OR C＝0 OR 1＝1R＝NOT Q＝NOT 1＝0したがって正解は「ア」になります。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/17_1.png\" alt=\"問17解説\"\u003e"
                },
         "zh":  {
                    "ti":  "平成18年秋季 問17",
                    "ca":  "技術系統 » 硬體 » 硬體",
-                   "q":  "在圖示的邏輯電路中，當 A＝1，B＝0，C＝1 時，P、Q、R 的值的組合何者正確。其中，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/and.png\" alt=\"AND電路\"\u003e代表 AND 電路，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/or.png\" alt=\"OR電路\"\u003e代表 OR 電路，\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/not.png\" alt=\"NOT電路\"\u003e代表 NOT 電路。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/17.png\" alt=\"問17圖片\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/17a.png\" alt=\"問17選択肢\"\u003e",
+                   "q":  "在圖示的邏輯電路中，當 A＝1，B＝0，C＝1 時，P、Q、R 的值的組合何者正確。其中，\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/and.png\" alt=\"AND電路\"\u003e代表 AND 電路，\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/or.png\" alt=\"OR電路\"\u003e代表 OR 電路，\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/not.png\" alt=\"NOT電路\"\u003e代表 NOT 電路。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/17.png\" alt=\"問17圖片\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/17a.png\" alt=\"問17選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -948,14 +948,14 @@
                               "エ"
                           ],
                    "an":  1,
-                   "al":  "P＝A AND B＝1 AND 0＝0Q＝P OR C＝0 OR 1＝1R＝NOT Q＝NOT 1＝0因此正確答案為「ア」。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/17_1.png\" alt=\"問17解析\"\u003e"
+                   "al":  "P＝A AND B＝1 AND 0＝0Q＝P OR C＝0 OR 1＝1R＝NOT Q＝NOT 1＝0因此正確答案為「ア」。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/17_1.png\" alt=\"問17解析\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成19年春期　問17",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "二つの入力と一つの出力をもつ論理回路で，二つの入力A，Bがともに1のときだけ，出力Xが0になるものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/17.png\" alt=\"問17画像\"\u003e",
+                   "q":  "二つの入力と一つの出力をもつ論理回路で，二つの入力A，Bがともに1のときだけ，出力Xが0になるものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/17.png\" alt=\"問17画像\"\u003e",
                    "op":  [
                               "AND回路",
                               "NAND回路",
@@ -963,12 +963,12 @@
                               "XOR回路"
                           ],
                    "an":  2,
-                   "al":  "NAND回路の\"NAND\"はNOT ANDを表し、AND回路の出力を反転させた回路です。したがってNAND回路は、二つの入力が共に1のときだけ0を出力し、その他の場合は1を出力します。\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/17i.png\" alt=\"NAND回路の真理値表\"\u003e"
+                   "al":  "NAND回路の\"NAND\"はNOT ANDを表し、AND回路の出力を反転させた回路です。したがってNAND回路は、二つの入力が共に1のときだけ0を出力し、その他の場合は1を出力します。\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/17i.png\" alt=\"NAND回路の真理値表\"\u003e"
                },
         "zh":  {
                    "ti":  "平成19年春季 問17",
                    "ca":  "科技系 » 硬體 » 硬體",
-                   "q":  "一個具有兩個輸入與一個輸出的邏輯電路，當兩個輸入 A 與 B 皆為 1 時，輸出 X 才會變為 0，請問這是哪一種電路？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/17.png\" alt=\"問17圖片\"\u003e",
+                   "q":  "一個具有兩個輸入與一個輸出的邏輯電路，當兩個輸入 A 與 B 皆為 1 時，輸出 X 才會變為 0，請問這是哪一種電路？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/17.png\" alt=\"問17圖片\"\u003e",
                    "op":  [
                               "AND 電路",
                               "NAND 電路",
@@ -976,7 +976,7 @@
                               "XOR 電路"
                           ],
                    "an":  2,
-                   "al":  "NAND 電路的「NAND」代表 NOT AND，是將 AND 電路的輸出進行反轉後的電路。因此，NAND 電路僅在兩個輸入皆為 1 時輸出 0，其他情況下皆輸出 1。\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/17i.png\" alt=\"NAND 電路的真值表\"\u003e"
+                   "al":  "NAND 電路的「NAND」代表 NOT AND，是將 AND 電路的輸出進行反轉後的電路。因此，NAND 電路僅在兩個輸入皆為 1 時輸出 0，其他情況下皆輸出 1。\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/17i.png\" alt=\"NAND 電路的真值表\"\u003e"
                }
     },
     {
@@ -991,7 +991,7 @@
                               "ホール素子"
                           ],
                    "an":  3,
-                   "al":  "ひずみゲージは、物体のひずみを測定するためのセンサーです。薄い絶縁体上にジグザグ形状にレイアウトされた金属の抵抗体(金属箔)が取り付けられた構造をしており、変形による電気抵抗の変化を測定することによりひずみ量に換算します。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/21.png\" alt=\"\"\u003e"
+                   "al":  "ひずみゲージは、物体のひずみを測定するためのセンサーです。薄い絶縁体上にジグザグ形状にレイアウトされた金属の抵抗体(金属箔)が取り付けられた構造をしており、変形による電気抵抗の変化を測定することによりひずみ量に換算します。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/21.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成29年春季 第21題",
@@ -1004,7 +1004,7 @@
                               "霍爾元件"
                           ],
                    "an":  3,
-                   "al":  "應變規是用於測量物體應變（形變）的感測器。其結構是在薄絕緣體上呈鋸齒狀排列的金屬電阻體（金屬箔），透過測量因形變所導致的電阻變化來換算成應變量。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/21.png\" alt=\"\"\u003e"
+                   "al":  "應變規是用於測量物體應變（形變）的感測器。其結構是在薄絕緣體上呈鋸齒狀排列的金屬電阻體（金屬箔），透過測量因形變所導致的電阻變化來換算成應變量。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/21.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1039,28 +1039,28 @@
         "ja":  {
                    "ti":  "平成22年春期　問23",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "7セグメントLED点灯回路で，出力ポートに16進数で6Dを出力したときの表示状態はどれか。ここで，P7を最上位ビット(MSB)，P0を最下位ビット(LSB)とし，ポート出力が1のとき，LEDは点灯する。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23.png\" alt=\"\"\u003e",
+                   "q":  "7セグメントLED点灯回路で，出力ポートに16進数で6Dを出力したときの表示状態はどれか。ここで，P7を最上位ビット(MSB)，P0を最下位ビット(LSB)とし，ポート出力が1のとき，LEDは点灯する。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/23.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/23a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/23i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/23u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/23e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "まず入力値である16進数 6D を2進数に変換します。16進数を2進数に基数変換するときには、16進数を各桁ごとに2進数4桁に変えていくだけです。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23_2.png\" alt=\"\"\u003e"
+                   "al":  "まず入力値である16進数 6D を2進数に変換します。16進数を2進数に基数変換するときには、16進数を各桁ごとに2進数4桁に変えていくだけです。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/23_2.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成22年春季 問23",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "在7段顯示器（7-segment LED）驅動電路中，當輸出埠輸出十六進制數值 6D 時，其顯示狀態為何？在此，P7 為最高有效位（MSB），P0 為最低有效位（LSB），且當埠輸出為 1 時，LED 會點亮。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23.png\" alt=\"\"\u003e",
+                   "q":  "在7段顯示器（7-segment LED）驅動電路中，當輸出埠輸出十六進制數值 6D 時，其顯示狀態為何？在此，P7 為最高有效位（MSB），P0 為最低有效位（LSB），且當埠輸出為 1 時，LED 會點亮。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/23.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/23a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/23i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/23u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/23e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "首先將輸入值十六進制數 6D 轉換為二進制。在將十六進制轉換為二進制時，只需將十六進制的每一位數分別轉換為 4 位二進制數即可。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/23_2.png\" alt=\"\"\u003e"
+                   "al":  "首先將輸入值十六進制數 6D 轉換為二進制。在將十六進制轉換為二進制時，只需將十六進制的每一位數分別轉換為 4 位二進制數即可。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/23_2.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1069,26 +1069,26 @@
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
                    "q":  "16進数 ABCD1234 をリトルエンディアンで4バイトのメモリに配置したものはどれか。ここで， 0～＋3はバイトアドレスのオフセット値である。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20a.png\" alt=\"20a.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20i.png\" alt=\"20i.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20u.png\" alt=\"20u.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20e.png\" alt=\"20e.png\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/20a.png\" alt=\"20a.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/20i.png\" alt=\"20i.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/20u.png\" alt=\"20u.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/20e.png\" alt=\"20e.png\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "エンディアンとは、複数のバイトで構成されるデータをメモリに保存するときに、各バイトをどの順番で並べるかを決める方式です。リトルエンディアンは、データの下位バイトを先に、メモリ上の小さいアドレスへ格納していく方式です。この方式に該当するのが「イ」です。\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20_1.png\" alt=\"20_1.png\"\u003e"
+                   "al":  "エンディアンとは、複数のバイトで構成されるデータをメモリに保存するときに、各バイトをどの順番で並べるかを決める方式です。リトルエンディアンは、データの下位バイトを先に、メモリ上の小さいアドレスへ格納していく方式です。この方式に該当するのが「イ」です。\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/20_1.png\" alt=\"20_1.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和4年度 問20",
                    "ca":  "技術系 » 硬體 » 硬體",
                    "q":  "將十六進位數 ABCD1234 以小端序（Little-endian）配置在 4 位元組的記憶體中，下列何者正確？在此，0～＋3 為位元組位址的偏移量。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20a.png\" alt=\"20a.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20i.png\" alt=\"20i.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20u.png\" alt=\"20u.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20e.png\" alt=\"20e.png\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/20a.png\" alt=\"20a.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/20i.png\" alt=\"20i.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/20u.png\" alt=\"20u.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/20e.png\" alt=\"20e.png\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "「位元組序」（Endianness）是指在記憶體中儲存由多個位元組構成的資料時，決定各個位元組排列順序的方式。小端序（Little-endian）是一種將資料的低位位元組優先儲存到記憶體中較小位址的格式。符合此方式的為「イ」。\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/20_1.png\" alt=\"20_1.png\"\u003e"
+                   "al":  "「位元組序」（Endianness）是指在記憶體中儲存由多個位元組構成的資料時，決定各個位元組排列順序的方式。小端序（Little-endian）是一種將資料的低位位元組優先儲存到記憶體中較小位址的格式。符合此方式的為「イ」。\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/20_1.png\" alt=\"20_1.png\"\u003e"
                }
     },
     {
@@ -1151,7 +1151,7 @@
         "ja":  {
                    "ti":  "平成23年特別　問25",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図に示す1けたの2進数xとyを加算し，z(和の1けた目)及びc(けた上げ)を出力する半加算器において，AとBの素子の組合せとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/25.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/25a.png\" alt=\"\"\u003e",
+                   "q":  "図に示す1けたの2進数xとyを加算し，z(和の1けた目)及びc(けた上げ)を出力する半加算器において，AとBの素子の組合せとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/25.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/25a.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -1159,12 +1159,12 @@
                               "エ"
                           ],
                    "an":  1,
-                   "al":  "桁上げの出力cは入力される2つの数値がともに\"1\"のときにだけ\"1\"を出力します。この関係はAND回路(論理積)の真理値表と一致します。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/25_1.png\" alt=\"\"\u003e"
+                   "al":  "桁上げの出力cは入力される2つの数値がともに\"1\"のときにだけ\"1\"を出力します。この関係はAND回路(論理積)の真理値表と一致します。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/25_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成23年特別 問25",
                    "ca":  "技術類 » 硬體 » 硬體",
-                   "q":  "在圖中所示的半加算器中，將1位元的二進位數 x 與 y 相加，並輸出 z（和的第1位）及 c（進位）。下列關於 A 與 B 邏輯元件組合的敘述，何者最為適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/25.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/25a.png\" alt=\"\"\u003e",
+                   "q":  "在圖中所示的半加算器中，將1位元的二進位數 x 與 y 相加，並輸出 z（和的第1位）及 c（進位）。下列關於 A 與 B 邏輯元件組合的敘述，何者最為適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/25.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/25a.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -1172,7 +1172,7 @@
                               "エ"
                           ],
                    "an":  1,
-                   "al":  "進位輸出 c 僅在兩個輸入數值皆為 \"1\" 時才會輸出 \"1\"。此關係與 AND 電路（邏輯積）的真值表一致。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/25_1.png\" alt=\"\"\u003e"
+                   "al":  "進位輸出 c 僅在兩個輸入數值皆為 \"1\" 時才會輸出 \"1\"。此關係與 AND 電路（邏輯積）的真值表一致。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/25_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1187,7 +1187,7 @@
                               "トランスを用いて容易に昇圧，降圧ができる。"
                           ],
                    "an":  1,
-                   "al":  "直流給電とは、屋内配線を直流化し、電気製品への電源供給を直流で行うことです。サーバやネットワーク機器などのコンピュータをはじめ、家庭内のほとんどの電気製品は直流電源で動作しています。一方、家庭やオフィスでは交流電源が供給されています。電気機器は、内部のコンバータで交流を直流に変換するのですが、この変換効率は80%程度しかありません。もしそのまま直流で給電できれば、変換による電力の損失を低減できることになります。データセンターでは大量の電力を必要とする上、電源の瞬断に備えてUPSが設置されています。UPSは直流で蓄電するので交流と直流の変換回数はさらに多くなります。データセンターが直流給電を採用するのには、無駄な電力ロスを抑える目的があります。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/23.png\" alt=\"\"\u003e"
+                   "al":  "直流給電とは、屋内配線を直流化し、電気製品への電源供給を直流で行うことです。サーバやネットワーク機器などのコンピュータをはじめ、家庭内のほとんどの電気製品は直流電源で動作しています。一方、家庭やオフィスでは交流電源が供給されています。電気機器は、内部のコンバータで交流を直流に変換するのですが、この変換効率は80%程度しかありません。もしそのまま直流で給電できれば、変換による電力の損失を低減できることになります。データセンターでは大量の電力を必要とする上、電源の瞬断に備えてUPSが設置されています。UPSは直流で蓄電するので交流と直流の変換回数はさらに多くなります。データセンターが直流給電を採用するのには、無駄な電力ロスを抑える目的があります。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/23.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成31年春季 問23",
@@ -1200,63 +1200,63 @@
                               "可以使用變壓器輕易地進行升壓與降壓。"
                           ],
                    "an":  1,
-                   "al":  "直流供電是指將室內配線直流化，並以直流形式對電氣產品進行供電。伺服器、網路設備等電腦，以及家庭中大多數的電器產品都是以直流電源運作。然而，家庭與辦公室通常是供應交流電源。電氣設備內部會透過轉換器將交流電轉換為直流電，但此轉換效率僅約80%。若能直接以直流供電，便能減少因轉換而產生的電力損耗。資料中心因需要大量電力，且為了應對電源瞬斷，通常會設置不斷電系統（UPS）。由於UPS是以直流形式儲存電力，因此交流與直流之間的轉換次數會更多。資料中心採用直流供電的目的，即是為了抑制無謂的電力損耗。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/23.png\" alt=\"\"\u003e"
+                   "al":  "直流供電是指將室內配線直流化，並以直流形式對電氣產品進行供電。伺服器、網路設備等電腦，以及家庭中大多數的電器產品都是以直流電源運作。然而，家庭與辦公室通常是供應交流電源。電氣設備內部會透過轉換器將交流電轉換為直流電，但此轉換效率僅約80%。若能直接以直流供電，便能減少因轉換而產生的電力損耗。資料中心因需要大量電力，且為了應對電源瞬斷，通常會設置不斷電系統（UPS）。由於UPS是以直流形式儲存電力，因此交流與直流之間的轉換次數會更多。資料中心採用直流供電的目的，即是為了抑制無謂的電力損耗。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/23.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成28年秋期　問21",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "アノードコモン型7セグメントLEDの点灯回路で，出力ポートに16進数で92を出力したときの表示状態はどれか。ここで，P7を最上位ビット(MSB)，P0を最下位ビット(LSB)とし，ポート出力が0のとき，LEDは点灯する。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21.png\" alt=\"\"\u003e",
+                   "q":  "アノードコモン型7セグメントLEDの点灯回路で，出力ポートに16進数で92を出力したときの表示状態はどれか。ここで，P7を最上位ビット(MSB)，P0を最下位ビット(LSB)とし，ポート出力が0のとき，LEDは点灯する。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/21.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/21a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/21i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/21u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/21e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "まず入力値である16進数 92 を2進数に変換します。16進数を2進数に基数変換するときには、16進数を各桁ごとに2進数4桁に変えていくだけです。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21_2.png\" alt=\"\"\u003e"
+                   "al":  "まず入力値である16進数 92 を2進数に変換します。16進数を2進数に基数変換するときには、16進数を各桁ごとに2進数4桁に変えていくだけです。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/21_2.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成28年秋季 問21",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "在共陽極型7段顯示器LED的點燈電路中，當輸出埠輸出十六進制數值 92 時，顯示狀態為何？在此，P7 為最高位元 (MSB)，P0 為最低位元 (LSB)，且當埠輸出為 0 時，LED 會點亮。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21.png\" alt=\"\"\u003e",
+                   "q":  "在共陽極型7段顯示器LED的點燈電路中，當輸出埠輸出十六進制數值 92 時，顯示狀態為何？在此，P7 為最高位元 (MSB)，P0 為最低位元 (LSB)，且當埠輸出為 0 時，LED 會點亮。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/21.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/21a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/21i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/21u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/21e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "首先將輸入值的十六進制數 92 轉換為二進制數。當將十六進制轉換為二進制時，只需將十六進制的每一位數分別轉換為四位二進制數即可。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/21_2.png\" alt=\"\"\u003e"
+                   "al":  "首先將輸入值的十六進制數 92 轉換為二進制數。當將十六進制轉換為二進制時，只需將十六進制的每一位數分別轉換為四位二進制數即可。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/21_2.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成20年秋期　問17",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "4ビットの入力データに対し，1の入力数が0個又は偶数個のとき出力が1に，奇数個のとき出力が0になる回路はどれか。ここで，図中の\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/and.png\" alt=\"\"\u003eはAND素子，\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/or.png\" alt=\"\"\u003eはOR素子，\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/xor.png\" alt=\"\"\u003eはXOR素子，\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/not.png\" alt=\"\"\u003eはNOT素子を表す。",
+                   "q":  "4ビットの入力データに対し，1の入力数が0個又は偶数個のとき出力が1に，奇数個のとき出力が0になる回路はどれか。ここで，図中の\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/and.png\" alt=\"\"\u003eはAND素子，\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/or.png\" alt=\"\"\u003eはOR素子，\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/xor.png\" alt=\"\"\u003eはXOR素子，\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/not.png\" alt=\"\"\u003eはNOT素子を表す。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17a.png\" alt=\"問17ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17i.png\" alt=\"問17イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17u.png\" alt=\"問17ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17e.png\" alt=\"問17エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/17a.png\" alt=\"問17ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/17i.png\" alt=\"問17イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/17u.png\" alt=\"問17ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/17e.png\" alt=\"問17エ\"\u003e"
                           ],
                    "an":  4,
-                   "al":  "論理回路に使われている論理演算を次の表にまとめておきます。\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17_1.png\" alt=\"論理演算\"\u003e"
+                   "al":  "論理回路に使われている論理演算を次の表にまとめておきます。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/17_1.png\" alt=\"論理演算\"\u003e"
                },
         "zh":  {
                    "ti":  "平成20年秋季 問17",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "針對4位元的輸入資料，當輸入「1」的個數為0個或偶數個時輸出為1，為奇數個時輸出為0的電路為何？在此，圖中的\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/and.png\" alt=\"\"\u003e為AND閘，\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/or.png\" alt=\"\"\u003e為OR閘，\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/xor.png\" alt=\"\"\u003e為XOR閘，\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/not.png\" alt=\"\"\u003e為NOT閘。",
+                   "q":  "針對4位元的輸入資料，當輸入「1」的個數為0個或偶數個時輸出為1，為奇數個時輸出為0的電路為何？在此，圖中的\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/and.png\" alt=\"\"\u003e為AND閘，\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/or.png\" alt=\"\"\u003e為OR閘，\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/xor.png\" alt=\"\"\u003e為XOR閘，\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/not.png\" alt=\"\"\u003e為NOT閘。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17a.png\" alt=\"問17ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17i.png\" alt=\"問17イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17u.png\" alt=\"問17ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17e.png\" alt=\"問17エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/17a.png\" alt=\"問17ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/17i.png\" alt=\"問17イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/17u.png\" alt=\"問17ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/17e.png\" alt=\"問17エ\"\u003e"
                           ],
                    "an":  4,
-                   "al":  "邏輯電路中所使用的邏輯運算整理如下表。\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/17_1.png\" alt=\"邏輯運算\"\u003e"
+                   "al":  "邏輯電路中所使用的邏輯運算整理如下表。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/17_1.png\" alt=\"邏輯運算\"\u003e"
                }
     },
     {
@@ -1291,28 +1291,28 @@
         "ja":  {
                    "ti":  "令和8年度　問6",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図の回路のA及びBに信号を入力したときに，Yに出力される信号のタイミングチャートとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06.png\" alt=\"\"\u003e",
+                   "q":  "図の回路のA及びBに信号を入力したときに，Yに出力される信号のタイミングチャートとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/08_haru/img/06.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/08_haru/img/06a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/08_haru/img/06i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/08_haru/img/06u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/08_haru/img/06e.png\" alt=\"\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "A・Bが入力信号、Yが出力信号であるため、回路図にA・Bの各信号を入力したときの出力Yを求め、その関係に一致するタイミングチャートを選びます。図の論理素子\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06_1.png\" alt=\"\"\u003eはNAND素子です。NAND素子は、2つの入力がともに1のときだけ0を出力し、それ以外の場合は1を出力します。これを踏まえて、回路図に「A=0・B=0」「A=1・B=0」「A=0・B=1」「A=1・B=1」のそれぞれを与えた場合の出力Yを考えます。\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06_2.png\" alt=\"\"\u003e"
+                   "al":  "A・Bが入力信号、Yが出力信号であるため、回路図にA・Bの各信号を入力したときの出力Yを求め、その関係に一致するタイミングチャートを選びます。図の論理素子\u003cimg src=\"https://www.fe-siken.com/kakomon/08_haru/img/06_1.png\" alt=\"\"\u003eはNAND素子です。NAND素子は、2つの入力がともに1のときだけ0を出力し、それ以外の場合は1を出力します。これを踏まえて、回路図に「A=0・B=0」「A=1・B=0」「A=0・B=1」「A=1・B=1」のそれぞれを与えた場合の出力Yを考えます。\u003cimg src=\"https://www.fe-siken.com/kakomon/08_haru/img/06_2.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "令和8年度 問6",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "當訊號輸入至圖中電路的 A 及 B 時，下列何者為 Y 輸出的正確時序圖？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06.png\" alt=\"\"\u003e",
+                   "q":  "當訊號輸入至圖中電路的 A 及 B 時，下列何者為 Y 輸出的正確時序圖？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/08_haru/img/06.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/08_haru/img/06a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/08_haru/img/06i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/08_haru/img/06u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/08_haru/img/06e.png\" alt=\"\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "由於 A 與 B 為輸入訊號，Y 為輸出訊號，因此需先求出將 A、B 各訊號輸入電路圖時的輸出 Y，並選擇符合該關係的時序圖。圖中的邏輯閘 \u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06_1.png\" alt=\"\"\u003e 為 NAND 閘。NAND 閘的特性是：僅在兩個輸入皆為 1 時輸出 0，其餘情況皆輸出 1。基於此，思考當電路圖輸入分別為「A=0・B=0」、「A=1・B=0」、「A=0・B=1」、「A=1・B=1」時的輸出 Y。\u003cimg src=\"https://www.sg-siken.com/kakomon/08_haru/img/06_2.png\" alt=\"\"\u003e"
+                   "al":  "由於 A 與 B 為輸入訊號，Y 為輸出訊號，因此需先求出將 A、B 各訊號輸入電路圖時的輸出 Y，並選擇符合該關係的時序圖。圖中的邏輯閘 \u003cimg src=\"https://www.fe-siken.com/kakomon/08_haru/img/06_1.png\" alt=\"\"\u003e 為 NAND 閘。NAND 閘的特性是：僅在兩個輸入皆為 1 時輸出 0，其餘情況皆輸出 1。基於此，思考當電路圖輸入分別為「A=0・B=0」、「A=1・B=0」、「A=0・B=1」、「A=1・B=1」時的輸出 Y。\u003cimg src=\"https://www.fe-siken.com/kakomon/08_haru/img/06_2.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1321,26 +1321,26 @@
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
                    "q":  "モーターの速度制御などにPWM(Pulse Width Modulation)制御が用いられる。PWMの駆動波形を示したものはどれか。ここで，波形は制御回路のポート出力であり，低域通過フィルターを通していないものとする。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20a.png\" alt=\"20a.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20i.png\" alt=\"20i.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20u.png\" alt=\"20u.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20e.png\" alt=\"20e.png\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/20a.png\" alt=\"20a.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/20i.png\" alt=\"20i.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/20u.png\" alt=\"20u.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/20e.png\" alt=\"20e.png\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "PWM(Pulse Width Modulation，パルス幅変調)は、信号の強度は一定のまま、パルス信号を出力する時間(width)を長くしたり短くしたりすることで電流・電圧を制御する方式で、インバータの制御方式として用いられています。PWMとは別に、パルス信号を出力する時間は一定で、信号の強度(振幅)によって制御する方式をPAM(Pulse Amplitude Modulation，パルス振幅変調)といいます。選択肢の波形のうち、波形の振幅が一定なのは「イ」のみなので、これがPWMの駆動波形として適切です。\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20.png\" alt=\"20.png\"\u003e"
+                   "al":  "PWM(Pulse Width Modulation，パルス幅変調)は、信号の強度は一定のまま、パルス信号を出力する時間(width)を長くしたり短くしたりすることで電流・電圧を制御する方式で、インバータの制御方式として用いられています。PWMとは別に、パルス信号を出力する時間は一定で、信号の強度(振幅)によって制御する方式をPAM(Pulse Amplitude Modulation，パルス振幅変調)といいます。選択肢の波形のうち、波形の振幅が一定なのは「イ」のみなので、これがPWMの駆動波形として適切です。\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/20.png\" alt=\"20.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和3年度 問20",
                    "ca":  "技術系 » 硬體 » 硬體",
                    "q":  "在馬達速度控制等方面會使用 PWM (Pulse Width Modulation，脈衝寬度調變) 控制。下列何者為 PWM 的驅動波形？在此假設波形為控制電路的連接埠輸出，且未經過低通濾波器。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20a.png\" alt=\"20a.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20i.png\" alt=\"20i.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20u.png\" alt=\"20u.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20e.png\" alt=\"20e.png\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/20a.png\" alt=\"20a.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/20i.png\" alt=\"20i.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/20u.png\" alt=\"20u.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/20e.png\" alt=\"20e.png\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "PWM (Pulse Width Modulation，脈衝寬度調變) 是一種在維持訊號強度不變的情況下，透過加長或縮短脈衝訊號輸出時間 (width) 來控制電流或電壓的方式，常被用作變頻器的控制方式。與 PWM 不同的是，有一種方式是脈衝訊號的輸出時間固定，並根據訊號強度 (振幅) 來進行控制，這稱為 PAM (Pulse Amplitude Modulation，脈衝振幅調變)。在選項的波形中，僅有「イ」的振幅是固定的，因此這是適合作為 PWM 驅動波形的選項。\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/20.png\" alt=\"20.png\"\u003e"
+                   "al":  "PWM (Pulse Width Modulation，脈衝寬度調變) 是一種在維持訊號強度不變的情況下，透過加長或縮短脈衝訊號輸出時間 (width) 來控制電流或電壓的方式，常被用作變頻器的控制方式。與 PWM 不同的是，有一種方式是脈衝訊號的輸出時間固定，並根據訊號強度 (振幅) 來進行控制，這稱為 PAM (Pulse Amplitude Modulation，脈衝振幅調變)。在選項的波形中，僅有「イ」的振幅是固定的，因此這是適合作為 PWM 驅動波形的選項。\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/20.png\" alt=\"20.png\"\u003e"
                }
     },
     {
@@ -1349,33 +1349,33 @@
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
                    "q":  "2入力NAND素子を用いて4入力NAND回路を構成したものはどれか。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/22a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/22i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/22u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/22e.png\" alt=\"\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "否定論理積(2入力NAND)は、2つの入力がともに1のときにだけ結果が0、その他の場合は1となる論理演算です。NAND素子を組み合わせることによってAND、OR、XOR、NOT、NORなどの回路を構成することができます。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22_1.png\" alt=\"\"\u003e"
+                   "al":  "否定論理積(2入力NAND)は、2つの入力がともに1のときにだけ結果が0、その他の場合は1となる論理演算です。NAND素子を組み合わせることによってAND、OR、XOR、NOT、NORなどの回路を構成することができます。\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/22_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成30年秋季 問22",
                    "ca":  "技術系 » 硬體 » 硬體",
                    "q":  "下列何者為使用 2 輸入 NAND 元件所構成的 4 輸入 NAND 電路？",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/22a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/22i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/22u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/22e.png\" alt=\"\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "反及閘（2 輸入 NAND）是一種僅在兩個輸入皆為 1 時結果才為 0，其餘情況皆為 1 的邏輯運算。透過組合 NAND 元件，可以構成 AND、OR、XOR、NOT、NOR 等邏輯電路。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/22_1.png\" alt=\"\"\u003e"
+                   "al":  "反及閘（2 輸入 NAND）是一種僅在兩個輸入皆為 1 時結果才為 0，其餘情況皆為 1 的邏輯運算。透過組合 NAND 元件，可以構成 AND、OR、XOR、NOT、NOR 等邏輯電路。\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/22_1.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "令和元年秋期　問21",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "クロックの立上りエッジで，8ビットのシリアル入力パラレル出力シフトレジスタの内容を上位方向ヘシフトすると同時に正論理のデータをレジスタの最下位ビットに取り込む。また，ストローブの立上りエッジで値を確定する。各信号の波形を観測した結果が図のとおりであるとき，確定後のシフトレジスタの値はどれか。ここで，数値は16進数で表記している。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/21.png\" alt=\"\"\u003e",
+                   "q":  "クロックの立上りエッジで，8ビットのシリアル入力パラレル出力シフトレジスタの内容を上位方向ヘシフトすると同時に正論理のデータをレジスタの最下位ビットに取り込む。また，ストローブの立上りエッジで値を確定する。各信号の波形を観測した結果が図のとおりであるとき，確定後のシフトレジスタの値はどれか。ここで，数値は16進数で表記している。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/21.png\" alt=\"\"\u003e",
                    "op":  [
                               "63",
                               "8D",
@@ -1383,12 +1383,12 @@
                               "C6"
                           ],
                    "an":  2,
-                   "al":  "設問の図に、クロックの立上りエッジで取り込まれるビット(0 or 1)を書き込むと次のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/21a.png\" alt=\"\"\u003e"
+                   "al":  "設問の図に、クロックの立上りエッジで取り込まれるビット(0 or 1)を書き込むと次のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/21a.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "令和元年秋季 問21",
                    "ca":  "技術類 » 硬體 » 硬體",
-                   "q":  "在時脈（Clock）的上升緣，將 8 位元的串列輸入並列輸出移位暫存器的內容向高位元方向移位，同時將正邏輯資料讀入暫存器的最低位元。此外，在選通訊號（Strobe）的上升緣確定數值。當觀察各訊號波形的結果如圖所示時，確定後的移位暫存器之值為何？在此，數值以 16 進位表示。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/21.png\" alt=\"\"\u003e",
+                   "q":  "在時脈（Clock）的上升緣，將 8 位元的串列輸入並列輸出移位暫存器的內容向高位元方向移位，同時將正邏輯資料讀入暫存器的最低位元。此外，在選通訊號（Strobe）的上升緣確定數值。當觀察各訊號波形的結果如圖所示時，確定後的移位暫存器之值為何？在此，數值以 16 進位表示。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/21.png\" alt=\"\"\u003e",
                    "op":  [
                               "63",
                               "8D",
@@ -1396,7 +1396,7 @@
                               "C6"
                           ],
                    "an":  2,
-                   "al":  "若在題目的圖中標記時脈上升緣所讀入的位元（0 或 1），如下圖所示。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/21a.png\" alt=\"\"\u003e"
+                   "al":  "若在題目的圖中標記時脈上升緣所讀入的位元（0 或 1），如下圖所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/21a.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1411,7 +1411,7 @@
                               "フリップフロップ"
                           ],
                    "an":  4,
-                   "al":  "フリップフロップは、2つの安定状態をもつことで1ビットの状態を表現することができる順序回路で、SRAMの記憶セルに使用されています。DRAMのような定期的なリフレッシュ動作が必要ないため高速な処理が可能です。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/22.png\" alt=\"\"\u003e"
+                   "al":  "フリップフロップは、2つの安定状態をもつことで1ビットの状態を表現することができる順序回路で、SRAMの記憶セルに使用されています。DRAMのような定期的なリフレッシュ動作が必要ないため高速な処理が可能です。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/22.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成26年秋季 問22",
@@ -1424,7 +1424,7 @@
                               "正反器"
                           ],
                    "an":  4,
-                   "al":  "正反器（Flip-flop）是一種順序電路，透過具有兩個穩定狀態來表示 1 位元的狀態，被用於 SRAM 的記憶單元中。由於不需要像 DRAM 那樣進行定期刷新操作，因此可以進行高速處理。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/22.png\" alt=\"\"\u003e"
+                   "al":  "正反器（Flip-flop）是一種順序電路，透過具有兩個穩定狀態來表示 1 位元的狀態，被用於 SRAM 的記憶單元中。由於不需要像 DRAM 那樣進行定期刷新操作，因此可以進行高速處理。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/22.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1433,33 +1433,33 @@
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
                    "q":  "4ビットの入力データに対し，1の入力数が0個又は偶数個のとき出力が1に，奇数個のとき出力が0になる回路はどれか。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24a.png\" alt=\"問24ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24i.png\" alt=\"問24イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24u.png\" alt=\"問24ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24e.png\" alt=\"問24エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/24a.png\" alt=\"問24ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/24i.png\" alt=\"問24イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/24u.png\" alt=\"問24ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/24e.png\" alt=\"問24エ\"\u003e"
                           ],
                    "an":  4,
-                   "al":  "論理回路に使われている論理演算を次の表にまとめておきます。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24_1.png\" alt=\"論理演算\"\u003e"
+                   "al":  "論理回路に使われている論理演算を次の表にまとめておきます。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/24_1.png\" alt=\"論理演算\"\u003e"
                },
         "zh":  {
                    "ti":  "平成23年特別 問24",
                    "ca":  "技術系 » 硬體 » 硬體",
                    "q":  "針對4位元的輸入資料，當輸入的1的個數為0個或偶數個時輸出為1，為奇數個時輸出為0，請問是哪一個電路？",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24a.png\" alt=\"問24ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24i.png\" alt=\"問24イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24u.png\" alt=\"問24ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24e.png\" alt=\"問24エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/24a.png\" alt=\"問24ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/24i.png\" alt=\"問24イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/24u.png\" alt=\"問24ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/24e.png\" alt=\"問24エ\"\u003e"
                           ],
                    "an":  4,
-                   "al":  "將邏輯電路中所使用的邏輯運算整理如下表。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/24_1.png\" alt=\"邏輯運算\"\u003e"
+                   "al":  "將邏輯電路中所使用的邏輯運算整理如下表。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/24_1.png\" alt=\"邏輯運算\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成21年秋期　問24",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "二つの入力と一つの出力をもつ論理回路で，二つの入力A，Bがともに1のときだけ，出力xが0になるものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/24.png\" alt=\"\"\u003e",
+                   "q":  "二つの入力と一つの出力をもつ論理回路で，二つの入力A，Bがともに1のときだけ，出力xが0になるものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/24.png\" alt=\"\"\u003e",
                    "op":  [
                               "AND回路",
                               "NAND回路",
@@ -1467,12 +1467,12 @@
                               "XOR回路"
                           ],
                    "an":  2,
-                   "al":  "NAND回路の\"NAND\"はNOT ANDを表し、AND回路の出力を反転させた回路です。したがってNAND回路は、二つの入力が共に1のときだけ0を出力し、その他の場合は1を出力します。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/24i.png\" alt=\"NAND回路の真理値表\"\u003e"
+                   "al":  "NAND回路の\"NAND\"はNOT ANDを表し、AND回路の出力を反転させた回路です。したがってNAND回路は、二つの入力が共に1のときだけ0を出力し、その他の場合は1を出力します。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/24i.png\" alt=\"NAND回路の真理値表\"\u003e"
                },
         "zh":  {
                    "ti":  "平成21年秋季 問24",
                    "ca":  "技術類 » 硬體 » 硬體",
-                   "q":  "具有兩個輸入與一個輸出的邏輯電路中，僅在兩個輸入 A、B 皆為 1 時，輸出 x 為 0 的是哪一個？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/24.png\" alt=\"\"\u003e",
+                   "q":  "具有兩個輸入與一個輸出的邏輯電路中，僅在兩個輸入 A、B 皆為 1 時，輸出 x 為 0 的是哪一個？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/24.png\" alt=\"\"\u003e",
                    "op":  [
                               "AND 電路",
                               "NAND 電路",
@@ -1480,14 +1480,14 @@
                               "XOR 電路"
                           ],
                    "an":  2,
-                   "al":  "NAND 電路的「NAND」代表 NOT AND，是將 AND 電路的輸出進行反轉的電路。因此，NAND 電路僅在兩個輸入皆為 1 時輸出 0，其他情況下則輸出 1。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/24i.png\" alt=\"NAND 電路的真值表\"\u003e"
+                   "al":  "NAND 電路的「NAND」代表 NOT AND，是將 AND 電路的輸出進行反轉的電路。因此，NAND 電路僅在兩個輸入皆為 1 時輸出 0，其他情況下則輸出 1。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/24i.png\" alt=\"NAND 電路的真值表\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成29年秋期　問23",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図に示すデジタル回路と等価な論理式はどれか。ここで，論理式中の\"・\"は論理積，\"＋\"は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/23.png\" alt=\"\"\u003e",
+                   "q":  "図に示すデジタル回路と等価な論理式はどれか。ここで，論理式中の\"・\"は論理積，\"＋\"は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/23.png\" alt=\"\"\u003e",
                    "op":  [
                               "X＝A・B＋\u003cspan class=\"ol\"\u003eA・B",
                               "X＝A・B＋\u003cspan class=\"ol\"\u003eA",
@@ -1495,12 +1495,12 @@
                               "X＝(\u003cspan class=\"ol\"\u003eA"
                           ],
                    "an":  3,
-                   "al":  "複雑な論理回路図の問題では、手間はかかりますが確実に答えがでる方法で解くのがおすすめです。まず(A=0, B=0),(A=1, B=0),(A=0, B=1),(A=1, B=1)の4つのケースについて回路図を追跡し、結果Xを真理値表にまとめます。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/23a.png\" alt=\"\"\u003e"
+                   "al":  "複雑な論理回路図の問題では、手間はかかりますが確実に答えがでる方法で解くのがおすすめです。まず(A=0, B=0),(A=1, B=0),(A=0, B=1),(A=1, B=1)の4つのケースについて回路図を追跡し、結果Xを真理値表にまとめます。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/23a.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成29年秋季 問23",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "圖中所示的數位電路，其等價的邏輯式為何？在此，邏輯式中的「・」代表邏輯積（AND），「＋」代表邏輯和（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/23.png\" alt=\"\"\u003e",
+                   "q":  "圖中所示的數位電路，其等價的邏輯式為何？在此，邏輯式中的「・」代表邏輯積（AND），「＋」代表邏輯和（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/23.png\" alt=\"\"\u003e",
                    "op":  [
                               "X＝A・B＋\u003cspan class=\"ol\"\u003eA・B\u003c/span\u003e",
                               "X＝A・B＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e",
@@ -1508,7 +1508,7 @@
                               "X＝(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e"
                           ],
                    "an":  3,
-                   "al":  "面對複雜的邏輯電路圖題目，雖然較花時間，但建議採用能確保得出正確答案的方法。首先，針對 (A=0, B=0)、(A=1, B=0)、(A=0, B=1)、(A=1, B=1) 這四種情況追蹤電路圖，並將結果 X 整理成真值表。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/23a.png\" alt=\"\"\u003e"
+                   "al":  "面對複雜的邏輯電路圖題目，雖然較花時間，但建議採用能確保得出正確答案的方法。首先，針對 (A=0, B=0)、(A=1, B=0)、(A=0, B=1)、(A=1, B=1) 這四種情況追蹤電路圖，並將結果 X 整理成真值表。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/23a.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1523,7 +1523,7 @@
                               "マイクロフォン，センサーなどが出力する微小な電気信号を増幅する。"
                           ],
                    "an":  3,
-                   "al":  "アクチュエーター(Actuator)は、入力された電気信号を力学的な運動に変換する駆動機構で、機械や電気回路の構成要素です。制御システムにおいては、コントローラーから制御信号を受けとり、制御対象に与える操作量を変化させる部位のことをいいます。具体的には、温度管理システムにおけるファン、自動ドアシステムのドア、工場におけるロボットアームなど、物理的なアクションを起こす部分の駆動機構がこれに該当します。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/21.png\" alt=\"\"\u003e"
+                   "al":  "アクチュエーター(Actuator)は、入力された電気信号を力学的な運動に変換する駆動機構で、機械や電気回路の構成要素です。制御システムにおいては、コントローラーから制御信号を受けとり、制御対象に与える操作量を変化させる部位のことをいいます。具体的には、温度管理システムにおけるファン、自動ドアシステムのドア、工場におけるロボットアームなど、物理的なアクションを起こす部分の駆動機構がこれに該当します。\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/21.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成30年春季 問21",
@@ -1536,7 +1536,7 @@
                               "放大麥克風、感測器等所輸出的微弱電氣訊號。"
                           ],
                    "an":  3,
-                   "al":  "致動器（Actuator）是一種將輸入的電氣訊號轉換為力學運動的驅動機構，屬於機械或電路構成要素。在控制系統中，它是指從控制器接收控制訊號，並改變施加於控制對象之操作量的部位。具體而言，溫度管理系統中的風扇、自動門系統的門、工廠中的機械手臂等，執行物理動作的驅動機構均屬於此類。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/21.png\" alt=\"\"\u003e"
+                   "al":  "致動器（Actuator）是一種將輸入的電氣訊號轉換為力學運動的驅動機構，屬於機械或電路構成要素。在控制系統中，它是指從控制器接收控制訊號，並改變施加於控制對象之操作量的部位。具體而言，溫度管理系統中的風扇、自動門系統的門、工廠中的機械手臂等，執行物理動作的驅動機構均屬於此類。\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/21.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1571,7 +1571,7 @@
         "ja":  {
                    "ti":  "平成24年秋期　問22",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "NAND素子を用いた次の組合せ回路の出力Zを表す式はどれか。ここで，論理式中の\"・\"は論理積，\"＋\"は論理和，\"\u003cspan class=\"ol\"\u003eX\u003c/span\u003e\"はXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/22.png\" alt=\"問22画像\"\u003e",
+                   "q":  "NAND素子を用いた次の組合せ回路の出力Zを表す式はどれか。ここで，論理式中の\"・\"は論理積，\"＋\"は論理和，\"\u003cspan class=\"ol\"\u003eX\u003c/span\u003e\"はXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/22.png\" alt=\"問22画像\"\u003e",
                    "op":  [
                               "X・Y",
                               "X＋Y",
@@ -1579,12 +1579,12 @@
                               "\u003cspan class=\"ol\"\u003eX＋Y"
                           ],
                    "an":  2,
-                   "al":  "NAND回路は、NAND(Not AND)の名称どおりAND回路の逆を出力する回路で、2つの入力がともに\"1\"のときだけ\"0\"を出力し、それ以外の入力では\"1\"を出力します。\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/22_1.png\" alt=\"NAND回路図\"\u003e"
+                   "al":  "NAND回路は、NAND(Not AND)の名称どおりAND回路の逆を出力する回路で、2つの入力がともに\"1\"のときだけ\"0\"を出力し、それ以外の入力では\"1\"を出力します。\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/22_1.png\" alt=\"NAND回路図\"\u003e"
                },
         "zh":  {
                    "ti":  "平成24年秋季 問22",
                    "ca":  "科技系 » 硬體 » 硬體",
-                   "q":  "使用NAND元件的下列組合邏輯電路，表示輸出Z的算式為何？在此，邏輯式中的「・」代表邏輯積（AND），「＋」代表邏輯和（OR），「\u003cspan class=\"ol\"\u003eX\u003c/span\u003e」代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/22.png\" alt=\"問22圖片\"\u003e",
+                   "q":  "使用NAND元件的下列組合邏輯電路，表示輸出Z的算式為何？在此，邏輯式中的「・」代表邏輯積（AND），「＋」代表邏輯和（OR），「\u003cspan class=\"ol\"\u003eX\u003c/span\u003e」代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/22.png\" alt=\"問22圖片\"\u003e",
                    "op":  [
                               "X・Y",
                               "X＋Y",
@@ -1592,14 +1592,14 @@
                               "\u003cspan class=\"ol\"\u003eX＋Y"
                           ],
                    "an":  2,
-                   "al":  "NAND電路正如其名（Not AND），是將AND電路的輸出進行反相的電路。只有在兩個輸入皆為「1」時才會輸出「0」，除此之外的輸入組合則皆輸出「1」。\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/22_1.png\" alt=\"NAND電路圖\"\u003e"
+                   "al":  "NAND電路正如其名（Not AND），是將AND電路的輸出進行反相的電路。只有在兩個輸入皆為「1」時才會輸出「0」，除此之外的輸入組合則皆輸出「1」。\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/22_1.png\" alt=\"NAND電路圖\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成21年秋期　問25",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図は全加算器を表す論理回路である。図中のxに1，yに0，zに1を入力したとき，出力となるc(けた上げ数)，s(和)の値はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/25_1.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/25_2.png\" alt=\"\"\u003e",
+                   "q":  "図は全加算器を表す論理回路である。図中のxに1，yに0，zに1を入力したとき，出力となるc(けた上げ数)，s(和)の値はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/25_1.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/25_2.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -1612,7 +1612,7 @@
         "zh":  {
                    "ti":  "平成21年秋季 問25",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "圖示為表示全加算器（Full Adder）的邏輯電路。當圖中的 x 輸入 1，y 輸入 0，z 輸入 1 時，輸出結果 c（進位）與 s（和）的值分別為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/25_1.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/25_2.png\" alt=\"\"\u003e",
+                   "q":  "圖示為表示全加算器（Full Adder）的邏輯電路。當圖中的 x 輸入 1，y 輸入 0，z 輸入 1 時，輸出結果 c（進位）與 s（和）的值分別為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/25_1.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/25_2.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -1655,28 +1655,28 @@
         "ja":  {
                    "ti":  "平成24年春期　問25",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "7セグメントLED点灯回路で，出力ポートに16進数で6Dを出力したときの表示状態はどれか。ここで，P7を最上位ビット(MSB)，P0を最下位ビット(LSB)とし，ポート出力が1のとき，LEDは点灯する。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25.png\" alt=\"問25画像\"\u003e",
+                   "q":  "7セグメントLED点灯回路で，出力ポートに16進数で6Dを出力したときの表示状態はどれか。ここで，P7を最上位ビット(MSB)，P0を最下位ビット(LSB)とし，ポート出力が1のとき，LEDは点灯する。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/25.png\" alt=\"問25画像\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/25a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/25i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/25u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/25e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "まず入力値である16進数 6D を2進数に変換します。16進数を2進数に基数変換するときには、16進数を各桁ごとに2進数4桁に変えていくだけです。\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25_2.png\" alt=\"\"\u003e"
+                   "al":  "まず入力値である16進数 6D を2進数に変換します。16進数を2進数に基数変換するときには、16進数を各桁ごとに2進数4桁に変えていくだけです。\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/25_2.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成24年春季 問25",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "在 7 段顯示器（7-segment LED）點燈電路中，當輸出埠輸出十六進位數值 6D 時，其顯示狀態為何？在此，P7 為最高有效位元 (MSB)，P0 為最低有效位元 (LSB)，當埠輸出為 1 時，LED 點亮。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25.png\" alt=\"問25圖片\"\u003e",
+                   "q":  "在 7 段顯示器（7-segment LED）點燈電路中，當輸出埠輸出十六進位數值 6D 時，其顯示狀態為何？在此，P7 為最高有效位元 (MSB)，P0 為最低有效位元 (LSB)，當埠輸出為 1 時，LED 點亮。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/25.png\" alt=\"問25圖片\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/25a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/25i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/25u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/25e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "首先將輸入值十六進位數 6D 轉換為二進位數。將十六進位數轉換為二進位數時，只需將每個十六進位位數分別轉換為 4 位元的二進位數即可。\u003cimg src=\"https://www.sg-siken.com/kakomon/24_haru/img/25_2.png\" alt=\"\"\u003e"
+                   "al":  "首先將輸入值十六進位數 6D 轉換為二進位數。將十六進位數轉換為二進位數時，只需將每個十六進位位數分別轉換為 4 位元的二進位數即可。\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/25_2.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1685,82 +1685,82 @@
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
                    "q":  "論理式X＝\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・B＋A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・\u003cspan class=\"ol\"\u003eB\u003c/span\u003eと同じ結果が得られる論理回路はどれか。\u003cbr\u003eここで，論理式中の・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの否定を表す。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26a.png\" alt=\"問26ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26i.png\" alt=\"問26イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26u.png\" alt=\"問26ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26e.png\" alt=\"問26エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/26a.png\" alt=\"問26ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/26i.png\" alt=\"問26イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/26u.png\" alt=\"問26ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/26e.png\" alt=\"問26エ\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "集合演算則を用いて解く方法と、ベン図を用いて解く方法の2通りを解説します。[集合演算則を用いた解法] A・B＋A・B＋A・B＝ A・(B＋B)＋A・B //第1項と第3項をAでくくる＝ A＋A・B //B＋Bは1，1・X＝X＝ A・(A＋B) //ド・モルガン則を逆に適用する＝ A・A＋A・B //分配の法則＝ A・B //A・Aは0，0＋X＝XA・Bは、NAND(not AND)回路の出力と同じなので正解は「イ」になります。[ベン図を用いた解法]第1項～第3項の論理式をベン図で表すと次のようになります。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26_1.png\" alt=\"問26解説画像1\"\u003e"
+                   "al":  "集合演算則を用いて解く方法と、ベン図を用いて解く方法の2通りを解説します。[集合演算則を用いた解法] A・B＋A・B＋A・B＝ A・(B＋B)＋A・B //第1項と第3項をAでくくる＝ A＋A・B //B＋Bは1，1・X＝X＝ A・(A＋B) //ド・モルガン則を逆に適用する＝ A・A＋A・B //分配の法則＝ A・B //A・Aは0，0＋X＝XA・Bは、NAND(not AND)回路の出力と同じなので正解は「イ」になります。[ベン図を用いた解法]第1項～第3項の論理式をベン図で表すと次のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/26_1.png\" alt=\"問26解説画像1\"\u003e"
                },
         "zh":  {
                    "ti":  "平成23年秋季 第26題",
                    "ca":  "技術類 » 硬體 » 硬體",
                    "q":  "下列哪一個邏輯電路能得到與邏輯式X＝\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・B＋A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e相同的結果？\u003cbr\u003e在此，邏輯式中的・代表邏輯積，＋代表邏輯和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003e代表X的反相（否定）。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26a.png\" alt=\"問26選項A\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26i.png\" alt=\"問26選項B\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26u.png\" alt=\"問26選項C\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26e.png\" alt=\"問26選項D\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/26a.png\" alt=\"問26選項A\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/26i.png\" alt=\"問26選項B\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/26u.png\" alt=\"問26選項C\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/26e.png\" alt=\"問26選項D\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "以下說明兩種解法：利用集合運算律與利用文氏圖。[利用集合運算律的解法] A・B＋A・B＋A・B＝ A・(B＋B)＋A・B //提出第1項與第3項的A＝ A＋A・B //B＋B為1，1・X＝X＝ A・(A＋B) //反向套用摩根定律＝ A・A＋A・B //分配律＝ A・B //A・A為0，0＋X＝XA・B與NAND(not AND)電路的輸出相同，因此正確答案為「イ」（選項B）。[利用文氏圖的解法]將第1項～第3項的邏輯式以文氏圖表示如下。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/26_1.png\" alt=\"問26解說圖片1\"\u003e"
+                   "al":  "以下說明兩種解法：利用集合運算律與利用文氏圖。[利用集合運算律的解法] A・B＋A・B＋A・B＝ A・(B＋B)＋A・B //提出第1項與第3項的A＝ A＋A・B //B＋B為1，1・X＝X＝ A・(A＋B) //反向套用摩根定律＝ A・A＋A・B //分配律＝ A・B //A・A為0，0＋X＝XA・B與NAND(not AND)電路的輸出相同，因此正確答案為「イ」（選項B）。[利用文氏圖的解法]將第1項～第3項的邏輯式以文氏圖表示如下。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/26_1.png\" alt=\"問26解說圖片1\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成19年秋期　問17",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "入力XとYの値が同じときにだけ，出力Zに1を出力する回路はどれか。ここで，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/and.png\" alt=\"\"\u003eはAND回路，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/or.png\" alt=\"\"\u003eはOR回路，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/nand.png\" alt=\"\"\u003eはNAND回路，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/nor.png\" alt=\"\"\u003eはNOR回路，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/not.png\" alt=\"\"\u003eはNOT回路を表す。",
+                   "q":  "入力XとYの値が同じときにだけ，出力Zに1を出力する回路はどれか。ここで，\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/and.png\" alt=\"\"\u003eはAND回路，\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/or.png\" alt=\"\"\u003eはOR回路，\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/nand.png\" alt=\"\"\u003eはNAND回路，\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/nor.png\" alt=\"\"\u003eはNOR回路，\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/not.png\" alt=\"\"\u003eはNOT回路を表す。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17a.png\" alt=\"問17ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17i.png\" alt=\"問17イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17u.png\" alt=\"問17ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17e.png\" alt=\"問17エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17a.png\" alt=\"問17ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17i.png\" alt=\"問17イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17u.png\" alt=\"問17ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17e.png\" alt=\"問17エ\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "「入力XとYの値が同じときにだけ，出力Zに1を出力する」ということは、裏を返せば「入力XとYの値が異なるときには1を出力しない」ということです。このため、(X，Y)が(0，0)と(1，1)のときに1を出力するかどうかだけでなく、それ以外の(1，0)と(0，1)のときに出力が0になっているかどうかも確認する必要があります。それぞれの論理回路に(0，0)、(1，0)、(0，1)、(1，1)の4つを入力して得られる結果は次のようになります。XとYが同じときに1を出力しているもの、XとYが異なるときに1を出力していないものには○を、そうではないものには×を付けてあります。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17a.png\" alt=\"問17ア\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17_1.png\" alt=\"\"\u003e [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17i.png\" alt=\"問17イ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17_2.png\" alt=\"\"\u003e [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17u.png\" alt=\"問17ウ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17_3.png\" alt=\"\"\u003e [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17e.png\" alt=\"問17エ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17_4.png\" alt=\"\"\u003e"
+                   "al":  "「入力XとYの値が同じときにだけ，出力Zに1を出力する」ということは、裏を返せば「入力XとYの値が異なるときには1を出力しない」ということです。このため、(X，Y)が(0，0)と(1，1)のときに1を出力するかどうかだけでなく、それ以外の(1，0)と(0，1)のときに出力が0になっているかどうかも確認する必要があります。それぞれの論理回路に(0，0)、(1，0)、(0，1)、(1，1)の4つを入力して得られる結果は次のようになります。XとYが同じときに1を出力しているもの、XとYが異なるときに1を出力していないものには○を、そうではないものには×を付けてあります。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17a.png\" alt=\"問17ア\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17_1.png\" alt=\"\"\u003e [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17i.png\" alt=\"問17イ\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17_2.png\" alt=\"\"\u003e [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17u.png\" alt=\"問17ウ\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17_3.png\" alt=\"\"\u003e [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17e.png\" alt=\"問17エ\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17_4.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成19年秋季 問17",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "下列何者為僅在輸入X與Y的值相同時，輸出Z才會輸出1的電路？在此，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/and.png\" alt=\"\"\u003e代表AND電路，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/or.png\" alt=\"\"\u003e代表OR電路，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/nand.png\" alt=\"\"\u003e代表NAND電路，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/nor.png\" alt=\"\"\u003e代表NOR電路，\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/not.png\" alt=\"\"\u003e代表NOT電路。",
+                   "q":  "下列何者為僅在輸入X與Y的值相同時，輸出Z才會輸出1的電路？在此，\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/and.png\" alt=\"\"\u003e代表AND電路，\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/or.png\" alt=\"\"\u003e代表OR電路，\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/nand.png\" alt=\"\"\u003e代表NAND電路，\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/nor.png\" alt=\"\"\u003e代表NOR電路，\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/not.png\" alt=\"\"\u003e代表NOT電路。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17a.png\" alt=\"問17ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17i.png\" alt=\"問17イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17u.png\" alt=\"問17ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17e.png\" alt=\"問17エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17a.png\" alt=\"問17ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17i.png\" alt=\"問17イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17u.png\" alt=\"問17ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17e.png\" alt=\"問17エ\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "所謂「僅在輸入X與Y的值相同時，輸出Z才輸出1」，反過來說就是「當輸入X與Y的值不同時，輸出不為1」。因此，不僅需要確認(X, Y)為(0, 0)與(1, 1)時是否輸出1，還必須確認在除此之外的(1, 0)與(0, 1)時，輸出是否為0。將(0, 0)、(1, 0)、(0, 1)、(1, 1)這四種組合分別輸入各個邏輯電路後，結果如下所示。X與Y相同時輸出1，且X與Y不同時不輸出1者標記為○，反之則標記為×。 [1]\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17a.png\" alt=\"問17ア\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17_1.png\" alt=\"\"\u003e [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17i.png\" alt=\"問17イ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17_2.png\" alt=\"\"\u003e [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17u.png\" alt=\"問17ウ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17_3.png\" alt=\"\"\u003e [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17e.png\" alt=\"問17エ\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/17_4.png\" alt=\"\"\u003e"
+                   "al":  "所謂「僅在輸入X與Y的值相同時，輸出Z才輸出1」，反過來說就是「當輸入X與Y的值不同時，輸出不為1」。因此，不僅需要確認(X, Y)為(0, 0)與(1, 1)時是否輸出1，還必須確認在除此之外的(1, 0)與(0, 1)時，輸出是否為0。將(0, 0)、(1, 0)、(0, 1)、(1, 1)這四種組合分別輸入各個邏輯電路後，結果如下所示。X與Y相同時輸出1，且X與Y不同時不輸出1者標記為○，反之則標記為×。 [1]\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17a.png\" alt=\"問17ア\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17_1.png\" alt=\"\"\u003e [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17i.png\" alt=\"問17イ\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17_2.png\" alt=\"\"\u003e [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17u.png\" alt=\"問17ウ\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17_3.png\" alt=\"\"\u003e [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17e.png\" alt=\"問17エ\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/17_4.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成21年春期　問24",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図の論理回路と同じ出力が得られる論理回路はどれか。ここで，\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/and.png\" alt=\"\"\u003eは，論理積(AND)，\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/or.png\" alt=\"\"\u003eは論理和(OR)，\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/not.png\" alt=\"\"\u003eは否定(NOT)を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24.png\" alt=\"\"\u003e",
+                   "q":  "図の論理回路と同じ出力が得られる論理回路はどれか。ここで，\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/and.png\" alt=\"\"\u003eは，論理積(AND)，\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/or.png\" alt=\"\"\u003eは論理和(OR)，\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/not.png\" alt=\"\"\u003eは否定(NOT)を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/24.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24a.png\" alt=\"問24ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24i.png\" alt=\"問24イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24u.png\" alt=\"問24ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24e.png\" alt=\"問24エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/24a.png\" alt=\"問24ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/24i.png\" alt=\"問24イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/24u.png\" alt=\"問24ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/24e.png\" alt=\"問24エ\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "設問の論理回路に(A=0，B=0)，(A=1，B=0)，(A=0，B=1)，(A=1，B=1)の4つの値を入力するとXには次の値が出力されます。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24_1.png\" alt=\"\"\u003e"
+                   "al":  "設問の論理回路に(A=0，B=0)，(A=1，B=0)，(A=0，B=1)，(A=1，B=1)の4つの値を入力するとXには次の値が出力されます。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/24_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成21年春季 問24",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "下列哪一個邏輯電路能得到與圖中邏輯電路相同的輸出？在此，\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/and.png\" alt=\"\"\u003e代表邏輯乘（AND），\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/or.png\" alt=\"\"\u003e代表邏輯和（OR），\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/not.png\" alt=\"\"\u003e代表否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24.png\" alt=\"\"\u003e",
+                   "q":  "下列哪一個邏輯電路能得到與圖中邏輯電路相同的輸出？在此，\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/and.png\" alt=\"\"\u003e代表邏輯乘（AND），\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/or.png\" alt=\"\"\u003e代表邏輯和（OR），\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/not.png\" alt=\"\"\u003e代表否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/24.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24a.png\" alt=\"問24ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24i.png\" alt=\"問24イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24u.png\" alt=\"問24ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24e.png\" alt=\"問24エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/24a.png\" alt=\"問24ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/24i.png\" alt=\"問24イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/24u.png\" alt=\"問24ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/24e.png\" alt=\"問24エ\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "將 (A=0, B=0)、(A=1, B=0)、(A=0, B=1)、(A=1, B=1) 這四種數值分別輸入題目中的邏輯電路後，X 將輸出如下數值。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/24_1.png\" alt=\"\"\u003e"
+                   "al":  "將 (A=0, B=0)、(A=1, B=0)、(A=0, B=1)、(A=1, B=1) 這四種數值分別輸入題目中的邏輯電路後，X 將輸出如下數值。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/24_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1795,7 +1795,7 @@
         "ja":  {
                    "ti":  "平成22年秋期　問24",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図に示すデジタル回路と等価な論理式はどれか。ここで，論理式中の・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/24.png\" alt=\"\"\u003e",
+                   "q":  "図に示すデジタル回路と等価な論理式はどれか。ここで，論理式中の・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/24.png\" alt=\"\"\u003e",
                    "op":  [
                               "X＝A・B＋\u003cspan class=\"ol\"\u003eA・B",
                               "X＝A・B＋\u003cspan class=\"ol\"\u003eA",
@@ -1803,12 +1803,12 @@
                               "X＝(\u003cspan class=\"ol\"\u003eA"
                           ],
                    "an":  3,
-                   "al":  "複雑な論理回路図の問題では、手間はかかりますが確実に答えがでる方法で解くのがおすすめです。まず(A=0, B=0),(A=1, B=0),(A=0, B=1),(A=1, B=1)の4つのケースについて回路図を追跡し、結果Xを真理値表にまとめます。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/24a.png\" alt=\"\"\u003e"
+                   "al":  "複雑な論理回路図の問題では、手間はかかりますが確実に答えがでる方法で解くのがおすすめです。まず(A=0, B=0),(A=1, B=0),(A=0, B=1),(A=1, B=1)の4つのケースについて回路図を追跡し、結果Xを真理値表にまとめます。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/24a.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成22年秋期　問24",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "與圖中所示數位電路等效的邏輯運算式為何？在此，邏輯運算式中的「・」代表邏輯乘（AND），「＋」代表邏輯和（OR），「\u003cspan class=\"ol\"\u003eX\u003c/span\u003e」代表X的非（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/24.png\" alt=\"\"\u003e",
+                   "q":  "與圖中所示數位電路等效的邏輯運算式為何？在此，邏輯運算式中的「・」代表邏輯乘（AND），「＋」代表邏輯和（OR），「\u003cspan class=\"ol\"\u003eX\u003c/span\u003e」代表X的非（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/24.png\" alt=\"\"\u003e",
                    "op":  [
                               "X＝A・B＋\u003cspan class=\"ol\"\u003eA・B\u003c/span\u003e",
                               "X＝A・B＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e",
@@ -1816,14 +1816,14 @@
                               "X＝(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e)"
                           ],
                    "an":  3,
-                   "al":  "對於複雜的邏輯電路圖問題，建議使用雖然費時但能準確得出答案的方法來解題。首先針對(A=0, B=0), (A=1, B=0), (A=0, B=1), (A=1, B=1)這4種情況追蹤電路圖，並將結果X整理成真值表。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/24a.png\" alt=\"\"\u003e"
+                   "al":  "對於複雜的邏輯電路圖問題，建議使用雖然費時但能準確得出答案的方法來解題。首先針對(A=0, B=0), (A=1, B=0), (A=0, B=1), (A=1, B=1)這4種情況追蹤電路圖，並將結果X整理成真值表。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/24a.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成29年春期　問22",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図に示す，1桁の2進数xとyを加算して，z(和の1桁目)及びc(桁上げ)を出力する半加算器において，AとBの素子の組合せとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/22.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/22a.png\" alt=\"\"\u003e",
+                   "q":  "図に示す，1桁の2進数xとyを加算して，z(和の1桁目)及びc(桁上げ)を出力する半加算器において，AとBの素子の組合せとして，適切なものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/22.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/22a.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -1831,12 +1831,12 @@
                               "エ"
                           ],
                    "an":  1,
-                   "al":  "桁上げの出力cは入力される2つの数値がともに\"1\"のときにだけ\"1\"を出力します。この関係はAND回路(論理積)の真理値表と一致します。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/22_1.png\" alt=\"\"\u003e"
+                   "al":  "桁上げの出力cは入力される2つの数値がともに\"1\"のときにだけ\"1\"を出力します。この関係はAND回路(論理積)の真理値表と一致します。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/22_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成29年春季 問22",
                    "ca":  "科技系統 » 硬體 » 硬體",
-                   "q":  "如圖所示，在一個將 1 位元二進位數 x 與 y 相加，並輸出 z（和的個位數）及 c（進位）的半加法器中，下列關於元件 A 與 B 的組合，何者最為適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/22.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/22a.png\" alt=\"\"\u003e",
+                   "q":  "如圖所示，在一個將 1 位元二進位數 x 與 y 相加，並輸出 z（和的個位數）及 c（進位）的半加法器中，下列關於元件 A 與 B 的組合，何者最為適當？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/22.png\" alt=\"\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/22a.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -1844,14 +1844,14 @@
                               "エ"
                           ],
                    "an":  1,
-                   "al":  "進位輸出 c 僅在輸入的兩個數值皆為「1」時才會輸出「1」。此關係與 AND 電路（邏輯積）的真值表一致。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/22_1.png\" alt=\"\"\u003e"
+                   "al":  "進位輸出 c 僅在輸入的兩個數值皆為「1」時才會輸出「1」。此關係與 AND 電路（邏輯積）的真值表一致。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/22_1.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "令和3年度　問22",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "家庭用の100V電源で動作し，運転中に10Aの電流が流れる機器を，図のとおりに0分から120分まで運転した。このとき消費する電力量は何Whか。ここで，電圧及び電流の値は実効値であり，停止時に電流は流れないものとする。また，力率は1とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/22.png\" alt=\"\"\u003e",
+                   "q":  "家庭用の100V電源で動作し，運転中に10Aの電流が流れる機器を，図のとおりに0分から120分まで運転した。このとき消費する電力量は何Whか。ここで，電圧及び電流の値は実効値であり，停止時に電流は流れないものとする。また，力率は1とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/22.png\" alt=\"\"\u003e",
                    "op":  [
                               "1,000",
                               "1,200",
@@ -1864,7 +1864,7 @@
         "zh":  {
                    "ti":  "令和3年度 問22",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "一台使用家用100V電源運作，且運作時流經電流為10A的設備，依下圖所示從0分鐘運作至120分鐘。此時消耗的電力量為多少Wh？在此，電壓與電流的值均為實效值，且停止時電流不流動。此外，功率因數設為1。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/22.png\" alt=\"\"\u003e",
+                   "q":  "一台使用家用100V電源運作，且運作時流經電流為10A的設備，依下圖所示從0分鐘運作至120分鐘。此時消耗的電力量為多少Wh？在此，電壓與電流的值均為實效值，且停止時電流不流動。此外，功率因數設為1。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/22.png\" alt=\"\"\u003e",
                    "op":  [
                               "1,000",
                               "1,200",
@@ -1915,7 +1915,7 @@
                               "フリップフロップ"
                           ],
                    "an":  4,
-                   "al":  "フリップフロップは、2つの安定状態をもつことで1ビットの状態を表現することができる順序回路で、SRAMの記憶セルに使用されています。DRAMのような定期的なリフレッシュ動作が必要ないため高速な処理が可能です。\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/23.png\" alt=\"フリップフロップ回路\"\u003e"
+                   "al":  "フリップフロップは、2つの安定状態をもつことで1ビットの状態を表現することができる順序回路で、SRAMの記憶セルに使用されています。DRAMのような定期的なリフレッシュ動作が必要ないため高速な処理が可能です。\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/23.png\" alt=\"フリップフロップ回路\"\u003e"
                },
         "zh":  {
                    "ti":  "平成24年秋季 問23",
@@ -1928,7 +1928,7 @@
                               "正反器 (Flip-flop)"
                           ],
                    "an":  4,
-                   "al":  "正反器 (Flip-flop) 是一種順序電路，透過保持兩種穩定狀態來表現 1 位元的狀態，被用於 SRAM 的記憶單元中。由於不需要像 DRAM 那樣進行定期的刷新 (Refresh) 動作，因此能進行高速處理。\u003cimg src=\"https://www.sg-siken.com/kakomon/24_aki/img/23.png\" alt=\"正反器電路\"\u003e"
+                   "al":  "正反器 (Flip-flop) 是一種順序電路，透過保持兩種穩定狀態來表現 1 位元的狀態，被用於 SRAM 的記憶單元中。由於不需要像 DRAM 那樣進行定期的刷新 (Refresh) 動作，因此能進行高速處理。\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/23.png\" alt=\"正反器電路\"\u003e"
                }
     },
     {
@@ -1943,7 +1943,7 @@
                               "フリップフロップ"
                           ],
                    "an":  4,
-                   "al":  "フリップフロップは、2つの安定状態をもつことで1ビットの状態を表現することができる順序回路で、SRAMの記憶セルに使用されています。DRAMのようなリフレッシュ動作が必要ないため高速な処理が可能です。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/25a.png\" alt=\"フリップフロップ回路\"\u003e"
+                   "al":  "フリップフロップは、2つの安定状態をもつことで1ビットの状態を表現することができる順序回路で、SRAMの記憶セルに使用されています。DRAMのようなリフレッシュ動作が必要ないため高速な処理が可能です。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/25a.png\" alt=\"フリップフロップ回路\"\u003e"
                },
         "zh":  {
                    "ti":  "平成22年春季 問25",
@@ -1956,35 +1956,35 @@
                               "正反器"
                           ],
                    "an":  4,
-                   "al":  "正反器（Flip-flop）是一種具有兩個穩定狀態，可用來表示1位元狀態的時序電路，被用於SRAM的記憶單元中。由於不像DRAM那樣需要重新整理（Refresh）操作，因此能夠進行高速處理。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/25a.png\" alt=\"正反器電路\"\u003e"
+                   "al":  "正反器（Flip-flop）是一種具有兩個穩定狀態，可用來表示1位元狀態的時序電路，被用於SRAM的記憶單元中。由於不像DRAM那樣需要重新整理（Refresh）操作，因此能夠進行高速處理。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/25a.png\" alt=\"正反器電路\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成28年春期　問23",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図の論理回路と等価な回路はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23.png\" alt=\"\"\u003e",
+                   "q":  "図の論理回路と等価な回路はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/23.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23a.png\" alt=\"\"\u003e(論理和素子)",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23i.png\" alt=\"\"\u003e(論理積素子)",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23u.png\" alt=\"\"\u003e(排他的論理和素子)",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23e.png\" alt=\"\"\u003e(否定論理和素子)"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/23a.png\" alt=\"\"\u003e(論理和素子)",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/23i.png\" alt=\"\"\u003e(論理積素子)",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/23u.png\" alt=\"\"\u003e(排他的論理和素子)",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/23e.png\" alt=\"\"\u003e(否定論理和素子)"
                           ],
                    "an":  3,
-                   "al":  "設問の回路素子はNAND回路を表しています。設問の回路図にAとBにそれぞれ0または1の値を与えたとき、各回路の出力であるYの値がどうなるかを考えます。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23_1.png\" alt=\"\"\u003e"
+                   "al":  "設問の回路素子はNAND回路を表しています。設問の回路図にAとBにそれぞれ0または1の値を与えたとき、各回路の出力であるYの値がどうなるかを考えます。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/23_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成28年春季 問23",
                    "ca":  "技術類 » 硬體 » 硬體",
-                   "q":  "下列何者與圖中的邏輯電路等價？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23.png\" alt=\"\"\u003e",
+                   "q":  "下列何者與圖中的邏輯電路等價？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/23.png\" alt=\"\"\u003e",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23a.png\" alt=\"\"\u003e(或閘)",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23i.png\" alt=\"\"\u003e(及閘)",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23u.png\" alt=\"\"\u003e(互斥或閘)",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23e.png\" alt=\"\"\u003e(反或閘)"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/23a.png\" alt=\"\"\u003e(或閘)",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/23i.png\" alt=\"\"\u003e(及閘)",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/23u.png\" alt=\"\"\u003e(互斥或閘)",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/23e.png\" alt=\"\"\u003e(反或閘)"
                           ],
                    "an":  3,
-                   "al":  "題目中的電路元件表示為反及閘（NAND）。當我們將 0 或 1 的值分別賦予題目電路圖中的 A 和 B 時，即可推導出各電路輸出 Y 的值。\u003cimg src=\"https://www.sg-siken.com/kakomon/28_haru/img/23_1.png\" alt=\"\"\u003e"
+                   "al":  "題目中的電路元件表示為反及閘（NAND）。當我們將 0 或 1 的值分別賦予題目電路圖中的 A 和 B 時，即可推導出各電路輸出 Y 的值。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/23_1.png\" alt=\"\"\u003e"
                }
     }
 ]

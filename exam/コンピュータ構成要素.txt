@@ -59,7 +59,7 @@
         "ja":  {
                    "ti":  "令和6年度　問9",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » メモリ",
-                   "q":  "図に示す構成で，表に示すようにキャッシュメモリと主記憶のアクセス時間だけが異なり，他の条件は同じ2種類のCPU XとYがある。あるプログラムをCPU XとYとでそれぞれ実行したところ，両者の処理時間が等しかった。このとき，キャッシュメモリのヒット率は幾らか。ここで，CPU以外の処理による影響はないものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/09.png\" alt=\"09.png\"\u003e",
+                   "q":  "図に示す構成で，表に示すようにキャッシュメモリと主記憶のアクセス時間だけが異なり，他の条件は同じ2種類のCPU XとYがある。あるプログラムをCPU XとYとでそれぞれ実行したところ，両者の処理時間が等しかった。このとき，キャッシュメモリのヒット率は幾らか。ここで，CPU以外の処理による影響はないものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/09.png\" alt=\"09.png\"\u003e",
                    "op":  [
                               "0.75",
                               "0.90",
@@ -72,7 +72,7 @@
         "zh":  {
                    "ti":  "令和6年度 第9題",
                    "ca":  "科技 » 電腦構成元件 » 記憶體",
-                   "q":  "如圖所示之結構中，依表所示，僅快取記憶體與主記憶體的存取時間不同，其餘條件皆相同的兩種CPU X與Y存在。若分別使用CPU X與Y執行某程式，兩者的處理時間相等。求此時的快取記憶體命中率。此處假設不含CPU以外的處理所產生的影響。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/06_menjo/img/09.png\" alt=\"09.png\"\u003e\u003c/div\u003e",
+                   "q":  "如圖所示之結構中，依表所示，僅快取記憶體與主記憶體的存取時間不同，其餘條件皆相同的兩種CPU X與Y存在。若分別使用CPU X與Y執行某程式，兩者的處理時間相等。求此時的快取記憶體命中率。此處假設不含CPU以外的處理所產生的影響。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/06_menjo/img/09.png\" alt=\"09.png\"\u003e\u003c/div\u003e",
                    "op":  [
                               "0.75",
                               "0.90",
@@ -423,7 +423,7 @@
         "ja":  {
                    "ti":  "平成18年秋期　問20",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » メモリ",
-                   "q":  "図に示す構成で，表に示すようにキャッシュメモリと主記憶のアクセス時間だけが異なり，ほかの条件は同じ2種類のCPU XとYがある。\u003cbr\u003eあるプログラムをCPU XとYでそれぞれ実行したところ，両者の処理時間が等しかった。このとき，キャッシュメモリのヒット率は幾らか。ここで，CPU処理以外の影響はないものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/20.png\" alt=\"問20画像\"\u003e",
+                   "q":  "図に示す構成で，表に示すようにキャッシュメモリと主記憶のアクセス時間だけが異なり，ほかの条件は同じ2種類のCPU XとYがある。\u003cbr\u003eあるプログラムをCPU XとYでそれぞれ実行したところ，両者の処理時間が等しかった。このとき，キャッシュメモリのヒット率は幾らか。ここで，CPU処理以外の影響はないものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/20.png\" alt=\"問20画像\"\u003e",
                    "op":  [
                               "0.75",
                               "0.90",
@@ -436,7 +436,7 @@
         "zh":  {
                    "ti":  "平成18年秋季 問20",
                    "ca":  "技術系 » 電腦系統構成要素 » 記憶體",
-                   "q":  "在圖示的架構下，有兩款 CPU X 和 Y。如表所示，兩者僅在快取記憶體與主記憶體的存取時間上有所不同，其餘條件皆相同。當某個程式分別在 CPU X 和 Y 上執行時，兩者的處理時間相同。請問此時的快取記憶體命中率（Hit Rate）為多少？在此假設不考慮 CPU 處理以外的影響。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/20.png\" alt=\"問20圖片\"\u003e",
+                   "q":  "在圖示的架構下，有兩款 CPU X 和 Y。如表所示，兩者僅在快取記憶體與主記憶體的存取時間上有所不同，其餘條件皆相同。當某個程式分別在 CPU X 和 Y 上執行時，兩者的處理時間相同。請問此時的快取記憶體命中率（Hit Rate）為多少？在此假設不考慮 CPU 處理以外的影響。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/20.png\" alt=\"問20圖片\"\u003e",
                    "op":  [
                               "0.75",
                               "0.90",
@@ -451,7 +451,7 @@
         "ja":  {
                    "ti":  "平成23年秋期　問11",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » メモリ",
-                   "q":  "A～Dを，主記憶の実効アクセス時間が短い順に並べたものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/11.png\" alt=\"問11画像\"\u003e",
+                   "q":  "A～Dを，主記憶の実効アクセス時間が短い順に並べたものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/11.png\" alt=\"問11画像\"\u003e",
                    "op":  [
                               "A，B，C，D",
                               "A，D，B，C",
@@ -464,7 +464,7 @@
         "zh":  {
                    "ti":  "平成23年秋期 問11",
                    "ca":  "技術系 » 電腦構成要素 » 記憶體",
-                   "q":  "請將 A～D 依據主記憶體實效存取時間由短至長進行排序，下列何者正確？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/11.png\" alt=\"問11圖片\"\u003e",
+                   "q":  "請將 A～D 依據主記憶體實效存取時間由短至長進行排序，下列何者正確？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/11.png\" alt=\"問11圖片\"\u003e",
                    "op":  [
                               "A，B，C，D",
                               "A，D，B，C",
@@ -543,7 +543,7 @@
                               "ハブを利用して，外部機器をハブを含めて最大127台まで接続できる。"
                           ],
                    "an":  4,
-                   "al":  "USBハブは、USBのポート数を拡張し、周辺機器を複数接続するための機器です。最近はマウス，キーボードやUSBメモリに始まり、扇風機、卓上ライトなどのバスパワーを利用した小型家電製品も増えているため、これらの機器を同時に接続するために使用されます。\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/23.png\" alt=\"\"\u003e"
+                   "al":  "USBハブは、USBのポート数を拡張し、周辺機器を複数接続するための機器です。最近はマウス，キーボードやUSBメモリに始まり、扇風機、卓上ライトなどのバスパワーを利用した小型家電製品も増えているため、これらの機器を同時に接続するために使用されます。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/23.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成20年秋季 問23",
@@ -556,7 +556,7 @@
                               "利用集線器，包含集線器本身在內，最多可連接127台外部裝置。"
                           ],
                    "an":  4,
-                   "al":  "USB集線器是用來擴充USB埠數量，以便連接多個周邊設備的裝置。近年來，從滑鼠、鍵盤、USB隨身碟，到利用匯流排供電（Bus Power）的小型家電（如電風扇、桌燈）種類日益增多，因此集線器被廣泛用於同時連接這些設備。\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/23.png\" alt=\"\"\u003e"
+                   "al":  "USB集線器是用來擴充USB埠數量，以便連接多個周邊設備的裝置。近年來，從滑鼠、鍵盤、USB隨身碟，到利用匯流排供電（Bus Power）的小型家電（如電風扇、桌燈）種類日益增多，因此集線器被廣泛用於同時連接這些設備。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/23.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -619,7 +619,7 @@
         "ja":  {
                    "ti":  "平成28年秋期　問9",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "主記憶のデータを図のように参照するアドレス指定方式はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/09.png\" alt=\"\"\u003e",
+                   "q":  "主記憶のデータを図のように参照するアドレス指定方式はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/09.png\" alt=\"\"\u003e",
                    "op":  [
                               "間接アドレス指定",
                               "指標アドレス指定",
@@ -632,7 +632,7 @@
         "zh":  {
                    "ti":  "平成28年秋期 問9",
                    "ca":  "技術系 » 電腦構成要素 » 處理器",
-                   "q":  "如下圖所示，參考主記憶體資料的定址方式為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/09.png\" alt=\"\"\u003e",
+                   "q":  "如下圖所示，參考主記憶體資料的定址方式為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/09.png\" alt=\"\"\u003e",
                    "op":  [
                               "間接定址 (Indirect Addressing)",
                               "指標定址 (Indexed Addressing)",
@@ -647,7 +647,7 @@
         "ja":  {
                    "ti":  "平成27年春期　問9",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "主記憶のデータを図のように参照するアドレス指定方式はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/09.png\" alt=\"\"\u003e",
+                   "q":  "主記憶のデータを図のように参照するアドレス指定方式はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/09.png\" alt=\"\"\u003e",
                    "op":  [
                               "間接アドレス指定",
                               "指標アドレス指定",
@@ -660,7 +660,7 @@
         "zh":  {
                    "ti":  "平成27年春季 問9",
                    "ca":  "科技系統 » 電腦構成要素 » 處理器",
-                   "q":  "如圖所示，存取主記憶體資料的定址方式為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/27_haru/img/09.png\" alt=\"\"\u003e",
+                   "q":  "如圖所示，存取主記憶體資料的定址方式為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/09.png\" alt=\"\"\u003e",
                    "op":  [
                               "間接定址 (Indirect Addressing)",
                               "索引定址 (Indexed Addressing)",
@@ -711,7 +711,7 @@
                               "フロッピーディスク"
                           ],
                    "an":  3,
-                   "al":  "光磁気ディスク(Magneto-Optical disk:MO)は、データの記録には赤色レーザと磁気、読み出しには赤色レーザを使用して再生を行う記録メディアです。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/26.png\" alt=\"\"\u003e"
+                   "al":  "光磁気ディスク(Magneto-Optical disk:MO)は、データの記録には赤色レーザと磁気、読み出しには赤色レーザを使用して再生を行う記録メディアです。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/26.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成16年秋季 問26",
@@ -724,7 +724,7 @@
                               "軟碟"
                           ],
                    "an":  3,
-                   "al":  "磁光碟 (Magneto-Optical disk: MO) 是一種在資料記錄時使用紅色雷射與磁性，而在讀取時僅使用紅色雷射進行播放的記錄媒體。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/26.png\" alt=\"\"\u003e"
+                   "al":  "磁光碟 (Magneto-Optical disk: MO) 是一種在資料記錄時使用紅色雷射與磁性，而在讀取時僅使用紅色雷射進行播放的記錄媒體。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/26.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -767,7 +767,7 @@
                               "読み出したデータを暗号化する。"
                           ],
                    "an":  2,
-                   "al":  "パリティチェックは、データ通信やメモリチェックなどにおいてデータのビット誤りを検出する最もシンプルな方法の一つです。一定長のビット列（通常は7～8ビット）ごとに1ビットの検査ビット（パリティビット）を付加し、検査側が受信データとパリティビットを照合することで誤りを検出します。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/11.png\" alt=\"\"\u003e"
+                   "al":  "パリティチェックは、データ通信やメモリチェックなどにおいてデータのビット誤りを検出する最もシンプルな方法の一つです。一定長のビット列（通常は7～8ビット）ごとに1ビットの検査ビット（パリティビット）を付加し、検査側が受信データとパリティビットを照合することで誤りを検出します。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/11.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成26年春季 問11",
@@ -780,14 +780,14 @@
                               "將讀取出的資料進行加密。"
                           ],
                    "an":  2,
-                   "al":  "同位檢查（Parity Check）是資料通訊或記憶體檢查中，檢測資料位元錯誤最簡單的方法之一。其原理是在固定長度的位元串（通常為7～8位元）中附加1個檢查位元（同位位元），接收端透過核對接收到的資料與同位位元來檢測錯誤。\u003cimg src=\"https://www.sg-siken.com/kakomon/26_haru/img/11.png\" alt=\"\"\u003e"
+                   "al":  "同位檢查（Parity Check）是資料通訊或記憶體檢查中，檢測資料位元錯誤最簡單的方法之一。其原理是在固定長度的位元串（通常為7～8位元）中附加1個檢查位元（同位位元），接收端透過核對接收到的資料與同位位元來檢測錯誤。\u003cimg src=\"https://www.fe-siken.com/kakomon/26_haru/img/11.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成23年特別　問10",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » メモリ",
-                   "q":  "\"LOAD　GR, B, AD\"は，ADが示す番地にベースレジスタBの内容を加えた値を有効アドレスとして，その有効アドレスが示す主記憶に格納されているデータを汎用レジスタGRにロードする命令である。\u003cbr\u003e　図の状態で，次の命令を実行したとき，汎用レジスタGRにロードされるデータはどれか。\u003cbr\u003e　LOAD GR，1，200\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/10.png\" alt=\"問10\"\u003e",
+                   "q":  "\"LOAD　GR, B, AD\"は，ADが示す番地にベースレジスタBの内容を加えた値を有効アドレスとして，その有効アドレスが示す主記憶に格納されているデータを汎用レジスタGRにロードする命令である。\u003cbr\u003e　図の状態で，次の命令を実行したとき，汎用レジスタGRにロードされるデータはどれか。\u003cbr\u003e　LOAD GR，1，200\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/10.png\" alt=\"問10\"\u003e",
                    "op":  [
                               "1201",
                               "1300",
@@ -800,7 +800,7 @@
         "zh":  {
                    "ti":  "平成23年特別 問10",
                    "ca":  "技術系 » 電腦架構 » 記憶體",
-                   "q":  "\"LOAD GR, B, AD\" 是一條指令，其運作方式是將 AD 所表示的位址加上基準暫存器 B 的內容，將所得之值作為有效位址，並將該有效位址所指向的主記憶體中儲存的資料載入到通用暫存器 GR 中。\u003cbr\u003e　在圖示的狀態下，執行下列指令時，載入到通用暫存器 GR 的資料為何？\u003cbr\u003e　LOAD GR, 1, 200\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/10.png\" alt=\"問10\"\u003e",
+                   "q":  "\"LOAD GR, B, AD\" 是一條指令，其運作方式是將 AD 所表示的位址加上基準暫存器 B 的內容，將所得之值作為有效位址，並將該有效位址所指向的主記憶體中儲存的資料載入到通用暫存器 GR 中。\u003cbr\u003e　在圖示的狀態下，執行下列指令時，載入到通用暫存器 GR 的資料為何？\u003cbr\u003e　LOAD GR, 1, 200\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/10.png\" alt=\"問10\"\u003e",
                    "op":  [
                               "1201",
                               "1300",
@@ -879,7 +879,7 @@
                               "メモリセル構造が単純なので高集積化することができ，ビット単価を安くできる。"
                           ],
                    "an":  4,
-                   "al":  "DRAM(Dynamic Random Access Memory)は、コンデンサに電荷を蓄えることにより情報を記憶し、電源供給が無くなると記憶情報も失われる揮発性メモリです。集積度を上げることが比較的簡単にできるためコンピュータの主記憶装置として使用されています。\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/21.png\" alt=\"\"\u003e"
+                   "al":  "DRAM(Dynamic Random Access Memory)は、コンデンサに電荷を蓄えることにより情報を記憶し、電源供給が無くなると記憶情報も失われる揮発性メモリです。集積度を上げることが比較的簡単にできるためコンピュータの主記憶装置として使用されています。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/21.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成27年秋季 問21",
@@ -892,7 +892,7 @@
                               "由於記憶單元（Memory Cell）結構簡單，因此可以實現高整合度，並降低單位位元成本。"
                           ],
                    "an":  4,
-                   "al":  "DRAM (Dynamic Random Access Memory) 是一種透過在電容器中儲存電荷來記憶資訊，且在電源供應中斷時記憶資訊會隨之消失的揮發性記憶體。由於提高整合度相對容易，因此被用作電腦的主記憶體裝置。\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/21.png\" alt=\"\"\u003e"
+                   "al":  "DRAM (Dynamic Random Access Memory) 是一種透過在電容器中儲存電荷來記憶資訊，且在電源供應中斷時記憶資訊會隨之消失的揮發性記憶體。由於提高整合度相對容易，因此被用作電腦的主記憶體裝置。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/21.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1151,7 +1151,7 @@
         "ja":  {
                    "ti":  "平成16年春期　問19",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » メモリ",
-                   "q":  "キャッシュメモリと主記憶に関するアクセス時間とヒット率の組合せのうち，主記憶の実効アクセス時間が最も短くなるのはどれか。\n\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/19.png\" alt=\"問19選択肢\"\u003e",
+                   "q":  "キャッシュメモリと主記憶に関するアクセス時間とヒット率の組合せのうち，主記憶の実効アクセス時間が最も短くなるのはどれか。\n\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/19.png\" alt=\"問19選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -1164,7 +1164,7 @@
         "zh":  {
                    "ti":  "平成16年春季 問19",
                    "ca":  "技術系 » 電腦構成要素 » 記憶體",
-                   "q":  "關於快取記憶體與主記憶體的存取時間及命中率之組合，下列何者能使主記憶體的有效存取時間最短？\n\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/19.png\" alt=\"問19選択肢\"\u003e",
+                   "q":  "關於快取記憶體與主記憶體的存取時間及命中率之組合，下列何者能使主記憶體的有效存取時間最短？\n\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/19.png\" alt=\"問19選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -1207,7 +1207,7 @@
         "ja":  {
                    "ti":  "平成20年春期　問19",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "クロック周波数が1GHzのCPUがある。このCPUの命令種別が，表に示す二つから成っているとき，処理能力は約何MIPS か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/19.png\" alt=\"問19画像\"\u003e",
+                   "q":  "クロック周波数が1GHzのCPUがある。このCPUの命令種別が，表に示す二つから成っているとき，処理能力は約何MIPS か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/19.png\" alt=\"問19画像\"\u003e",
                    "op":  [
                               "34",
                               "100",
@@ -1220,7 +1220,7 @@
         "zh":  {
                    "ti":  "平成20年春季 問19",
                    "ca":  "技術系 » 電腦組件 » 處理器",
-                   "q":  "有一顆時脈頻率為 1GHz 的 CPU。當該 CPU 的指令類型由表中所示的兩種類型組成時，其處理能力約為多少 MIPS？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/19.png\" alt=\"問19圖片\"\u003e",
+                   "q":  "有一顆時脈頻率為 1GHz 的 CPU。當該 CPU 的指令類型由表中所示的兩種類型組成時，其處理能力約為多少 MIPS？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/19.png\" alt=\"問19圖片\"\u003e",
                    "op":  [
                               "34",
                               "100",
@@ -1487,7 +1487,7 @@
         "ja":  {
                    "ti":  "平成19年秋期　問18",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "図に示すアドレス指定方式はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/18.png\" alt=\"問18画像\"\u003e",
+                   "q":  "図に示すアドレス指定方式はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/18.png\" alt=\"問18画像\"\u003e",
                    "op":  [
                               "指標付きアドレス指定方式",
                               "相対アドレス指定方式",
@@ -1500,7 +1500,7 @@
         "zh":  {
                    "ti":  "平成19年秋季 問18",
                    "ca":  "技術系 » 電腦構成要素 » 處理器",
-                   "q":  "圖中所示的定址方式為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/18.png\" alt=\"問18圖片\"\u003e",
+                   "q":  "圖中所示的定址方式為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/18.png\" alt=\"問18圖片\"\u003e",
                    "op":  [
                               "變址定址方式 (Indexed addressing)",
                               "相對定址方式 (Relative addressing)",
@@ -1523,7 +1523,7 @@
                               "4"
                           ],
                    "an":  4,
-                   "al":  "dpiは、dots per inchの略で1インチの長さを何ピクセル(画素)で表現しているかを示す単位です。dpiが大きくなるほど面積当たりのピクセル数が増加するので、より繊細な画像となります。例として縦600ピクセル、横600ピクセルの画像をスキャナーで読み込んだ場合を考えてみましょう。解像度が600dpiのスキャナーで読み込まれた画像は(当然ですが)縦横1インチのサイズになり、この画像データを解像度300dpiのプリンターで印刷した場合、300ピクセル分が1インチとして印刷されることになります。つまり600ピクセルの画像は縦横それぞれ2インチで印刷されることになるので、 1インチ×1インチ＝1平方インチ 2インチ×2インチ＝4平方インチというように4倍の面積で印刷されます。\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/25.png\" alt=\"\"\u003e"
+                   "al":  "dpiは、dots per inchの略で1インチの長さを何ピクセル(画素)で表現しているかを示す単位です。dpiが大きくなるほど面積当たりのピクセル数が増加するので、より繊細な画像となります。例として縦600ピクセル、横600ピクセルの画像をスキャナーで読み込んだ場合を考えてみましょう。解像度が600dpiのスキャナーで読み込まれた画像は(当然ですが)縦横1インチのサイズになり、この画像データを解像度300dpiのプリンターで印刷した場合、300ピクセル分が1インチとして印刷されることになります。つまり600ピクセルの画像は縦横それぞれ2インチで印刷されることになるので、 1インチ×1インチ＝1平方インチ 2インチ×2インチ＝4平方インチというように4倍の面積で印刷されます。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/25.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成20年春期　問25",
@@ -1536,7 +1536,7 @@
                               "4"
                           ],
                    "an":  4,
-                   "al":  "dpi是dots per inch的缩写，是表示1英寸的长度用多少像素（画素）来表现的单位。dpi越大，单位面积内的像素数就越多，因此图像越精细。举例来说，假设用扫描仪读取一幅纵600像素、横600像素的图像。用600dpi的扫描仪读取的图像（当然）尺寸为纵横各1英寸，将这幅图像数据用300dpi的打印机印刷时，300像素的部分会被当作1英寸来印刷。也就是说，600像素的图像会被印刷成纵横各2英寸的尺寸，因此印刷面积会是1英寸×1英寸＝1平方英寸，2英寸×2英寸＝4平方英寸这样，即4倍的面积。\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/25.png\" alt=\"\"\u003e"
+                   "al":  "dpi是dots per inch的缩写，是表示1英寸的长度用多少像素（画素）来表现的单位。dpi越大，单位面积内的像素数就越多，因此图像越精细。举例来说，假设用扫描仪读取一幅纵600像素、横600像素的图像。用600dpi的扫描仪读取的图像（当然）尺寸为纵横各1英寸，将这幅图像数据用300dpi的打印机印刷时，300像素的部分会被当作1英寸来印刷。也就是说，600像素的图像会被印刷成纵横各2英寸的尺寸，因此印刷面积会是1英寸×1英寸＝1平方英寸，2英寸×2英寸＝4平方英寸这样，即4倍的面积。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/25.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1579,7 +1579,7 @@
                               "メモリセル構造が単純なので高集積化することができ，ビット単価を安くできる。"
                           ],
                    "an":  4,
-                   "al":  "DRAM(Dynamic Random Access Memory)は、コンデンサに電荷を蓄えることにより情報を記憶し、電源供給が無くなると記憶情報も失われる揮発性メモリです。集積度を上げることが比較的簡単にできるためコンピュータの主記憶装置として使用されています。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/20.png\" alt=\"\"\u003e"
+                   "al":  "DRAM(Dynamic Random Access Memory)は、コンデンサに電荷を蓄えることにより情報を記憶し、電源供給が無くなると記憶情報も失われる揮発性メモリです。集積度を上げることが比較的簡単にできるためコンピュータの主記憶装置として使用されています。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/20.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "令和元年秋季 第20題",
@@ -1592,7 +1592,7 @@
                               "記憶單元結構簡單，因此能實現高集成化，並降低單位比特的成本。"
                           ],
                    "an":  4,
-                   "al":  "DRAM（Dynamic Random Access Memory）是透過電容器儲存電荷來記憶資訊的揮發性記憶體，當電源供給消失時，記憶資訊也會流失。由於它能夠相對容易地提高集成度，因此被用作電腦的主記憶裝置。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/20.png\" alt=\"\"\u003e"
+                   "al":  "DRAM（Dynamic Random Access Memory）是透過電容器儲存電荷來記憶資訊的揮發性記憶體，當電源供給消失時，記憶資訊也會流失。由於它能夠相對容易地提高集成度，因此被用作電腦的主記憶裝置。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/20.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1655,7 +1655,7 @@
         "ja":  {
                    "ti":  "平成18年春期　問26",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "コンピュータは，入力，記憶，演算，制御及び出力の五つの機能を実現する各装置から構成される。命令はどの装置から取り出され，どの装置で解釈されるか。\n\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/26a.png\" alt=\"\"\u003e",
+                   "q":  "コンピュータは，入力，記憶，演算，制御及び出力の五つの機能を実現する各装置から構成される。命令はどの装置から取り出され，どの装置で解釈されるか。\n\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/26a.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -1668,7 +1668,7 @@
         "zh":  {
                    "ti":  "平成18年春季 問26",
                    "ca":  "技術系 » 電腦構成要素 » 處理器",
-                   "q":  "電腦由實現輸入、記憶、運算、控制及輸出五種功能的各個裝置所組成。指令是從哪個裝置取出，並在哪個裝置進行解譯？\n\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/26a.png\" alt=\"\"\u003e",
+                   "q":  "電腦由實現輸入、記憶、運算、控制及輸出五種功能的各個裝置所組成。指令是從哪個裝置取出，並在哪個裝置進行解譯？\n\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/26a.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -1691,7 +1691,7 @@
                               "25"
                           ],
                    "an":  3,
-                   "al":  "パイプライン制御は、CPUが実行する命令を、命令読出し(フェッチ)、解読(デコード)、アドレス計算、オペランド呼出し、実行 というような複数のステージに分け、各ステージを少しずつずらしつつ独立した処理機構で並列に実行することで、処理時間全体を短縮させるCPUの高速化技法です。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/17_1.png\" alt=\"\"\u003e"
+                   "al":  "パイプライン制御は、CPUが実行する命令を、命令読出し(フェッチ)、解読(デコード)、アドレス計算、オペランド呼出し、実行 というような複数のステージに分け、各ステージを少しずつずらしつつ独立した処理機構で並列に実行することで、処理時間全体を短縮させるCPUの高速化技法です。\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/17_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成17年秋期　問17",
@@ -1704,14 +1704,14 @@
                               "25"
                           ],
                    "an":  3,
-                   "al":  "管線（Pipeline）控制是一種透過將 CPU 執行的指令拆分為多個階段（例如：指令讀取 (Fetch)、解碼 (Decode)、位址計算、運算元呼叫、執行），並利用獨立的處理機制，讓各階段錯開並行處理，以縮短整體處理時間的 CPU 加速技術。\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/17_1.png\" alt=\"\"\u003e"
+                   "al":  "管線（Pipeline）控制是一種透過將 CPU 執行的指令拆分為多個階段（例如：指令讀取 (Fetch)、解碼 (Decode)、位址計算、運算元呼叫、執行），並利用獨立的處理機制，讓各階段錯開並行處理，以縮短整體處理時間的 CPU 加速技術。\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/17_1.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成25年春期　問10",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "主記憶のデータを図のように参照するアドレス指定方式はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/10.png\" alt=\"\"\u003e",
+                   "q":  "主記憶のデータを図のように参照するアドレス指定方式はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/10.png\" alt=\"\"\u003e",
                    "op":  [
                               "間接アドレス指定",
                               "指標アドレス指定",
@@ -1724,7 +1724,7 @@
         "zh":  {
                    "ti":  "平成25年春季 問10",
                    "ca":  "技術系 » 電腦構成要素 » 處理器",
-                   "q":  "如下圖所示，參考主記憶體資料的定址方式為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/10.png\" alt=\"\"\u003e",
+                   "q":  "如下圖所示，參考主記憶體資料的定址方式為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/10.png\" alt=\"\"\u003e",
                    "op":  [
                               "間接定址",
                               "變址定址 (Index Addressing)",
@@ -1775,7 +1775,7 @@
                               "25"
                           ],
                    "an":  3,
-                   "al":  "パイプライン制御は、CPUが実行する命令を、命令読出し(フェッチ)、解読(デコード)、アドレス計算、オペランド呼出し、実行 というような複数のステージに分け、各ステージを少しずつずらしつつ独立した処理機構で並列に実行することで、処理時間全体を短縮させるCPUの高速化技法です。\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/11_1.png\" alt=\"\"\u003e"
+                   "al":  "パイプライン制御は、CPUが実行する命令を、命令読出し(フェッチ)、解読(デコード)、アドレス計算、オペランド呼出し、実行 というような複数のステージに分け、各ステージを少しずつずらしつつ独立した処理機構で並列に実行することで、処理時間全体を短縮させるCPUの高速化技法です。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/11_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "令和2年度 問11",
@@ -1788,7 +1788,7 @@
                               "25"
                           ],
                    "an":  3,
-                   "al":  "管線控制是一種透過將 CPU 執行的指令拆分為多個階段（例如：指令讀取(Fetch)、解碼(Decode)、位址計算、運算元讀取、執行），並利用獨立的處理機制，讓各階段在錯開時間的同時進行並行處理，藉此縮短整體處理時間的 CPU 高速化技術。\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/11_1.png\" alt=\"\"\u003e"
+                   "al":  "管線控制是一種透過將 CPU 執行的指令拆分為多個階段（例如：指令讀取(Fetch)、解碼(Decode)、位址計算、運算元讀取、執行），並利用獨立的處理機制，讓各階段在錯開時間的同時進行並行處理，藉此縮短整體處理時間的 CPU 高速化技術。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/11_1.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2019,7 +2019,7 @@
         "ja":  {
                    "ti":  "平成19年秋期　問21",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » メモリ",
-                   "q":  "システムA, Bのキャッシュメモリと主記憶のアクセス時間は，表のとおりである。あるプログラムをシステムAで実行したときのキャッシュメモリのヒット率と実効アクセス時間は，システムBで実行したときと同じになった。このときのキャッシュメモリのヒット率は幾らか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/21.png\" alt=\"\"\u003e",
+                   "q":  "システムA, Bのキャッシュメモリと主記憶のアクセス時間は，表のとおりである。あるプログラムをシステムAで実行したときのキャッシュメモリのヒット率と実効アクセス時間は，システムBで実行したときと同じになった。このときのキャッシュメモリのヒット率は幾らか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/21.png\" alt=\"\"\u003e",
                    "op":  [
                               "0.2",
                               "0.3",
@@ -2032,7 +2032,7 @@
         "zh":  {
                    "ti":  "平成19年秋期　問21",
                    "ca":  "技術系 » 電腦系統構成要素 » 記憶體",
-                   "q":  "系統 A 與系統 B 的快取記憶體與主記憶體存取時間如下表所示。當某個程式在系統 A 執行時，其快取記憶體的命中率與實效存取時間，與在系統 B 執行時相同。試問此時的快取記憶體命中率為多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_aki/img/21.png\" alt=\"\"\u003e",
+                   "q":  "系統 A 與系統 B 的快取記憶體與主記憶體存取時間如下表所示。當某個程式在系統 A 執行時，其快取記憶體的命中率與實效存取時間，與在系統 B 執行時相同。試問此時的快取記憶體命中率為多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/21.png\" alt=\"\"\u003e",
                    "op":  [
                               "0.2",
                               "0.3",
@@ -2187,7 +2187,7 @@
         "ja":  {
                    "ti":  "令和4年度　問12",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "同じ命令セットをもつコンピュータAとBがある。それぞれのCPUクロック周期，及びあるプログラムを実行したときのCPI(Cycles Per Instruction)は，表のとおりである。そのプログラムを実行したとき，コンピュータAの処理時間は，コンピュータBの処理時間の何倍になるか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/12.png\" alt=\"\"\u003e",
+                   "q":  "同じ命令セットをもつコンピュータAとBがある。それぞれのCPUクロック周期，及びあるプログラムを実行したときのCPI(Cycles Per Instruction)は，表のとおりである。そのプログラムを実行したとき，コンピュータAの処理時間は，コンピュータBの処理時間の何倍になるか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/12.png\" alt=\"\"\u003e",
                    "op":  [
                               "\u003cspan class=\"frac\"\u003e\u003cspan\u003e1",
                               "\u003cspan class=\"frac\"\u003e\u003cspan\u003e1",
@@ -2200,7 +2200,7 @@
         "zh":  {
                    "ti":  "令和4年度 問12",
                    "ca":  "技術系 » 電腦組成要素 » 處理器",
-                   "q":  "有兩台使用相同指令集的電腦 A 與 B。其 CPU 時脈週期以及執行某程式時的 CPI (Cycles Per Instruction) 如表所示。當執行該程式時，電腦 A 的處理時間是電腦 B 的幾倍？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/12.png\" alt=\"\"\u003e",
+                   "q":  "有兩台使用相同指令集的電腦 A 與 B。其 CPU 時脈週期以及執行某程式時的 CPI (Cycles Per Instruction) 如表所示。當執行該程式時，電腦 A 的處理時間是電腦 B 的幾倍？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/12.png\" alt=\"\"\u003e",
                    "op":  [
                               "\u003cspan class=\"frac\"\u003e\u003cspan\u003e1/8\u003c/span\u003e\u003c/span\u003e",
                               "\u003cspan class=\"frac\"\u003e\u003cspan\u003e1/2\u003c/span\u003e\u003c/span\u003e",
@@ -2215,7 +2215,7 @@
         "ja":  {
                    "ti":  "令和4年度　問11",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "表に示す命令ミックスによるコンピュータの処理性能は，何MIPSか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/11.png\" alt=\"\"\u003e",
+                   "q":  "表に示す命令ミックスによるコンピュータの処理性能は，何MIPSか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/11.png\" alt=\"\"\u003e",
                    "op":  [
                               "11",
                               "25",
@@ -2228,7 +2228,7 @@
         "zh":  {
                    "ti":  "令和4年度 問11",
                    "ca":  "技術系 » 電腦構成要素 » 處理器",
-                   "q":  "根據下表所示的指令組合（Instruction Mix），該電腦的處理效能為多少 MIPS？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/11.png\" alt=\"\"\u003e",
+                   "q":  "根據下表所示的指令組合（Instruction Mix），該電腦的處理效能為多少 MIPS？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/11.png\" alt=\"\"\u003e",
                    "op":  [
                               "11",
                               "25",
@@ -2279,7 +2279,7 @@
                               "ファイルシステムにexFATを採用し，最大2Tバイトの容量に対応できる。"
                           ],
                    "an":  4,
-                   "al":  "SDカードは、メモリカードの規格の1つです。携帯電話やスマートフォン、デジタルカメラやゲーム機などの記憶装置として利用されるほか、使いやすく持ち運びしやすいのでUSBメモリとともに手軽な記憶メディアとして使用されています。SDカードを記憶容量で分けると以下の3規格が存在します。\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/12.png\" alt=\"\"\u003e"
+                   "al":  "SDカードは、メモリカードの規格の1つです。携帯電話やスマートフォン、デジタルカメラやゲーム機などの記憶装置として利用されるほか、使いやすく持ち運びしやすいのでUSBメモリとともに手軽な記憶メディアとして使用されています。SDカードを記憶容量で分けると以下の3規格が存在します。\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/12.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成30年春季 問12",
@@ -2292,14 +2292,14 @@
                               "檔案系統採用 exFAT，最高可支援 2TB 的容量。"
                           ],
                    "an":  4,
-                   "al":  "SD 卡是記憶卡規格的一種。除了作為手機、智慧型手機、數位相機及遊戲機的儲存裝置外，因其易於使用且便於攜帶，亦常與 USB 隨身碟一同被視為輕便的儲存媒體。若依儲存容量區分，SD 卡存在以下三種規格：\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/12.png\" alt=\"\"\u003e"
+                   "al":  "SD 卡是記憶卡規格的一種。除了作為手機、智慧型手機、數位相機及遊戲機的儲存裝置外，因其易於使用且便於攜帶，亦常與 USB 隨身碟一同被視為輕便的儲存媒體。若依儲存容量區分，SD 卡存在以下三種規格：\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/12.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成17年秋期　問18",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "インデックス修飾によってオペランドを指定する場合，表に示す値のときの実効アドレスはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/18.png\" alt=\"問18画像\"\u003e",
+                   "q":  "インデックス修飾によってオペランドを指定する場合，表に示す値のときの実効アドレスはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/18.png\" alt=\"問18画像\"\u003e",
                    "op":  [
                               "110",
                               "1010",
@@ -2312,7 +2312,7 @@
         "zh":  {
                    "ti":  "平成17年秋期 問18",
                    "ca":  "技術系 » 電腦架構要素 » 處理器",
-                   "q":  "當使用變址定址（Index Addressing）來指定運算元時，若數值如下表所示，其實效位址應為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/18.png\" alt=\"問18圖片\"\u003e",
+                   "q":  "當使用變址定址（Index Addressing）來指定運算元時，若數值如下表所示，其實效位址應為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/18.png\" alt=\"問18圖片\"\u003e",
                    "op":  [
                               "110",
                               "1010",
@@ -2335,7 +2335,7 @@
                               "メモリセル構造が単純なので高集積化することができ，ビット単価を安くできる。"
                           ],
                    "an":  4,
-                   "al":  "DRAM(Dynamic Random Access Memory)は、コンデンサに電荷を蓄えることにより情報を記憶し、電源供給が無くなると記憶情報も失われる揮発性メモリです。集積度を上げることが比較的簡単にできるためコンピュータの主記憶装置として使用されています。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/23.png\" alt=\"\"\u003e"
+                   "al":  "DRAM(Dynamic Random Access Memory)は、コンデンサに電荷を蓄えることにより情報を記憶し、電源供給が無くなると記憶情報も失われる揮発性メモリです。集積度を上げることが比較的簡単にできるためコンピュータの主記憶装置として使用されています。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/23.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成25年春期　問23",
@@ -2348,7 +2348,7 @@
                               "由於記憶單元（Memory Cell）結構簡單，因此能夠實現高密度整合，並降低位元成本。"
                           ],
                    "an":  4,
-                   "al":  "DRAM（Dynamic Random Access Memory）是透過在電容器中儲存電荷來記憶資訊，當電源供應中斷時，所儲存的資訊也會隨之消失的揮發性記憶體。由於比較容易提高整合度，因此被用作電腦的主記憶體。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/23.png\" alt=\"\"\u003e"
+                   "al":  "DRAM（Dynamic Random Access Memory）是透過在電容器中儲存電荷來記憶資訊，當電源供應中斷時，所儲存的資訊也會隨之消失的揮發性記憶體。由於比較容易提高整合度，因此被用作電腦的主記憶體。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/23.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2391,7 +2391,7 @@
                               "複数のプロセッサが，それぞれ独自の命令を基に複数のデータを処理する方式"
                           ],
                    "an":  3,
-                   "al":  "パイプライン制御は、CPUで処理される1命令を、命令読出し(フェッチ)、解読(デコード)、アドレス計算、オペランド呼出し、実行 というような複数のステージに分け、各ステージを少しずつずらしながら独立した処理機構で並列に実行することで、処理時間全体を短縮させる技法です。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/11.png\" alt=\"パイプライン制御\"\u003e"
+                   "al":  "パイプライン制御は、CPUで処理される1命令を、命令読出し(フェッチ)、解読(デコード)、アドレス計算、オペランド呼出し、実行 というような複数のステージに分け、各ステージを少しずつずらしながら独立した処理機構で並列に実行することで、処理時間全体を短縮させる技法です。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/11.png\" alt=\"パイプライン制御\"\u003e"
                },
         "zh":  {
                    "ti":  "平成21年春季　問11",
@@ -2404,7 +2404,7 @@
                               "由多個處理器分別基於各自的指令來處理多個資料的方式"
                           ],
                    "an":  3,
-                   "al":  "管線控制（Pipeline control）是一種透過將 CPU 處理的一項指令，分為指令讀取（Fetch）、解碼（Decode）、位址計算、運算元讀取、執行等數個階段，並由獨立的處理機制將各階段稍微錯開進行並行處理，藉此縮短整體處理時間的技術。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/11.png\" alt=\"管線控制\"\u003e"
+                   "al":  "管線控制（Pipeline control）是一種透過將 CPU 處理的一項指令，分為指令讀取（Fetch）、解碼（Decode）、位址計算、運算元讀取、執行等數個階段，並由獨立的處理機制將各階段稍微錯開進行並行處理，藉此縮短整體處理時間的技術。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/11.png\" alt=\"管線控制\"\u003e"
                }
     },
     {
@@ -2523,7 +2523,7 @@
         "ja":  {
                    "ti":  "平成22年春期　問9",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "表のCPIと構成比率で，3種類の演算命令が合計1,000,000命令実行されるプログラムを，クロック周波数が1GHzのプロセッサで実行するのに必要な時間は何ミリ秒か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/09.png\" alt=\"\"\u003e",
+                   "q":  "表のCPIと構成比率で，3種類の演算命令が合計1,000,000命令実行されるプログラムを，クロック周波数が1GHzのプロセッサで実行するのに必要な時間は何ミリ秒か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/09.png\" alt=\"\"\u003e",
                    "op":  [
                               "0.4",
                               "2.8",
@@ -2536,7 +2536,7 @@
         "zh":  {
                    "ti":  "平成22年春季 問9",
                    "ca":  "技術系 » 電腦構成要素 » 處理器",
-                   "q":  "根據下表的CPI與構成比率，若一個包含3種運算指令共計1,000,000條指令的程式，在時脈頻率為1GHz的處理器上執行，請問所需的執行時間為多少毫秒？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/09.png\" alt=\"\"\u003e",
+                   "q":  "根據下表的CPI與構成比率，若一個包含3種運算指令共計1,000,000條指令的程式，在時脈頻率為1GHz的處理器上執行，請問所需的執行時間為多少毫秒？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/09.png\" alt=\"\"\u003e",
                    "op":  [
                               "0.4",
                               "2.8",
@@ -2665,26 +2665,26 @@
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » 入出力デバイス",
                    "q":  "USB Type-Cのプラグ側コネクタの断面図はどれか。ここで，図の縮尺は同一ではない。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/11a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/11i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/11u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/11e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/11a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/11i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/11u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/11e.png\" alt=\"\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "2021年現在、使用されているUSB端子の規格には、USB-A、USB-B、USB-Cがあります。さらにAとBにはMiniおよびMicroタイプが存在します。USB Type-Cは、2015年策定のUSB3.1と同時に策定された新しいUSBコネクタの規格です。最も大きな特徴は、上下左右が対称なのでどちらの向きでも接続できることです。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/11.png\" alt=\"\"\u003e"
+                   "al":  "2021年現在、使用されているUSB端子の規格には、USB-A、USB-B、USB-Cがあります。さらにAとBにはMiniおよびMicroタイプが存在します。USB Type-Cは、2015年策定のUSB3.1と同時に策定された新しいUSBコネクタの規格です。最も大きな特徴は、上下左右が対称なのでどちらの向きでも接続できることです。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/11.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成29年秋季 問11",
                    "ca":  "技術系 » 電腦構成要素 » 輸入輸出裝置",
                    "q":  "下列哪一個是USB Type-C公頭接頭的剖面圖？在此，圖示縮尺比例並非一致。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/11a.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/11i.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/11u.png\" alt=\"\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/11e.png\" alt=\"\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/11a.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/11i.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/11u.png\" alt=\"\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/11e.png\" alt=\"\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "截至2021年為止，已使用的USB端子規格包含USB-A、USB-B以及USB-C。此外，A與B類型還存在Mini及Micro規格。USB Type-C是與2015年制定的USB 3.1同時發布的新型USB接頭規格。其最大的特徵在於上下左右皆為對稱，因此無論正反面皆可插入連接。\u003cimg src=\"https://www.sg-siken.com/kakomon/29_aki/img/11.png\" alt=\"\"\u003e"
+                   "al":  "截至2021年為止，已使用的USB端子規格包含USB-A、USB-B以及USB-C。此外，A與B類型還存在Mini及Micro規格。USB Type-C是與2015年制定的USB 3.1同時發布的新型USB接頭規格。其最大的特徵在於上下左右皆為對稱，因此無論正反面皆可插入連接。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/11.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -2811,7 +2811,7 @@
                               "複数のプロセッサが，それぞれ独自の命令を基に複数のデータを処理する方式"
                           ],
                    "an":  3,
-                   "al":  "パイプライン制御は、CPUで処理される1命令を、命令読出し(フェッチ)、解読(デコード)、アドレス計算、オペランド呼出し、実行 というような複数のステージに分け、各ステージを少しずつずらしながら独立した処理機構で並列に実行することで、処理時間全体を短縮させる技法です。命令を分割することで、1つの命令がすべて終わる前に次の命令の処理を開始することができるためスループットが向上します。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/17.png\" alt=\"パイプライン制御\"\u003e"
+                   "al":  "パイプライン制御は、CPUで処理される1命令を、命令読出し(フェッチ)、解読(デコード)、アドレス計算、オペランド呼出し、実行 というような複数のステージに分け、各ステージを少しずつずらしながら独立した処理機構で並列に実行することで、処理時間全体を短縮させる技法です。命令を分割することで、1つの命令がすべて終わる前に次の命令の処理を開始することができるためスループットが向上します。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/17.png\" alt=\"パイプライン制御\"\u003e"
                },
         "zh":  {
                    "ti":  "平成18年春季 問17",
@@ -2824,7 +2824,7 @@
                               "由多個處理器各自基於獨自的指令對多個資料進行處理的方式"
                           ],
                    "an":  3,
-                   "al":  "管線化（Pipeline）控制是一種透過將 CPU 處理的一條指令拆分為指令讀取（Fetch）、解碼（Decode）、位址計算、運算元呼叫、執行等數個階段，並由獨立的處理機制將各階段錯開以平行執行，進而縮短整體處理時間的技術。藉由分割指令，在當前指令尚未執行完畢前即可開始處理下一個指令，因此能提升處理通量（Throughput）。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/17.png\" alt=\"管線化控制\"\u003e"
+                   "al":  "管線化（Pipeline）控制是一種透過將 CPU 處理的一條指令拆分為指令讀取（Fetch）、解碼（Decode）、位址計算、運算元呼叫、執行等數個階段，並由獨立的處理機制將各階段錯開以平行執行，進而縮短整體處理時間的技術。藉由分割指令，在當前指令尚未執行完畢前即可開始處理下一個指令，因此能提升處理通量（Throughput）。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/17.png\" alt=\"管線化控制\"\u003e"
                }
     },
     {
@@ -2859,7 +2859,7 @@
         "ja":  {
                    "ti":  "平成16年秋期　問22",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » メモリ",
-                   "q":  "システムA，Bのキャッシュメモリと主記憶のアクセス時間は表のとおりである。あるプログラムをシステムAで実行したときのキャッシュメモリのヒット率と実効アクセス時間は，システムBで実行したときと同じになった。このときのキャッシュメモリのヒット率は幾らか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/22.png\" alt=\"問22画像\"\u003e",
+                   "q":  "システムA，Bのキャッシュメモリと主記憶のアクセス時間は表のとおりである。あるプログラムをシステムAで実行したときのキャッシュメモリのヒット率と実効アクセス時間は，システムBで実行したときと同じになった。このときのキャッシュメモリのヒット率は幾らか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/22.png\" alt=\"問22画像\"\u003e",
                    "op":  [
                               "0.2",
                               "0.3",
@@ -2872,7 +2872,7 @@
         "zh":  {
                    "ti":  "平成16年秋季 問22",
                    "ca":  "科技系統 » 電腦構成要素 » 記憶體",
-                   "q":  "系統 A 與系統 B 的快取記憶體及主記憶體存取時間如下表所示。當某程式在系統 A 執行時的快取記憶體命中率與實效存取時間，與在系統 B 執行時相同。試問此時的快取記憶體命中率為多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/22.png\" alt=\"問22圖片\"\u003e",
+                   "q":  "系統 A 與系統 B 的快取記憶體及主記憶體存取時間如下表所示。當某程式在系統 A 執行時的快取記憶體命中率與實效存取時間，與在系統 B 執行時相同。試問此時的快取記憶體命中率為多少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/22.png\" alt=\"問22圖片\"\u003e",
                    "op":  [
                               "0.2",
                               "0.3",
@@ -2999,7 +2999,7 @@
         "ja":  {
                    "ti":  "平成17年秋期　問23",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » 入出力装置",
-                   "q":  "表の仕様の磁気ディスク装置に，1レコードが500バイトのレコード50万件を順編成で記録したい。50レコードを1ブロックとして記録するときに必要なシリンダ数は幾つか。ここで，一つのブロックは複数のセクタにまたがってもよいが，最後のセクタで余った部分は利用できない。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/23.png\" alt=\"問23画像\"\u003e",
+                   "q":  "表の仕様の磁気ディスク装置に，1レコードが500バイトのレコード50万件を順編成で記録したい。50レコードを1ブロックとして記録するときに必要なシリンダ数は幾つか。ここで，一つのブロックは複数のセクタにまたがってもよいが，最後のセクタで余った部分は利用できない。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/23.png\" alt=\"問23画像\"\u003e",
                    "op":  [
                               "960",
                               "977",
@@ -3012,7 +3012,7 @@
         "zh":  {
                    "ti":  "平成17年秋期　問23",
                    "ca":  "技術系 » 電腦構成要素 » 輸入輸出裝置",
-                   "q":  "欲將50萬筆紀錄（每筆紀錄500位元組）以循序編碼方式記錄至下表規格的磁碟裝置中。若以50筆紀錄為1個區塊（Block）進行記錄，總共需要多少磁柱（Cylinder）數？在此，一個區塊可跨越多個磁區（Sector），但最後一個磁區剩餘的部分無法使用。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/23.png\" alt=\"問23圖片\"\u003e",
+                   "q":  "欲將50萬筆紀錄（每筆紀錄500位元組）以循序編碼方式記錄至下表規格的磁碟裝置中。若以50筆紀錄為1個區塊（Block）進行記錄，總共需要多少磁柱（Cylinder）數？在此，一個區塊可跨越多個磁區（Sector），但最後一個磁區剩餘的部分無法使用。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/23.png\" alt=\"問23圖片\"\u003e",
                    "op":  [
                               "960",
                               "977",
@@ -3175,7 +3175,7 @@
                               "メモリインターリーブ"
                           ],
                    "an":  4,
-                   "al":  "メモリインターリーブは、物理上はひとつである主記憶領域を、同時アクセス可能な複数の論理的な領域（バンク）に分け、それぞれのバンクに対してデータの読み書きを並列で行うことにより、メモリアクセスの高速化を図る技術です。メモリインターリーブでは、奇数アドレスはバンク1、偶数アドレスはバンク2というように、連続したアドレスを複数のバンクに割り振っていきます。通常は、連続するアドレスに次々とアクセスされることが多いため、見かけ上並列アクセスしているようになり、実効アクセス時間が短くなります。「主記憶に並列アクセス」ときたらメモリインターリーブです。\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/20.png\" alt=\"\"\u003e"
+                   "al":  "メモリインターリーブは、物理上はひとつである主記憶領域を、同時アクセス可能な複数の論理的な領域（バンク）に分け、それぞれのバンクに対してデータの読み書きを並列で行うことにより、メモリアクセスの高速化を図る技術です。メモリインターリーブでは、奇数アドレスはバンク1、偶数アドレスはバンク2というように、連続したアドレスを複数のバンクに割り振っていきます。通常は、連続するアドレスに次々とアクセスされることが多いため、見かけ上並列アクセスしているようになり、実効アクセス時間が短くなります。「主記憶に並列アクセス」ときたらメモリインターリーブです。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/20.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成20年秋季 問20",
@@ -3188,7 +3188,7 @@
                               "記憶體交錯 (Memory Interleaving)"
                           ],
                    "an":  4,
-                   "al":  "記憶體交錯（Memory Interleaving）是一種透過將物理上為單一的主記憶體區域，分割為多個可同時存取的邏輯區域（Bank），並對各個 Bank 進行平行資料讀寫，以達到記憶體存取高速化的技術。在記憶體交錯中，會將連續的位址分配給不同的 Bank，例如奇數位址分配給 Bank 1，偶數位址分配給 Bank 2。由於程式通常傾向於連續存取位址，因此看起來就像是在進行平行存取，進而縮短了實質存取時間。當提到「主記憶體的平行存取」時，即為記憶體交錯。\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/20.png\" alt=\"\"\u003e"
+                   "al":  "記憶體交錯（Memory Interleaving）是一種透過將物理上為單一的主記憶體區域，分割為多個可同時存取的邏輯區域（Bank），並對各個 Bank 進行平行資料讀寫，以達到記憶體存取高速化的技術。在記憶體交錯中，會將連續的位址分配給不同的 Bank，例如奇數位址分配給 Bank 1，偶數位址分配給 Bank 2。由於程式通常傾向於連續存取位址，因此看起來就像是在進行平行存取，進而縮短了實質存取時間。當提到「主記憶體的平行存取」時，即為記憶體交錯。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/20.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -3279,7 +3279,7 @@
         "ja":  {
                    "ti":  "令和3年度　問12",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "コンピュータは，入力，記憶，演算，制御及び出力の五つの機能を実現する各装置から構成される。命令はどの装置から取り出され，どの装置で解釈されるか。\n\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/12.png\" alt=\"\"\u003e",
+                   "q":  "コンピュータは，入力，記憶，演算，制御及び出力の五つの機能を実現する各装置から構成される。命令はどの装置から取り出され，どの装置で解釈されるか。\n\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/12.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -3292,7 +3292,7 @@
         "zh":  {
                    "ti":  "令和3年度 問12",
                    "ca":  "技術系 » 電腦構成要素 » 處理器",
-                   "q":  "電腦由實現輸入、記憶、運算、控制及輸出這五大功能的各個裝置所組成。指令是從哪個裝置取出，並在哪個裝置中被解譯的？\n\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/12.png\" alt=\"\"\u003e",
+                   "q":  "電腦由實現輸入、記憶、運算、控制及輸出這五大功能的各個裝置所組成。指令是從哪個裝置取出，並在哪個裝置中被解譯的？\n\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/12.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -3307,7 +3307,7 @@
         "ja":  {
                    "ti":  "平成20年秋期　問19",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » メモリ",
-                   "q":  "キャッシュメモリのアクセス時間及びヒット率と，主記憶のアクセス時間の組合せのうち，主記憶の実効アクセス時間が最も短くなるものはどれか。\n\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/19.png\" alt=\"問19画像\"\u003e",
+                   "q":  "キャッシュメモリのアクセス時間及びヒット率と，主記憶のアクセス時間の組合せのうち，主記憶の実効アクセス時間が最も短くなるものはどれか。\n\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/19.png\" alt=\"問19画像\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -3320,7 +3320,7 @@
         "zh":  {
                    "ti":  "平成20年秋季 問19",
                    "ca":  "技術系 » 電腦構成要素 » 記憶體",
-                   "q":  "關於快取記憶體的存取時間及命中率與主記憶體存取時間的組合，下列何者能使主記憶體的實效存取時間最短？\n\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/19.png\" alt=\"問19画像\"\u003e",
+                   "q":  "關於快取記憶體的存取時間及命中率與主記憶體存取時間的組合，下列何者能使主記憶體的實效存取時間最短？\n\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/19.png\" alt=\"問19画像\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -3483,7 +3483,7 @@
                               "パイプライン処理を乱す要因をなくすために，キャッシュメモリを命令用とデータ用の二つに分離する。"
                           ],
                    "an":  2,
-                   "al":  "メモリインターリーブは、物理上はひとつである主記憶領域を、同時アクセス可能な複数の論理的な領域（バンク）に分け、それぞれのバンクに対してデータの読み書きを並列で行うことにより、メモリアクセスの高速化を図る技術です。メモリインターリーブでは、奇数アドレスはバンク1、偶数アドレスはバンク2というように、連続したアドレスを複数のバンクに割り振っていきます。通常は、連続するアドレスに次々とアクセスされることが多いため、見かけ上並列アクセスしているようになり、実効アクセス時間が短くなります。「主記憶に並列アクセス」ときたらメモリインターリーブです。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/10.png\" alt=\"\"\u003e"
+                   "al":  "メモリインターリーブは、物理上はひとつである主記憶領域を、同時アクセス可能な複数の論理的な領域（バンク）に分け、それぞれのバンクに対してデータの読み書きを並列で行うことにより、メモリアクセスの高速化を図る技術です。メモリインターリーブでは、奇数アドレスはバンク1、偶数アドレスはバンク2というように、連続したアドレスを複数のバンクに割り振っていきます。通常は、連続するアドレスに次々とアクセスされることが多いため、見かけ上並列アクセスしているようになり、実効アクセス時間が短くなります。「主記憶に並列アクセス」ときたらメモリインターリーブです。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/10.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成21年秋期 問10",
@@ -3496,7 +3496,7 @@
                               "為了消除干擾管線處理（Pipeline processing）的因素，將快取記憶體分為指令用與資料用兩部分。"
                           ],
                    "an":  2,
-                   "al":  "記憶體交錯是一種透過將物理上單一的主記憶體區域，劃分為多個可同時存取的邏輯區域（庫，Bank），並對各個庫進行平行資料讀寫，以提升記憶體存取速度的技術。在記憶體交錯中，連續的位址會被分配到不同的庫中，例如奇數位址分配給庫 1，偶數位址分配給庫 2。由於程式存取通常具有連續性，因此看起來就像是在進行平行存取，進而縮短了實質的存取時間。當看到「對主記憶體進行平行存取」時，即是指記憶體交錯。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_aki/img/10.png\" alt=\"\"\u003e"
+                   "al":  "記憶體交錯是一種透過將物理上單一的主記憶體區域，劃分為多個可同時存取的邏輯區域（庫，Bank），並對各個庫進行平行資料讀寫，以提升記憶體存取速度的技術。在記憶體交錯中，連續的位址會被分配到不同的庫中，例如奇數位址分配給庫 1，偶數位址分配給庫 2。由於程式存取通常具有連續性，因此看起來就像是在進行平行存取，進而縮短了實質的存取時間。當看到「對主記憶體進行平行存取」時，即是指記憶體交錯。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_aki/img/10.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -3587,7 +3587,7 @@
         "ja":  {
                    "ti":  "平成23年秋期　問9",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "主記憶のデータを図のように参照するアドレス指定方式はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/09.png\" alt=\"問9画像\"\u003e",
+                   "q":  "主記憶のデータを図のように参照するアドレス指定方式はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/09.png\" alt=\"問9画像\"\u003e",
                    "op":  [
                               "間接アドレス指定",
                               "指標アドレス指定",
@@ -3600,7 +3600,7 @@
         "zh":  {
                    "ti":  "平成23年秋季 問9",
                    "ca":  "技術系 » 電腦構成要素 » 處理器",
-                   "q":  "如下圖所示，參照主記憶體數據的定址方式為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/09.png\" alt=\"問9圖片\"\u003e",
+                   "q":  "如下圖所示，參照主記憶體數據的定址方式為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/09.png\" alt=\"問9圖片\"\u003e",
                    "op":  [
                               "間接定址 (Indirect Addressing)",
                               "指標定址 (Indexed Addressing)",
@@ -3727,7 +3727,7 @@
         "ja":  {
                    "ti":  "令和元年秋期　問13",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "メイン処理，及び表に示す二つの割込みA，Bの処理があり，多重割込みが許可されている。割込みA，Bが図のタイミングで発生するとき，0ミリ秒から5ミリ秒までの間にメイン処理が利用できるCPU時間は何ミリ秒か。ここで，割込み処理の呼出し及び復帰に伴うオーバーヘッドは無視できるものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/13.png\" alt=\"\"\u003e",
+                   "q":  "メイン処理，及び表に示す二つの割込みA，Bの処理があり，多重割込みが許可されている。割込みA，Bが図のタイミングで発生するとき，0ミリ秒から5ミリ秒までの間にメイン処理が利用できるCPU時間は何ミリ秒か。ここで，割込み処理の呼出し及び復帰に伴うオーバーヘッドは無視できるものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/13.png\" alt=\"\"\u003e",
                    "op":  [
                               "2",
                               "2.5",
@@ -3735,12 +3735,12 @@
                               "5"
                           ],
                    "an":  1,
-                   "al":  "割込み（Interrupt）とは、すぐに対処しなくてはならない問題などがシステムに生じたときに、実行中のプログラムの処理をいったん停止し、優先的に事象の解決を図ることを可能にする仕組みです。割込みが発生すると、メイン処理が中断され割込み処理が優先的に実行されます。そして、割込み処理が終わるとメイン処理に復帰するという流れになっています。この問題の条件では、割込みAの処理には0.5秒かかり、割込みBの処理には1.5秒かかります。また、割込みAと割込みBが競合したときには、優先度の高い割込みAにCPU使用権が与えられます。図中に、割込み処理で使用するCPU時間を描き入れると次のようになります。どの割込みにも使用されていない部分がメイン処理が利用できるCPU時間となります。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/13a.png\" alt=\"\"\u003e"
+                   "al":  "割込み（Interrupt）とは、すぐに対処しなくてはならない問題などがシステムに生じたときに、実行中のプログラムの処理をいったん停止し、優先的に事象の解決を図ることを可能にする仕組みです。割込みが発生すると、メイン処理が中断され割込み処理が優先的に実行されます。そして、割込み処理が終わるとメイン処理に復帰するという流れになっています。この問題の条件では、割込みAの処理には0.5秒かかり、割込みBの処理には1.5秒かかります。また、割込みAと割込みBが競合したときには、優先度の高い割込みAにCPU使用権が与えられます。図中に、割込み処理で使用するCPU時間を描き入れると次のようになります。どの割込みにも使用されていない部分がメイン処理が利用できるCPU時間となります。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/13a.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "令和元年秋季 問13",
                    "ca":  "技術系 » 電腦構成要素 » 處理器",
-                   "q":  "現有主處理程序以及表中所示的兩個中斷 A 與 B，且允許巢狀中斷（多重中斷）。當中斷 A 與 B 在圖中所示的時間點發生時，從 0 毫秒到 5 毫秒之間，主處理程序可使用的 CPU 時間為多少毫秒？在此假設與呼叫及返回中斷處理相關的額外負荷（overhead）可忽略不計。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/13.png\" alt=\"\"\u003e",
+                   "q":  "現有主處理程序以及表中所示的兩個中斷 A 與 B，且允許巢狀中斷（多重中斷）。當中斷 A 與 B 在圖中所示的時間點發生時，從 0 毫秒到 5 毫秒之間，主處理程序可使用的 CPU 時間為多少毫秒？在此假設與呼叫及返回中斷處理相關的額外負荷（overhead）可忽略不計。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/13.png\" alt=\"\"\u003e",
                    "op":  [
                               "2",
                               "2.5",
@@ -3748,7 +3748,7 @@
                               "5"
                           ],
                    "an":  1,
-                   "al":  "「中斷（Interrupt）」是一種機制，當系統發生需要立即處理的問題時，能暫停執行中的程式，並優先解決該事件。當中斷發生時，主處理程序會被中斷，並優先執行中斷處理程序。當中斷處理結束後，再返回執行主處理程序。根據本題條件，中斷 A 的處理需要 0.5 毫秒，中斷 B 的處理需要 1.5 毫秒。此外，當 A 與 B 發生衝突時，優先級較高的中斷 A 將獲得 CPU 使用權。若將中斷處理所佔用的 CPU 時間標示於圖中，結果如下。未被任何中斷佔用的部分即為主處理程序可使用的 CPU 時間。\u003cimg src=\"https://www.sg-siken.com/kakomon/01_aki/img/13a.png\" alt=\"\"\u003e"
+                   "al":  "「中斷（Interrupt）」是一種機制，當系統發生需要立即處理的問題時，能暫停執行中的程式，並優先解決該事件。當中斷發生時，主處理程序會被中斷，並優先執行中斷處理程序。當中斷處理結束後，再返回執行主處理程序。根據本題條件，中斷 A 的處理需要 0.5 毫秒，中斷 B 的處理需要 1.5 毫秒。此外，當 A 與 B 發生衝突時，優先級較高的中斷 A 將獲得 CPU 使用權。若將中斷處理所佔用的 CPU 時間標示於圖中，結果如下。未被任何中斷佔用的部分即為主處理程序可使用的 CPU 時間。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/13a.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -3791,7 +3791,7 @@
                               "命令語を長く取り，一つの命令で複数の機能ユニットを同時に制御することによって，高速化を図る方式である。"
                           ],
                    "an":  3,
-                   "al":  "スーパースカラは、CPU内部に複数のパイプラインを用意して、パイプラインの各ステージを並列に実行することで処理を高速化する手法です。\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/17.png\" alt=\"高速化手法概念\"\u003e"
+                   "al":  "スーパースカラは、CPU内部に複数のパイプラインを用意して、パイプラインの各ステージを並列に実行することで処理を高速化する手法です。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/17.png\" alt=\"高速化手法概念\"\u003e"
                },
         "zh":  {
                    "ti":  "平成20年春季 問17",
@@ -3804,7 +3804,7 @@
                               "將指令碼加長，透過一個指令同時控制多個功能單元，以達到高速化的方式。"
                           ],
                    "an":  3,
-                   "al":  "超純量（Superscalar）是指在 CPU 內部配置多條管線（Pipeline），藉由並列執行管線中的各個階段來提升處理速度的方法。\u003cimg src=\"https://www.sg-siken.com/kakomon/20_haru/img/17.png\" alt=\"高速化手法概念\"\u003e"
+                   "al":  "超純量（Superscalar）是指在 CPU 內部配置多條管線（Pipeline），藉由並列執行管線中的各個階段來提升處理速度的方法。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/17.png\" alt=\"高速化手法概念\"\u003e"
                }
     },
     {
@@ -3895,7 +3895,7 @@
         "ja":  {
                    "ti":  "平成30年秋期　問9",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "動作クロック周波数が700MHzのCPUで，命令の実行に必要なクロック数とその命令の出現率が表に示す値である場合，このCPUの性能は約何MIPSか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/09.png\" alt=\"\"\u003e",
+                   "q":  "動作クロック周波数が700MHzのCPUで，命令の実行に必要なクロック数とその命令の出現率が表に示す値である場合，このCPUの性能は約何MIPSか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/09.png\" alt=\"\"\u003e",
                    "op":  [
                               "10",
                               "50",
@@ -3908,7 +3908,7 @@
         "zh":  {
                    "ti":  "平成30年秋季 問9",
                    "ca":  "技術系 » 電腦構成要素 » 處理器",
-                   "q":  "若某 CPU 的運作時脈頻率為 700MHz，且執行指令所需的時脈週期數與各指令出現率如表中所示，則此 CPU 的效能約為多少 MIPS？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_aki/img/09.png\" alt=\"\"\u003e",
+                   "q":  "若某 CPU 的運作時脈頻率為 700MHz，且執行指令所需的時脈週期數與各指令出現率如表中所示，則此 CPU 的效能約為多少 MIPS？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/09.png\" alt=\"\"\u003e",
                    "op":  [
                               "10",
                               "50",
@@ -3951,7 +3951,7 @@
         "ja":  {
                    "ti":  "平成17年秋期　問19",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "動作クロック周波数が700MHzのCPUで，命令の実行に必要なクロック数とその命令の出現率が表に示す値である場合，このCPUの性能は約何MIPSか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/19.png\" alt=\"問19画像\"\u003e",
+                   "q":  "動作クロック周波数が700MHzのCPUで，命令の実行に必要なクロック数とその命令の出現率が表に示す値である場合，このCPUの性能は約何MIPSか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/19.png\" alt=\"問19画像\"\u003e",
                    "op":  [
                               "10",
                               "50",
@@ -3964,7 +3964,7 @@
         "zh":  {
                    "ti":  "平成17年秋季 問19",
                    "ca":  "技術系 » 電腦構成要素 » 處理器",
-                   "q":  "若某 CPU 的運作時脈頻率為 700MHz，且執行指令所需的時脈數及其出現率如下表所示，則此 CPU 的效能約為多少 MIPS？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_aki/img/19.png\" alt=\"問19圖片\"\u003e",
+                   "q":  "若某 CPU 的運作時脈頻率為 700MHz，且執行指令所需的時脈數及其出現率如下表所示，則此 CPU 的效能約為多少 MIPS？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/19.png\" alt=\"問19圖片\"\u003e",
                    "op":  [
                               "10",
                               "50",
@@ -4203,7 +4203,7 @@
         "ja":  {
                    "ti":  "平成22年春期　問10",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » メモリ",
-                   "q":  "図に示す構成で，表に示すようにキャッシュメモリと主記憶のアクセス時間だけが異なり，ほかの条件は同じ2種類のCPUXとYがある。\u003cbr\u003eあるプログラムをCPU XとYでそれぞれ実行したところ，両者の処理時間が等しかった。このとき，キャッシュメモリのヒット率は幾らか。ここで，CPU処理以外の影響はないものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/10.png\" alt=\"問10画像\"\u003e",
+                   "q":  "図に示す構成で，表に示すようにキャッシュメモリと主記憶のアクセス時間だけが異なり，ほかの条件は同じ2種類のCPUXとYがある。\u003cbr\u003eあるプログラムをCPU XとYでそれぞれ実行したところ，両者の処理時間が等しかった。このとき，キャッシュメモリのヒット率は幾らか。ここで，CPU処理以外の影響はないものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/10.png\" alt=\"問10画像\"\u003e",
                    "op":  [
                               "0.75",
                               "0.90",
@@ -4216,7 +4216,7 @@
         "zh":  {
                    "ti":  "平成22年春季 問10",
                    "ca":  "技術系 » 電腦架構 » 記憶體",
-                   "q":  "如圖所示之架構，有 CPU X 與 CPU Y 兩種類型，兩者除快取記憶體與主記憶體的存取時間不同外，其他條件皆相同，如下表所示。\u003cbr\u003e在執行某個程式時，CPU X 與 CPU Y 的處理時間相等。試問此時快取記憶體的命中率為多少？假設不考慮 CPU 處理以外的其他影響。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_haru/img/10.png\" alt=\"問10圖片\"\u003e",
+                   "q":  "如圖所示之架構，有 CPU X 與 CPU Y 兩種類型，兩者除快取記憶體與主記憶體的存取時間不同外，其他條件皆相同，如下表所示。\u003cbr\u003e在執行某個程式時，CPU X 與 CPU Y 的處理時間相等。試問此時快取記憶體的命中率為多少？假設不考慮 CPU 處理以外的其他影響。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_haru/img/10.png\" alt=\"問10圖片\"\u003e",
                    "op":  [
                               "0.75",
                               "0.90",
@@ -4259,7 +4259,7 @@
         "ja":  {
                    "ti":  "平成22年秋期　問14",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » 入出力装置",
-                   "q":  "表に示す仕様の磁気ディスク装置において，1,000バイトのデータの読取りに要する平均時間は何ミリ秒か。ここで，コントローラーの処理時間は平均シーク時間に含まれるものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/14.png\" alt=\"\"\u003e",
+                   "q":  "表に示す仕様の磁気ディスク装置において，1,000バイトのデータの読取りに要する平均時間は何ミリ秒か。ここで，コントローラーの処理時間は平均シーク時間に含まれるものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/14.png\" alt=\"\"\u003e",
                    "op":  [
                               "15.1",
                               "16.0",
@@ -4267,12 +4267,12 @@
                               "21.0"
                           ],
                    "an":  1,
-                   "al":  "磁気ディスク装置のデータ読取りに要する時間は「①平均シーク時間＋②平均回転待ち時間＋③データ転送時間」で求めます。①平均シーク時間（シークタイム）磁気ディスクのヘッドが、目的のデータが保存されている位置まで移動するのにかかる時間の平均②平均回転待ち時間（サーチタイム）ヘッドの移動が完了した後、読み出すレコードの先頭が磁気ヘッドの位置まで磁気ディスクが回転してくるのを待つ時間の平均。目的のデータがどの位置に存在するかはランダムなので、ディスクが1回転するのにかかる時間の半分が平均回転待ち時間となる③データ転送時間目的のデータを読み出すのに要する時間この問題では平均シーク時間がわかっているので、平均回転待ち時間とデータ転送時間がわかればデータの読取り時間が計算できることになります。平均回転待ち時間は、1回転に要する時間の半分なので、 1分÷6,000回転÷2＝60,000ミリ秒÷6,000回転÷2＝5ミリ秒転送速度が10Mバイト／秒なので、1,000バイトのデータ転送に要する時間は、 1,000バイト÷10Mバイト＝0.1ミリ秒以上より、データ読取りに要する時間は、 10＋5＋0.1＝15.1ミリ秒したがって「ア」が正解となります。情報処理技術者試験で磁気ディスク装置のアクセス時間が出題される場合、回転数は4800、5400、6000、7200とほぼ決まった値で出題されます。基準となる6,000回転／分の場合の平均回転待ち時間を覚えておけばスムーズに計算することが可能です。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/14a.png\" alt=\"よくでる回転数とその待ち時間\"\u003e"
+                   "al":  "磁気ディスク装置のデータ読取りに要する時間は「①平均シーク時間＋②平均回転待ち時間＋③データ転送時間」で求めます。①平均シーク時間（シークタイム）磁気ディスクのヘッドが、目的のデータが保存されている位置まで移動するのにかかる時間の平均②平均回転待ち時間（サーチタイム）ヘッドの移動が完了した後、読み出すレコードの先頭が磁気ヘッドの位置まで磁気ディスクが回転してくるのを待つ時間の平均。目的のデータがどの位置に存在するかはランダムなので、ディスクが1回転するのにかかる時間の半分が平均回転待ち時間となる③データ転送時間目的のデータを読み出すのに要する時間この問題では平均シーク時間がわかっているので、平均回転待ち時間とデータ転送時間がわかればデータの読取り時間が計算できることになります。平均回転待ち時間は、1回転に要する時間の半分なので、 1分÷6,000回転÷2＝60,000ミリ秒÷6,000回転÷2＝5ミリ秒転送速度が10Mバイト／秒なので、1,000バイトのデータ転送に要する時間は、 1,000バイト÷10Mバイト＝0.1ミリ秒以上より、データ読取りに要する時間は、 10＋5＋0.1＝15.1ミリ秒したがって「ア」が正解となります。情報処理技術者試験で磁気ディスク装置のアクセス時間が出題される場合、回転数は4800、5400、6000、7200とほぼ決まった値で出題されます。基準となる6,000回転／分の場合の平均回転待ち時間を覚えておけばスムーズに計算することが可能です。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/14a.png\" alt=\"よくでる回転数とその待ち時間\"\u003e"
                },
         "zh":  {
                    "ti":  "平成22年秋期 問14",
                    "ca":  "技術系 » 電腦構成要素 » 輸出入裝置",
-                   "q":  "在具備下表所示規格的磁碟裝置中，讀取 1,000 位元組資料所需的平均時間是多少毫秒？在此假設控制器處理時間已包含在平均搜尋時間內。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/14.png\" alt=\"\"\u003e",
+                   "q":  "在具備下表所示規格的磁碟裝置中，讀取 1,000 位元組資料所需的平均時間是多少毫秒？在此假設控制器處理時間已包含在平均搜尋時間內。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/14.png\" alt=\"\"\u003e",
                    "op":  [
                               "15.1",
                               "16.0",
@@ -4280,7 +4280,7 @@
                               "21.0"
                           ],
                    "an":  1,
-                   "al":  "磁碟裝置讀取資料所需的總時間可由「①平均搜尋時間＋②平均旋轉等待時間＋③資料傳輸時間」求得。\n\n① 平均搜尋時間（Seek Time）：磁碟讀寫頭移動至目標資料所在位置所需的平均時間。\n② 平均旋轉等待時間（Search Time）：讀寫頭移動完成後，磁碟旋轉至資料起始點到達讀寫頭位置所需的平均時間。由於目標資料位置是隨機的，因此平均旋轉等待時間為磁碟旋轉一圈所需時間的一半。\n③ 資料傳輸時間：讀取目標資料實際所需的時間。\n\n本題已知平均搜尋時間，因此只要算出平均旋轉等待時間與資料傳輸時間，即可計算出總讀取時間。\n\n平均旋轉等待時間為旋轉一圈所需時間的一半：\n1 分鐘 ÷ 6,000 轉 ÷ 2 ＝ 60,000 毫秒 ÷ 6,000 轉 ÷ 2 ＝ 5 毫秒\n\n傳輸速度為 10MB/秒，故傳輸 1,000 位元組資料所需時間為：\n1,000 位元組 ÷ 10MB ＝ 0.1 毫秒\n\n綜上所述，讀取資料所需的總時間為：\n10 ＋ 5 ＋ 0.1 ＝ 15.1 毫秒\n\n因此，正確選項為「1」。\n\n在資訊處理技術者試驗中，磁碟裝置存取時間題目的轉速通常固定為 4800、5400、6000、7200 rpm 等數值。若能記住基準值 6,000 rpm 時的平均旋轉等待時間，將能更順暢地進行計算。\u003cimg src=\"https://www.sg-siken.com/kakomon/22_aki/img/14a.png\" alt=\"常見轉速及其對應等待時間\"\u003e"
+                   "al":  "磁碟裝置讀取資料所需的總時間可由「①平均搜尋時間＋②平均旋轉等待時間＋③資料傳輸時間」求得。\n\n① 平均搜尋時間（Seek Time）：磁碟讀寫頭移動至目標資料所在位置所需的平均時間。\n② 平均旋轉等待時間（Search Time）：讀寫頭移動完成後，磁碟旋轉至資料起始點到達讀寫頭位置所需的平均時間。由於目標資料位置是隨機的，因此平均旋轉等待時間為磁碟旋轉一圈所需時間的一半。\n③ 資料傳輸時間：讀取目標資料實際所需的時間。\n\n本題已知平均搜尋時間，因此只要算出平均旋轉等待時間與資料傳輸時間，即可計算出總讀取時間。\n\n平均旋轉等待時間為旋轉一圈所需時間的一半：\n1 分鐘 ÷ 6,000 轉 ÷ 2 ＝ 60,000 毫秒 ÷ 6,000 轉 ÷ 2 ＝ 5 毫秒\n\n傳輸速度為 10MB/秒，故傳輸 1,000 位元組資料所需時間為：\n1,000 位元組 ÷ 10MB ＝ 0.1 毫秒\n\n綜上所述，讀取資料所需的總時間為：\n10 ＋ 5 ＋ 0.1 ＝ 15.1 毫秒\n\n因此，正確選項為「1」。\n\n在資訊處理技術者試驗中，磁碟裝置存取時間題目的轉速通常固定為 4800、5400、6000、7200 rpm 等數值。若能記住基準值 6,000 rpm 時的平均旋轉等待時間，將能更順暢地進行計算。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/14a.png\" alt=\"常見轉速及其對應等待時間\"\u003e"
                }
     },
     {
@@ -4371,7 +4371,7 @@
         "ja":  {
                    "ti":  "令和3年度　問13",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » メモリ",
-                   "q":  "図に示す構成で，表に示すようにキャッシュメモリと主記憶のアクセス時間だけが異なり，ほかの条件は同じ2種類のCPU XとYがある。\u003cbr\u003eあるプログラムをCPU XとYでそれぞれ実行したところ，両者の処理時間が等しかった。このとき，キャッシュメモリのヒット率は幾らか。ここで，CPU処理以外の影響はないものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/13.png\" alt=\"13.png\"\u003e",
+                   "q":  "図に示す構成で，表に示すようにキャッシュメモリと主記憶のアクセス時間だけが異なり，ほかの条件は同じ2種類のCPU XとYがある。\u003cbr\u003eあるプログラムをCPU XとYでそれぞれ実行したところ，両者の処理時間が等しかった。このとき，キャッシュメモリのヒット率は幾らか。ここで，CPU処理以外の影響はないものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/13.png\" alt=\"13.png\"\u003e",
                    "op":  [
                               "0.75",
                               "0.90",
@@ -4384,7 +4384,7 @@
         "zh":  {
                    "ti":  "令和3年度 問13",
                    "ca":  "技術類 » 電腦構成要素 » 記憶體",
-                   "q":  "在如圖所示的架構中，有 CPU X 與 Y 兩種，如表所示，僅快取記憶體與主記憶體的存取時間不同，其他條件皆相同。\u003cbr\u003e當在 CPU X 與 Y 上分別執行某個程式時，兩者的處理時間相同。此時快取記憶體的命中率為多少？在此不考慮 CPU 處理以外的影響。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/03_menjo/img/13.png\" alt=\"13.png\"\u003e",
+                   "q":  "在如圖所示的架構中，有 CPU X 與 Y 兩種，如表所示，僅快取記憶體與主記憶體的存取時間不同，其他條件皆相同。\u003cbr\u003e當在 CPU X 與 Y 上分別執行某個程式時，兩者的處理時間相同。此時快取記憶體的命中率為多少？在此不考慮 CPU 處理以外的影響。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/03_menjo/img/13.png\" alt=\"13.png\"\u003e",
                    "op":  [
                               "0.75",
                               "0.90",
@@ -4679,7 +4679,7 @@
         "ja":  {
                    "ti":  "平成17年春期　問18",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "クロック周波数が1GHzのCPUがある。このCPUの命令種別が，表に示す二つから成っているとき，処理能力は約何MIPS か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/18.png\" alt=\"問18画像\"\u003e",
+                   "q":  "クロック周波数が1GHzのCPUがある。このCPUの命令種別が，表に示す二つから成っているとき，処理能力は約何MIPS か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/18.png\" alt=\"問18画像\"\u003e",
                    "op":  [
                               "34",
                               "100",
@@ -4692,7 +4692,7 @@
         "zh":  {
                    "ti":  "平成17年春季 問18",
                    "ca":  "技術系 » 電腦構成要素 » 處理器",
-                   "q":  "有一顆時脈頻率為 1GHz 的 CPU。若該 CPU 的指令類型由下表所示的兩種組成，其處理能力約為多少 MIPS？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/18.png\" alt=\"問18圖片\"\u003e",
+                   "q":  "有一顆時脈頻率為 1GHz 的 CPU。若該 CPU 的指令類型由下表所示的兩種組成，其處理能力約為多少 MIPS？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/18.png\" alt=\"問18圖片\"\u003e",
                    "op":  [
                               "34",
                               "100",
@@ -4847,7 +4847,7 @@
         "ja":  {
                    "ti":  "平成31年春期　問10",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » メモリ",
-                   "q":  "A～Dを，主記憶の実効アクセス時間が短い順に並べたものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/10.png\" alt=\"\"\u003e",
+                   "q":  "A～Dを，主記憶の実効アクセス時間が短い順に並べたものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/10.png\" alt=\"\"\u003e",
                    "op":  [
                               "A，B，C，D",
                               "A，D，B，C",
@@ -4860,7 +4860,7 @@
         "zh":  {
                    "ti":  "平成31年春季 問10",
                    "ca":  "技術系 » 電腦構成要素 » 記憶體",
-                   "q":  "請將 A～D 依據主記憶體的實際存取時間由短至長進行排列：\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/10.png\" alt=\"\"\u003e",
+                   "q":  "請將 A～D 依據主記憶體的實際存取時間由短至長進行排列：\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/10.png\" alt=\"\"\u003e",
                    "op":  [
                               "A，B，C，D",
                               "A，D，B，C",
@@ -4961,26 +4961,26 @@
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
                    "q":  "次の図のうち，パイプライン制御の説明として適切なものはどれか。ここで，図中の各記号の意味は次のとおりである。\u003cbr\u003e　F：命令呼出し，D：解読，A：アドレス計算，R：オペランド呼出し，E：実行",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/18a.png\" alt=\"問18ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/18i.png\" alt=\"問18イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/18u.png\" alt=\"問18ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/18e.png\" alt=\"問18エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/18a.png\" alt=\"問18ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/18i.png\" alt=\"問18イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/18u.png\" alt=\"問18ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/18e.png\" alt=\"問18エ\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "パイプライン制御は、CPUで処理される1命令を、命令読出し(フェッチ)、解読(デコード)、アドレス計算、オペランド呼出し、実行 というような複数のステージに分け、各ステージを少しずつずらしながら独立した処理機構で並列に実行することで、処理時間全体を短縮させる技法です。通常(非パイプライン)の流れでは、読出し→解読→実行という一連の処理が終了してから次の命令処理に移るというサイクルを繰り返しますが、パイプライン制御では命令処理の完了を待つことなく次の命令の処理に移れるためスループットが向上します。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/18.png\" alt=\"\"\u003e"
+                   "al":  "パイプライン制御は、CPUで処理される1命令を、命令読出し(フェッチ)、解読(デコード)、アドレス計算、オペランド呼出し、実行 というような複数のステージに分け、各ステージを少しずつずらしながら独立した処理機構で並列に実行することで、処理時間全体を短縮させる技法です。通常(非パイプライン)の流れでは、読出し→解読→実行という一連の処理が終了してから次の命令処理に移るというサイクルを繰り返しますが、パイプライン制御では命令処理の完了を待つことなく次の命令の処理に移れるためスループットが向上します。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/18.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成18年秋季　問18",
                    "ca":  "技術系 » 電腦構成要素 » 處理器",
                    "q":  "下列圖示中，何者為管線化（Pipeline）控制的合適說明？在此，圖中各符號的意義如下：\u003cbr\u003e　F：指令提取（Fetch），D：解碼（Decode），A：位址計算（Address generation），R：運算元提取（Operand fetch），E：執行（Execute）",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/18a.png\" alt=\"問18ア\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/18i.png\" alt=\"問18イ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/18u.png\" alt=\"問18ウ\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/18e.png\" alt=\"問18エ\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/18a.png\" alt=\"問18ア\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/18i.png\" alt=\"問18イ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/18u.png\" alt=\"問18ウ\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/18e.png\" alt=\"問18エ\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "管線化控制是一種將 CPU 處理的單一指令，細分為指令提取（Fetch）、解碼（Decode）、位址計算、運算元提取、執行等多個階段，並透過獨立的處理機制，讓各階段錯開時間進行平行處理，以縮短整體處理時間的技術。在一般（非管線化）的流程中，必須等待「讀取→解碼→執行」這一連串處理結束後，才能進入下一個指令的處理週期；而在管線化控制中，無需等待指令處理完成即可進行下一個指令的處理，因此能提升處理吞吐量。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/18.png\" alt=\"\"\u003e"
+                   "al":  "管線化控制是一種將 CPU 處理的單一指令，細分為指令提取（Fetch）、解碼（Decode）、位址計算、運算元提取、執行等多個階段，並透過獨立的處理機制，讓各階段錯開時間進行平行處理，以縮短整體處理時間的技術。在一般（非管線化）的流程中，必須等待「讀取→解碼→執行」這一連串處理結束後，才能進入下一個指令的處理週期；而在管線化控制中，無需等待指令處理完成即可進行下一個指令的處理，因此能提升處理吞吐量。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/18.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -4995,7 +4995,7 @@
                               "主記憶を複数の独立したグループに分けて，各グループに交互にアクセスすることによって，主記憶へのアクセスの高速化を図る。"
                           ],
                    "an":  4,
-                   "al":  "メモリインターリーブは、物理上はひとつである主記憶領域を、同時アクセス可能な複数の論理的な領域（バンク）に分け、それぞれのバンクに対してデータの読み書きを並列で行うことにより、メモリアクセスの高速化を図る技術です。メモリインターリーブでは、奇数アドレスはバンク1、偶数アドレスはバンク2というように、連続したアドレスを複数のバンクに割り振っていきます。通常は、連続するアドレスに次々とアクセスされることが多いため、見かけ上並列アクセスしているようになり、実効アクセス時間が短くなります。「主記憶に並列アクセス」ときたらメモリインターリーブです。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/12.png\" alt=\"\"\u003e"
+                   "al":  "メモリインターリーブは、物理上はひとつである主記憶領域を、同時アクセス可能な複数の論理的な領域（バンク）に分け、それぞれのバンクに対してデータの読み書きを並列で行うことにより、メモリアクセスの高速化を図る技術です。メモリインターリーブでは、奇数アドレスはバンク1、偶数アドレスはバンク2というように、連続したアドレスを複数のバンクに割り振っていきます。通常は、連続するアドレスに次々とアクセスされることが多いため、見かけ上並列アクセスしているようになり、実効アクセス時間が短くなります。「主記憶に並列アクセス」ときたらメモリインターリーブです。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/12.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成23年特別 問12",
@@ -5008,14 +5008,14 @@
                               "將主記憶體劃分為多個獨立的群組，透過交替存取各個群組，以提升主記憶體的存取速度。"
                           ],
                    "an":  4,
-                   "al":  "記憶體交錯（Memory Interleaving）是一種提升記憶體存取速度的技術，其原理是將物理上單一的主記憶體區域，劃分為多個可同時存取的邏輯區域（Bank），並針對各個 Bank 並行進行數據讀寫。在記憶體交錯中，會將連續的位址分配到不同的 Bank 中，例如奇數位址分配至 Bank 1，偶數位址分配至 Bank 2。由於程式存取時通常會連續存取位址，因此在運作上看起來就像是進行了並行存取，從而縮短了實際存取時間。只要看到「對主記憶體進行並行存取」，指的就是記憶體交錯。\u003cimg src=\"https://www.sg-siken.com/kakomon/23_toku/img/12.png\" alt=\"\"\u003e"
+                   "al":  "記憶體交錯（Memory Interleaving）是一種提升記憶體存取速度的技術，其原理是將物理上單一的主記憶體區域，劃分為多個可同時存取的邏輯區域（Bank），並針對各個 Bank 並行進行數據讀寫。在記憶體交錯中，會將連續的位址分配到不同的 Bank 中，例如奇數位址分配至 Bank 1，偶數位址分配至 Bank 2。由於程式存取時通常會連續存取位址，因此在運作上看起來就像是進行了並行存取，從而縮短了實際存取時間。只要看到「對主記憶體進行並行存取」，指的就是記憶體交錯。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/12.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成18年春期　問19",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "あるベンチマークテストプログラムの命令ごとの出現頻度と，これを実行するプロセッサの実行クロック数を表に示す。このベンチマークテストプログラムにおけるCPI(Clocks Per Instruction)は幾らか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/19.png\" alt=\"問19画像\"\u003e",
+                   "q":  "あるベンチマークテストプログラムの命令ごとの出現頻度と，これを実行するプロセッサの実行クロック数を表に示す。このベンチマークテストプログラムにおけるCPI(Clocks Per Instruction)は幾らか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/19.png\" alt=\"問19画像\"\u003e",
                    "op":  [
                               "0.48",
                               "0.69",
@@ -5028,7 +5028,7 @@
         "zh":  {
                    "ti":  "平成18年春季 問19",
                    "ca":  "技術系 » 電腦構成要素 » 處理器",
-                   "q":  "下表顯示了某個基準測試程式（Benchmark Test Program）中各指令的出現頻度，以及執行該程式的處理器所需之執行時脈數。試問該基準測試程式的 CPI (Clocks Per Instruction) 為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/19.png\" alt=\"問19圖片\"\u003e",
+                   "q":  "下表顯示了某個基準測試程式（Benchmark Test Program）中各指令的出現頻度，以及執行該程式的處理器所需之執行時脈數。試問該基準測試程式的 CPI (Clocks Per Instruction) 為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/19.png\" alt=\"問19圖片\"\u003e",
                    "op":  [
                               "0.48",
                               "0.69",
@@ -5071,7 +5071,7 @@
         "ja":  {
                    "ti":  "令和5年度　問8",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "あるプログラムは，命令a～dを次の順で実行する。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/08_1.png\" alt=\"08_1.png\"\u003e",
+                   "q":  "あるプログラムは，命令a～dを次の順で実行する。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/08_1.png\" alt=\"08_1.png\"\u003e",
                    "op":  [
                               "30",
                               "40",
@@ -5084,7 +5084,7 @@
         "zh":  {
                    "ti":  "令和5年度 問8",
                    "ca":  "技術系 » 電腦構成要素 » 處理器",
-                   "q":  "某程式依序執行指令 a～d。 \u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/08_1.png\" alt=\"08_1.png\"\u003e",
+                   "q":  "某程式依序執行指令 a～d。 \u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/08_1.png\" alt=\"08_1.png\"\u003e",
                    "op":  [
                               "30",
                               "40",
@@ -5155,7 +5155,7 @@
         "ja":  {
                    "ti":  "平成17年春期　問26",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "コンピュータの基本構成を表す図中のa～cに入れるべき適切な字句の組合せはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/26.png\" alt=\"問26画像\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/26a.png\" alt=\"問26選択肢\"\u003e",
+                   "q":  "コンピュータの基本構成を表す図中のa～cに入れるべき適切な字句の組合せはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/26.png\" alt=\"問26画像\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/26a.png\" alt=\"問26選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -5168,7 +5168,7 @@
         "zh":  {
                    "ti":  "平成17年春季 問26",
                    "ca":  "技術系 » 電腦組成要素 » 處理器",
-                   "q":  "表示電腦基本構成的圖中，填入 a～c 的適當詞彙組合是哪一個？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/26.png\" alt=\"問26圖片\"\u003e\n\u003cimg src=\"https://www.sg-siken.com/kakomon/17_haru/img/26a.png\" alt=\"問26選択肢\"\u003e",
+                   "q":  "表示電腦基本構成的圖中，填入 a～c 的適當詞彙組合是哪一個？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/26.png\" alt=\"問26圖片\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/17_haru/img/26a.png\" alt=\"問26選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -5247,7 +5247,7 @@
                               "主記憶を複数の独立して動作するグループに分けて，各グループに並列にアクセスする方式"
                           ],
                    "an":  4,
-                   "al":  "メモリインターリーブは、物理上はひとつである主記憶領域を、同時アクセス可能な複数の論理的な領域（バンク）に分け、それぞれのバンクに対してデータの読み書きを並列で行うことにより、メモリアクセスの高速化を図る技術です。メモリインターリーブでは、奇数アドレスはバンク1、偶数アドレスはバンク2というように、連続したアドレスを複数のバンクに割り振っていきます。通常は、連続するアドレスに次々とアクセスされることが多いため、見かけ上並列アクセスしているようになり、実効アクセス時間が短くなります。「主記憶に並列アクセス」ときたらメモリインターリーブです。したがって「エ」が正解です。\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/09.png\" alt=\"09.png\"\u003e"
+                   "al":  "メモリインターリーブは、物理上はひとつである主記憶領域を、同時アクセス可能な複数の論理的な領域（バンク）に分け、それぞれのバンクに対してデータの読み書きを並列で行うことにより、メモリアクセスの高速化を図る技術です。メモリインターリーブでは、奇数アドレスはバンク1、偶数アドレスはバンク2というように、連続したアドレスを複数のバンクに割り振っていきます。通常は、連続するアドレスに次々とアクセスされることが多いため、見かけ上並列アクセスしているようになり、実効アクセス時間が短くなります。「主記憶に並列アクセス」ときたらメモリインターリーブです。したがって「エ」が正解です。\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/09.png\" alt=\"09.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和5年度 問9",
@@ -5260,7 +5260,7 @@
                               "將主記憶體劃分為多個可獨立運作的群組，並對各個群組進行平行存取的方式"
                           ],
                    "an":  4,
-                   "al":  "記憶體交錯存取（Memory Interleaving）是一種旨在提升記憶體存取速度的技術。該技術將物理上單一的主記憶體區域，劃分為多個可同時存取的邏輯區域（Bank），並對各個 Bank 進行資料的平行讀寫。在記憶體交錯存取中，會將連續的位址分配給不同的 Bank，例如奇數位址分配給 Bank 1，偶數位址分配給 Bank 2 等。由於電腦存取時通常會接連存取連續位址，因此在表面上實現了平行存取，進而縮短了實質存取時間。只要看到「對主記憶體進行平行存取」，就是指記憶體交錯存取。因此，「エ」（選項4）為正確答案。\u003cimg src=\"https://www.sg-siken.com/kakomon/05_menjo/img/09.png\" alt=\"09.png\"\u003e"
+                   "al":  "記憶體交錯存取（Memory Interleaving）是一種旨在提升記憶體存取速度的技術。該技術將物理上單一的主記憶體區域，劃分為多個可同時存取的邏輯區域（Bank），並對各個 Bank 進行資料的平行讀寫。在記憶體交錯存取中，會將連續的位址分配給不同的 Bank，例如奇數位址分配給 Bank 1，偶數位址分配給 Bank 2 等。由於電腦存取時通常會接連存取連續位址，因此在表面上實現了平行存取，進而縮短了實質存取時間。只要看到「對主記憶體進行平行存取」，就是指記憶體交錯存取。因此，「エ」（選項4）為正確答案。\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/09.png\" alt=\"09.png\"\u003e"
                }
     },
     {
@@ -5351,7 +5351,7 @@
         "ja":  {
                    "ti":  "平成28年秋期　問11",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » バス",
-                   "q":  "1Mバイトのメモリを図のようにMPUに接続するとき，最低限必要なアドレスバスの信号線の本数 n はどれか。ここで，メモリにはバイト単位でアクセスするものとし，1Mバイトは1,024kバイト，1kバイトは1,024バイトとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/11.png\" alt=\"\"\u003e",
+                   "q":  "1Mバイトのメモリを図のようにMPUに接続するとき，最低限必要なアドレスバスの信号線の本数 n はどれか。ここで，メモリにはバイト単位でアクセスするものとし，1Mバイトは1,024kバイト，1kバイトは1,024バイトとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/11.png\" alt=\"\"\u003e",
                    "op":  [
                               "18",
                               "19",
@@ -5364,7 +5364,7 @@
         "zh":  {
                    "ti":  "平成28年秋季 問11",
                    "ca":  "科技系 » 電腦構成要素 » 匯流排 (Bus)",
-                   "q":  "將 1MB 的記憶體依圖示連接至 MPU 時，最低限度所需的位址匯流排 (Address Bus) 訊號線數量 n 為何？在此，記憶體係以位元組 (Byte) 為單位進行存取，1MB 為 1,024KB，1KB 為 1,024 位元組。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/11.png\" alt=\"\"\u003e",
+                   "q":  "將 1MB 的記憶體依圖示連接至 MPU 時，最低限度所需的位址匯流排 (Address Bus) 訊號線數量 n 為何？在此，記憶體係以位元組 (Byte) 為單位進行存取，1MB 為 1,024KB，1KB 為 1,024 位元組。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/11.png\" alt=\"\"\u003e",
                    "op":  [
                               "18",
                               "19",
@@ -5407,7 +5407,7 @@
         "ja":  {
                    "ti":  "平成26年秋期　問11",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » メモリ",
-                   "q":  "A～Dを，主記憶の実効アクセス時間が短い順に並べたものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/11.png\" alt=\"\"\u003e",
+                   "q":  "A～Dを，主記憶の実効アクセス時間が短い順に並べたものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/11.png\" alt=\"\"\u003e",
                    "op":  [
                               "A，B，C，D",
                               "A，D，B，C",
@@ -5420,7 +5420,7 @@
         "zh":  {
                    "ti":  "平成26年秋季 問11",
                    "ca":  "技術系 » 電腦構成要素 » 記憶體",
-                   "q":  "請將 A～D 依據主記憶體的「實效存取時間」由短至長進行排列，下列何者正確？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/26_aki/img/11.png\" alt=\"\"\u003e",
+                   "q":  "請將 A～D 依據主記憶體的「實效存取時間」由短至長進行排列，下列何者正確？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/26_aki/img/11.png\" alt=\"\"\u003e",
                    "op":  [
                               "A，B，C，D",
                               "A，D，B，C",
@@ -5435,7 +5435,7 @@
         "ja":  {
                    "ti":  "平成30年春期　問9",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "図はプロセッサによってフェッチされた命令の格納順序を表している。a に当てはまるものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/09.png\" alt=\"\"\u003e",
+                   "q":  "図はプロセッサによってフェッチされた命令の格納順序を表している。a に当てはまるものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/09.png\" alt=\"\"\u003e",
                    "op":  [
                               "アキュムレーター",
                               "データキャッシュ",
@@ -5448,7 +5448,7 @@
         "zh":  {
                    "ti":  "平成30年春季 問9",
                    "ca":  "技術系 » 電腦構成要素 » 處理器",
-                   "q":  "下圖顯示了由處理器所提取（Fetch）之指令的儲存順序。請問 a 應填入什麼？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/09.png\" alt=\"\"\u003e",
+                   "q":  "下圖顯示了由處理器所提取（Fetch）之指令的儲存順序。請問 a 應填入什麼？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/09.png\" alt=\"\"\u003e",
                    "op":  [
                               "累加器 (Accumulator)",
                               "資料快取 (Data Cache)",
@@ -5547,7 +5547,7 @@
         "ja":  {
                    "ti":  "平成29年春期　問8",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "動作クロック周波数が700MHzのCPUで，命令の実行に必要なクロック数とその命令の出現率が表に示す値である場合，このCPUの性能は約何MIPSか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/08.png\" alt=\"\"\u003e",
+                   "q":  "動作クロック周波数が700MHzのCPUで，命令の実行に必要なクロック数とその命令の出現率が表に示す値である場合，このCPUの性能は約何MIPSか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/08.png\" alt=\"\"\u003e",
                    "op":  [
                               "10",
                               "50",
@@ -5560,7 +5560,7 @@
         "zh":  {
                    "ti":  "平成29年春季 問8",
                    "ca":  "技術系 » 電腦構成要素 » 處理器",
-                   "q":  "若某 CPU 的運作時脈頻率為 700MHz，且執行指令所需的時脈數與該指令出現率如表中所示，則此 CPU 的效能約為多少 MIPS？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/29_haru/img/08.png\" alt=\"\"\u003e",
+                   "q":  "若某 CPU 的運作時脈頻率為 700MHz，且執行指令所需的時脈數與該指令出現率如表中所示，則此 CPU 的效能約為多少 MIPS？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/08.png\" alt=\"\"\u003e",
                    "op":  [
                               "10",
                               "50",
@@ -5715,7 +5715,7 @@
         "ja":  {
                    "ti":  "平成16年春期　問22",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » 入出力装置",
-                   "q":  "表の仕様の磁気ディスク装置に，1レコード200バイトのレコード10万件を順編成で記録したい。10レコードを1ブロックとして記録するときに必要なシリンダ数は幾つか。ここで，一つのブロックは複数のセクタにまたがってもよいが，最後のセクタで余った部分は利用されない。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/22.png\" alt=\"\"\u003e",
+                   "q":  "表の仕様の磁気ディスク装置に，1レコード200バイトのレコード10万件を順編成で記録したい。10レコードを1ブロックとして記録するときに必要なシリンダ数は幾つか。ここで，一つのブロックは複数のセクタにまたがってもよいが，最後のセクタで余った部分は利用されない。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/22.png\" alt=\"\"\u003e",
                    "op":  [
                               "103",
                               "105",
@@ -5723,12 +5723,12 @@
                               "132"
                           ],
                    "an":  3,
-                   "al":  "セクタ、トラック、シリンダの関係は次のようになっています。シリンダについては少しわかりづらいですが、磁気ディスク装置を構成する各ディスク上の同一半径のトラックを縦にひとまとめにした単位です。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/22a.png\" alt=\"\"\u003e"
+                   "al":  "セクタ、トラック、シリンダの関係は次のようになっています。シリンダについては少しわかりづらいですが、磁気ディスク装置を構成する各ディスク上の同一半径のトラックを縦にひとまとめにした単位です。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/22a.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成16年春期 問22",
                    "ca":  "科技系 » 電腦構成要素 » 輸入輸出裝置",
-                   "q":  "欲將10萬筆（每筆記錄200位元組）的記錄，以順序編排方式記錄在具備表中規格的磁碟裝置中。若以10筆記錄作為一個區塊（Block）來進行記錄，則所需的磁柱（Cylinder）數為多少？在此，一個區塊可以跨越多個磁區（Sector），但最後一個磁區剩餘的部分將不被使用。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/22.png\" alt=\"\"\u003e",
+                   "q":  "欲將10萬筆（每筆記錄200位元組）的記錄，以順序編排方式記錄在具備表中規格的磁碟裝置中。若以10筆記錄作為一個區塊（Block）來進行記錄，則所需的磁柱（Cylinder）數為多少？在此，一個區塊可以跨越多個磁區（Sector），但最後一個磁區剩餘的部分將不被使用。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/22.png\" alt=\"\"\u003e",
                    "op":  [
                               "103",
                               "105",
@@ -5736,14 +5736,14 @@
                               "132"
                           ],
                    "an":  3,
-                   "al":  "磁區、磁軌與磁柱的關係如下。關於磁柱可能較難理解，它是指構成磁碟裝置的各個碟片上，相同半徑的磁軌在垂直方向上所組成的一個單位。\u003cimg src=\"https://www.sg-siken.com/kakomon/16_haru/img/22a.png\" alt=\"\"\u003e"
+                   "al":  "磁區、磁軌與磁柱的關係如下。關於磁柱可能較難理解，它是指構成磁碟裝置的各個碟片上，相同半徑的磁軌在垂直方向上所組成的一個單位。\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/22a.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成19年春期　問19",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "あるプログラムは，命令a～dを次の順で実行する。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/19_1.png\" alt=\"\"\u003e",
+                   "q":  "あるプログラムは，命令a～dを次の順で実行する。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/19_1.png\" alt=\"\"\u003e",
                    "op":  [
                               "30",
                               "40",
@@ -5756,7 +5756,7 @@
         "zh":  {
                    "ti":  "平成19年春季 問19",
                    "ca":  "科技系 » 電腦構成要素 » 處理器",
-                   "q":  "某程式依序執行指令 a～d，如下圖所示。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/19_haru/img/19_1.png\" alt=\"\"\u003e",
+                   "q":  "某程式依序執行指令 a～d，如下圖所示。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/19_1.png\" alt=\"\"\u003e",
                    "op":  [
                               "30",
                               "40",
@@ -5771,7 +5771,7 @@
         "ja":  {
                    "ti":  "平成16年秋期　問18",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » プロセッサ",
-                   "q":  "主記憶のデータを図のように参照するアドレス指定方式はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/18.png\" alt=\"問18画像\"\u003e",
+                   "q":  "主記憶のデータを図のように参照するアドレス指定方式はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/18.png\" alt=\"問18画像\"\u003e",
                    "op":  [
                               "間接アドレス指定",
                               "指標アドレス指定",
@@ -5784,7 +5784,7 @@
         "zh":  {
                    "ti":  "平成16年秋季 問18",
                    "ca":  "技術系 » 電腦構成要素 » 處理器",
-                   "q":  "如下圖所示，參照主記憶體資料的定址方式為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/16_aki/img/18.png\" alt=\"問18圖片\"\u003e",
+                   "q":  "如下圖所示，參照主記憶體資料的定址方式為何？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_aki/img/18.png\" alt=\"問18圖片\"\u003e",
                    "op":  [
                               "間接定址 (Indirect addressing)",
                               "變址定址 (Indexed addressing)",
@@ -5891,7 +5891,7 @@
                               "ポートマルチプライヤを用いてポート数が拡張できる。"
                           ],
                    "an":  4,
-                   "al":  "シリアルATA(Serial Advanced Technology Attachment:SATA)は、コンピュータに磁気ディスクやSSD，光学ドライブなどを接続するためのインタフェース規格です。それまでのパラレルATA(IDE)が、1本のケーブルにつき2台の機器が接続できるマスタ・スレーブ接続だったのに対して、シリアルATAでは、1本のケーブルに1つの機器を接続するポイントツーポイントの接続形態を採用しています。ポートマルチプライヤは、イーサネットのハブと同じようにホストコントローラーの1つのポートと複数台(理論上は最大15台)のハードディスクを接続する方法です。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/24.png\" alt=\"シリアルATAとパラレルATA\"\u003e"
+                   "al":  "シリアルATA(Serial Advanced Technology Attachment:SATA)は、コンピュータに磁気ディスクやSSD，光学ドライブなどを接続するためのインタフェース規格です。それまでのパラレルATA(IDE)が、1本のケーブルにつき2台の機器が接続できるマスタ・スレーブ接続だったのに対して、シリアルATAでは、1本のケーブルに1つの機器を接続するポイントツーポイントの接続形態を採用しています。ポートマルチプライヤは、イーサネットのハブと同じようにホストコントローラーの1つのポートと複数台(理論上は最大15台)のハードディスクを接続する方法です。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/24.png\" alt=\"シリアルATAとパラレルATA\"\u003e"
                },
         "zh":  {
                    "ti":  "平成18年秋季 問24",
@@ -5904,7 +5904,7 @@
                               "可以使用埠倍增器 (Port Multiplier) 來擴充埠的數量。"
                           ],
                    "an":  4,
-                   "al":  "Serial ATA (SATA) 是一種用於將硬碟、SSD、光碟機等裝置連接至電腦的介面規格。相較於過去 Parallel ATA (IDE) 採用每條傳輸線可連接 2 台裝置的主從式 (Master/Slave) 連接方式，Serial ATA 採用了每條傳輸線僅連接 1 台裝置的點對點 (Point-to-Point) 連接形態。埠倍增器 (Port Multiplier) 則與乙太網路的集線器 (Hub) 類似，是一種將主機控制器的 1 個埠與多台（理論上最多 15 台）硬碟進行連接的方法。\u003cimg src=\"https://www.sg-siken.com/kakomon/18_aki/img/24.png\" alt=\"Serial ATA 與 Parallel ATA\"\u003e"
+                   "al":  "Serial ATA (SATA) 是一種用於將硬碟、SSD、光碟機等裝置連接至電腦的介面規格。相較於過去 Parallel ATA (IDE) 採用每條傳輸線可連接 2 台裝置的主從式 (Master/Slave) 連接方式，Serial ATA 採用了每條傳輸線僅連接 1 台裝置的點對點 (Point-to-Point) 連接形態。埠倍增器 (Port Multiplier) 則與乙太網路的集線器 (Hub) 類似，是一種將主機控制器的 1 個埠與多台（理論上最多 15 台）硬碟進行連接的方法。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/24.png\" alt=\"Serial ATA 與 Parallel ATA\"\u003e"
                }
     },
     {
@@ -5995,7 +5995,7 @@
         "ja":  {
                    "ti":  "平成25年春期　問12",
                    "ca":  "テクノロジ系 » コンピュータ構成要素 » メモリ",
-                   "q":  "図に示す構成で，表に示すようにキャッシュメモリと主記憶のアクセス時間だけが異なり，ほかの条件は同じ2種類のCPU XとYがある。\u003cbr\u003eあるプログラムをCPU XとYでそれぞれ実行したところ，両者の処理時間が等しかった。このとき，キャッシュメモリのヒット率は幾らか。ここで，CPU処理以外の影響はないものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/12.png\" alt=\"\"\u003e",
+                   "q":  "図に示す構成で，表に示すようにキャッシュメモリと主記憶のアクセス時間だけが異なり，ほかの条件は同じ2種類のCPU XとYがある。\u003cbr\u003eあるプログラムをCPU XとYでそれぞれ実行したところ，両者の処理時間が等しかった。このとき，キャッシュメモリのヒット率は幾らか。ここで，CPU処理以外の影響はないものとする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/12.png\" alt=\"\"\u003e",
                    "op":  [
                               "0.75",
                               "0.90",
@@ -6008,7 +6008,7 @@
         "zh":  {
                    "ti":  "平成25年春季 問12",
                    "ca":  "技術系 » 電腦構成要素 » 記憶體",
-                   "q":  "在圖示的架構中，有兩款 CPU X 與 Y，除如表所示的快取記憶體與主記憶體存取時間不同外，其他條件皆相同。\u003cbr\u003e某個程式在 CPU X 與 Y 上分別執行時，兩者的處理時間相同。此時，快取記憶體的命中率為多少？假設不受 CPU 處理以外的因素影響。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/25_haru/img/12.png\" alt=\"\"\u003e",
+                   "q":  "在圖示的架構中，有兩款 CPU X 與 Y，除如表所示的快取記憶體與主記憶體存取時間不同外，其他條件皆相同。\u003cbr\u003e某個程式在 CPU X 與 Y 上分別執行時，兩者的處理時間相同。此時，快取記憶體的命中率為多少？假設不受 CPU 處理以外的因素影響。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/25_haru/img/12.png\" alt=\"\"\u003e",
                    "op":  [
                               "0.75",
                               "0.90",

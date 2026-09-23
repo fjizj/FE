@@ -3,7 +3,7 @@
         "ja":  {
                    "ti":  "平成20年秋期　問42",
                    "ca":  "テクノロジ系 » ユーザーインタフェース » UX/UIデザイン",
-                   "q":  "次のような注文データが入力されたとき，注文日が入力日以前の営業日かどうかを検査するために行うチェックはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/42.png\" alt=\"\"\u003e",
+                   "q":  "次のような注文データが入力されたとき，注文日が入力日以前の営業日かどうかを検査するために行うチェックはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/42.png\" alt=\"\"\u003e",
                    "op":  [
                               "シーケンスチェック",
                               "重複チェック",
@@ -16,7 +16,7 @@
         "zh":  {
                    "ti":  "平成20年秋季　問42",
                    "ca":  "技術系 » 使用者介面 » UX/UI設計",
-                   "q":  "當輸入下列所示的訂單資料時，為了檢查訂單日期是否在輸入日期之前的營業日，應執行哪一種檢查？\n\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/20_aki/img/42.png\" alt=\"\"\u003e\u003c/div\u003e",
+                   "q":  "當輸入下列所示的訂單資料時，為了檢查訂單日期是否在輸入日期之前的營業日，應執行哪一種檢查？\n\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/42.png\" alt=\"\"\u003e\u003c/div\u003e",
                    "op":  [
                               "序列檢查",
                               "重複檢查",
@@ -39,7 +39,7 @@
                               "パンくずリスト"
                           ],
                    "an":  4,
-                   "al":  "パンくずリストは、比較的大規模なWebサイトで、利用者が現在どこの階層のページにいるのかをユーザーに知らせ、現在位置を見失わないようにする目的で設置されるユーザーインタフェース(UI)部品です。各文字列がそれぞれのページへのハイパーリンクとして機能し、Webサイトのナビゲーションを補助する役割を持っています。この「パンくずリスト」という名前は、童話「ヘンゼルとグレーテル」で主人公の男の子が森で迷わないように、通った道にパンくずを置いて行った話に由来しています。当Webサイトの左上のタイトルロゴ下に配置されているのが、正に\"パンくずリスト\"です。\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/24.png\" alt=\"\"\u003e"
+                   "al":  "パンくずリストは、比較的大規模なWebサイトで、利用者が現在どこの階層のページにいるのかをユーザーに知らせ、現在位置を見失わないようにする目的で設置されるユーザーインタフェース(UI)部品です。各文字列がそれぞれのページへのハイパーリンクとして機能し、Webサイトのナビゲーションを補助する役割を持っています。この「パンくずリスト」という名前は、童話「ヘンゼルとグレーテル」で主人公の男の子が森で迷わないように、通った道にパンくずを置いて行った話に由来しています。当Webサイトの左上のタイトルロゴ下に配置されているのが、正に\"パンくずリスト\"です。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/24.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成27年秋期　問24",
@@ -52,7 +52,7 @@
                               "麵包屑導覽"
                           ],
                    "an":  4,
-                   "al":  "麵包屑導覽（Breadcrumb navigation）是一種設置於較大型網站的使用者介面（UI）元件，旨在讓使用者知道目前位於網站的哪一層級，以避免迷失方向。每個字串都具備連結至對應頁面的超連結功能，起到輔助網站導覽的作用。此名稱源自童話故事「糖果屋」（韓賽爾與葛麗特），主角為了在森林中不迷路，沿途撒下麵包屑作為標記。本網站左上方標題Logo下方所配置的，正是「麵包屑導覽」。\u003cimg src=\"https://www.sg-siken.com/kakomon/27_aki/img/24.png\" alt=\"\"\u003e"
+                   "al":  "麵包屑導覽（Breadcrumb navigation）是一種設置於較大型網站的使用者介面（UI）元件，旨在讓使用者知道目前位於網站的哪一層級，以避免迷失方向。每個字串都具備連結至對應頁面的超連結功能，起到輔助網站導覽的作用。此名稱源自童話故事「糖果屋」（韓賽爾與葛麗特），主角為了在森林中不迷路，沿途撒下麵包屑作為標記。本網站左上方標題Logo下方所配置的，正是「麵包屑導覽」。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/24.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -67,7 +67,7 @@
                               "特定の項目を選択することによって表示される一覧形式の項目の中から一つを選ぶ。"
                           ],
                    "an":  3,
-                   "al":  "GUI(Graphical User Interface)とは、アイコンなどの画像とマウスなどのポインティングデバイスを使って、直感的な操作でコンピュータを操作することのできるユーザーインタフェースのことです。ラジオボタン(Radio Button)は、\"同意する／同意しない\"のように、互いに排他的な複数の項目の中から1つだけを選択させる場合に使われるコントロールです。試験のマークシートをイメージするとわかりやすいでしょう。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/24_1.png\" alt=\"\"\u003e"
+                   "al":  "GUI(Graphical User Interface)とは、アイコンなどの画像とマウスなどのポインティングデバイスを使って、直感的な操作でコンピュータを操作することのできるユーザーインタフェースのことです。ラジオボタン(Radio Button)は、\"同意する／同意しない\"のように、互いに排他的な複数の項目の中から1つだけを選択させる場合に使われるコントロールです。試験のマークシートをイメージするとわかりやすいでしょう。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/24_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成31年春季 問24",
@@ -80,14 +80,14 @@
                               "透過選擇特定項目，從顯示出的清單格式項目中選擇一個。"
                           ],
                    "an":  3,
-                   "al":  "GUI (Graphical User Interface) 是指能夠使用圖示等影像，並透過滑鼠等指標裝置，以直覺式操作來使用電腦的使用者介面。選項按鈕 (Radio Button) 是一種控制項，用於從多個互斥（例如「同意／不同意」）的項目中僅選擇其中一個的情況。想像考試用的劃卡答案卷就很容易理解了。\u003cimg src=\"https://www.sg-siken.com/kakomon/31_haru/img/24_1.png\" alt=\"\"\u003e"
+                   "al":  "GUI (Graphical User Interface) 是指能夠使用圖示等影像，並透過滑鼠等指標裝置，以直覺式操作來使用電腦的使用者介面。選項按鈕 (Radio Button) 是一種控制項，用於從多個互斥（例如「同意／不同意」）的項目中僅選擇其中一個的情況。想像考試用的劃卡答案卷就很容易理解了。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/24_1.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "平成25年秋期　問26",
                    "ca":  "テクノロジ系 » ユーザーインタフェース » ユーザーインタフェース技術",
-                   "q":  "ある商店では，約200品目の商品を取り扱っている。商品データの新規登録画面の入力項目のうち，入力方式としてプルダウンメニューを用いるのが適しているものはどれか。\n\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/26.png\" alt=\"\"\u003e",
+                   "q":  "ある商店では，約200品目の商品を取り扱っている。商品データの新規登録画面の入力項目のうち，入力方式としてプルダウンメニューを用いるのが適しているものはどれか。\n\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/26.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -95,12 +95,12 @@
                               "エ"
                           ],
                    "an":  3,
-                   "al":  "プルダウンメニューは、ドロップダウンリストとも呼ばれ、決められた複数の選択肢の中からユーザーが項目を選択するためのGUI部品の1つです。項目をクリックすると選択可能な項目の一覧が下に向かって\"すだれ\"のように表示され、ユーザーはその中から適当な項目を選択できます。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/26a.png\" alt=\"\"\u003e"
+                   "al":  "プルダウンメニューは、ドロップダウンリストとも呼ばれ、決められた複数の選択肢の中からユーザーが項目を選択するためのGUI部品の1つです。項目をクリックすると選択可能な項目の一覧が下に向かって\"すだれ\"のように表示され、ユーザーはその中から適当な項目を選択できます。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/26a.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成25年秋期　問26",
                    "ca":  "技術系 » 使用者介面 » 使用者介面技術",
-                   "q":  "某商店經營約200項商品。在商品資料的新增登錄畫面中，下列哪一個輸入項目適合採用下拉式選單（Pull-down menu）作為輸入方式？\n\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/26.png\" alt=\"\"\u003e",
+                   "q":  "某商店經營約200項商品。在商品資料的新增登錄畫面中，下列哪一個輸入項目適合採用下拉式選單（Pull-down menu）作為輸入方式？\n\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/26.png\" alt=\"\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -108,7 +108,7 @@
                               "エ"
                           ],
                    "an":  3,
-                   "al":  "下拉式選單（Pull-down menu），也稱為下拉式清單（Drop-down list），是 GUI 元件之一，用於讓使用者從預先定義的多個選項中進行選擇。點擊該項目後，可選擇的項目清單會像「簾子」般向下方展開，使用者可從中選擇適當的項目。\u003cimg src=\"https://www.sg-siken.com/kakomon/25_aki/img/26a.png\" alt=\"\"\u003e"
+                   "al":  "下拉式選單（Pull-down menu），也稱為下拉式清單（Drop-down list），是 GUI 元件之一，用於讓使用者從預先定義的多個選項中進行選擇。點擊該項目後，可選擇的項目清單會像「簾子」般向下方展開，使用者可從中選擇適當的項目。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/26a.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -255,7 +255,7 @@
         "ja":  {
                    "ti":  "平成23年秋期　問28",
                    "ca":  "テクノロジ系 » ユーザーインタフェース » UX/UIデザイン",
-                   "q":  "次のような注文データが入力されたとき，注文日が入力日以前の営業日かどうかを検査するために行うチェックはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/28.png\" alt=\"問28画像\"\u003e",
+                   "q":  "次のような注文データが入力されたとき，注文日が入力日以前の営業日かどうかを検査するために行うチェックはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/28.png\" alt=\"問28画像\"\u003e",
                    "op":  [
                               "シーケンスチェック",
                               "重複チェック",
@@ -268,7 +268,7 @@
         "zh":  {
                    "ti":  "平成23年秋季 問28",
                    "ca":  "技術系 » 使用者介面 » UX/UI設計",
-                   "q":  "當輸入如下的訂單資料時，為了檢查「訂單日期」是否為「輸入日期」當天或之前的營業日，應進行下列哪一項檢查？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/23_aki/img/28.png\" alt=\"問28圖片\"\u003e",
+                   "q":  "當輸入如下的訂單資料時，為了檢查「訂單日期」是否為「輸入日期」當天或之前的營業日，應進行下列哪一項檢查？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/28.png\" alt=\"問28圖片\"\u003e",
                    "op":  [
                               "順序檢查 (Sequence Check)",
                               "重複檢查 (Duplicate Check)",
@@ -367,7 +367,7 @@
         "ja":  {
                    "ti":  "平成28年秋期　問24",
                    "ca":  "テクノロジ系 » ユーザーインタフェース » UX/UIデザイン",
-                   "q":  "次のような注文データが入力されたとき，注文日が入力日以前の営業日かどうかを検査するために行うチェックはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/24.png\" alt=\"\"\u003e",
+                   "q":  "次のような注文データが入力されたとき，注文日が入力日以前の営業日かどうかを検査するために行うチェックはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/24.png\" alt=\"\"\u003e",
                    "op":  [
                               "シーケンスチェック",
                               "重複チェック",
@@ -380,7 +380,7 @@
         "zh":  {
                    "ti":  "平成28年秋期　問24",
                    "ca":  "技術系 » 使用者介面 » UX/UI設計",
-                   "q":  "當輸入如下的訂單資料時，為了檢查訂單日期是否為輸入日期當日或之前的營業日，應執行下列哪項檢查？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/28_aki/img/24.png\" alt=\"\"\u003e",
+                   "q":  "當輸入如下的訂單資料時，為了檢查訂單日期是否為輸入日期當日或之前的營業日，應執行下列哪項檢查？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/24.png\" alt=\"\"\u003e",
                    "op":  [
                               "順序檢查 (Sequence Check)",
                               "重複檢查 (Duplicate Check)",
@@ -423,7 +423,7 @@
         "ja":  {
                    "ti":  "平成30年春期　問24",
                    "ca":  "テクノロジ系 » ユーザーインタフェース » UX/UIデザイン",
-                   "q":  "次のような注文データが入力されたとき，注文日が入力日以前の営業日かどうかを検査するチェックはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/24.png\" alt=\"\"\u003e",
+                   "q":  "次のような注文データが入力されたとき，注文日が入力日以前の営業日かどうかを検査するチェックはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/24.png\" alt=\"\"\u003e",
                    "op":  [
                               "シーケンスチェック",
                               "重複チェック",
@@ -436,7 +436,7 @@
         "zh":  {
                    "ti":  "平成30年春季 問24",
                    "ca":  "技術系 » 使用者介面 » UX/UI設計",
-                   "q":  "當輸入如下訂單資料時，檢查訂單日期是否為輸入日期（含）以前的營業日，屬於哪一種檢查？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/30_haru/img/24.png\" alt=\"\"\u003e",
+                   "q":  "當輸入如下訂單資料時，檢查訂單日期是否為輸入日期（含）以前的營業日，屬於哪一種檢查？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/24.png\" alt=\"\"\u003e",
                    "op":  [
                               "順序檢查 (Sequence Check)",
                               "重複檢查 (Duplicate Check)",
@@ -543,7 +543,7 @@
                               "特定の項目を選択することによって表示される一覧形式の項目の中から一つを選ぶ。"
                           ],
                    "an":  3,
-                   "al":  "GUI(Graphical User Interface)とは、アイコンなどの画像とマウスなどのポインティングデバイスを使って、直感的な操作でコンピュータを操作することのできるユーザーインタフェースのことです。ラジオボタン(Radio Button)は、\"同意する／同意しない\"のように、互いに排他的な複数の項目の中から1つだけを選択させる場合に使われるコントロールです。試験のマークシートをイメージするとわかりやすいでしょう。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/26_1.png\" alt=\"\"\u003e"
+                   "al":  "GUI(Graphical User Interface)とは、アイコンなどの画像とマウスなどのポインティングデバイスを使って、直感的な操作でコンピュータを操作することのできるユーザーインタフェースのことです。ラジオボタン(Radio Button)は、\"同意する／同意しない\"のように、互いに排他的な複数の項目の中から1つだけを選択させる場合に使われるコントロールです。試験のマークシートをイメージするとわかりやすいでしょう。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/26_1.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成21年春季 問26",
@@ -556,14 +556,14 @@
                               "透過選擇特定項目，從顯示出的清單格式項目中選擇一個。"
                           ],
                    "an":  3,
-                   "al":  "GUI (Graphical User Interface) 是指透過圖示等影像，搭配滑鼠等指標設備，以直覺式操作來使用電腦的使用者介面。選項按鈕 (Radio Button) 是在諸如「同意／不同意」這類互斥的多個選項中，僅能選取其中一項時所使用的控制項。想像考試的劃卡答案紙就很容易理解了。\u003cimg src=\"https://www.sg-siken.com/kakomon/21_haru/img/26_1.png\" alt=\"\"\u003e"
+                   "al":  "GUI (Graphical User Interface) 是指透過圖示等影像，搭配滑鼠等指標設備，以直覺式操作來使用電腦的使用者介面。選項按鈕 (Radio Button) 是在諸如「同意／不同意」這類互斥的多個選項中，僅能選取其中一項時所使用的控制項。想像考試的劃卡答案紙就很容易理解了。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/26_1.png\" alt=\"\"\u003e"
                }
     },
     {
         "ja":  {
                    "ti":  "令和2年度　問23",
                    "ca":  "テクノロジ系 » ユーザーインタフェース » ユーザーインタフェース技術",
-                   "q":  "ある商店では，約200品目の商品を取り扱っている。商品データの新規登録画面の入力項目のうち，入力方式としてプルダウンメニューを用いるのが適しているものはどれか。\n\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/23.png\" alt=\"23.png\"\u003e",
+                   "q":  "ある商店では，約200品目の商品を取り扱っている。商品データの新規登録画面の入力項目のうち，入力方式としてプルダウンメニューを用いるのが適しているものはどれか。\n\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/23.png\" alt=\"23.png\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -571,12 +571,12 @@
                               "エ"
                           ],
                    "an":  3,
-                   "al":  "プルダウンメニューは、ドロップダウンリストとも呼ばれ、決められた複数の選択肢の中からユーザーが項目を選択するためのGUI部品の1つです。項目をクリックすると選択可能な項目の一覧が下に向かって\"すだれ\"のように表示され、ユーザーはその中から適当な項目を選択できます。\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/23a.png\" alt=\"23a.png\"\u003e"
+                   "al":  "プルダウンメニューは、ドロップダウンリストとも呼ばれ、決められた複数の選択肢の中からユーザーが項目を選択するためのGUI部品の1つです。項目をクリックすると選択可能な項目の一覧が下に向かって\"すだれ\"のように表示され、ユーザーはその中から適当な項目を選択できます。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/23a.png\" alt=\"23a.png\"\u003e"
                },
         "zh":  {
                    "ti":  "令和2年度 問23",
                    "ca":  "技術系 » 使用者介面 » 使用者介面技術",
-                   "q":  "某商店經營約 200 種商品。在商品資料新增註冊畫面的輸入項目中，最適合採用下拉式選單（Pull-down menu）作為輸入方式的是下列哪一項？\n\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/23.png\" alt=\"23.png\"\u003e",
+                   "q":  "某商店經營約 200 種商品。在商品資料新增註冊畫面的輸入項目中，最適合採用下拉式選單（Pull-down menu）作為輸入方式的是下列哪一項？\n\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/23.png\" alt=\"23.png\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -584,7 +584,7 @@
                               "エ"
                           ],
                    "an":  3,
-                   "al":  "下拉式選單（Pull-down menu）又稱為下拉式清單（Drop-down list），是一種讓使用者從預先定義的多個選項中選擇項目的 GUI 元件。點擊該項目後，可選擇的項目清單會像「簾子」一樣向下展開，使用者可從中選擇適當的項目。\u003cimg src=\"https://www.sg-siken.com/kakomon/02_menjo/img/23a.png\" alt=\"23a.png\"\u003e"
+                   "al":  "下拉式選單（Pull-down menu）又稱為下拉式清單（Drop-down list），是一種讓使用者從預先定義的多個選項中選擇項目的 GUI 元件。點擊該項目後，可選擇的項目清單會像「簾子」一樣向下展開，使用者可從中選擇適當的項目。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/23a.png\" alt=\"23a.png\"\u003e"
                }
     },
     {
@@ -619,7 +619,7 @@
         "ja":  {
                    "ti":  "平成18年春期　問48",
                    "ca":  "テクノロジ系 » ユーザーインタフェース » UX/UIデザイン",
-                   "q":  "バーコードには，検査数字(チェックディジット)を付加するのが一般的である。JANコード(標準タイプ，13けた)では，12けたの数の検査数字を次の方式で算出している。この方式で算出した図のバーコード(123456789012)の検査数字として適切な値はどれか。\u003cbr\u003e\u003cbr\u003e〔JANコードにおける検査数字の算出及び付加方式〕\u003cul\u003e\u003cli class=\"li1\"\u003e検査数字を付加する前の右端の数字の位置を奇数けたとし，左に向かって交互に奇数けたと偶数けたとする。\u003c/li\u003e\u003cli class=\"li2\"\u003e偶数けたの数字の合計を求める。\u003c/li\u003e\u003cli class=\"li3\"\u003e奇数けたの数字の合計を求め，その値を3倍する。\u003c/li\u003e\u003cli class=\"li4\"\u003e(2)と(3)の合計を求める。\u003c/li\u003e\u003cli class=\"li5\"\u003e(4)の値の1の位の数字を10から引く。ただし，1の位が0のときは0とする。例えば，(4)の値が123のときは10－3＝7，120のときは0とする。\u003c/li\u003e\u003cli class=\"li6\"\u003e(5)で求めた数字を検査数字とし，右端けたの右に付加する。\u003c/li\u003e\u003c/ul\u003e\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/48.png\" alt=\"\"\u003e",
+                   "q":  "バーコードには，検査数字(チェックディジット)を付加するのが一般的である。JANコード(標準タイプ，13けた)では，12けたの数の検査数字を次の方式で算出している。この方式で算出した図のバーコード(123456789012)の検査数字として適切な値はどれか。\u003cbr\u003e\u003cbr\u003e〔JANコードにおける検査数字の算出及び付加方式〕\u003cul\u003e\u003cli class=\"li1\"\u003e検査数字を付加する前の右端の数字の位置を奇数けたとし，左に向かって交互に奇数けたと偶数けたとする。\u003c/li\u003e\u003cli class=\"li2\"\u003e偶数けたの数字の合計を求める。\u003c/li\u003e\u003cli class=\"li3\"\u003e奇数けたの数字の合計を求め，その値を3倍する。\u003c/li\u003e\u003cli class=\"li4\"\u003e(2)と(3)の合計を求める。\u003c/li\u003e\u003cli class=\"li5\"\u003e(4)の値の1の位の数字を10から引く。ただし，1の位が0のときは0とする。例えば，(4)の値が123のときは10－3＝7，120のときは0とする。\u003c/li\u003e\u003cli class=\"li6\"\u003e(5)で求めた数字を検査数字とし，右端けたの右に付加する。\u003c/li\u003e\u003c/ul\u003e\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/48.png\" alt=\"\"\u003e",
                    "op":  [
                               "0",
                               "3",
@@ -632,7 +632,7 @@
         "zh":  {
                    "ti":  "平成18年春期　問48",
                    "ca":  "技術系 » 使用者介面 » UX/UI設計",
-                   "q":  "條碼通常會附加檢查碼（Check Digit）。在 JAN 碼（標準型，13位數）中，是透過下列方式計算 12 位數的檢查碼。請問根據此方式，圖中條碼（123456789012）的檢查碼應為下列何者？\u003cbr\u003e\u003cbr\u003e〔JAN 碼檢查碼的計算與附加方式〕\u003cul\u003e\u003cli class=\"li1\"\u003e將附加檢查碼前的最右側數字位置定為奇數位，向左依序交替為奇數位與偶數位。\u003c/li\u003e\u003cli class=\"li2\"\u003e計算偶數位數字的總和。\u003c/li\u003e\u003cli class=\"li3\"\u003e計算奇數位數字的總和，並將該數值乘以 3。\u003c/li\u003e\u003cli class=\"li4\"\u003e計算 (2) 與 (3) 的總和。\u003c/li\u003e\u003cli class=\"li5\"\u003e將 (4) 的數值之個位數從 10 中減去。若個位數為 0，則結果為 0。例如：(4) 的數值為 123 時，10－3＝7；若為 120 時，則為 0。\u003c/li\u003e\u003cli class=\"li6\"\u003e將 (5) 所求得的數字作為檢查碼，附加在最右位數的右側。\u003c/li\u003e\u003c/ul\u003e\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.sg-siken.com/kakomon/18_haru/img/48.png\" alt=\"\"\u003e",
+                   "q":  "條碼通常會附加檢查碼（Check Digit）。在 JAN 碼（標準型，13位數）中，是透過下列方式計算 12 位數的檢查碼。請問根據此方式，圖中條碼（123456789012）的檢查碼應為下列何者？\u003cbr\u003e\u003cbr\u003e〔JAN 碼檢查碼的計算與附加方式〕\u003cul\u003e\u003cli class=\"li1\"\u003e將附加檢查碼前的最右側數字位置定為奇數位，向左依序交替為奇數位與偶數位。\u003c/li\u003e\u003cli class=\"li2\"\u003e計算偶數位數字的總和。\u003c/li\u003e\u003cli class=\"li3\"\u003e計算奇數位數字的總和，並將該數值乘以 3。\u003c/li\u003e\u003cli class=\"li4\"\u003e計算 (2) 與 (3) 的總和。\u003c/li\u003e\u003cli class=\"li5\"\u003e將 (4) 的數值之個位數從 10 中減去。若個位數為 0，則結果為 0。例如：(4) 的數值為 123 時，10－3＝7；若為 120 時，則為 0。\u003c/li\u003e\u003cli class=\"li6\"\u003e將 (5) 所求得的數字作為檢查碼，附加在最右位數的右側。\u003c/li\u003e\u003c/ul\u003e\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/48.png\" alt=\"\"\u003e",
                    "op":  [
                               "0",
                               "3",
@@ -705,26 +705,26 @@
                    "ca":  "テクノロジ系 » ユーザーインタフェース » UX/UIデザイン",
                    "q":  "A社では，優良顧客について調査することになった。優良顧客は，最近購入実績があり，かつ購入金額の多い顧客とする。優良顧客の選定基準を決めるために，最近の1か月，2か月，3か月，… について，期間ごとに購入金額ごとの顧客数を求めて，顧客購入分析表を作成することにした。最も適切な顧客購入分析表はどれか。",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/23a.png\" alt=\"23a.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/23i.png\" alt=\"23i.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/23u.png\" alt=\"23u.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/23e.png\" alt=\"23e.png\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/23a.png\" alt=\"23a.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/23i.png\" alt=\"23i.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/23u.png\" alt=\"23u.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/23e.png\" alt=\"23e.png\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "[1]\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/23a.png\" alt=\"23a.png\"\u003e購入金額が多いグループが上位に並ぶようになっています。優良顧客となるべきグループが離れて配置されることになるので、分析表としては使いにくく不適切です。 [2]\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/23i.png\" alt=\"23i.png\"\u003e購入時期が近いグループが上位に並ぶようになっています。優良顧客となるべきグループが離れて配置されることになるので、分析表としては使いにくく不適切です。 [3]\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/23u.png\" alt=\"23u.png\"\u003e正しい。分割表を用いることにより、全体の分布が明らかになり、優良顧客の対象となるグループが左上に集まっています。これにより、選定基準を決めるのに見やすい図となっています。 [4]\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/23e.png\" alt=\"23e.png\"\u003e購入金額や購入実績に関係なく、顧客数の多いグループが上位になっています。優良顧客となるべきグループがバラバラに配置されているので不適切です。"
+                   "al":  "[1]\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/23a.png\" alt=\"23a.png\"\u003e購入金額が多いグループが上位に並ぶようになっています。優良顧客となるべきグループが離れて配置されることになるので、分析表としては使いにくく不適切です。 [2]\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/23i.png\" alt=\"23i.png\"\u003e購入時期が近いグループが上位に並ぶようになっています。優良顧客となるべきグループが離れて配置されることになるので、分析表としては使いにくく不適切です。 [3]\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/23u.png\" alt=\"23u.png\"\u003e正しい。分割表を用いることにより、全体の分布が明らかになり、優良顧客の対象となるグループが左上に集まっています。これにより、選定基準を決めるのに見やすい図となっています。 [4]\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/23e.png\" alt=\"23e.png\"\u003e購入金額や購入実績に関係なく、顧客数の多いグループが上位になっています。優良顧客となるべきグループがバラバラに配置されているので不適切です。"
                },
         "zh":  {
                    "ti":  "令和4年度 問23",
                    "ca":  "技術系 » 使用者介面 » UX/UI設計",
                    "q":  "A公司決定針對優良顧客進行調查。所謂優良顧客，定義為「近期有購買實績」且「購買金額高」的顧客。為了決定優良顧客的篩選標準，決定製作一份「顧客購買分析表」，針對最近的1個月、2個月、3個月……等各個期間，統計各購買金額區間的顧客人數。請問哪一個顧客購買分析表最為合適？",
                    "op":  [
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/23a.png\" alt=\"23a.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/23i.png\" alt=\"23i.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/23u.png\" alt=\"23u.png\"\u003e",
-                              "\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/23e.png\" alt=\"23e.png\"\u003e"
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/23a.png\" alt=\"23a.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/23i.png\" alt=\"23i.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/23u.png\" alt=\"23u.png\"\u003e",
+                              "\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/23e.png\" alt=\"23e.png\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "[1]\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/23a.png\" alt=\"23a.png\"\u003e購買金額高的群組排列在上方。由於應定義為優良顧客的群組被分散配置，作為分析表而言難以使用，不適當。[2]\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/23i.png\" alt=\"23i.png\"\u003e購買時期近的群組排列在上方。由於應定義為優良顧客的群組被分散配置，作為分析表而言難以使用，不適當。[3]\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/23u.png\" alt=\"23u.png\"\u003e正確。透過使用交叉分析表（Contingency table），可以清楚呈現整體的分布情形，且目標客群（優良顧客）會集中在左上方。這使得該圖表在決定篩選標準時非常易於閱讀。[4]\u003cimg src=\"https://www.sg-siken.com/kakomon/04_menjo/img/23e.png\" alt=\"23e.png\"\u003e不論購買金額或購買實績為何，僅以顧客人數多的群組排在上方。由於應定義為優良顧客的群組被零散配置，因此不適當。"
+                   "al":  "[1]\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/23a.png\" alt=\"23a.png\"\u003e購買金額高的群組排列在上方。由於應定義為優良顧客的群組被分散配置，作為分析表而言難以使用，不適當。[2]\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/23i.png\" alt=\"23i.png\"\u003e購買時期近的群組排列在上方。由於應定義為優良顧客的群組被分散配置，作為分析表而言難以使用，不適當。[3]\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/23u.png\" alt=\"23u.png\"\u003e正確。透過使用交叉分析表（Contingency table），可以清楚呈現整體的分布情形，且目標客群（優良顧客）會集中在左上方。這使得該圖表在決定篩選標準時非常易於閱讀。[4]\u003cimg src=\"https://www.fe-siken.com/kakomon/04_menjo/img/23e.png\" alt=\"23e.png\"\u003e不論購買金額或購買實績為何，僅以顧客人數多的群組排在上方。由於應定義為優良顧客的群組被零散配置，因此不適當。"
                }
     },
     {
