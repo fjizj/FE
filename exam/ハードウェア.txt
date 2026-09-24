@@ -115,12 +115,12 @@
         "ja":  {
                    "ti":  "平成18年春期　問16",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "NAND回路による次の組合せ回路の出力Zを表す式はどれか。ここで，\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/nand.png\" alt=\"NAND回路\"\u003e は NAND 回路，・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eは X の否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/16.png\" alt=\"論理回路図\"\u003e",
+                   "q":  "NAND回路による次の組合せ回路の出力Zを表す式はどれか。ここで，\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/nand.png\" alt=\"NAND回路\"\u003e は NAND 回路，・は論理積，＋は論理和，<span style='text-decoration: overline;'>X\u003c/span\u003eは X の否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/16.png\" alt=\"論理回路図\"\u003e",
                    "op":  [
                               "X・Y",
                               "X＋Y",
-                              "\u003cspan class=\"ol\"\u003eX＋Y",
-                              "\u003cspan class=\"ol\"\u003eX・Y"
+                              "<span style='text-decoration: overline;'>X＋Y",
+                              "<span style='text-decoration: overline;'>X・Y"
                           ],
                    "an":  2,
                    "al":  "NAND回路は、NAND(Not AND)の名称どおりAND回路の逆を出力する回路で、2つの入力がともに\"1\"のときだけ\"0\"を出力し、それ以外の入力では\"1\"を出力します。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/16_1.png\" alt=\"NAND回路図\"\u003e"
@@ -128,12 +128,12 @@
         "zh":  {
                    "ti":  "平成18年春季 問16",
                    "ca":  "科技系 » 硬體 » 硬體",
-                   "q":  "下圖由 NAND 電路組成的組合邏輯電路，其輸出 Z 的邏輯式為何？在此，\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/nand.png\" alt=\"NAND電路\"\u003e 代表 NAND 電路，・代表邏輯乘（AND），＋代表邏輯加（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e 代表 X 的反相（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/16.png\" alt=\"邏輯電路圖\"\u003e",
+                   "q":  "下圖由 NAND 電路組成的組合邏輯電路，其輸出 Z 的邏輯式為何？在此，\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/nand.png\" alt=\"NAND電路\"\u003e 代表 NAND 電路，・代表邏輯乘（AND），＋代表邏輯加（OR），<span style='text-decoration: overline;'>X\u003c/span\u003e 代表 X 的反相（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/16.png\" alt=\"邏輯電路圖\"\u003e",
                    "op":  [
                               "X・Y",
                               "X＋Y",
-                              "\u003cspan class=\"ol\"\u003eX＋Y",
-                              "\u003cspan class=\"ol\"\u003eX・Y"
+                              "<span style='text-decoration: overline;'>X＋Y",
+                              "<span style='text-decoration: overline;'>X・Y"
                           ],
                    "an":  2,
                    "al":  "NAND 電路正如其名（Not AND），是將 AND 電路的輸出取反的電路。當兩個輸入皆為 \"1\" 時輸出為 \"0\"，其他情況下輸出均為 \"1\"。\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/16_1.png\" alt=\"NAND電路圖\"\u003e"
@@ -199,7 +199,7 @@
         "ja":  {
                    "ti":  "平成25年秋期　問25",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "論理式X＝\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・B＋A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・\u003cspan class=\"ol\"\u003eB\u003c/span\u003eと同じ結果が得られる論理回路はどれか。ここで，論理式中の・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの否定を表す。",
+                   "q":  "論理式X＝<span style='text-decoration: overline;'>A\u003c/span\u003e・B＋A・<span style='text-decoration: overline;'>B\u003c/span\u003e＋<span style='text-decoration: overline;'>A\u003c/span\u003e・<span style='text-decoration: overline;'>B\u003c/span\u003eと同じ結果が得られる論理回路はどれか。ここで，論理式中の・は論理積，＋は論理和，<span style='text-decoration: overline;'>X\u003c/span\u003eはXの否定を表す。",
                    "op":  [
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/25a.png\" alt=\"\"\u003e",
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/25i.png\" alt=\"\"\u003e",
@@ -212,7 +212,7 @@
         "zh":  {
                    "ti":  "平成25年秋季 問25",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "與邏輯式 X＝\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・B＋A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e 得到相同結果的邏輯電路為何？在此，邏輯式中的「・」表示邏輯積（AND），「＋」表示邏輯和（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e 表示 X 的反相（NOT）。",
+                   "q":  "與邏輯式 X＝<span style='text-decoration: overline;'>A\u003c/span\u003e・B＋A・<span style='text-decoration: overline;'>B\u003c/span\u003e＋<span style='text-decoration: overline;'>A\u003c/span\u003e・<span style='text-decoration: overline;'>B\u003c/span\u003e 得到相同結果的邏輯電路為何？在此，邏輯式中的「・」表示邏輯積（AND），「＋」表示邏輯和（OR），<span style='text-decoration: overline;'>X\u003c/span\u003e 表示 X 的反相（NOT）。",
                    "op":  [
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/25a.png\" alt=\"\"\u003e",
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/25i.png\" alt=\"\"\u003e",
@@ -535,12 +535,12 @@
         "ja":  {
                    "ti":  "平成27年春期　問23",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図に示すデジタル回路と等価な論理式はどれか。ここで，論理式中の・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/23.png\" alt=\"\"\u003e",
+                   "q":  "図に示すデジタル回路と等価な論理式はどれか。ここで，論理式中の・は論理積，＋は論理和，<span style='text-decoration: overline;'>X\u003c/span\u003eはXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/23.png\" alt=\"\"\u003e",
                    "op":  [
-                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA・B",
-                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA",
-                              "X＝A・\u003cspan class=\"ol\"\u003eB",
-                              "X＝(\u003cspan class=\"ol\"\u003eA"
+                              "X＝A・B＋<span style='text-decoration: overline;'>A・B",
+                              "X＝A・B＋<span style='text-decoration: overline;'>A",
+                              "X＝A・<span style='text-decoration: overline;'>B",
+                              "X＝(<span style='text-decoration: overline;'>A"
                           ],
                    "an":  3,
                    "al":  "複雑な論理回路図の問題では、手間はかかりますが確実に答えがでる方法で解くのがおすすめです。まず(A=0, B=0),(A=1, B=0),(A=0, B=1),(A=1, B=1)の4つのケースについて回路図を追跡し、結果Xを真理値表にまとめます。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/23a.png\" alt=\"\"\u003e"
@@ -548,12 +548,12 @@
         "zh":  {
                    "ti":  "平成27年春季 問23",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "下列何者為圖示數位電路之等效邏輯式？在此，邏輯式中的「・」代表邏輯乘（AND），「＋」代表邏輯和（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/23.png\" alt=\"\"\u003e",
+                   "q":  "下列何者為圖示數位電路之等效邏輯式？在此，邏輯式中的「・」代表邏輯乘（AND），「＋」代表邏輯和（OR），<span style='text-decoration: overline;'>X\u003c/span\u003e代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/23.png\" alt=\"\"\u003e",
                    "op":  [
-                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA・B\u003c/span\u003e",
-                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e",
-                              "X＝A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e",
-                              "X＝(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e"
+                              "X＝A・B＋<span style='text-decoration: overline;'>A・B\u003c/span\u003e",
+                              "X＝A・B＋<span style='text-decoration: overline;'>A\u003c/span\u003e",
+                              "X＝A・<span style='text-decoration: overline;'>B\u003c/span\u003e",
+                              "X＝(<span style='text-decoration: overline;'>A\u003c/span\u003e"
                           ],
                    "an":  3,
                    "al":  "對於複雜的邏輯電路圖問題，雖然較為費時，但建議使用能確保得到答案的方法來解題。首先，針對(A=0, B=0)、(A=1, B=0)、(A=0, B=1)、(A=1, B=1)這四種情況追蹤電路圖，並將結果X整理成真值表。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/23a.png\" alt=\"\"\u003e"
@@ -1487,12 +1487,12 @@
         "ja":  {
                    "ti":  "平成29年秋期　問23",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図に示すデジタル回路と等価な論理式はどれか。ここで，論理式中の\"・\"は論理積，\"＋\"は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/23.png\" alt=\"\"\u003e",
+                   "q":  "図に示すデジタル回路と等価な論理式はどれか。ここで，論理式中の\"・\"は論理積，\"＋\"は論理和，<span style='text-decoration: overline;'>X\u003c/span\u003eはXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/23.png\" alt=\"\"\u003e",
                    "op":  [
-                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA・B",
-                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA",
-                              "X＝A・\u003cspan class=\"ol\"\u003eB",
-                              "X＝(\u003cspan class=\"ol\"\u003eA"
+                              "X＝A・B＋<span style='text-decoration: overline;'>A・B",
+                              "X＝A・B＋<span style='text-decoration: overline;'>A",
+                              "X＝A・<span style='text-decoration: overline;'>B",
+                              "X＝(<span style='text-decoration: overline;'>A"
                           ],
                    "an":  3,
                    "al":  "複雑な論理回路図の問題では、手間はかかりますが確実に答えがでる方法で解くのがおすすめです。まず(A=0, B=0),(A=1, B=0),(A=0, B=1),(A=1, B=1)の4つのケースについて回路図を追跡し、結果Xを真理値表にまとめます。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/23a.png\" alt=\"\"\u003e"
@@ -1500,12 +1500,12 @@
         "zh":  {
                    "ti":  "平成29年秋季 問23",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "圖中所示的數位電路，其等價的邏輯式為何？在此，邏輯式中的「・」代表邏輯積（AND），「＋」代表邏輯和（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/23.png\" alt=\"\"\u003e",
+                   "q":  "圖中所示的數位電路，其等價的邏輯式為何？在此，邏輯式中的「・」代表邏輯積（AND），「＋」代表邏輯和（OR），<span style='text-decoration: overline;'>X\u003c/span\u003e代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/23.png\" alt=\"\"\u003e",
                    "op":  [
-                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA・B\u003c/span\u003e",
-                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e",
-                              "X＝A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e",
-                              "X＝(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e"
+                              "X＝A・B＋<span style='text-decoration: overline;'>A・B\u003c/span\u003e",
+                              "X＝A・B＋<span style='text-decoration: overline;'>A\u003c/span\u003e",
+                              "X＝A・<span style='text-decoration: overline;'>B\u003c/span\u003e",
+                              "X＝(<span style='text-decoration: overline;'>A\u003c/span\u003e"
                           ],
                    "an":  3,
                    "al":  "面對複雜的邏輯電路圖題目，雖然較花時間，但建議採用能確保得出正確答案的方法。首先，針對 (A=0, B=0)、(A=1, B=0)、(A=0, B=1)、(A=1, B=1) 這四種情況追蹤電路圖，並將結果 X 整理成真值表。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/23a.png\" alt=\"\"\u003e"
@@ -1571,12 +1571,12 @@
         "ja":  {
                    "ti":  "平成24年秋期　問22",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "NAND素子を用いた次の組合せ回路の出力Zを表す式はどれか。ここで，論理式中の\"・\"は論理積，\"＋\"は論理和，\"\u003cspan class=\"ol\"\u003eX\u003c/span\u003e\"はXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/22.png\" alt=\"問22画像\"\u003e",
+                   "q":  "NAND素子を用いた次の組合せ回路の出力Zを表す式はどれか。ここで，論理式中の\"・\"は論理積，\"＋\"は論理和，\"<span style='text-decoration: overline;'>X\u003c/span\u003e\"はXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/22.png\" alt=\"問22画像\"\u003e",
                    "op":  [
                               "X・Y",
                               "X＋Y",
-                              "\u003cspan class=\"ol\"\u003eX・Y",
-                              "\u003cspan class=\"ol\"\u003eX＋Y"
+                              "<span style='text-decoration: overline;'>X・Y",
+                              "<span style='text-decoration: overline;'>X＋Y"
                           ],
                    "an":  2,
                    "al":  "NAND回路は、NAND(Not AND)の名称どおりAND回路の逆を出力する回路で、2つの入力がともに\"1\"のときだけ\"0\"を出力し、それ以外の入力では\"1\"を出力します。\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/22_1.png\" alt=\"NAND回路図\"\u003e"
@@ -1584,12 +1584,12 @@
         "zh":  {
                    "ti":  "平成24年秋季 問22",
                    "ca":  "科技系 » 硬體 » 硬體",
-                   "q":  "使用NAND元件的下列組合邏輯電路，表示輸出Z的算式為何？在此，邏輯式中的「・」代表邏輯積（AND），「＋」代表邏輯和（OR），「\u003cspan class=\"ol\"\u003eX\u003c/span\u003e」代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/22.png\" alt=\"問22圖片\"\u003e",
+                   "q":  "使用NAND元件的下列組合邏輯電路，表示輸出Z的算式為何？在此，邏輯式中的「・」代表邏輯積（AND），「＋」代表邏輯和（OR），「<span style='text-decoration: overline;'>X\u003c/span\u003e」代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/22.png\" alt=\"問22圖片\"\u003e",
                    "op":  [
                               "X・Y",
                               "X＋Y",
-                              "\u003cspan class=\"ol\"\u003eX・Y",
-                              "\u003cspan class=\"ol\"\u003eX＋Y"
+                              "<span style='text-decoration: overline;'>X・Y",
+                              "<span style='text-decoration: overline;'>X＋Y"
                           ],
                    "an":  2,
                    "al":  "NAND電路正如其名（Not AND），是將AND電路的輸出進行反相的電路。只有在兩個輸入皆為「1」時才會輸出「0」，除此之外的輸入組合則皆輸出「1」。\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/22_1.png\" alt=\"NAND電路圖\"\u003e"
@@ -1683,7 +1683,7 @@
         "ja":  {
                    "ti":  "平成23年秋期　問26",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "論理式X＝\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・B＋A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・\u003cspan class=\"ol\"\u003eB\u003c/span\u003eと同じ結果が得られる論理回路はどれか。\u003cbr\u003eここで，論理式中の・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの否定を表す。",
+                   "q":  "論理式X＝<span style='text-decoration: overline;'>A\u003c/span\u003e・B＋A・<span style='text-decoration: overline;'>B\u003c/span\u003e＋<span style='text-decoration: overline;'>A\u003c/span\u003e・<span style='text-decoration: overline;'>B\u003c/span\u003eと同じ結果が得られる論理回路はどれか。\u003cbr\u003eここで，論理式中の・は論理積，＋は論理和，<span style='text-decoration: overline;'>X\u003c/span\u003eはXの否定を表す。",
                    "op":  [
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/26a.png\" alt=\"問26ア\"\u003e",
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/26i.png\" alt=\"問26イ\"\u003e",
@@ -1696,7 +1696,7 @@
         "zh":  {
                    "ti":  "平成23年秋季 第26題",
                    "ca":  "技術類 » 硬體 » 硬體",
-                   "q":  "下列哪一個邏輯電路能得到與邏輯式X＝\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・B＋A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e相同的結果？\u003cbr\u003e在此，邏輯式中的・代表邏輯積，＋代表邏輯和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003e代表X的反相（否定）。",
+                   "q":  "下列哪一個邏輯電路能得到與邏輯式X＝<span style='text-decoration: overline;'>A\u003c/span\u003e・B＋A・<span style='text-decoration: overline;'>B\u003c/span\u003e＋<span style='text-decoration: overline;'>A\u003c/span\u003e・<span style='text-decoration: overline;'>B\u003c/span\u003e相同的結果？\u003cbr\u003e在此，邏輯式中的・代表邏輯積，＋代表邏輯和，<span style='text-decoration: overline;'>X\u003c/span\u003e代表X的反相（否定）。",
                    "op":  [
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/26a.png\" alt=\"問26選項A\"\u003e",
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/23_aki/img/26i.png\" alt=\"問26選項B\"\u003e",
@@ -1795,12 +1795,12 @@
         "ja":  {
                    "ti":  "平成22年秋期　問24",
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
-                   "q":  "図に示すデジタル回路と等価な論理式はどれか。ここで，論理式中の・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/24.png\" alt=\"\"\u003e",
+                   "q":  "図に示すデジタル回路と等価な論理式はどれか。ここで，論理式中の・は論理積，＋は論理和，<span style='text-decoration: overline;'>X\u003c/span\u003eはXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/24.png\" alt=\"\"\u003e",
                    "op":  [
-                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA・B",
-                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA",
-                              "X＝A・\u003cspan class=\"ol\"\u003eB",
-                              "X＝(\u003cspan class=\"ol\"\u003eA"
+                              "X＝A・B＋<span style='text-decoration: overline;'>A・B",
+                              "X＝A・B＋<span style='text-decoration: overline;'>A",
+                              "X＝A・<span style='text-decoration: overline;'>B",
+                              "X＝(<span style='text-decoration: overline;'>A"
                           ],
                    "an":  3,
                    "al":  "複雑な論理回路図の問題では、手間はかかりますが確実に答えがでる方法で解くのがおすすめです。まず(A=0, B=0),(A=1, B=0),(A=0, B=1),(A=1, B=1)の4つのケースについて回路図を追跡し、結果Xを真理値表にまとめます。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/24a.png\" alt=\"\"\u003e"
@@ -1808,12 +1808,12 @@
         "zh":  {
                    "ti":  "平成22年秋期　問24",
                    "ca":  "技術系 » 硬體 » 硬體",
-                   "q":  "與圖中所示數位電路等效的邏輯運算式為何？在此，邏輯運算式中的「・」代表邏輯乘（AND），「＋」代表邏輯和（OR），「\u003cspan class=\"ol\"\u003eX\u003c/span\u003e」代表X的非（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/24.png\" alt=\"\"\u003e",
+                   "q":  "與圖中所示數位電路等效的邏輯運算式為何？在此，邏輯運算式中的「・」代表邏輯乘（AND），「＋」代表邏輯和（OR），「<span style='text-decoration: overline;'>X\u003c/span\u003e」代表X的非（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/24.png\" alt=\"\"\u003e",
                    "op":  [
-                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA・B\u003c/span\u003e",
-                              "X＝A・B＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e",
-                              "X＝A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e",
-                              "X＝(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e)"
+                              "X＝A・B＋<span style='text-decoration: overline;'>A・B\u003c/span\u003e",
+                              "X＝A・B＋<span style='text-decoration: overline;'>A\u003c/span\u003e",
+                              "X＝A・<span style='text-decoration: overline;'>B\u003c/span\u003e",
+                              "X＝(<span style='text-decoration: overline;'>A\u003c/span\u003e)"
                           ],
                    "an":  3,
                    "al":  "對於複雜的邏輯電路圖問題，建議使用雖然費時但能準確得出答案的方法來解題。首先針對(A=0, B=0), (A=1, B=0), (A=0, B=1), (A=1, B=1)這4種情況追蹤電路圖，並將結果X整理成真值表。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/24a.png\" alt=\"\"\u003e"
