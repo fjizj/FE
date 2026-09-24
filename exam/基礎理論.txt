@@ -31,7 +31,7 @@
         "ja":  {
                    "ti":  "平成18年春期　問7",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "次のベン図の網掛け部分(\u003cspan class=\"bb\" style=\"background-color:#999\"\u003e　\u003c/span\u003e)の集合を表す式はどれか。ここで，X∪Yは XとYの和集合， X∩Yは XとYの積集合，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの補集合を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/07.png\" alt=\"問7画像\"\u003e",
+                   "q":  "次のベン図の網掛け部分(\u003cspan class=\"bb\" style=\"background-color:#999\"\u003e　\u003c/span\u003e)の集合を表す式はどれか。ここで，X∪Yは XとYの和集合， X∩Yは XとYの積集合，<span style='text-decoration: overline;'>X\u003c/span\u003eはXの補集合を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/07.png\" alt=\"問7画像\"\u003e",
                    "op":  [
                               "<span style=\"text-decoration: overline;\">(A ∩ B ∩ C)</span> ∩ B",
                               "(A∪B)∩<span style=\"text-decoration: overline;\">C</span>",
@@ -44,7 +44,7 @@
         "zh":  {
                    "ti":  "平成18年春期 問7",
                    "ca":  "科技 » 基础理论 » 离散数学",
-                   "q":  "以下文氏图中阴影部分（\u003cspan class=\"bb\" style=\"background-color:#999\"\u003e　\u003c/span\u003e）所表示的集合是哪个表达式？其中，X∪Y表示X与Y的并集，X∩Y表示X与Y的交集，\u003cspan class=\"ol\"\u003eX\u003c/span\u003e表示X的补集。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/07.png\" alt=\"問7画像\"\u003e\u003c/div\u003e",
+                   "q":  "以下文氏图中阴影部分（\u003cspan class=\"bb\" style=\"background-color:#999\"\u003e　\u003c/span\u003e）所表示的集合是哪个表达式？其中，X∪Y表示X与Y的并集，X∩Y表示X与Y的交集，<span style='text-decoration: overline;'>X\u003c/span\u003e表示X的补集。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_haru/img/07.png\" alt=\"問7画像\"\u003e\u003c/div\u003e",
                    "op":  [
                               "<span style=\"text-decoration: overline;\">(A ∩ B ∩ C)</span> ∩ B",
                               "(A∪B)∩<span style=\"text-decoration: overline;\">C</span>",
@@ -67,7 +67,7 @@
                               "xを3ビット左にシフトした値にxを加算し，更に1ビット左にシフトする。"
                           ],
                    "an":  1,
-                   "al":  "ビットシフトを使用した乗算に関する問題です。2進数のビット列は、左にnビットシフトすると元の値と比べて「2n倍」、右にnビットシフトすると「1／2n倍（2-n倍）」になるという性質があります。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/04.png\" alt=\"\"\u003e"
+                   "al":  "ビットシフトを使用した乗算に関する問題です。2進数のビット列は、左にnビットシフトすると元の値と比べて「2n倍」、右にnビットシフトすると「1／2n倍（2-n倍）」になるという性質があります。\n\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/04.png\" alt=\"\"\u003e\n題目要把 x 變成 10x\n[1] 1x x 4 = 4x + x = 5x x 2 = 10x[2] 1x x 4 = 4x + x = 5x x 4 = 20x[3] 1x x 8 = 8x + x x 4 = 12x[4] 1x x 8 = 8x + x = 9x x 2 = 18x"
                },
         "zh":  {
                    "ti":  "平成20年春期 第4題",
@@ -80,7 +80,7 @@
                               "將x向左移動3位元後加上x，再向左移動1位元。"
                           ],
                    "an":  1,
-                   "al":  "這是關於使用位元移位進行乘法的問題。二進位的位元串列向左移動n位元時，會變成原來的「2^n倍」，向右移動n位元時，會變成「1／2^n倍（2^(-n)倍）」的性質。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/04.png\" alt=\"\"\u003e"
+                   "al":  "這是關於使用位元移位進行乘法的問題。二進位的位元串列向左移動n位元時，會變成原來的「2^n倍」，向右移動n位元時，會變成「1／2^n倍（2^(-n)倍）」的性質。\n\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/04.png\" alt=\"\"\u003e\n題目要把 x 變成 10x\n[1] 1x x 4 = 4x + x = 5x x 2 = 10x[2] 1x x 4 = 4x + x = 5x x 4 = 20x[3] 1x x 8 = 8x + x x 4 = 12x[4] 1x x 8 = 8x + x = 9x x 2 = 18x"
                }
     },
     {
@@ -207,7 +207,7 @@
                               "(x÷256)×256＋(x％256)×256"
                           ],
                    "an":  2,
-                   "al":  "仮に用意した16ビットの2進数\"11110000 00001111\"の上位ビット8ビットと下位8ビットを入れ替えると、以下のようになります。 11110000 00001111 → 00001111 11110000入れ替え後の下位8ビットは、入れ替え前の上位8ビットを、右へ8ビット分シフトすることで得ることができます。2進数は、右に1ビットシフトするごとに値が1／2倍になる性質がありますから、右へ8ビット分シフトした値は、元の値を「÷28 → ÷256」することで表現できます。 11110000 00001111÷256＝00000000 11110000さらに入れ替え後の上位8ビットは、入れ替え前の下位8ビットを、左へ8ビットシフトすることで得ることができます。xの下位8ビットは、xを256で割った余りと同じです。2進数は、左に1ビットシフトするごとに値が2倍になる性質がありますから、左へ8ビット分シフトした値は、下位8ビットの値を「×28 → ×256」することで表現できます。 11110000 00001111％256＝00000000 00001111 00000000 00001111×256＝00001111 00000000入れ替え後のビット列は下位8ビットの値「x÷256」と上位8ビットの値「(x％256)×256」を足し合わせたものであるため、入れ替え後の整数をxを用いて表した式は、 (x÷256)＋(x％256)×256したがって「イ」が正解です。"
+                   "al":  "仮に用意した16ビットの2進数\"11110000 00001111\"の上位ビット8ビットと下位8ビットを入れ替えると、以下のようになります。 \n11110000 00001111 → 00001111 11110000入れ替え後の下位8ビットは、入れ替え前の上位8ビットを、右へ8ビット分シフトすることで得ることができます。\n2進数は、右に1ビットシフトするごとに値が1／2倍になる性質がありますから、右へ8ビット分シフトした値は、元の値を「÷28 → ÷256」することで表現できます。 \n11110000 00001111÷256＝00000000 11110000さらに入れ替え後の上位8ビットは、入れ替え前の下位8ビットを、左へ8ビットシフトすることで得ることができます。\nxの下位8ビットは、xを256で割った余りと同じです。\n2進数は、左に1ビットシフトするごとに値が2倍になる性質がありますから、左へ8ビット分シフトした値は、下位8ビットの値を「×28 → ×256」することで表現できます。 \n11110000 00001111％256＝00000000 00001111 00000000 00001111×256＝00001111 00000000入れ替え後のビット列は下位8ビットの値「x÷256」と上位8ビットの値「(x％256)×256」を足し合わせたものであるため、入れ替え後の整数をxを用いて表した式は、 (x÷256)＋(x％256)×256したがって[2]が正解です。\n\n這題的核心是 16 位元拆成「高 8 位元」和「低 8 位元」，然後交換位置\nx = [ 高8位元 ][ 低8位元 ]\n用十進位表示：\nx ÷ 256 的整數商 → 取得 高 8 位元\nx % 256 → 取得 低 8 位元\n\n例如：\nx = 0x1234\n高8位 = 0x12 = x ÷ 256\n低8位 = 0x34 = x % 256\n交換兩個 8 位元\n原本：\n[ 0x12 ][ 0x34 ]\n交換後：\n[ 0x34 ][ 0x12 ]\n要讓 0x34 成為高 8 位，需要左移 8 bit，也就是乘以：\n2^8=256\n因此：\n(x%256)x256+(x÷256) \n也就是：\n(x÷256)+(x%256)×256"
                },
         "zh":  {
                    "ti":  "令和3年度 問2",
@@ -220,7 +220,7 @@
                               "(x÷256)×256＋(x％256)×256"
                           ],
                    "an":  2,
-                   "al":  "假設有一個16位元的二進位數\"11110000 00001111\"，將其高位8位元與低位8位元互換後，結果如下： 11110000 00001111 → 00001111 11110000。互換後的低位8位元，可以透過將互換前的高位8位元向右位移8位元得到。二進位數具有每向右位移1位元，數值變為1/2倍的性質，因此向右位移8位元的值，可以透過將原始值進行「÷2^8 → ÷256」來表示。 11110000 00001111÷256＝00000000 11110000。接著，互換後的高位8位元，可以透過將互換前的低位8位元向左位移8位元得到。x的低位8位元與x除以256的餘數相同。二進位數具有每向左位移1位元，數值變為2倍的性質，因此向左位移8位元的值，可以透過將低位8位元的值進行「×2^8 → ×256」來表示。 11110000 00001111％256＝00000000 00001111，00000000 00001111×256＝00001111 00000000。互換後的位元串是低位8位元的值「x÷256」與高位8位元的值「(x％256)×256」相加而成，因此互換後的整數以x表示的算式為 (x÷256)＋(x％256)×256。故「イ」(選項2)為正確答案。"
+                   "al":  "假設有一個16位元的二進位數\"11110000 00001111\"，將其高位8位元與低位8位元互換後，結果如下： 11110000 00001111 → 00001111 11110000。互換後的低位8位元，可以透過將互換前的高位8位元向右位移8位元得到。二進位數具有每向右位移1位元，數值變為1/2倍的性質，因此向右位移8位元的值，可以透過將原始值進行「÷2^8 → ÷256」來表示。 11110000 00001111÷256＝00000000 11110000。接著，互換後的高位8位元，可以透過將互換前的低位8位元向左位移8位元得到。x的低位8位元與x除以256的餘數相同。二進位數具有每向左位移1位元，數值變為2倍的性質，因此向左位移8位元的值，可以透過將低位8位元的值進行「×2^8 → ×256」來表示。 11110000 00001111％256＝00000000 00001111，00000000 00001111×256＝00001111 00000000。互換後的位元串是低位8位元的值「x÷256」與高位8位元的值「(x％256)×256」相加而成，因此互換後的整數以x表示的算式為 (x÷256)＋(x％256)×256。故[2]為正確答案。\n\n這題的核心是 16 位元拆成「高 8 位元」和「低 8 位元」，然後交換位置\nx = [ 高8位元 ][ 低8位元 ]\n用十進位表示：\nx ÷ 256 的整數商 → 取得 高 8 位元\nx % 256 → 取得 低 8 位元\n\n例如：\nx = 0x1234\n高8位 = 0x12 = x ÷ 256\n低8位 = 0x34 = x % 256\n交換兩個 8 位元\n原本：\n[ 0x12 ][ 0x34 ]\n交換後：\n[ 0x34 ][ 0x12 ]\n要讓 0x34 成為高 8 位，需要左移 8 bit，也就是乘以：\n2^8=256\n因此：\n(x%256)x256+(x÷256) \n也就是：\n(x÷256)+(x%256)×256"
                }
     },
     {
@@ -235,7 +235,7 @@
                               "240"
                           ],
                    "an":  4,
-                   "al":  "対象となる1バイトのデータは8ビットで構成されるので、0と1の数がそれぞれ4つずつということになります。2進数でも10進数と同様に上位けたほど位が大きくなるので、最大となるのは「1111 0000」のときです。これを10進数に変換すると以下のようになります。 27＋26＋25＋24＝128＋64＋32＋16＝240"
+                   "al":  "対象となる1バイトのデータは8ビットで構成されるので、0と1の数がそれぞれ4つずつということになります。2進数でも10進数と同様に上位けたほど位が大きくなるので、最大となるのは「1111 0000」のときです。これを10進数に変換すると以下のようになります。 2^7 + 2^6 + 2^5 + 2^4 = 128 + 64 + 32 + 16 = 240"
                },
         "zh":  {
                    "ti":  "平成18年秋季 問1",
@@ -347,7 +347,7 @@
                               "情報落ち"
                           ],
                    "an":  4,
-                   "al":  "それぞれの計算誤差の意味は次の通りです。アンダーフロー数値演算の結果が、プログラムで使用している数値型変数の型の最小値や、データ領域の下限よりも小さくなることで生じる誤差。打切り誤差無限小数などの計算を途中で打ち切ることなどによって生じる誤差けた落ち浮動小数点演算において、絶対値の非常に近い値同士の減算をした場合に、有効桁数が減ってしまうことで生じる誤差情報落ち浮動小数点演算において，絶対値の大きな数と絶対値の小さな数の加減算を行ったとき，絶対値の小さな数の有効けたの一部又は全部が結果に反映されない誤差それぞれの誤差の発生原因および特性を考えると、絶対値の小さなものから順番に計算することは、計算過程における情報落ちを抑制するための方法ということがわかります。"
+                   "al":  "それぞれの計算誤差の意味は次の通りです。[1]アンダーフロー数値演算の結果が、プログラムで使用している数値型変数の型の最小値や、データ領域の下限よりも小さくなることで生じる誤差。[2]打切り誤差無限小数などの計算を途中で打ち切ることなどによって生じる誤差[3]けた落ち浮動小数点演算において、絶対値の非常に近い値同士の減算をした場合に、有効桁数が減ってしまうことで生じる誤差[4]情報落ち浮動小数点演算において，絶対値の大きな数と絶対値の小さな数の加減算を行ったとき，絶対値の小さな数の有効けたの一部又は全部が結果に反映されない誤差それぞれの誤差の発生原因および特性を考えると、絶対値の小さなものから順番に計算することは、計算過程における情報落ちを抑制するための方法ということがわかります。"
                },
         "zh":  {
                    "ti":  "平成17年春季 問4",
@@ -360,7 +360,7 @@
                               "資訊流失 (Loss of information / 情報落ち)"
                           ],
                    "an":  4,
-                   "al":  "各計算誤差的含義如下：下溢：數值運算結果小於程式中所使用的數值型別之最小值或資料區域下限而產生的誤差。截斷誤差：因將無限小數等計算過程在中途截斷而產生的誤差。消去誤差（桁落ち）：在浮點數運算中，當絕對值非常接近的數值進行相減時，導致有效位數減少的誤差。資訊流失（情報落ち）：在浮點數運算中，當絕對值大的數與絕對值小的數進行加減運算時，絕對值小的數之有效位數部分或全部未反映在結果中的誤差。考量各誤差的產生原因與特性，可知由絕對值較小者依序進行計算，是為了抑制計算過程中「資訊流失」的方法。"
+                   "al":  "各計算誤差的含義如下：[1]下溢：數值運算結果小於程式中所使用的數值型別之最小值或資料區域下限而產生的誤差。[2]截斷誤差：因將無限小數等計算過程在中途截斷而產生的誤差。[3]消去誤差（桁落ち）：在浮點數運算中，當絕對值非常接近的數值進行相減時，導致有效位數減少的誤差。[4]資訊流失（情報落ち）：在浮點數運算中，當絕對值大的數與絕對值小的數進行加減運算時，絕對值小的數之有效位數部分或全部未反映在結果中的誤差。考量各誤差的產生原因與特性，可知由絕對值較小者依序進行計算，是為了抑制計算過程中「資訊流失」的方法。"
                }
     },
     {
@@ -649,26 +649,26 @@
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
                    "q":  "16進数の小数0.248を10進数の分数で表したものはどれか。",
                    "op":  [
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e31",
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e31",
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e31",
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e73"
+                              "31/32",
+                              "31/125",
+                              "31/512",
+                              "73/512"
                           ],
                    "an":  4,
-                   "al":  "16進数の小数点以下の部分を10進数で表すと、小数第一位が116、小数第二位が「1162＝1256」というように桁が1つ小さくなるごとに値は116ずつ小さくなっていきます。よって、16進数の小数0.248は次のように10進数の分数で表すことができます。 2×116＋4×1256＋8×14096＝216＋4256＋84096＝216＋4256＋1512＝64＋8＋1512＝73512したがって「エ」が正解です。"
+                   "al":  "16進数の小数点以下の部分を10進数で表すと、小数第一位が116、小数第二位が「1162＝1256」というように桁が1つ小さくなるごとに値は116ずつ小さくなっていきます。よって、16進数の小数0.248は次のように10進数の分数で表すことができます。 2×(1/16)＋4×(1/256)＋8×(1/4096)＝2/16＋4/256＋8/4096＝2/16＋1/64＋1/512＝64/512＋8/512＋1/512＝73/512したがって[4]が正解です。"
                },
         "zh":  {
                    "ti":  "平成16年秋季 問1",
                    "ca":  "科技類 » 基礎理論 » 離散數學",
                    "q":  "將16進位小數0.248轉換為10進位分數，下列何者正確？",
                    "op":  [
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e31",
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e31",
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e31",
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e73"
+                              "31/32",
+                              "31/125",
+                              "31/512",
+                              "73/512"
                           ],
                    "an":  4,
-                   "al":  "將16進位的小數部分轉換為10進位時，小數點後第一位為1/16，小數點後第二位為1/16²＝1/256，以此類推，每向後一位數值即縮小為1/16。因此，16進位小數0.248可表示為下列10進位分數： 2×(1/16)＋4×(1/256)＋8×(1/4096)＝2/16＋4/256＋8/4096＝2/16＋1/64＋1/512＝64/512＋8/512＋1/512＝73/512。故「エ」為正確答案。"
+                   "al":  "將16進位的小數部分轉換為10進位時，小數點後第一位為1/16，小數點後第二位為1/16²＝1/256，以此類推，每向後一位數值即縮小為1/16。因此，16進位小數0.248可表示為下列10進位分數： 2×(1/16)＋4×(1/256)＋8×(1/4096)＝2/16＋4/256＋8/4096＝2/16＋1/64＋1/512＝64/512＋8/512＋1/512＝73/512。故[4]為正確答案。"
                }
     },
     {
@@ -761,26 +761,26 @@
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
                    "q":  "16進数の小数0.248を10進数の分数で表したものはどれか。",
                    "op":  [
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e31",
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e31",
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e31",
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e73"
+                              "31/32",
+                              "31/125",
+                              "31/512",
+                              "73/512"
                           ],
                    "an":  4,
-                   "al":  "16進数の小数点以下の部分を10進数で表すと、小数第一位が116、小数第二位が「1162＝1256」というように桁が1つ小さくなるごとに値は116ずつ小さくなっていきます。よって、16進数の小数0.248は次のように10進数の分数で表すことができます。 2×116＋4×1256＋8×14096＝216＋4256＋84096＝216＋4256＋1512＝64＋8＋1512＝73512したがって「エ」が正解です。"
+                   "al":  "16進数の小数点以下の部分を10進数で表すと、小数第一位が116、小数第二位が「1162＝1256」というように桁が1つ小さくなるごとに値は116ずつ小さくなっていきます。よって、16進数の小数0.248は次のように10進数の分数で表すことができます。 2×(1/16)＋4×(1/256)＋8×(1/4096)＝2/16＋4/256＋8/4096＝2/16＋1/64＋1/512＝64/512＋8/512＋1/512＝73/512したがって[4]が正解です。"
                },
         "zh":  {
                    "ti":  "令和2年度 問1",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
                    "q":  "將十六進制小數 0.248 轉換為十進制分數，下列何者正確？",
                    "op":  [
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e31",
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e31",
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e31",
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e73"
+                              "31/32",
+                              "31/125",
+                              "31/512",
+                              "73/512"
                           ],
                    "an":  4,
-                   "al":  "將十六進制的小數部分轉換為十進制時，小數第一位為 1/16，小數第二位為 1/16² = 1/256，隨著位數增加，數值會以 1/16 的倍數遞減。因此，十六進制小數 0.248 可表示為以下十進制分數：2×(1/16) + 4×(1/256) + 8×(1/4096) = 2/16 + 4/256 + 8/4096 = 2/16 + 4/256 + 1/512 = 64/512 + 8/512 + 1/512 = 73/512。因此，「エ」(選項4) 為正確答案。"
+                   "al":  "將16進位的小數部分轉換為10進位時，小數點後第一位為1/16，小數點後第二位為1/16²＝1/256，以此類推，每向後一位數值即縮小為1/16。因此，16進位小數0.248可表示為下列10進位分數： 2×(1/16)＋4×(1/256)＋8×(1/4096)＝2/16＋4/256＋8/4096＝2/16＋1/64＋1/512＝64/512＋8/512＋1/512＝73/512。故[4]為正確答案。"
                }
     },
     {
@@ -983,28 +983,28 @@
         "ja":  {
                    "ti":  "平成23年特別　問1",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "論理式 \u003cspan class=\"dol\"\u003e(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e＋B)・(A＋\u003cspan class=\"ol\"\u003eC\u003c/span\u003e)\u003c/span\u003e と等しいものはどれか。ここで，・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの否定を表す。",
+                   "q":  "論理式 <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASUAAABlCAIAAACEKmL4AAAK0klEQVR42u2daUhUUR/GJ4uifQWLoAiJtIiCLKNIwrYvmbRgtq+WZaYtthoVLbQipmlli9VbZERWmmPZZrRZQUZlRUnZl6xsM1MMtffBy3teMWfmzr3X43B9fh/iNs7cOec85znnf5Z7ptHfv38thBApNKLfCJEG/UaIPOg3QuRBvxEiD/qNEHnQb4TIg34jRB70GyHyoN8IkQf9Rog86DdC5EG/ESIP+o0QedBvhMiDfiNEHvQbIfKg3wiRB/1GiDzoN0LkQb8RIg/6jRB50G+EyIN+I0Qe9Bsh8qDfCJEH/UaIPOg3QuRBvxEiD/qNEHnQb4TIQ4vfWrRoUd/JJsR1KSkpsfUn+o0QgzHYb4QQbdBvhMijzv1mtVonTpyo/z5paWl+fn6SSoWYgry8vL59++q/T0ZGhq+vryFJot+IaaHftEO/EWdpiH4jhAjoN0LkQb8RIg/6jRB50G+EyIN+I0Qe9Bsh8qDfCJGHYX4rLi5ev359YmKiu7v7jh07AgMDGzVqVN+5cwlevny5ePHi7OxsHx+f+Ph4Ly+v+k6RPaijLQzR0Ri/lZeXR0dHb9y4sWPHjrt27QoKClIj0sOHD2fOnPnhwwdcr1ixYtOmTY0bN5ZejPa4d+/eyJEjbf3Vw8PD09PT19fX39+/e/fudrIspAoICIiNje3UqVN956x2zKpjDUpLS6FFamrq8+fPc3Nzv379ivz27t170KBBI0aMgJ2aN29e6wf162iM327cuIF0oMQ3b968bNmyJk2aOPxIRUXFtm3b0IIq/0Umjx492qNHj7otaSex7zcB1FqzZs38+fObNWtm6z1ZWVlLlizJy8vbunVreHi4a9ZIs+ooKCsrO3/+/J49e+AcW+9BMzp9+nS0IF26dPn3rzp1NMBvnz9/Dg0NvXz58rRp0/bu3dumTRs1n/r48ePChQuvXbsmXjl16tT48eMNLFz9CL+tr6L6n/78+fP9+/f79++jQ3j06BFe2blzJ5Sw1SGIrgNyHjt2zNvbu74zVxMT66hQWFiIZvH06dO4HjhwYEhICMRFW+nm5gY137x5c+HChTNnzsBLeAPC6eTkZPR4NW6iU0e9fsPH0Z6FhYU5+/VQaNy4cbiAtGfPnkUfPW/ePFRZl3p43I7fBGgpkfKcnJwhQ4YcOXIEgaWtu0FvFNTFixdnzJiBXLdq1aq+8/d/zK0j+PTpE2JddG4wGPrwiIiIWoPGL1++xMTEHD9+HEEmsgZN/32PHh31+u39+/fBwcF3795Fy4EaqbJ7RXMSFRUVFxeH2rxv3z6EwgkJCX369EE+EUYbUr6KVfr374/a06tXLz03sdj1m8iLpary1aqQIDMzc+7cubhISkrCUMGQnBqCuXVEp7Rly5bdu3fj2mGoXFlZmZKSglHowYMHbampWUe9fsP3obVwtojfvXuH5KItVNRNT0+fPHkyXodmGAXpSY9Amt/AtiosKvxWVFSEVhYRl6t1cebW8fbt2wsWLMC4VGWoDFPcvHmzdevWCDtrfYNmHXX5DQMYiISO1alGESCGhh7o2REuDx06FGMABCG3bt1C3B8fH9+2bVvNSRJI81tFRQXaQhQ6snPu3DkfHx/790TbCdW7det24sSJf4cH9YK5dSwrK1u3bh06XqTTwLBCm466/IbwIygoyOJkr1pcXIy24eTJkwEBAVClffv2Yo7LwFoozW+iso4ePfrw4cMO54jFBMP27dvDw8NdYXXL3Drm5+ejFcB9RDoNKTRtOmr3Gz6IkkVYrLKeCXJzc2fNmvXixYvqCb1+/frs2bMxSDWqFsrxGwoBTfuqVatwvX//fmXmwD6iPzSwE9CD6XUUMzpr167FaNOoBk6bjtr99uvXL4w7EVE4u8SJ4B5xC5pAhL8DBgxQXiwsLERkcvXqVRQuxqm1Ln04RV37raSkBKOX/1SBwTeqF4Yubm5uam6bmpqKN/fr1w9p8/T01JlTnZheRzQiS5cuVS6mTp1qYNFp0FG7396+fYux8uPHjxGEBAYGqvyUiL6Q8+joaAxJldeRjJiYGMTZRgXZxvrNDl27dkXDOWnSJJULVuDVq1dz5sx5+vTppUuX1Kyn10ppaSkq0KFDhzBYR71HE66t5Ta9jmI2y8BjSBQ06Kjdb9nZ2ahkuFAzSSAQe3/QBSPwqPVPhuwJkuY3BXd3d/QSwcHBtrYCVefbt2/QKTMzE4Gc0vQ6C1SLi4tbvXq18l90MjCetspkeh3Vzx47iwYdtftNCYudKggxVKh13vnnz59oMlNSUhwuHKtBwvitsrLyx48fT548SUhISE9PxyvwG6R1ODuMWBRWQR7tLzPYAd0Lwjar1Spe0Xwr0+tYd37ToKN2vylzwcOHD8f3qQzTxZSOrS0IItRWuSdINDAa0q+mjFSuv4k99biOjY1FeGY/tBM6ad6KYaDfTK9j3cWTGnTU67dRo0ah4enQoYOaj4iZIlsyiCkvlRlwEb9VT7nKWT6lEmj2m4HxpOl1rLv5EovzOsrzW/V9Tw7RvydI5v4SS1VTt3LlyqSkJE9PT6Tc4TGjOv1mMW6+xPQ61tF6gIJsv6mPQ8TeH5X3/3cg7hSS/SZWYywqxgn640kDMb2Or1+/RueZk5Nj7Hq3RXI8qSw+qC8IRVdc2J88FXLWmGh2Fsl+E62+ml1dojOsixbXWUyvo3CFsfu5LJp01O43pSBUbhoUe38cLoOK3W469wRJ9ptTk3L61wMMpCHoKHa9TJgwAW1iu3btHH4kKysL/ZWt/coKUtcDnFonFQNoNTtilRYXF3r2BEn2m9iBvmjRIiTbzoPelmrrpMnJyf7+/trSZhQNQUd0REgtGgiLiudx4IgrV65ERkbaeR5HQYOO2v0mWnQ1y5rKHJHYSG7/zmKbubM7+qoj02/5+fnLly+3Wq0eHh4HDhxwmEGlIqqcWalrGoKOlqrnTcPCwtLS0pD4kJCQiIiIli1b/vu2379/w2YIgO08byrQoKN2v4kZAoelKfb+qBywim3megLuuvZbZWVlUVFRXl5eRkaG8hC+ygOt1JebHBqCjgpoFtEtI/2WqvMUgoOD/fz8Onfu7ObmVl5eXlBQACkRKiunY9g6T0FDuVVH1/M4ykyrw9IUG3zUxxUi4Hb2iSyB5P1cw4YNQ+kPHjzYYe7EYrHmrBmO6XUUoPvC6DoxMVE5pKRWvLy8EGBPmTLF/uqINh11+U3NV4q9PzU2kqu8s+Y9QRL8huixZ8+e3t7eaOHwRWpOs7L87zlFw+fK9GB6HWuAwOTOnTsYpD179uzBgweWqhPWlPPwxowZg3+bNm3q8CbadNTlN7EZ3NgjK0yMeA7f8LUgPVBHZ9Gso97zS8RiYmRk5IYNG1S28Q0W5ZwZxFeudmgcdXQKzToacB6espHPZY9VdB3EOWrqV4GkQR3Vo0dHA857LSgoCA0NtVqtLliNXIeKigrEbFFRUSrXDORDHdWgU0djzjMX3av6c7AbGuIcbFcuIuroEJ061ufvdTQcxO88jB07NjY21t3dvb5TVDvU0T76deTvUdU5/D0qc+BCv0dFCFED/UaIPOg3QuRBvxEiD/qNEHnQb4TIg34jRB70GyHyoN8IkQf9Rog86DdC5EG/ESIP+o0QedBvhMiDfiNEHvQbIfKg3wiRB/1GiDzoN0LkQb8RIg/6jRB50G+EyIN+I0Qe/wUqTc/cC7MbpAAAAABJRU5ErkJggg==' />と等しいものはどれか。ここで，・は論理積，＋は論理和，<span style='text-decoration: overline;'>X</span>はXの否定を表す。",
                    "op":  [
-                              "A・\u003cspan class=\"ol\"\u003eB",
-                              "\u003cspan class=\"ol\"\u003eA",
-                              "(A＋\u003cspan class=\"ol\"\u003eB",
-                              "(\u003cspan class=\"ol\"\u003eA"
+                              "A・<span style='text-decoration: overline;'>B</span>+<span style='text-decoration: overline;'>A</span>・C",
+                              "<span style='text-decoration: overline;'>A</span>・B+A・<span style='text-decoration: overline;'>C</span>",
+                              "(A+<span style='text-decoration: overline;'>B</span>)・(<span style='text-decoration: overline;'>A</span>+C)",
+                              "(<span style='text-decoration: overline;'>A</span>+B)・(A+<span style='text-decoration: overline;'>C</span>)"
                           ],
                    "an":  1,
-                   "al":  "最短で答えを導く方法は論理式にド・モルガンの法則を適用して変形することです。ド・モルガンの法則A＋B＝A・BA・B＝A＋Bこの場合の解法は以下のようになります。 (A＋B)・(A＋C)＝(A＋B)＋(A＋C)＝A・B＋A・Cこの変形により問題文の論理式は「A・B+A・C」と等しいことがわかります。また地道にベン図を描いて比較していく方法でも解いてみます。最初に(A＋B)・(A＋C)の表す集合をベン図で描いてみます。(A+B)・(A+C)は以下のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/01_2.png\" alt=\"\"\u003e"
+                   "al":  " ・ => AND\n + => OR\n - => not\n\n<span style='text-decoration: overline;'>A+B</span>&nbsp&nbsp= <span style='text-decoration: overline;'>A</span>・<span style='text-decoration: overline;'>B</span>\n<span style='text-decoration: overline;'>A・B</span> = <span style='text-decoration: overline;'>A</span>+<span style='text-decoration: overline;'>B</span>\n\n(<span style='text-decoration: overline;'>A</span>+B)・(A+<span style='text-decoration: overline;'>C</span>)は以下のようになります\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/01_2.png\" alt=\"\"\u003e\nさらに設問の論理式は上図で求めた集合の補集合であるので、\n\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/01_3.png\" alt=\"\"\u003e\nとなります。\n\n[1]\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/01a.png\" alt=\"\"\u003e\n\n[2]\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/01i.png\" alt=\"\"\u003e\n[3]\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/01u.png\" alt=\"\"\u003e\n[4]\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/01e.png\" alt=\"\"\u003e"
                },
         "zh":  {
                    "ti":  "平成23年特別 問1",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "下列何者與邏輯式 \u003cspan class=\"dol\"\u003e(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e＋B)・(A＋\u003cspan class=\"ol\"\u003eC\u003c/span\u003e)\u003c/span\u003e 相等？在此，・代表邏輯乘（AND），＋代表邏輯加（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e代表X的否定（NOT）。",
+                   "q":  "下列何者與邏輯式 <img src='data:image/png;base64,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' /> 一樣的是哪一個? ・代表邏輯乘（AND），＋代表邏輯加（OR），<span style='text-decoration: overline;'>X</span>代表X的否定（NOT）。",
                    "op":  [
-                              "A＋B・\u003cspan class=\"ol\"\u003eC\u003c/span\u003e",
-                              "\u003cspan class=\"ol\"\u003eA\u003c/span\u003e＋B・\u003cspan class=\"ol\"\u003eC\u003c/span\u003e",
-                              "A＋\u003cspan class=\"ol\"\u003eB\u003c/span\u003e・C",
-                              "(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e＋B)・C"
+                              "A・<span style='text-decoration: overline;'>B</span>+<span style='text-decoration: overline;'>A</span>・C",
+                              "<span style='text-decoration: overline;'>A</span>・B+A・<span style='text-decoration: overline;'>C</span>",
+                              "(A+<span style='text-decoration: overline;'>B</span>)・(<span style='text-decoration: overline;'>A</span>+C)",
+                              "(<span style='text-decoration: overline;'>A</span>+B)・(A+<span style='text-decoration: overline;'>C</span>)"
                           ],
                    "an":  1,
-                   "al":  "求出答案的最快方法是應用分配律將邏輯式展開。 (A＋B)・(A＋C) ＝ A・A＋A・C＋B・A＋B・C ＝ A＋A・C＋A・B＋B・C ＝ A(1＋C＋B)＋B・C ＝ A＋B・C。 另外，也可以透過繪製文氏圖（Venn diagram）進行比對來求解。首先繪製出 (A＋B)・(A＋C) 所代表的集合，結果如下。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/01_2.png\" alt=\"\"\u003e"
+                   "al":  "  ・ => AND\n + => OR\n - => not\n\n<span style='text-decoration: overline;'>A+B</span>&nbsp&nbsp= <span style='text-decoration: overline;'>A</span>・<span style='text-decoration: overline;'>B</span>\n<span style='text-decoration: overline;'>A・B</span> = <span style='text-decoration: overline;'>A</span>+<span style='text-decoration: overline;'>B</span>\n\n(<span style='text-decoration: overline;'>A</span>+B)・(A+<span style='text-decoration: overline;'>C</span>)具體如下\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/01_2.png\" alt=\"\"\u003e\n此外，問題中的邏輯公式是上圖中所得集合的補集合、所以結果是\n\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/01_3.png\" alt=\"\"\u003e\n。\n\n[1]\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/01a.png\" alt=\"\"\u003e\n\n[2]\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/01i.png\" alt=\"\"\u003e\n[3]\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/01u.png\" alt=\"\"\u003e\n[4]\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/01e.png\" alt=\"\"\u003e"
                }
     },
     {
@@ -1403,56 +1403,56 @@
         "ja":  {
                    "ti":  "平成21年春期　問3",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "論理式 \u003cspan class=\"dol\"\u003e(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e＋B)・(A＋\u003cspan class=\"ol\"\u003eC\u003c/span\u003e)\u003c/span\u003e と等しいものはどれか。ここで，・論理積，＋は論理和，\u003cspan class=\"ol\"\u003ex\u003c/span\u003e はXの否定を表す。",
+                   "q":  "論理式<img src='data:image/png;base64,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' />と等しいものはどれか。ここで，・論理積，＋は論理和，<span style='text-decoration: overline;'>x</span> はXの否定を表す。",
                    "op":  [
-                              "A・\u003cspan class=\"ol\"\u003eB",
-                              "\u003cspan class=\"ol\"\u003eA",
-                              "(A＋\u003cspan class=\"ol\"\u003eB",
-                              "(\u003cspan class=\"ol\"\u003eA"
+                              "A・<span style='text-decoration: overline;'>B</span>+<span style='text-decoration: overline;'>A</span>・C",
+                              "<span style='text-decoration: overline;'>A</span>・B+A・<span style='text-decoration: overline;'>C</span>",
+                              "(A+<span style='text-decoration: overline;'>B</span>)・(<span style='text-decoration: overline;'>A</span>+C)",
+                              "(<span style='text-decoration: overline;'>A</span>+B)・(A+<span style='text-decoration: overline;'>C</span>)"
                           ],
                    "an":  1,
-                   "al":  "集合の問題です。私はこの手の問題を解くときにはベン図を使って解くようにしています。まず論理式 (A＋B)・(A＋C)の左部分と右部分の関係をベン図で表すと下図のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/03_1.png\" alt=\"\"\u003e"
+                   "al":  " ・ => AND\n + => OR\n - => not\n\n<span style='text-decoration: overline;'>A+B</span>&nbsp&nbsp= <span style='text-decoration: overline;'>A</span>・<span style='text-decoration: overline;'>B</span>\n<span style='text-decoration: overline;'>A・B</span> = <span style='text-decoration: overline;'>A</span>+<span style='text-decoration: overline;'>B</span>"
                },
         "zh":  {
                    "ti":  "平成21年春季　問3",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "下列何者與邏輯式 \u003cspan class=\"dol\"\u003e(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e＋B)・(A＋\u003cspan class=\"ol\"\u003eC\u003c/span\u003e)\u003c/span\u003e 相等？在此，・代表邏輯乘（AND），＋代表邏輯加（OR），\u003cspan class=\"ol\"\u003ex\u003c/span\u003e 代表 X 的否定（NOT）。",
+                   "q":  "下列何者與邏輯式<img src='data:image/png;base64,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' />一樣的是哪一個，・代表邏輯乘（AND），＋代表邏輯加（OR），<span style='text-decoration: overline;'>x</span> 代表 X 的否定（NOT）。",
                    "op":  [
-                              "A＋\u003cspan class=\"ol\"\u003eB\u003c/span\u003e・\u003cspan class=\"ol\"\u003eC\u003c/span\u003e",
-                              "\u003cspan class=\"ol\"\u003eA\u003c/span\u003e＋B・\u003cspan class=\"ol\"\u003eC\u003c/span\u003e",
-                              "A＋\u003cspan class=\"ol\"\u003eB\u003c/span\u003e・C",
-                              "\u003cspan class=\"ol\"\u003eA\u003c/span\u003e＋\u003cspan class=\"ol\"\u003eB\u003c/span\u003e・C"
+                              "A・<span style='text-decoration: overline;'>B</span>+<span style='text-decoration: overline;'>A</span>・C",
+                              "<span style='text-decoration: overline;'>A</span>・B+A・<span style='text-decoration: overline;'>C</span>",
+                              "(A+<span style='text-decoration: overline;'>B</span>)・(<span style='text-decoration: overline;'>A</span>+C)",
+                              "(<span style='text-decoration: overline;'>A</span>+B)・(A+<span style='text-decoration: overline;'>C</span>)"
                           ],
                    "an":  1,
-                   "al":  "這是一個集合問題。我在處理這類問題時，習慣使用文氏圖（Venn diagram）來解題。首先，將邏輯式 (A＋B)・(A＋C) 的左半部分與右半部分的關係用文氏圖表示，如下圖所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/03_1.png\" alt=\"\"\u003e"
+                   "al":  " ・ => AND\n + => OR\n - => not\n\n<span style='text-decoration: overline;'>A+B</span>&nbsp&nbsp= <span style='text-decoration: overline;'>A</span>・<span style='text-decoration: overline;'>B</span>\n<span style='text-decoration: overline;'>A・B</span> = <span style='text-decoration: overline;'>A</span>+<span style='text-decoration: overline;'>B</span>"
                }
     },
     {
         "ja":  {
                    "ti":  "平成18年秋期　問9",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "次の真理値表で，変数X，Y，Zに対する関数Fを表す式はどれか。ここで，“・”は論理積，“＋”は論理和，\u003cspan class=\"ol\"\u003eA\u003c/span\u003eはAの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/09.png\" alt=\"問9画像\"\u003e",
+                   "q":  "次の真理値表で，変数X，Y，Zに対する関数Fを表す式はどれか。ここで，“・”は論理積，“＋”は論理和，<span style='text-decoration: overline;'>A\u003c/span\u003eはAの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/09.png\" alt=\"問9画像\"\u003e",
                    "op":  [
-                              "X・Y＋Y・\u003cspan class=\"ol\"\u003eZ",
-                              "X・Y・\u003cspan class=\"ol\"\u003eZ",
-                              "\u003cspan class=\"ol\"\u003eX",
-                              "\u003cspan class=\"ol\"\u003eX"
+                              "X・Y＋Y・<span style='text-decoration: overline;'>Z</span>",
+                              "X・Y・<span style='text-decoration: overline;'>Z</span>+Y",
+                              "<span style='text-decoration: overline;'>X</span>・<span style='text-decoration: overline;'>Y</span>・Z+X・Y+Y・<span style='text-decoration: overline;'>Z</span>",
+                              "<span style='text-decoration: overline;'>X</span>・<span style='text-decoration: overline;'>Y</span>・Z+X・<span style='text-decoration: overline;'>Y</span>+<span style='text-decoration: overline;'>Y</span>・<span style='text-decoration: overline;'>Z</span>"
                           ],
                    "an":  3,
-                   "al":  "X,Y,Zに適当な値を代入して、その結果が真理値表と同じになるかを検証していきます。結果の値が分かれそうな組合せならどれでも良いのですが、この解説では[X=0,Y=0,Z=1,F=1]の組合せを用いることとします。 X・Y＋Y・Z 0・0＋0・1＝0・0＋0・0＝0＋0＝0結果が真理値表と異なるので誤りとわかります。 X・Y・Z＋Y 0・0・1＋0＝0・0・0＋0＝0＋0＝0結果が真理値表と異なるので誤りとわかります。 [1]X・Y・Z＋X・Y＋Y・Z 0・0・1＋0・0＋0・1＝1・1・1＋0・0＋0・0＝1＋0＋0＝1結果が真理値表と同じなので正しい可能性があります。 [2]X・Y・Z＋X・Y＋Y・Z 0・0・1＋0・0＋0・1＝1・1・1＋0・1＋1・0＝1＋0＋0＝1結果が真理値表と同じなので正しい可能性があります。 [3]「ウ」 1・0・0＋1・0＋0・0＝0・1・0＋1・0＋0・1＝0＋0＋0＝0結果が真理値表と同じなので正しい可能性があります。 [4]「エ」 1・0・0＋1・0＋0・0＝0・1・0＋1・1＋1・1＝0＋1＋1＝1結果が真理値表と異なるので誤りとわかります。"
+                   "al":  "X,Y,Zに適当な値を代入して、その結果が真理値表と同じになるかを検証していきます。結果の値が分かれそうな組合せならどれでも良いのですが、この解説では[X=0,Y=0,Z=1,F=1]の組合せを用いることとします。 X・Y＋Y・Z 0・0＋0・1＝0・0＋0・0＝0＋0＝0結果が真理値表と異なるので誤りとわかります。 X・Y・Z＋Y 0・0・1＋0＝0・0・0＋0＝0＋0＝0結果が真理値表と異なるので誤りとわかります。 [1]X・Y・Z＋X・Y＋Y・Z 0・0・1＋0・0＋0・1＝1・1・1＋0・0＋0・0＝1＋0＋0＝1結果が真理値表と同じなので正しい可能性があります。 [2]X・Y・Z＋X・Y＋Y・Z 0・0・1＋0・0＋0・1＝1・1・1＋0・1＋1・0＝1＋0＋0＝1結果が真理値表と同じなので正しい可能性があります。 [3]1・0・0＋1・0＋0・0＝0・1・0＋1・0＋0・1＝0＋0＋0＝0結果が真理値表と同じなので正しい可能性があります。 [4]1・0・0＋1・0＋0・0＝0・1・0＋1・1＋1・1＝0＋1＋1＝1結果が真理値表と異なるので誤りとわかります。"
                },
         "zh":  {
                    "ti":  "平成18年秋期 問9",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "下表為真值表，請問何者為變數 X、Y、Z 之函數 F 的表達式？在此，“・”代表邏輯積（AND），“＋”代表邏輯和（OR），\u003cspan class=\"ol\"\u003eA\u003c/span\u003e 代表 A 的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/09.png\" alt=\"問9圖片\"\u003e",
+                   "q":  "下表為真值表，請問何者為變數 X、Y、Z 之函數 F 的表達式？在此，“・”代表邏輯積（AND），“＋”代表邏輯和（OR），<span style='text-decoration: overline;'>A\u003c/span\u003e 代表 A 的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/18_aki/img/09.png\" alt=\"問9圖片\"\u003e",
                    "op":  [
-                              "X・Y＋Y・\u003cspan class=\"ol\"\u003eZ",
-                              "X・Y・\u003cspan class=\"ol\"\u003eZ",
-                              "\u003cspan class=\"ol\"\u003eX",
-                              "\u003cspan class=\"ol\"\u003eX"
+                              "X・Y＋Y・<span style='text-decoration: overline;'>Z</span>",
+                              "X・Y・<span style='text-decoration: overline;'>Z</span>+Y",
+                              "<span style='text-decoration: overline;'>X</span>・<span style='text-decoration: overline;'>Y</span>・Z+X・Y+Y・<span style='text-decoration: overline;'>Z</span>",
+                              "<span style='text-decoration: overline;'>X</span>・<span style='text-decoration: overline;'>Y</span>・Z+X・<span style='text-decoration: overline;'>Y</span>+<span style='text-decoration: overline;'>Y</span>・<span style='text-decoration: overline;'>Z</span>"
                           ],
                    "an":  3,
-                   "al":  "透過將適當的值代入 X, Y, Z 並驗證結果是否與真值表相符。雖然可以使用任何能區分結果的組合，但本解析使用 [X=0, Y=0, Z=1, F=1] 的組合來進行驗證。  X・Y＋Y・Z 0・0＋0・1＝0・0＋0・0＝0＋0＝0，結果與真值表不同，故為錯誤。  X・Y・Z＋Y 0・0・1＋0＝0・0・0＋0＝0＋0＝0，結果與真值表不同，故為錯誤。 [1] X・Y・Z＋X・Y＋Y・Z 0・0・1＋0・0＋0・1＝1・1・1＋0・0＋0・0＝1＋0＋0＝1，結果與真值表相同，故有可能是正確答案。 [2] X・Y・Z＋X・Y＋Y・Z 0・0・1＋0・0＋0・1＝1・1・1＋0・1＋1・0＝1＋0＋0＝1，結果與真值表相同，故有可能是正確答案。 [3] 「ウ」 1・0・0＋1・0＋0・0＝0・1・0＋1・0＋0・1＝0＋0＋0＝0，結果與真值表相同，故有可能是正確答案。 [4] 「エ」 1・0・0＋1・0＋0・0＝0・1・0＋1・1＋1・1＝0＋1＋1＝1，結果與真值表不同，故為錯誤。"
+                   "al":  "透過將適當的值代入 X, Y, Z 並驗證結果是否與真值表相符。雖然可以使用任何能區分結果的組合，但本解析使用 [X=0, Y=0, Z=1, F=1] 的組合來進行驗證。  X・Y＋Y・Z 0・0＋0・1＝0・0＋0・0＝0＋0＝0，結果與真值表不同，故為錯誤。  X・Y・Z＋Y 0・0・1＋0＝0・0・0＋0＝0＋0＝0，結果與真值表不同，故為錯誤。 [1] X・Y・Z＋X・Y＋Y・Z 0・0・1＋0・0＋0・1＝1・1・1＋0・0＋0・0＝1＋0＋0＝1，結果與真值表相同，故有可能是正確答案。 [2] X・Y・Z＋X・Y＋Y・Z 0・0・1＋0・0＋0・1＝1・1・1＋0・1＋1・0＝1＋0＋0＝1，結果與真值表相同，故有可能是正確答案。 [3] 1・0・0＋1・0＋0・0＝0・1・0＋1・0＋0・1＝0＋0＋0＝0，結果與真值表相同，故有可能是正確答案。 [4] 1・0・0＋1・0＋0・0＝0・1・0＋1・1＋1・1＝0＋1＋1＝1，結果與真值表不同，故為錯誤。"
                }
     },
     {
@@ -1663,7 +1663,7 @@
                               "その整数値の正負にかかわらず0"
                           ],
                    "an":  1,
-                   "al":  "設問では「ある整数値を，…2進数記法で表すと最下位ビットが\"11\"であった」としています。最下位2ビットが\"11\"となる整数値の特徴は正負によって異なるので、場合分けして考えます。【正の数】正の数には2の補数を使わないので、2進数の形「xx…x11」をそのまま10進数に直すことを考えます（xはどんなビットでも構いません）。いくつか例を挙げて説明します。 111(2) → 7(10) 1011(2) → 11(10) 10111(2) → 23(10) 110011(2) → 51(10) xx…x11 から1を引く。xx…x10 全てのビットを反転させる。xx…x01 //絶対値の2進数表現 101(2) → (絶対値)5(10) → (負数)－5(10) 1001(2) → (絶対値)9(10) → (負数)－9(10) 10101(2) → (絶対値)21(10) → (負数)－21(10) 110001(2) → (絶対値)49(10) → (負数)－49(10) －5÷4＝－1.25 → 絶対値の小数点以下を切り捨てると商は－1商が－1ならば余りは－1 [1]－9÷4＝－2.25 → 絶対値の小数点以下を切り捨てると商は－2商が－2ならば余りは－1 [2]-10の絶対値である10を2進数に直す。10(10) → 00001010(2) [3]00001010(2)の全ビットを反転させる。00001010(2) → 11110101(2) [4]②の結果に1を加える。11110101(2) → 11110110(2)"
+                   "al":  "設問では「ある整数値を，…2進数記法で表すと最下位ビットが\"11\"であった」としています。[1] 正の数の場合、\"11\"は3,7,11...になる可能性がある なので、4 で割った余りは 3 です (正解)。 [2] 負の数の場合、問題文には商の小数部は絶対値に従って切り捨てると明記されています。例えば、\"11\"は-5,-9,-21...になる可能性がある、−5÷4=−1.25 の場合、絶対値の小数部を切り捨てると商は -1 となり、余りは -5 - (-1 x 4) = -1 となります。"
                },
         "zh":  {
                    "ti":  "平成30年春期　第1題",
@@ -1676,7 +1676,7 @@
                               "無論該整數值為正或負均為0"
                           ],
                    "an":  1,
-                   "al":  "設問中提到「某整數值，以…2進位記法表示時最低位元為\"11\"」。最低位2個位元為\"11\"的整數值之特性因正負而異，因此需分情況討論。【正數】正數不使用2的補數，因此直接將2進位的「xx…x11」轉換為10進位來思考（x為任意位元均可）。以下舉例說明： 111(2) → 7(10)  1011(2) → 11(10)  10111(2) → 23(10)  110011(2) → 51(10)  從xx…x11減去1，得到xx…x10  將所有位元反轉，得到xx…x01 //絕對值的2進位表示  101(2) → (絕對值)5(10) → (負數)－5(10)  1001(2) → (絕對值)9(10) → (負數)－9(10)  10101(2) → (絕對值)21(10) → (負數)－21(10)  110001(2) → (絕對值)49(10) → (負數)－49(10)  －5÷4＝－1.25 → 絕對值的小數點以下捨去，商為－1；商為－1時餘數為－1 [1] －9÷4＝－2.25 → 絕對值的小數點以下捨去，商為－2；商為－2時餘數為－1 [2] 將10的絕對值轉為2進位：10(10) → 00001010(2) [3] 將00001010(2)的所有位元反轉：00001010(2) → 11110101(2) [4] 在②的結果上加1：11110101(2) → 11110110(2)"
+                   "al":  "設問中提到「某整數值，以…2進位記法表示時最低位元為\"11\"」。[1]如果是正數,\"11\"有可能是 3,7,11...,所以除以 4 餘數是 3(正確)[2]如果是負數,題目特別說商的小數部分按照絕對值截去。例如：\"11\" 有可能是-5,-9,-21..., −5÷4=−1.25,絕對值小數點以下捨去後，商為 -1,餘數 = -5 - (-1 x 4) = -1"
                }
     },
     {
@@ -1831,7 +1831,7 @@
                               "0.5"
                           ],
                    "an":  1,
-                   "al":  "2進数の小数は以下のように1桁下がるごとに値が1／2ずつ小さくなっていきます。 0.1(2)＝121＝0.5(10) 0.01(2)＝122＝0.25(10) 0.001(2)＝123＝0.125(10) 0.0001(2)＝124＝0.0625(10) 0.00001(2)＝125＝0.03125(10) [1]0.05正しい。2進小数の各桁の組合せで表現できないので、0.05は無限小数となります。 [2]0.12510進数0.125は2進数0.001で表現できます。 [3]0.3750.375＝0.25＋0.125 なので、10進数0.375は2進数0.011で表現できます。 [4]0.510進数0.5は2進数0.1で表現できます。"
+                   "al":  "小数を最も簡単な分数に簡約した後、分母の因数が2のみであれば、有限個の2進数で表すことができます。分母に2以外の素因数がある場合は、2進無限小数になります。[1] 0.05 = 5/100 = 1/20 = 1/(2^2 × 5)、分母は5なので、無限小数です。[2] 0.5 = 1/2 [3] 0.375 = 375/1000 = 3/8 [4] 0.125 = 125/1000 = 1/8"
                },
         "zh":  {
                    "ti":  "平成26年春季 問1",
@@ -1844,7 +1844,7 @@
                               "0.5"
                           ],
                    "an":  1,
-                   "al":  "二進位小數每往下一位，數值就會縮小為原本的 1/2。  0.1(2)＝1/2^1＝0.5(10)  0.01(2)＝1/2^2＝0.25(10)  0.001(2)＝1/2^3＝0.125(10)  0.0001(2)＝1/2^4＝0.0625(10)  0.00001(2)＝1/2^5＝0.03125(10) [1] 0.05 正確。由於無法透過二進位小數的各數位組合來表示，因此 0.05 為無限小數。 [2] 0.125 十進位 0.125 可表示為二進位 0.001。 [3] 0.375 由於 0.375＝0.25＋0.125，因此十進位 0.375 可表示為二進位 0.011。 [4] 0.5 十進位 0.5 可表示為二進位 0.1。"
+                   "al":  "把十進位小數化成最簡分數後，如果分母只有2的因數，就能用有限位二進位表示。如果分母含有 2 以外的質因數，就是二進位無限小數。[1] 0.05 = 5/100 = 1/20 = 1/(2^2 × 5),分母有 5，所以是無限小數。[2] 0.5 = 1/2 [3] 0.375 = 375/1000 = 3/8 [4] 0.125 = 125/1000 = 1/8"
                }
     },
     {
@@ -1935,28 +1935,28 @@
         "ja":  {
                    "ti":  "平成19年秋期　問8",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "集合AとBについて，常に成立する関係はどれか。ここで，∩は積集合，∪は和集合，\u003cspan class=\"ol\"\u003eA\u003c/span\u003eはAの補集合，A⊆B は\"AはBの部分集合である\"ことを表す。",
+                   "q":  "集合AとBについて，常に成立する関係はどれか。ここで，∩は積集合，∪は和集合，<span style='text-decoration: overline;'>A\u003c/span\u003eはAの補集合，A⊆B は\"AはBの部分集合である\"ことを表す。",
                    "op":  [
-                              "A⊆(A∩\u003cspan class=\"ol\"\u003eB",
-                              "(A∪B)⊆(\u003cspan class=\"ol\"\u003eA",
-                              "(A∩B)⊆(A∪\u003cspan class=\"ol\"\u003eB",
-                              "(A∩B)⊆(\u003cspan class=\"ol\"\u003eA"
+                              "A⊆(A∩<span style='text-decoration: overline;'>B\u003c/span\u003e)",
+                              "(A∪B)⊆(<span style='text-decoration: overline;'>A\u003c/span\u003e∪<span style='text-decoration: overline;'>B\u003c/span\u003e)",
+                              "(A∩B)⊆(A∪<span style='text-decoration: overline;'>B\u003c/span\u003e)",
+                              "(A∩B)⊆(<span style='text-decoration: overline;'>A\u003c/span\u003e∩<span style='text-decoration: overline;'>B\u003c/span\u003e)"
                           ],
                    "an":  3,
-                   "al":  "それぞれの集合同士の関係をベン図で表すと次のようになります。"
+                   "al":  "A⊆B はAはBの部分集合, 左側は右側は部分集合の関係が正解。\nそれぞれの集合同士の関係をベン図で表すと次のようになります。\n[1]\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/08a.png\" \u003e\n[2]\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/08i.png\" \u003e\n[3]\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/08u.png\" \u003e\n[4]\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/08e.png\" \u003e"
                },
         "zh":  {
                    "ti":  "平成19年秋期　問8",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "關於集合 A 與 B，下列何者關係恆成立？在此，∩ 代表交集，∪ 代表聯集，\u003cspan class=\"ol\"\u003eA\u003c/span\u003e 代表 A 的補集，A⊆B 代表「A 是 B 的子集合」。",
+                   "q":  "關於集合 A 與 B，下列何者關係恆成立？在此，∩ 代表交集，∪ 代表聯集，<span style='text-decoration: overline;'>A\u003c/span\u003e 代表 A 的補集，A⊆B 代表「A 是 B 的子集合」。",
                    "op":  [
-                              "A⊆(A∩\u003cspan class=\"ol\"\u003eB\u003c/span\u003e)",
-                              "(A∪B)⊆(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e)",
-                              "(A∩B)⊆(A∪\u003cspan class=\"ol\"\u003eB\u003c/span\u003e)",
-                              "(A∩B)⊆(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e)"
+                              "A⊆(A∩<span style='text-decoration: overline;'>B\u003c/span\u003e)",
+                              "(A∪B)⊆(<span style='text-decoration: overline;'>A\u003c/span\u003e∪<span style='text-decoration: overline;'>B\u003c/span\u003e)",
+                              "(A∩B)⊆(A∪<span style='text-decoration: overline;'>B\u003c/span\u003e)",
+                              "(A∩B)⊆(<span style='text-decoration: overline;'>A\u003c/span\u003e∩<span style='text-decoration: overline;'>B\u003c/span\u003e)"
                           ],
                    "an":  3,
-                   "al":  "將各集合之間的關係以文氏圖（Venn diagram）表示如下。"
+                   "al":  "A⊆B 的正確解釋是 A 是 B 的部分子集，所以左邊是右邊的子集的為正確。\n將各集合之間的關係以文氏圖（Venn diagram）表示如下。\n[1]\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/08a.png\" \u003e\n[2]\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/08i.png\" \u003e\n[3]\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/08u.png\" \u003e\n[4]\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/08e.png\" \u003e"
                }
     },
     {
@@ -2133,23 +2133,23 @@
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
                    "q":  "16進小数3A.5Cを10進数の分数で表したものはどれか。",
                    "op":  [
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e939",
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e3735",
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e14939",
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e14941"
+                              "939/16",
+                              "3735/64",
+                              "14939/256",
+                              "14941/256"
                           ],
                    "an":  2,
-                   "al":  "16進数表記において、仮に値がn1n2. n3n4 とすると各桁のもつ数値は、 (n1×161)＋(n2×160)＋(n3×16-1)＋(n4×16-2)と16を基数として表すことができます。上の式の累乗の部分を展開し、問題文の3A.5Cに当てはめると、 (3×16)＋(10×1)＋(5×116)＋(12×1256)となります。後は地道に計算するだけです。整数部分は、 (3×16)+(10×1)＝58小数部分は、 (5×116)＋(12×1256)＝80＋12256＝92256＝（4で約分）2364整数部分を分数に変換して、 58×6464＝371264整数部分と小数部分を足して、 3712＋2364＝373564となります。"
+                   "al":  "16進数表記において、仮に値がn1n2. n3n4 とすると各桁のもつ数値は、 (n1×16^1)＋(n2×16^0)＋(n3×16^-1)＋(n4×16^-2)と16を基数として表すことができます。上の式の累乗の部分を展開し、問題文の3A.5Cに当てはめると、 (3×16)＋(10×1)＋(5×1/16)＋(12×1/256)となります。後は地道に計算するだけです。整数部分は、 (3×16)+(10×1)＝58小数部分は、 (5×1/16)＋(12×1/256)＝80/256＋12/256＝92/256＝（4で約分）23/64整数部分を分数に変換して、 58×64/64＝3712/64整数部分と小数部分を足して、 3712/64＋23/64＝3735/64となります。"
                },
         "zh":  {
                    "ti":  "平成19年春季 問1",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
                    "q":  "將16進制小數3A.5C以10進制分數表示，下列何者正確？",
                    "op":  [
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e939\u003c/span\u003e\u003cspan class=\"symbol\"\u003e/\u003c/span\u003e\u003cspan\u003e16\u003c/span\u003e\u003c/span\u003e",
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e3735\u003c/span\u003e\u003cspan class=\"symbol\"\u003e/\u003c/span\u003e\u003cspan\u003e64\u003c/span\u003e\u003c/span\u003e",
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e14939\u003c/span\u003e\u003cspan class=\"symbol\"\u003e/\u003c/span\u003e\u003cspan\u003e256\u003c/span\u003e\u003c/span\u003e",
-                              "\u003cspan class=\"frac\"\u003e\u003cspan\u003e14941\u003c/span\u003e\u003cspan class=\"symbol\"\u003e/\u003c/span\u003e\u003cspan\u003e256\u003c/span\u003e\u003c/span\u003e"
+                              "939/16",
+                              "3735/64",
+                              "14939/256",
+                              "14941/256"
                           ],
                    "an":  2,
                    "al":  "在16進制表示法中，假設數值為n1n2.n3n4，則各數位所代表的數值可以16為基數表示為：(n1×16^1)＋(n2×16^0)＋(n3×16^-1)＋(n4×16^-2)。展開上述公式並套入題目中的3A.5C，可得：(3×16)＋(10×1)＋(5×1/16)＋(12×1/256)。接下來進行計算即可。整數部分：(3×16)＋(10×1)＝58。小數部分：(5×1/16)＋(12×1/256)＝80/256＋12/256＝92/256＝（以4約分）23/64。將整數部分轉換為分數：58×64/64＝3712/64。將整數部分與小數部分相加：3712/64＋23/64＝3735/64。"
@@ -2167,7 +2167,7 @@
                               "256"
                           ],
                    "an":  4,
-                   "al":  "1ビットでは\"0\"と\"1\"の2種類が表現でき、2ビットでは\"00\",\"01\",\"10\",\"11\"の4種類が表現できます。同様に、3ビットでは「2×2×2＝8種類」、4ビットでは「2×2×2×2＝16種類」と考えていくと、nビットで表現できるビットパターンの個数は2nであることがわかります。これを踏まえると、32ビットで表現できるビットパターンは232個、24ビットで表現できるビットパターンは224個ですから、 232÷224＝28＝256256倍が適切です。"
+                   "al":  "1ビットでは\"0\"と\"1\"の2種類が表現でき、2ビットでは\"00\",\"01\",\"10\",\"11\"の4種類が表現できます。同様に、3ビットでは「2×2×2＝8種類」、4ビットでは「2×2×2×2＝16種類」と考えていくと、nビットで表現できるビットパターンの個数は2nであることがわかります。これを踏まえると、32ビットで表現できるビットパターンは2^32個、24ビットで表現できるビットパターンは2^24個ですから、 2^32 ÷ 2^24 ＝ 2^8 ＝ 256,256倍が適切です。"
                },
         "zh":  {
                    "ti":  "平成28年秋季 問4",
@@ -2495,7 +2495,7 @@
         "ja":  {
                    "ti":  "平成25年秋期　問1",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "集合(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e∩B∩C)∪(A∩B∩\u003cspan class=\"ol\"\u003eC\u003c/span\u003e)を網掛け部分(\u003cspan class=\"bb\" style=\"background-color:#999\"\u003e　\u003c/span\u003e)で表しているベン図はどれか。ここで，∩は積集合，∪は和集合，\u003cspan class=\"ol\"\u003eX\u003c/span\u003eはXの補集合を表す。",
+                   "q":  "集合(<span style='text-decoration: overline;'>A\u003c/span\u003e∩B∩C)∪(A∩B∩<span style='text-decoration: overline;'>C\u003c/span\u003e)を網掛け部分(\u003cspan class=\"bb\" style=\"background-color:#999\"\u003e　\u003c/span\u003e)で表しているベン図はどれか。ここで，∩は積集合，∪は和集合，<span style='text-decoration: overline;'>X\u003c/span\u003eはXの補集合を表す。",
                    "op":  [
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/01a.png\" alt=\"\"\u003e",
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/01i.png\" alt=\"\"\u003e",
@@ -2508,7 +2508,7 @@
         "zh":  {
                    "ti":  "平成25年秋季 問1",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "下列哪一個文氏圖（Venn diagram）中的陰影部分（\u003cspan class=\"bb\" style=\"background-color:#999\"\u003e　\u003c/span\u003e）代表了集合(\u003cspan class=\"ol\"\u003eA\u003c/span\u003e∩B∩C)∪(A∩B∩\u003cspan class=\"ol\"\u003eC\u003c/span\u003e)？在此，∩ 代表交集，∪ 代表聯集，\u003cspan class=\"ol\"\u003eX\u003c/span\u003e 代表 X 的補集。",
+                   "q":  "下列哪一個文氏圖（Venn diagram）中的陰影部分（\u003cspan class=\"bb\" style=\"background-color:#999\"\u003e　\u003c/span\u003e）代表了集合(<span style='text-decoration: overline;'>A\u003c/span\u003e∩B∩C)∪(A∩B∩<span style='text-decoration: overline;'>C\u003c/span\u003e)？在此，∩ 代表交集，∪ 代表聯集，<span style='text-decoration: overline;'>X\u003c/span\u003e 代表 X 的補集。",
                    "op":  [
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/01a.png\" alt=\"\"\u003e",
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/01i.png\" alt=\"\"\u003e",
@@ -3139,7 +3139,7 @@
         "ja":  {
                    "ti":  "平成16年春期　問7",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "1ビットの数A，Bの和を2ビットで表現したとき，上位ビットCと下位ビットSを表す論理式の組合せはどれか。ここで，\"・\"は論理積，\"＋\"は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003e はXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/07.png\" alt=\"問7画像\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/07a.png\" alt=\"問7選択肢\"\u003e",
+                   "q":  "1ビットの数A，Bの和を2ビットで表現したとき，上位ビットCと下位ビットSを表す論理式の組合せはどれか。ここで，\"・\"は論理積，\"＋\"は論理和，<span style='text-decoration: overline;'>X\u003c/span\u003e はXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/07.png\" alt=\"問7画像\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/07a.png\" alt=\"問7選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -3152,7 +3152,7 @@
         "zh":  {
                    "ti":  "平成16年春季 問7",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "當將1位元的數A與B的和以2位元表示時，表示高位位元C與低位位元S的邏輯式組合為何？在此，「・」代表邏輯乘（AND），「＋」代表邏輯和（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e 代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/07.png\" alt=\"問7圖片\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/07a.png\" alt=\"問7選択肢\"\u003e",
+                   "q":  "當將1位元的數A與B的和以2位元表示時，表示高位位元C與低位位元S的邏輯式組合為何？在此，「・」代表邏輯乘（AND），「＋」代表邏輯和（OR），<span style='text-decoration: overline;'>X\u003c/span\u003e 代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/07.png\" alt=\"問7圖片\"\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/16_haru/img/07a.png\" alt=\"問7選択肢\"\u003e",
                    "op":  [
                               "ア",
                               "イ",
@@ -4091,12 +4091,12 @@
         "ja":  {
                    "ti":  "平成20年春期　問9",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "x，y，z を論理変数，Tを真，Fを偽とするとき，次の真理値表で示される関数 ƒ(x，y，z) を表す論理式はどれか。ここで∧は論理積，∨は論理和，\u003cspan class=\"ol\"\u003eA\u003c/span\u003eはAの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/9.png\" alt=\"問9画像\"\u003e",
+                   "q":  "x，y，z を論理変数，Tを真，Fを偽とするとき，次の真理値表で示される関数 ƒ(x，y，z) を表す論理式はどれか。ここで∧は論理積，∨は論理和，<span style='text-decoration: overline;'>A\u003c/span\u003eはAの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/9.png\" alt=\"問9画像\"\u003e",
                    "op":  [
                               "(x∧y)∨(y∧z)",
-                              "(x∧y)∨(\u003cspan class=\"ol\"\u003ey",
-                              "(x∧y)∨(\u003cspan class=\"ol\"\u003ey",
-                              "(x∧\u003cspan class=\"ol\"\u003ey"
+                              "(x∧y)∨(<span style='text-decoration: overline;'>y",
+                              "(x∧y)∨(<span style='text-decoration: overline;'>y",
+                              "(x∧<span style='text-decoration: overline;'>y"
                           ],
                    "an":  2,
                    "al":  "問題文の真理値表から任意のパターンを選択して各論理式に当てはめていくことで正解を導きます。なるべくTとFを混じっているパターンを選んだほうが結果が異なりやすいので、最初に「x=T，y=F，z=T，結果T」のパターンを代入してみます。 (x∧y)∨(y∧z) (T∧F)∨(F∧T)＝F∨F＝F …× (x∧y)∨(y∧z) (T∧F)∨(F∧T)＝(T∧F)∨(T∧T)＝F∨T＝T …○ [1](x∧y)∨(y∧z) (T∧F)∨(F∧T)＝(T∧F)∨(T∧F)＝F∨F＝F …× [2](x∧y)∨(y∧z) (T∧F)∨(F∧T)＝(T∧T)∨(T∧F)＝T∨F＝T …○ [3]「イ」(F∧F)∨(F∧T)＝F∨F＝F …○ [4]「エ」(F∧F)∨(F∧F)＝(F∧T)∨(T∧T)＝F∨T＝T …×"
@@ -4104,15 +4104,15 @@
         "zh":  {
                    "ti":  "平成20年春季 問9",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "設 x、y、z 為邏輯變數，T 為真，F 為偽，下列哪一個邏輯式表示真值表所示的函數 ƒ(x，y，z)？其中 ∧ 表示邏輯乘（AND），∨ 表示邏輯加（OR），\u003cspan class=\"ol\"\u003eA\u003c/span\u003e 表示 A 的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/9.png\" alt=\"問9圖片\"\u003e",
+                   "q":  "設 x、y、z 為邏輯變數，T 為真，F 為偽，下列哪一個邏輯式表示真值表所示的函數 ƒ(x，y，z)？其中 ∧ 表示邏輯乘（AND），∨ 表示邏輯加（OR），<span style='text-decoration: overline;'>A\u003c/span\u003e 表示 A 的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/20_haru/img/9.png\" alt=\"問9圖片\"\u003e",
                    "op":  [
                               "(x∧y)∨(y∧z)",
-                              "(x∧y)∨(\u003cspan class=\"ol\"\u003ey\u003c/span\u003e∧z)",
-                              "(x∧y)∨(\u003cspan class=\"ol\"\u003ey\u003c/span\u003e∧\u003cspan class=\"ol\"\u003ez\u003c/span\u003e)",
-                              "(x∧\u003cspan class=\"ol\"\u003ey\u003c/span\u003e)∨(y∧z)"
+                              "(x∧y)∨(<span style='text-decoration: overline;'>y\u003c/span\u003e∧z)",
+                              "(x∧y)∨(<span style='text-decoration: overline;'>y\u003c/span\u003e∧<span style='text-decoration: overline;'>z\u003c/span\u003e)",
+                              "(x∧<span style='text-decoration: overline;'>y\u003c/span\u003e)∨(y∧z)"
                           ],
                    "an":  2,
-                   "al":  "從問題的真值表中選擇任意組合，代入各個邏輯式進行驗證即可導出正確答案。建議選擇 T 與 F 混雜的組合，較容易區分結果，因此首先代入「x=T, y=F, z=T，結果為 T」的組合進行測試。 [1](x∧y)∨(y∧z) (T∧F)∨(F∧T)＝F∨F＝F …× [2](x∧y)∨(\u003cspan class=\"ol\"\u003ey\u003c/span\u003e∧z) (T∧F)∨(\u003cspan class=\"ol\"\u003eF\u003c/span\u003e∧T)＝(T∧F)∨(T∧T)＝F∨T＝T …○ [3](x∧y)∨(\u003cspan class=\"ol\"\u003ey\u003c/span\u003e∧\u003cspan class=\"ol\"\u003ez\u003c/span\u003e) (T∧F)∨(\u003cspan class=\"ol\"\u003eF\u003c/span\u003e∧\u003cspan class=\"ol\"\u003eT\u003c/span\u003e)＝(T∧F)∨(T∧F)＝F∨F＝F …× [4](x∧\u003cspan class=\"ol\"\u003ey\u003c/span\u003e)∨(y∧z) (T∧\u003cspan class=\"ol\"\u003eF\u003c/span\u003e)∨(F∧T)＝(T∧T)∨(F∧T)＝T∨F＝T …○ (註：需進一步驗證其他組合以確認唯一解，正確答案為 2)"
+                   "al":  "從問題的真值表中選擇任意組合，代入各個邏輯式進行驗證即可導出正確答案。建議選擇 T 與 F 混雜的組合，較容易區分結果，因此首先代入「x=T, y=F, z=T，結果為 T」的組合進行測試。 [1](x∧y)∨(y∧z) (T∧F)∨(F∧T)＝F∨F＝F …× [2](x∧y)∨(<span style='text-decoration: overline;'>y\u003c/span\u003e∧z) (T∧F)∨(<span style='text-decoration: overline;'>F\u003c/span\u003e∧T)＝(T∧F)∨(T∧T)＝F∨T＝T …○ [3](x∧y)∨(<span style='text-decoration: overline;'>y\u003c/span\u003e∧<span style='text-decoration: overline;'>z\u003c/span\u003e) (T∧F)∨(<span style='text-decoration: overline;'>F\u003c/span\u003e∧<span style='text-decoration: overline;'>T\u003c/span\u003e)＝(T∧F)∨(T∧F)＝F∨F＝F …× [4](x∧<span style='text-decoration: overline;'>y\u003c/span\u003e)∨(y∧z) (T∧<span style='text-decoration: overline;'>F\u003c/span\u003e)∨(F∧T)＝(T∧T)∨(F∧T)＝T∨F＝T …○ (註：需進一步驗證其他組合以確認唯一解，正確答案為 2)"
                }
     },
     {
@@ -5603,10 +5603,10 @@
         "ja":  {
                    "ti":  "平成16年秋期　問9",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "X・Y・Z＋\u003cspan class=\"ol\"\u003eX\u003c/span\u003e・Y・Zと等価な論理式はどれか。ここで，“・”は論理積，“＋”は論理和，\u003cspan class=\"ol\"\u003eX\u003c/span\u003e はXの否定を表す。",
+                   "q":  "X・Y・Z＋<span style='text-decoration: overline;'>X\u003c/span\u003e・Y・Zと等価な論理式はどれか。ここで，“・”は論理積，“＋”は論理和，<span style='text-decoration: overline;'>X\u003c/span\u003e はXの否定を表す。",
                    "op":  [
                               "X・Y・Z",
-                              "\u003cspan class=\"ol\"\u003eX",
+                              "<span style='text-decoration: overline;'>X",
                               "Y・Z",
                               "Y＋Z"
                           ],
@@ -5616,10 +5616,10 @@
         "zh":  {
                    "ti":  "平成16年秋季 問9",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "與 X・Y・Z＋\u003cspan class=\"ol\"\u003eX\u003c/span\u003e・Y・Z 等價的邏輯式為何？在此，“・”代表邏輯積（AND），“＋”代表邏輯和（OR），\u003cspan class=\"ol\"\u003eX\u003c/span\u003e 代表 X 的否定（NOT X）。",
+                   "q":  "與 X・Y・Z＋<span style='text-decoration: overline;'>X\u003c/span\u003e・Y・Z 等價的邏輯式為何？在此，“・”代表邏輯積（AND），“＋”代表邏輯和（OR），<span style='text-decoration: overline;'>X\u003c/span\u003e 代表 X 的否定（NOT X）。",
                    "op":  [
                               "X・Y・Z",
-                              "\u003cspan class=\"ol\"\u003eX\u003c/span\u003e",
+                              "<span style='text-decoration: overline;'>X\u003c/span\u003e",
                               "Y・Z",
                               "Y＋Z"
                           ],
@@ -5743,10 +5743,10 @@
         "ja":  {
                    "ti":  "令和2年度　問2",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "全体集合S内に異なる部分集合AとBがあるとき，\u003cspan class=\"ol\"\u003eA\u003c/span\u003e∩\u003cspan class=\"ol\"\u003eB\u003c/span\u003eに等しいものはどれか。ここで，A∪BはAとBの和集合，A∩BはAとBの積集合，\u003cspan class=\"ol\"\u003eA\u003c/span\u003eはSにおけるAの補集合，A－BはAからBを除いた差集合を表す。",
+                   "q":  "全体集合S内に異なる部分集合AとBがあるとき，<span style='text-decoration: overline;'>A\u003c/span\u003e∩<span style='text-decoration: overline;'>B\u003c/span\u003eに等しいものはどれか。ここで，A∪BはAとBの和集合，A∩BはAとBの積集合，<span style='text-decoration: overline;'>A\u003c/span\u003eはSにおけるAの補集合，A－BはAからBを除いた差集合を表す。",
                    "op":  [
-                              "\u003cspan class=\"ol\"\u003eA",
-                              "(\u003cspan class=\"ol\"\u003eA",
+                              "<span style='text-decoration: overline;'>A",
+                              "(<span style='text-decoration: overline;'>A",
                               "(S－A)∪(S－B)",
                               "S－(A∩B)"
                           ],
@@ -5756,10 +5756,10 @@
         "zh":  {
                    "ti":  "令和2年度 問2",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "在全集 S 內有不同的子集 A 與 B，請問下列何者等同於 \u003cspan class=\"ol\"\u003eA\u003c/span\u003e∩\u003cspan class=\"ol\"\u003eB\u003c/span\u003e？其中，A∪B 代表 A 與 B 的聯集，A∩B 代表 A 與 B 的交集，\u003cspan class=\"ol\"\u003eA\u003c/span\u003e 代表 A 在 S 中的補集，A－B 代表從 A 中扣除 B 後的差集。",
+                   "q":  "在全集 S 內有不同的子集 A 與 B，請問下列何者等同於 <span style='text-decoration: overline;'>A\u003c/span\u003e∩<span style='text-decoration: overline;'>B\u003c/span\u003e？其中，A∪B 代表 A 與 B 的聯集，A∩B 代表 A 與 B 的交集，<span style='text-decoration: overline;'>A\u003c/span\u003e 代表 A 在 S 中的補集，A－B 代表從 A 中扣除 B 後的差集。",
                    "op":  [
-                              "\u003cspan class=\"ol\"\u003eA∪B\u003c/span\u003e",
-                              "(\u003cspan class=\"ol\"\u003eA∪B\u003c/span\u003e)",
+                              "<span style='text-decoration: overline;'>A∪B\u003c/span\u003e",
+                              "(<span style='text-decoration: overline;'>A∪B\u003c/span\u003e)",
                               "(S－A)∪(S－B)",
                               "S－(A∩B)"
                           ],
@@ -6023,10 +6023,10 @@
         "ja":  {
                    "ti":  "平成26年春期　問3",
                    "ca":  "テクノロジ系 » 基礎理論 » 離散数学",
-                   "q":  "論理式 \u003cspan class=\"ol\"\u003eA\u003c/span\u003e・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e・C＋A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e・C＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・B・C＋A・B・C と恒等的に等しいものはどれか。ここで，・は論理積，＋は論理和，\u003cspan class=\"ol\"\u003eA\u003c/span\u003eはAの否定を表す。",
+                   "q":  "論理式 <span style='text-decoration: overline;'>A\u003c/span\u003e・<span style='text-decoration: overline;'>B\u003c/span\u003e・C＋A・<span style='text-decoration: overline;'>B\u003c/span\u003e・C＋<span style='text-decoration: overline;'>A\u003c/span\u003e・B・C＋A・B・C と恒等的に等しいものはどれか。ここで，・は論理積，＋は論理和，<span style='text-decoration: overline;'>A\u003c/span\u003eはAの否定を表す。",
                    "op":  [
                               "A・B・C",
-                              "A・B・C＋\u003cspan class=\"ol\"\u003eA",
+                              "A・B・C＋<span style='text-decoration: overline;'>A",
                               "A・B＋B・C",
                               "C"
                           ],
@@ -6036,10 +6036,10 @@
         "zh":  {
                    "ti":  "平成26年春季 問3",
                    "ca":  "技術系 » 基礎理論 » 離散數學",
-                   "q":  "與邏輯式 \u003cspan class=\"ol\"\u003eA\u003c/span\u003e・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e・C＋A・\u003cspan class=\"ol\"\u003eB\u003c/span\u003e・C＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e・B・C＋A・B・C 恆等相等的為何？在此，・代表邏輯乘（AND），＋代表邏輯加（OR），\u003cspan class=\"ol\"\u003eA\u003c/span\u003e代表 A 的否定（NOT）。",
+                   "q":  "與邏輯式 <span style='text-decoration: overline;'>A\u003c/span\u003e・<span style='text-decoration: overline;'>B\u003c/span\u003e・C＋A・<span style='text-decoration: overline;'>B\u003c/span\u003e・C＋<span style='text-decoration: overline;'>A\u003c/span\u003e・B・C＋A・B・C 恆等相等的為何？在此，・代表邏輯乘（AND），＋代表邏輯加（OR），<span style='text-decoration: overline;'>A\u003c/span\u003e代表 A 的否定（NOT）。",
                    "op":  [
                               "A・B・C",
-                              "A・B・C＋\u003cspan class=\"ol\"\u003eA\u003c/span\u003e",
+                              "A・B・C＋<span style='text-decoration: overline;'>A\u003c/span\u003e",
                               "A・B＋B・C",
                               "C"
                           ],
