@@ -6,162 +6,477 @@
     <title>情報セキュリティマネジメント試験-用語集（シラバス4.1）</title>
     <script src="util.js"></script>
     <style>
-        :root {
-            --primary-color: #2b6cb0;
-            --bg-color: #f7fafc;
-            --card-bg: #ffffff;
-            --text-color: #2d3748;
-            --border-color: #e2e8f0;
-        }
+	:root {
+		--primary-color: #2b6cb0;
 
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-color);
-            margin: 0;
-            padding: 24px 16px;
-        }
+		/* 淺色模式 */
+		--bg-color: #f7fafc;
+		--card-bg: #ffffff;
+		--text-color: #2d3748;
+		--title-color: #1a202c;
+		--border-color: #e2e8f0;
 
-        .container {
-            max-width: 1000px;
-            margin: 0 auto;
-        }
+		--link-color: #4a5568;
+		--link-hover-bg: #edf2f7;
 
-        .section-title {
-            font-size: 1.5rem;
-            font-weight: bold;
-            margin-bottom: 20px;
-            color: #1a202c;
-            border-bottom: 2px solid var(--primary-color);
-            padding-bottom: 8px;
-        }
+		--count-bg: #ebf8ff;
+		--count-color: #2b6cb0;
 
-        .cat-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 16px;
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
+		--muted-color: #a0aec0;
 
-        .cat-card {
-            background-color: var(--card-bg);
-            border: 1px solid var(--border-color);
-            border-radius: 8px;
-            padding: 16px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
-        }
+		--card-shadow: rgba(0, 0, 0, 0.04);
+	}
 
-        .cat-card__header {
-            display: flex;
-            align-items: center;
-            color: var(--primary-color);
-            font-weight: bold;
-            font-size: 1.1rem;
-            padding-bottom: 12px;
-            border-bottom: 1px solid var(--border-color);
-            margin-bottom: 12px;
-        }
 
-        .cat-card__id {
-            background-color: var(--primary-color);
-            color: white;
-            border-radius: 50%;
-            width: 24px;
-            height: 24px;
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 0.85rem;
-            margin-right: 8px;
-            flex-shrink: 0;
-        }
+	/* =========================================================
+	   深夜模式
+	   ========================================================= */
 
-        .cat-card__name {
-            flex-grow: 1;
-        }
+	html.dark {
+		--bg-color: #121212;
+		--card-bg: #1e1e1e;
+		--text-color: #e0e0e0;
+		--title-color: #f5f5f5;
+		--border-color: #3a3a3a;
 
-        .cat-card__count {
-            background-color: #ebf8ff;
-            color: #2b6cb0;
-            font-size: 0.85rem;
-            padding: 2px 8px;
-            border-radius: 12px;
-            font-weight: normal;
-        }
+		--link-color: #cbd5e0;
+		--link-hover-bg: #2a2a2a;
 
-        .sub_category__list {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
+		--count-bg: #163a52;
+		--count-color: #63b3ed;
 
-        .sub_category__list li {
-            margin-bottom: 6px;
-        }
+		--muted-color: #888888;
 
-        .sub_category__link {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            text-decoration: none;
-            color: #4a5568;
-            font-size: 0.95rem;
-            padding: 4px 8px;
-            border-radius: 4px;
-            transition: background-color 0.2s;
-        }
+		--card-shadow: rgba(0, 0, 0, 0.35);
+	}
 
-        .sub_category__link:hover {
-            background-color: #edf2f7;
-            color: #2b6cb0;
-        }
 
-        .word_count {
-            font-size: 0.8rem;
-            color: #a0aec0;
-        }
+	/* =========================================================
+	   基本設定
+	   ========================================================= */
 
-        .word_count::before {
-            content: "(";
-        }
-        .word_count::after {
-            content: ")";
-        }
-		
-		.btn-quiz-start {
-			background-color: #3182ce;
-			color: white;
-			border: none;
-			padding: 8px 16px;
-			font-size: 0.9rem;
-			font-weight: bold;
-			border-radius: 6px;
-			cursor: pointer;
-			transition: background-color 0.2s, transform 0.1s;
-			box-shadow: 0 2px 4px rgba(49, 130, 206, 0.2);
+	html {
+		background-color: var(--bg-color);
+		transition: background-color 0.2s ease;
+	}
+
+	body {
+		font-family:
+			-apple-system,
+			BlinkMacSystemFont,
+			"Segoe UI",
+			Roboto,
+			"Helvetica Neue",
+			Arial,
+			sans-serif;
+
+		background-color: var(--bg-color);
+		color: var(--text-color);
+
+		margin: 0;
+		padding: 24px 16px;
+
+		transition:
+			background-color 0.2s ease,
+			color 0.2s ease;
+	}
+
+
+	/* =========================================================
+	   Container
+	   ========================================================= */
+
+	.container {
+		max-width: 1000px;
+		margin: 0 auto;
+	}
+
+
+	/* =========================================================
+	   標題
+	   ========================================================= */
+
+	.section-title {
+		font-size: 1.5rem;
+		font-weight: bold;
+
+		margin-bottom: 20px;
+
+		color: var(--title-color);
+
+		border-bottom: 2px solid var(--primary-color);
+
+		padding-bottom: 8px;
+
+		transition:
+			color 0.2s ease,
+			border-color 0.2s ease;
+	}
+
+
+	/* =========================================================
+	   分類 Grid
+	   ========================================================= */
+
+	.cat-grid {
+		display: grid;
+
+		grid-template-columns:
+			repeat(auto-fill, minmax(300px, 1fr));
+
+		gap: 16px;
+
+		list-style: none;
+
+		padding: 0;
+		margin: 0;
+	}
+
+
+	/* =========================================================
+	   分類卡片
+	   ========================================================= */
+
+	.cat-card {
+		background-color: var(--card-bg);
+
+		border: 1px solid var(--border-color);
+
+		border-radius: 8px;
+
+		padding: 16px;
+
+		box-shadow:
+			0 2px 4px var(--card-shadow);
+
+		transition:
+			background-color 0.2s ease,
+			border-color 0.2s ease,
+			box-shadow 0.2s ease;
+	}
+
+
+	/* =========================================================
+	   分類標題
+	   ========================================================= */
+
+	.cat-card__header {
+		display: flex;
+
+		align-items: center;
+
+		color: var(--primary-color);
+
+		font-weight: bold;
+
+		font-size: 1.1rem;
+
+		padding-bottom: 12px;
+
+		border-bottom: 1px solid var(--border-color);
+
+		margin-bottom: 12px;
+
+		transition:
+			color 0.2s ease,
+			border-color 0.2s ease;
+	}
+
+
+	/* =========================================================
+	   分類編號圓圈
+	   ========================================================= */
+
+	.cat-card__id {
+		background-color: var(--primary-color);
+
+		color: white;
+
+		border-radius: 50%;
+
+		width: 24px;
+		height: 24px;
+
+		display: inline-flex;
+
+		align-items: center;
+		justify-content: center;
+
+		font-size: 0.85rem;
+
+		margin-right: 8px;
+
+		flex-shrink: 0;
+	}
+
+
+	/* =========================================================
+	   分類名稱
+	   ========================================================= */
+
+	.cat-card__name {
+		flex-grow: 1;
+	}
+
+
+	/* =========================================================
+	   題目數量
+	   ========================================================= */
+
+	.cat-card__count {
+		background-color: var(--count-bg);
+
+		color: var(--count-color);
+
+		font-size: 0.85rem;
+
+		padding: 2px 8px;
+
+		border-radius: 12px;
+
+		font-weight: normal;
+
+		transition:
+			background-color 0.2s ease,
+			color 0.2s ease;
+	}
+
+
+	/* =========================================================
+	   子分類列表
+	   ========================================================= */
+
+	.sub_category__list {
+		list-style: none;
+
+		padding: 0;
+		margin: 0;
+	}
+
+
+	.sub_category__list li {
+		margin-bottom: 6px;
+	}
+
+
+	/* =========================================================
+	   子分類連結
+	   ========================================================= */
+
+	.sub_category__link {
+		display: flex;
+
+		justify-content: space-between;
+		align-items: center;
+
+		text-decoration: none;
+
+		color: var(--link-color);
+
+		font-size: 0.95rem;
+
+		padding: 4px 8px;
+
+		border-radius: 4px;
+
+		transition:
+			background-color 0.2s ease,
+			color 0.2s ease;
+	}
+
+
+	.sub_category__link:hover {
+		background-color: var(--link-hover-bg);
+
+		color: var(--primary-color);
+	}
+
+
+	/* =========================================================
+	   題目數量
+	   ========================================================= */
+
+	.word_count {
+		font-size: 0.8rem;
+
+		color: var(--muted-color);
+
+		transition: color 0.2s ease;
+	}
+
+
+	.word_count::before {
+		content: "(";
+	}
+
+
+	.word_count::after {
+		content: ")";
+	}
+
+
+	/* =========================================================
+	   開始測驗按鈕
+	   ========================================================= */
+
+	.btn-quiz-start {
+		background-color: #3182ce;
+
+		color: white;
+
+		border: none;
+
+		padding: 8px 16px;
+
+		font-size: 0.9rem;
+
+		font-weight: bold;
+
+		border-radius: 6px;
+
+		cursor: pointer;
+
+		transition:
+			background-color 0.2s,
+			transform 0.1s;
+
+		box-shadow:
+			0 2px 4px rgba(49, 130, 206, 0.2);
+	}
+
+
+	.btn-quiz-start:hover {
+		background-color: #2b6cb0;
+	}
+
+
+	.btn-quiz-start:active {
+		transform: scale(0.98);
+	}
+
+
+	.btn-quiz-start:disabled {
+		background-color: #cbd5e0;
+
+		color: #718096;
+
+		cursor: not-allowed;
+
+		box-shadow: none;
+
+		transform: none;
+	}
+
+
+	/* =========================================================
+	   深夜模式下的測驗按鈕
+	   ========================================================= */
+
+	html.dark .btn-quiz-start:disabled {
+		background-color: #444444;
+
+		color: #888888;
+	}
+
+
+	/* =========================================================
+	   深夜模式切換按鈕
+	   ========================================================= */
+
+	.theme-toggle {
+		position: fixed;
+
+		top: 16px;
+		right: 16px;
+
+		z-index: 1000;
+
+		padding: 8px 14px;
+
+		border: 1px solid #cbd5e0;
+
+		border-radius: 20px;
+
+		background-color: #ffffff;
+
+		color: #333333;
+
+		font-size: 14px;
+
+		cursor: pointer;
+
+		box-shadow:
+			0 2px 8px rgba(0, 0, 0, 0.1);
+
+		transition:
+			background-color 0.2s ease,
+			color 0.2s ease,
+			border-color 0.2s ease,
+			box-shadow 0.2s ease;
+	}
+
+
+	.theme-toggle:hover {
+		background-color: #f7fafc;
+	}
+
+
+	/* =========================================================
+	   深夜模式切換按鈕
+	   ========================================================= */
+
+	html.dark .theme-toggle {
+		background-color: #2a2a2a;
+
+		border-color: #555555;
+
+		color: #eeeeee;
+
+		box-shadow:
+			0 2px 8px rgba(0, 0, 0, 0.4);
+	}
+
+
+	html.dark .theme-toggle:hover {
+		background-color: #333333;
+	}
+
+
+	/* =========================================================
+	   手機版
+	   ========================================================= */
+
+	@media (max-width: 600px) {
+
+		body {
+			padding: 16px 10px;
 		}
 
-		.btn-quiz-start:hover {
-			background-color: #2b6cb0;
+		.cat-grid {
+			grid-template-columns: 1fr;
 		}
 
-		.btn-quiz-start:active {
-			transform: scale(0.98);
+		.section-title {
+			font-size: 1.3rem;
 		}
 
-		.btn-quiz-start:disabled {
-			background-color: #cbd5e0;
-			cursor: not-allowed;
-			box-shadow: none;
-			transform: none;
+		.theme-toggle {
+			top: 10px;
+			right: 10px;
+
+			padding: 7px 11px;
+
+			font-size: 13px;
 		}
+	}
     </style>
 </head>
 <body>
 
 <div class="container">
+	<button id="theme-toggle" class="theme-toggle">
+		🌙 深色模式
+	</button>
     <h2 class="section-title">基本情報技術者試験 考古題</h2>
     
     <ul class="cat-grid" role="list">
@@ -714,6 +1029,37 @@
 			btnElement.textContent = '開始綜合測驗';
 		}
 	}
+	
+ // 切換深色/淺色
+const themeToggle = document.getElementById("theme-toggle");
+themeToggle.addEventListener("click", function () {
+	document.documentElement.classList.toggle("dark");
+	document.body.classList.toggle("dark");
+
+	const isDark = document.body.classList.contains("dark");
+
+	localStorage.setItem("theme", isDark ? "dark" : "light");
+
+	updateThemeButton();
+});
+	
+function updateThemeButton() {
+	if (document.body.classList.contains("dark")) {
+		themeToggle.textContent = "☀️ 淺色模式";
+	} else {
+		themeToggle.textContent = "🌙 深色模式";
+	}
+}
+
+window.onload = function() {	
+	// 讀取上次的設定
+    if (localStorage.getItem("theme") === "dark") {
+        document.documentElement.classList.add("dark");
+        document.body.classList.add("dark");
+    }
+
+    updateThemeButton();
+};
 </script>
 </body>
 </html>
