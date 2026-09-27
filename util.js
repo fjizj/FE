@@ -263,7 +263,7 @@ function parserContent(content) {
 		// 💡 支援到 Z：動態將 [1] ~ [26] 轉換為 [A] ~ [Z]，並加上換行
 		const upperAlphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 		for (let i = 0; i < upperAlphabet.length; i++) {
-			const numTag = `[${i + 1}]`;
+			const numTag = `@${i + 1}@`;
 			const letterTag = `<br>[${upperAlphabet[i]}]`;
 			
 			// 使用全域取代，將所有的 [1] 換成 <br>[A]，以此類推
