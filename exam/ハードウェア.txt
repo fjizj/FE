@@ -95,7 +95,7 @@
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/23e.png\" alt=\"\"\u003e"
                           ],
                    "an":  1,
-                   "al":  "3入力多数決回路なので、真理値表にあるように3つの入力中2つ以上が\"1\"（＝\"1\"が多数）であれば結果に\"1\"を出力、そして2つ以上が\"0\"（＝\"0\"が多数）であれば結果に\"0\"を出力するものになっている必要があります。回路ごとにA、B、Cの値を与えた場合の出力を照合していくと、正しいのは「ア」の回路とわかります。「ア」の回路は、論理的には次のような演算を行う回路と考えられます。まず「A，B」「A，C」「B，C」それぞれの論理積を求める。3つの論理積演算の結果に\"1\"が現れれば、3つの入力中に\"1\"が2つ以上あることが確定する。逆に\"1\"が現れなければ3つの入力中の\"1\"の個数は1以下ということになる。3つの論理積演算の結果の中に少なくとも\"1\"が1つ以上ある場合には\"1\"(可決)、そうでなければ\"0\"(否決)を出力すればよいので、3つの演算結果を論理和演算した結果を最終的な出力とする。 @1@まず「A，B」「A，C」「B，C」それぞれの論理積を求める。 @2@3つの論理積演算の結果に\"1\"が現れれば、3つの入力中に\"1\"が2つ以上あることが確定する。逆に\"1\"が現れなければ3つの入力中の\"1\"の個数は1以下ということになる。 @3@3つの論理積演算の結果の中に少なくとも\"1\"が1つ以上ある場合には\"1\"(可決)、そうでなければ\"0\"(否決)を出力すればよいので、3つの演算結果を論理和演算した結果を最終的な出力とする。 @4@\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/23a.png\" alt=\"\"\u003e正しい。"
+                   "al": "ブール代数（Boolean Algebra）の展開と簡略化のルールを用いて完了する手順は以下の通りです。<br><br>1. <strong>出力が 1 になるすべての項（Minterms）を書き出す</strong><br>真理値表から出力 Y = 1 になる組み合わせを見つけます：<br>・A=0, B=1, C=1 -> <span style=\"text-decoration: overline;\">A</span>BC<br>・A=1, B=0, C=1 -> A<span style=\"text-decoration: overline;\">B</span>C<br>・A=1, B=1, C=0 -> AB<span style=\"text-decoration: overline;\">C</span><br>・A=1, B=1, C=1 -> ABC<br>これらを足し合わせると、元の論理式が得られます：<br>Y = <span style=\"text-decoration: overline;\">A</span>BC + A<span style=\"text-decoration: overline;\">B</span>C + AB<span style=\"text-decoration: overline;\">C</span> + ABC<br><br>2. <strong>「重複項の統合」テクニック（冪等律: Idempotent Law）の活用</strong><br>ブール代数には、冪等律というルールがあります：X + X = X。これは同じ項を何度繰り返しても値が変わらないことを意味します。<br>他の項と因数分解できるように、最後の項 ABC を3回複製し、前の3つの項とペアにします：<br>Y = (<span style=\"text-decoration: overline;\">A</span>BC + ABC) + (A<span style=\"text-decoration: overline;\">B</span>C + ABC) + (AB<span style=\"text-decoration: overline;\">C</span> + ABC)<br><br>3. <strong>共通因数をくくり出して簡略化する</strong><br>分配律を利用して共通変数をくくり出します：<br>・第1グループ：(<span style=\"text-decoration: overline;\">A</span>BC + ABC) = BC(<span style=\"text-decoration: overline;\">A</span> + A)。<span style=\"text-decoration: overline;\">A</span> + A = 1 であるため、簡略化すると BC になります。<br>・第2グループ：(A<span style=\"text-decoration: overline;\">B</span>C + ABC) = AC(<span style=\"text-decoration: overline;\">B</span> + B)。<span style=\"text-decoration: overline;\">B</span> + B = 1 であるため、簡略化すると CA になります。<br>・第3グループ：(AB<span style=\"text-decoration: overline;\">C</span> + ABC) = AB(<span style=\"text-decoration: overline;\">C</span> + C)。<span style=\"text-decoration: overline;\">C</span> + C = 1 であるため、簡略化すると AB になります。<br><br>4. <strong>最終結果を導く</strong><br>簡略化された結果を足し合わせます：<br>Y = AB + BC + CA<br>これが、この回路が最終的に3つの AND ゲート（それぞれ AB、BC、CA を計算）と1つの OR ゲートを組み合わせて構成できる理由です！"
                },
         "zh":  {
                    "ti":  "平成28年秋季 問23",
@@ -108,7 +108,7 @@
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/23e.png\" alt=\"\"\u003e"
                           ],
                    "an":  1,
-                   "al":  "由於是3輸入多數決電路，如真值表所示，當3個輸入中有2個以上為\"1\"（即\"1\"佔多數）時，輸出結果必須為\"1\"；反之，若有2個以上為\"0\"（即\"0\"佔多數）時，輸出結果則必須為\"0\"。透過檢查各個電路在輸入A、B、C時的輸出，可知正確的電路為「ア」。\n\n「ア」電路在邏輯上可以被視為進行以下運算的電路：\n首先，求出「A與B」、「A與C」、「B與C」各自的邏輯積（AND）。如果這三個邏輯積運算結果中出現\"1\"，即代表3個輸入中有2個以上為\"1\"。反之，如果沒有出現\"1\"，則代表輸入中\"1\"的個數為1個以下。只要三個邏輯積運算結果中至少有一個\"1\"，就輸出\"1\"（通過），否則輸出\"0\"（否決），因此將三個運算結果進行邏輯和（OR）運算即可得到最終輸出。\n\n@1@ 首先求出「A與B」、「A與C」、「B與C」各自的邏輯積。\n@2@ 如果這三個邏輯積運算結果中出現\"1\"，即確定3個輸入中有2個以上為\"1\"。反之，若未出現\"1\"，則代表輸入中\"1\"的個數為1個以下。\n@3@ 因為只要三個邏輯積運算結果中至少有一個\"1\"就輸出\"1\"（通過），否則輸出\"0\"（否決），所以將三個運算結果進行邏輯和運算作為最終輸出。\n@4@ \u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/23a.png\" alt=\"\"\u003e 正確。"
+                   "al": "我們是利用布林代數（Boolean Algebra）的展開與化簡規則來完成的。具體步驟如下：<br><br>1. <strong>寫出所有輸出為 1 的項（Minterms）</strong><br>從真值表中，找出所有輸出 Y = 1 的組合：<br>・A=0, B=1, C=1 -> <span style=\"text-decoration: overline;\">A</span>BC<br>・A=1, B=0, C=1 -> A<span style=\"text-decoration: overline;\">B</span>C<br>・A=1, B=1, C=0 -> AB<span style=\"text-decoration: overline;\">C</span><br>・A=1, B=1, C=1 -> ABC<br>將它們相加，得到原始的邏輯運算式：<br>Y = <span style=\"text-decoration: overline;\">A</span>BC + A<span style=\"text-decoration: overline;\">B</span>C + AB<span style=\"text-decoration: overline;\">C</span> + ABC<br><br>2. <strong>運用「重複項合併」技巧（Idempotent Law）</strong><br>在布林代數中，有一個規則叫冪等律：X + X = X。這代表同一個項可以重複寫多次，值不會變。<br>為了能跟其他項進行因式分解，我們把最後一項 ABC 複製三次，分別與前三項湊對：<br>Y = (<span style=\"text-decoration: overline;\">A</span>BC + ABC) + (A<span style=\"text-decoration: overline;\">B</span>C + ABC) + (AB<span style=\"text-decoration: overline;\">C</span> + ABC)<br><br>3. <strong>提出公因式並化簡</strong><br>利用分配律，把共同的變數提領出來：<br>・第一組：(<span style=\"text-decoration: overline;\">A</span>BC + ABC) = BC(<span style=\"text-decoration: overline;\">A</span> + A)。因為 <span style=\"text-decoration: overline;\">A</span> + A = 1，所以化簡後為 BC。<br>・第二組：(A<span style=\"text-decoration: overline;\">B</span>C + ABC) = AC(<span style=\"text-decoration: overline;\">B</span> + B)。因為 <span style=\"text-decoration: overline;\">B</span> + B = 1，所以化簡後為 CA。<br>・第三組：(AB<span style=\"text-decoration: overline;\">C</span> + ABC) = AB(<span style=\"text-decoration: overline;\">C</span> + C)。因為 <span style=\"text-decoration: overline;\">C</span> + C = 1，所以化簡後為 AB。<br><br>4. <strong>得出最終結果</strong><br>把化簡後的結果加總起來：<br>Y = AB + BC + CA<br>這就是為什麼這個電路最終可以用三個 AND 閘（分別計算 AB、BC、CA）再加上一個 OR 閘來組合而成！"
                }
     },
     {
@@ -459,7 +459,7 @@
                               "エ"
                           ],
                    "an":  1,
-                   "al":  "桁上げの出力cは入力される2つの数値がともに\"1\"のときにだけ\"1\"を出力します。この関係はAND回路(論理積)の真理値表と一致します。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/25_1.png\" alt=\"\"\u003e"
+                   "al":  "桁上げの出力cは入力される2つの数値がともに'1'のときにだけ'1'を出力します。この関係はAND回路(論理積)の真理値表と一致します。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/23_toku/img/25_1.png' width='299' height='153' alt='25_1.png/image-size:299×153'></div>また和の1桁目zは、入力される2つの数値が同じ場合に'0'、異なる場合には'1'が出力されます。この関係はXOR回路(排他的論理和)の真理値表と一致します。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/23_toku/img/25_2.png' width='299' height='153' alt='25_2.png/image-size:299×153'></div>したがって、Aの回路は<em class='r'>排他的論理和</em>(XOR)、Bの回路は<em class='r'>論理積</em>（AND）です。"
                },
         "zh":  {
                    "ti":  "平成21年春季 問25",
@@ -472,7 +472,7 @@
                               "エ"
                           ],
                    "an":  1,
-                   "al":  "進位輸出 c 僅在輸入的兩個數值皆為 \"1\" 時才會輸出 \"1\"。此關係與 AND 電路（邏輯積）的真值表一致。\u003cimg src=\"https://www.fe-siken.com/kakomon/21_haru/img/25_1.png\" alt=\"\"\u003e"
+                   "al":  "進位輸出 c 只有在輸入的兩個數值皆為 '1' 時才會輸出 '1'。此關係與 AND 電路（邏輯積）的真理值表相符。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/23_toku/img/25_1.png' width='299' height='153' alt='25_1.png/image-size:299×153'></div>另外，和的第 1 位 z 在輸入的兩個數值相同時輸出 '0'，不同時則輸出 '1'。此關係與 XOR 電路（排他的論理和）的真理值表相符。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/23_toku/img/25_2.png' width='299' height='153' alt='25_2.png/image-size:299×153'></div>因此，A 的電路是 <em class='r'>排他的論理和</em> (XOR)，B 的電路是 <em class='r'>論理積</em>（AND）。"
                }
     },
     {
@@ -537,26 +537,26 @@
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
                    "q":  "図に示すデジタル回路と等価な論理式はどれか。ここで，論理式中の・は論理積，＋は論理和，<span style='text-decoration: overline;'>X\u003c/span\u003eはXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/23.png\" alt=\"\"\u003e",
                    "op":  [
-                              "X＝A・B＋<span style='text-decoration: overline;'>A・B",
-                              "X＝A・B＋<span style='text-decoration: overline;'>A",
-                              "X＝A・<span style='text-decoration: overline;'>B",
-                              "X＝(<span style='text-decoration: overline;'>A"
+                              "X = A · B + <span style='text-decoration: overline;'>A · B</span>",
+                              "X = A · B + <span style='text-decoration: overline;'>A</span> · <span style='text-decoration: overline;'>B</span>",
+                              "X = A · <span style='text-decoration: overline;'>B</span> + <span style='text-decoration: overline;'>A</span> · B",
+                              "X = (<span style='text-decoration: overline;'>A</span> + B) · (A + <span style='text-decoration: overline;'>B</span>)"
                           ],
                    "an":  3,
-                   "al":  "複雑な論理回路図の問題では、手間はかかりますが確実に答えがでる方法で解くのがおすすめです。まず(A=0, B=0),(A=1, B=0),(A=0, B=1),(A=1, B=1)の4つのケースについて回路図を追跡し、結果Xを真理値表にまとめます。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/23a.png\" alt=\"\"\u003e"
+                   "al":  "複雑な論理回路図の問題では、手間はかかりますが確実に答えがでる方法で解くのがおすすめです。<br><br>まず(A=0, B=0),(A=1, B=0),(A=0, B=1),(A=1, B=1)の4つのケースについて回路図を追跡し、結果Xを真理値表にまとめます。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24a.png' width='400' height='251' alt='24a.png/image-size:400×251'></div>設問の論理回路図は「XOR回路」と等価であることがわかります。<br>次に各選択肢の論理式を解いて、回路図と一致するものを探します。<ul><li class='lia'><span class='cite'>X＝A・B＋<span class='ol'>A・B</span></span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_1.png' width='417' height='128' alt='24_1.png/image-size:417×128'></div></li><li class='lii'><span class='cite'>X＝A・B＋<span class='ol'>A</span>・<span class='ol'>B</span></span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_2.png' width='417' height='128' alt='24_2.png/image-size:417×128'></div></li><li class='liu'><span class='cite'>X＝A・<span class='ol'>B</span>＋<span class='ol'>A</span>・B</span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_3.png' width='417' height='128' alt='24_3.png/image-size:417×128'></div></li><li class='lie'><span class='cite'>X＝(<span class='ol'>A</span>＋B)・(A＋<span class='ol'>B</span>)</span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_4.png' width='417' height='128' alt='24_4.png/image-size:417×128'></div></li></ul>したがって上表のように論理回路図と等価な論理式は「ウ」ということになります。<br><br>またこの設問を早く解く方法として、回路図を論理式で表した後、それを変形する方法があります。(掲示板No.0272のスレッドより)<br><br>回路図より、<br><br>X ＝A・(<span class='ol'>A</span>＋<span class='ol'>B</span>) ＋ (<span class='ol'>A</span>＋<span class='ol'>B</span>)・B<br>　＝A・<span class='ol'>A</span> ＋ A・<span class='ol'>B</span> ＋ <span class='ol'>A</span>・B ＋ <span class='ol'>B</span>・B　<em class='g'>//分配の法則を適用</em><br>　＝0 ＋ A・<span class='ol'>B</span> ＋ <span class='ol'>A</span>・B ＋ 0　<em class='g'>//A・<span class='ol'>A</span>＝0を適用</em><br>　＝A・<span class='ol'>B</span> ＋ <span class='ol'>A</span>・B　<em class='g'>//0＋A＝Aを適用</em>"
                },
         "zh":  {
                    "ti":  "平成27年春季 問23",
                    "ca":  "技術系 » 硬體 » 硬體",
                    "q":  "下列何者為圖示數位電路之等效邏輯式？在此，邏輯式中的「・」代表邏輯乘（AND），「＋」代表邏輯和（OR），<span style='text-decoration: overline;'>X\u003c/span\u003e代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/23.png\" alt=\"\"\u003e",
                    "op":  [
-                              "X＝A・B＋<span style='text-decoration: overline;'>A・B\u003c/span\u003e",
-                              "X＝A・B＋<span style='text-decoration: overline;'>A\u003c/span\u003e",
-                              "X＝A・<span style='text-decoration: overline;'>B\u003c/span\u003e",
-                              "X＝(<span style='text-decoration: overline;'>A\u003c/span\u003e"
+                              "X = A · B + <span style='text-decoration: overline;'>A · B</span>",
+                              "X = A · B + <span style='text-decoration: overline;'>A</span> · <span style='text-decoration: overline;'>B</span>",
+                              "X = A · <span style='text-decoration: overline;'>B</span> + <span style='text-decoration: overline;'>A</span> · B",
+                              "X = (<span style='text-decoration: overline;'>A</span> + B) · (A + <span style='text-decoration: overline;'>B</span>)"
                           ],
                    "an":  3,
-                   "al":  "對於複雜的邏輯電路圖問題，雖然較為費時，但建議使用能確保得到答案的方法來解題。首先，針對(A=0, B=0)、(A=1, B=0)、(A=0, B=1)、(A=1, B=1)這四種情況追蹤電路圖，並將結果X整理成真值表。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/23a.png\" alt=\"\"\u003e"
+                   "al":  "複雜的邏輯電路圖題目中，雖然比較花時間，但建議用能確保得出答案的方法來解題。<br><br>首先，針對 (A=0, B=0)、(A=1, B=0)、(A=0, B=1)、(A=1, B=1) 這四種情況追蹤電路圖，並將結果 X 整理成真理值表。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24a.png' width='400' height='251' alt='24a.png/image-size:400×251'></div>可以發現題目的邏輯電路圖與「XOR 電路」等價。<br>接著求解各選項的邏輯式，尋找與電路圖一致的選項。<ul><li class='lia'><span class='cite'>X＝A・B＋<span class='ol'>A・B</span></span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_1.png' width='417' height='128' alt='24_1.png/image-size:417×128'></div></li><li class='lii'><span class='cite'>X＝A・B＋<span class='ol'>A</span>・<span class='ol'>B</span></span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_2.png' width='417' height='128' alt='24_2.png/image-size:417×128'></div></li><li class='liu'><span class='cite'>X＝A・<span class='ol'>B</span>＋<span class='ol'>A</span>・B</span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_3.png' width='417' height='128' alt='24_3.png/image-size:417×128'></div></li><li class='lie'><span class='cite'>X＝(<span class='ol'>A</span>＋B)・(A＋<span class='ol'>B</span>)</span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_4.png' width='417' height='128' alt='24_4.png/image-size:417×128'></div></li></ul>因此如上表所示，與邏輯電路圖等價的邏輯式為「ウ」。<br><br>另外，作為快速解開這道題目的方法，可以先將電路圖表示為邏輯式，然後再進行變形。（取自討論板編號 0272 的討論串）<br><br>根據電路圖，<br><br>X ＝A・(<span class='ol'>A</span>＋<span class='ol'>B</span>) ＋ (<span class='ol'>A</span>＋<span class='ol'>B</span>)・B<br> ＝A・<span class='ol'>A</span> ＋ A・<span class='ol'>B</span> ＋ <span class='ol'>A</span>・B ＋ <span class='ol'>B</span>・B <em class='g'>//套用分配律</em><br> ＝0 ＋ A・<span class='ol'>B</span> ＋ <span class='ol'>A</span>・B ＋ 0 <em class='g'>//套用 A・<span class='ol'>A</span>＝0</em><br> ＝A・<span class='ol'>B</span> ＋ <span class='ol'>A</span>・B <em class='g'>//套用 0＋A＝A</em>"
                }
     },
     {
@@ -571,7 +571,7 @@
                               "A・B・C・D"
                           ],
                    "an":  3,
-                   "al":  "NAND回路のNANDは\"NOT AND\"を表していて、AND回路の出力を反転させた回路です。したがって、二つの入力が共に1の時だけ0を出力し、その他の場合は1を出力します。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/23_1.png\" alt=\"\"\u003e"
+                   "al": "すべて NAND ゲート（否定論理積）で構成された組み合わせ回路の問題を素早く解くには、ド・モルガンの法則（De Morgan's Laws）を利用するのが最も速い方法です。<br><br>1. <strong>回路から元の式を組み立てる：</strong><br>・上側の NAND ゲートの出力：<span style=\"border-top: 1px solid; display: inline-block; padding-top: 2px;\">A · B</span><br>・下側の NAND ゲートの出力：<span style=\"border-top: 1px solid; display: inline-block; padding-top: 2px;\">C · D</span><br>・最後の NAND ゲートでこれらを掛け合わせて全体に否定のバーがかかるため、出力 X は以下のようになります：<br>X = <span style=\"border-top: 1px solid; display: inline-block; padding-top: 3px;\"><span style=\"border-top: 1px solid; display: inline-block; padding-top: 2px;\">A · B</span> · <span style=\"border-top: 1px solid; display: inline-block; padding-top: 2px;\">C · D</span></span><br><br>2. <strong>ド・モルガンの法則を適用する（「線を切って、演算子を反転する」）：</strong><br>・一番外側の大きなバーを分割し、中の掛け算記号（·）を足し算記号（＋）に変更します：<br>X = <span style=\"border-top: 1px solid; display: inline-block; padding-top: 3px;\"><span style=\"border-top: 1px solid; display: inline-block; padding-top: 2px;\">A · B</span></span> + <span style=\"border-top: 1px solid; display: inline-block; padding-top: 3px;\"><span style=\"border-top: 1px solid; display: inline-block; padding-top: 2px;\">C · D</span></span><br><br>3. <strong>二重否定を相殺して結果を出す：</strong><br>・二重否定（バーが2重にかかっているもの）は打ち消し合うため、上下のバーを同時に取り除きます：<br>X = (A · B) + (C · D)"
                },
         "zh":  {
                    "ti":  "平成27年秋季 問23",
@@ -584,7 +584,7 @@
                               "A・B・C・D"
                           ],
                    "an":  3,
-                   "al":  "NAND電路的NAND代表「NOT AND」，即將AND電路的輸出進行反相的電路。因此，只有當兩個輸入皆為1時輸出0，其他情況皆輸出1。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_aki/img/23_1.png\" alt=\"\"\u003e"
+                   "al": "面對全都是 NAND 閘（反及閘）的組合電路題目，最快的秒殺解法是直接利用「德·摩根定律（De Morgan's Laws）」進行代數化簡：<br><br>1. <strong>順著電路寫出原始式子：</strong><br>・上方 NAND 閘輸出：<span style=\"border-top: 1px solid; display: inline-block; padding-top: 2px;\">A · B</span><br>・下方 NAND 閘輸出：<span style=\"border-top: 1px solid; display: inline-block; padding-top: 2px;\">C · D</span><br>・最後一個 NAND 閘將這兩個輸入相乘並加上大反相，得到輸出 X：<br>X = <span style=\"border-top: 1px solid; display: inline-block; padding-top: 3px;\"><span style=\"border-top: 1px solid; display: inline-block; padding-top: 2px;\">A · B</span> · <span style=\"border-top: 1px solid; display: inline-block; padding-top: 2px;\">C · D</span></span><br><br>2. <strong>直接套用德·摩根定律（破線、變號）：</strong><br>・把最外面那條大橫線拆開（破線），中間的乘號 · 變成加號 ＋（變號）：<br>X = <span style=\"border-top: 1px solid; display: inline-block; padding-top: 3px;\"><span style=\"border-top: 1px solid; display: inline-block; padding-top: 2px;\">A · B</span></span> + <span style=\"border-top: 1px solid; display: inline-block; padding-top: 3px;\"><span style=\"border-top: 1px solid; display: inline-block; padding-top: 2px;\">C · D</span></span><br><br>3. <strong>消去雙重否定，秒出答案：</strong><br>・雙重否定互相抵銷，把上下兩道橫線同時拿掉：<br>X = (A · B) + (C · D)"
                }
     },
     {
@@ -739,7 +739,7 @@
                               "1／2\u003csup\u003e10\u003c/sup\u003e"
                           ],
                    "an":  4,
-                   "al":  "発振器から出力された15MHzは、PLL1で8倍にされて120MHzになります。その後、PLL2でさらに2倍されて240MHzのクロック信号がCPUに届けられます。\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/16a.png\" alt=\"16a.png\"\u003e"
+                   "al":  "発振器から出力された15MHzは、PLL1で8倍にされて120MHzになります。その後、PLL2でさらに2倍されて240MHzのクロック信号がCPUに届けられます。\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/16a.png\" alt=\"16a.png\"\u003e\n問題の分周器の値ですが、分周器への入力が120MHz、SIO(シリアル通信)に供給されるクロック信号は115kHzなので、およそ1／1000の値になっていることに気が付きます。\n\n　120×10^6÷(115×10^3)≒10^3\n\nよって、分周器の値は約1／1000に設定すればよいことになります。1000を2の累乗で表すと最も近いのが「1024＝2^10」ですから、答えは1／2^10となります。"
                },
         "zh":  {
                    "ti":  "令和5年度 問16",
@@ -752,7 +752,7 @@
                               "1／2\u003csup\u003e10\u003c/sup\u003e"
                           ],
                    "an":  4,
-                   "al":  "從振盪器輸出的15MHz訊號，經由PLL1倍頻8倍後變為120MHz。隨後，再經由PLL2倍頻2倍，供給CPU 240MHz的時脈訊號。\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/16a.png\" alt=\"16a.png\"\u003e"
+                   "al":  "從振盪器輸出的15MHz訊號，經由PLL1倍頻8倍後變為120MHz。隨後，再經由PLL2倍頻2倍，供給CPU 240MHz的時脈訊號。\u003cimg src=\"https://www.fe-siken.com/kakomon/05_menjo/img/16a.png\" alt=\"16a.png\"\u003e\n關於這道題目的分周器數值，由於輸入到分周器的頻率為 120 MHz，而供應給 SIO（序列通訊）的時脈信號為 115 kHz，因此可以發現大約是 1／1000 的數值。\n\n120×10^6÷(115×10^3) ≒ 10^3\n\n因此，分周器的值大約設定為 1／1000 即可。若將 1000 用 2 的乘冪來表示，最接近的是「1024 ＝ 2^10」，所以答案為 1／2^10。"
                }
     },
     {
@@ -767,7 +767,7 @@
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/23e.png\" alt=\"\"\u003e"
                           ],
                    "an":  1,
-                   "al":  "3入力多数決回路なので、真理値表にあるように3つの入力中2つ以上が\"1\"（＝\"1\"が多数）であれば結果に\"1\"を出力、そして2つ以上が\"0\"（＝\"0\"が多数）であれば結果に\"0\"を出力するものになっている必要があります。回路ごとにA、B、Cの値を与えた場合の出力を照合していくと、正しいのは「ア」の回路とわかります。「ア」の回路は、論理的には次のような演算を行う回路と考えられます。まず「A，B」「A，C」「B，C」それぞれの論理積を求める。3つの論理積演算の結果に\"1\"が現れれば、3つの入力中に\"1\"が2つ以上あることが確定する。逆に\"1\"が現れなければ3つの入力中の\"1\"の個数は1以下ということになる。3つの論理積演算の結果の中に少なくとも\"1\"が1つ以上ある場合には\"1\"(可決)、そうでなければ\"0\"(否決)を出力すればよいので、3つの演算結果を論理和演算した結果を最終的な出力とする。 @1@まず「A，B」「A，C」「B，C」それぞれの論理積を求める。 @2@3つの論理積演算の結果に\"1\"が現れれば、3つの入力中に\"1\"が2つ以上あることが確定する。逆に\"1\"が現れなければ3つの入力中の\"1\"の個数は1以下ということになる。 @3@3つの論理積演算の結果の中に少なくとも\"1\"が1つ以上ある場合には\"1\"(可決)、そうでなければ\"0\"(否決)を出力すればよいので、3つの演算結果を論理和演算した結果を最終的な出力とする。 @4@\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/23a.png\" alt=\"\"\u003e正しい。"
+                   "al": "ブール代数（Boolean Algebra）の展開と簡略化のルールを用いて完了する手順は以下の通りです。<br><br>1. <strong>出力が 1 になるすべての項（Minterms）を書き出す</strong><br>真理値表から出力 Y = 1 になる組み合わせを見つけます：<br>・A=0, B=1, C=1 -> <span style=\"text-decoration: overline;\">A</span>BC<br>・A=1, B=0, C=1 -> A<span style=\"text-decoration: overline;\">B</span>C<br>・A=1, B=1, C=0 -> AB<span style=\"text-decoration: overline;\">C</span><br>・A=1, B=1, C=1 -> ABC<br>これらを足し合わせると、元の論理式が得られます：<br>Y = <span style=\"text-decoration: overline;\">A</span>BC + A<span style=\"text-decoration: overline;\">B</span>C + AB<span style=\"text-decoration: overline;\">C</span> + ABC<br><br>2. <strong>「重複項の統合」テクニック（冪等律: Idempotent Law）の活用</strong><br>ブール代数には、冪等律というルールがあります：X + X = X。これは同じ項を何度繰り返しても値が変わらないことを意味します。<br>他の項と因数分解できるように、最後の項 ABC を3回複製し、前の3つの項とペアにします：<br>Y = (<span style=\"text-decoration: overline;\">A</span>BC + ABC) + (A<span style=\"text-decoration: overline;\">B</span>C + ABC) + (AB<span style=\"text-decoration: overline;\">C</span> + ABC)<br><br>3. <strong>共通因数をくくり出して簡略化する</strong><br>分配律を利用して共通変数をくくり出します：<br>・第1グループ：(<span style=\"text-decoration: overline;\">A</span>BC + ABC) = BC(<span style=\"text-decoration: overline;\">A</span> + A)。<span style=\"text-decoration: overline;\">A</span> + A = 1 であるため、簡略化すると BC になります。<br>・第2グループ：(A<span style=\"text-decoration: overline;\">B</span>C + ABC) = AC(<span style=\"text-decoration: overline;\">B</span> + B)。<span style=\"text-decoration: overline;\">B</span> + B = 1 であるため、簡略化すると CA になります。<br>・第3グループ：(AB<span style=\"text-decoration: overline;\">C</span> + ABC) = AB(<span style=\"text-decoration: overline;\">C</span> + C)。<span style=\"text-decoration: overline;\">C</span> + C = 1 であるため、簡略化すると AB になります。<br><br>4. <strong>最終結果を導く</strong><br>簡略化された結果を足し合わせます：<br>Y = AB + BC + CA<br>これが、この回路が最終的に3つの AND ゲート（それぞれ AB、BC、CA を計算）と1つの OR ゲートを組み合わせて構成できる理由です！"
                },
         "zh":  {
                    "ti":  "平成30年春季 問23",
@@ -780,7 +780,7 @@
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/23e.png\" alt=\"\"\u003e"
                           ],
                    "an":  1,
-                   "al":  "由於是3輸入多數決電路，如真值表所示，必須滿足當3個輸入中有2個以上為\"1\"（即\"1\"佔多數）時輸出\"1\"，而當2個以上為\"0\"（即\"0\"佔多數）時輸出\"0\"的特性。針對各個電路輸入A、B、C的值進行輸出對照，可知正確的是「亞」電路。 「亞」電路在邏輯上可視為執行以下運算的電路：首先分別求出「A與B」、「A與C」、「B與C」的邏輯積（AND）。若3個邏輯積運算的結果中出現\"1\"，即可確定3個輸入中至少有2個\"1\"。反之，若未出現\"1\"，則代表輸入中\"1\"的個數為1個或以下。在3個邏輯積運算結果中，只要至少有1個\"1\"就輸出\"1\"（通過），否則輸出\"0\"（否決），因此將3個運算結果進行邏輯和（OR）運算作為最終輸出。 @1@首先分別求出「A與B」、「A與C」、「B與C」的邏輯積。 @2@若3個邏輯積運算結果出現\"1\"，表示3個輸入中有2個以上為\"1\"。反之，若未出現\"1\"，則表示輸入中\"1\"的個數在1個以下。 @3@因3個邏輯積運算結果中只要有1個以上為\"1\"即輸出\"1\"（通過），否則輸出\"0\"（否決），故將3個運算結果進行邏輯和運算作為最終輸出。 @4@\u003cimg src=\"https://www.fe-siken.com/kakomon/30_haru/img/23a.png\" alt=\"\"\u003e正確。"
+                   "al": "我們是利用布林代數（Boolean Algebra）的展開與化簡規則來完成的。具體步驟如下：<br><br>1. <strong>寫出所有輸出為 1 的項（Minterms）</strong><br>從真值表中，找出所有輸出 Y = 1 的組合：<br>・A=0, B=1, C=1 -> <span style=\"text-decoration: overline;\">A</span>BC<br>・A=1, B=0, C=1 -> A<span style=\"text-decoration: overline;\">B</span>C<br>・A=1, B=1, C=0 -> AB<span style=\"text-decoration: overline;\">C</span><br>・A=1, B=1, C=1 -> ABC<br>將它們相加，得到原始的邏輯運算式：<br>Y = <span style=\"text-decoration: overline;\">A</span>BC + A<span style=\"text-decoration: overline;\">B</span>C + AB<span style=\"text-decoration: overline;\">C</span> + ABC<br><br>2. <strong>運用「重複項合併」技巧（Idempotent Law）</strong><br>在布林代數中，有一個規則叫冪等律：X + X = X。這代表同一個項可以重複寫多次，值不會變。<br>為了能跟其他項進行因式分解，我們把最後一項 ABC 複製三次，分別與前三項湊對：<br>Y = (<span style=\"text-decoration: overline;\">A</span>BC + ABC) + (A<span style=\"text-decoration: overline;\">B</span>C + ABC) + (AB<span style=\"text-decoration: overline;\">C</span> + ABC)<br><br>3. <strong>提出公因式並化簡</strong><br>利用分配律，把共同的變數提領出來：<br>・第一組：(<span style=\"text-decoration: overline;\">A</span>BC + ABC) = BC(<span style=\"text-decoration: overline;\">A</span> + A)。因為 <span style=\"text-decoration: overline;\">A</span> + A = 1，所以化簡後為 BC。<br>・第二組：(A<span style=\"text-decoration: overline;\">B</span>C + ABC) = AC(<span style=\"text-decoration: overline;\">B</span> + B)。因為 <span style=\"text-decoration: overline;\">B</span> + B = 1，所以化簡後為 CA。<br>・第三組：(AB<span style=\"text-decoration: overline;\">C</span> + ABC) = AB(<span style=\"text-decoration: overline;\">C</span> + C)。因為 <span style=\"text-decoration: overline;\">C</span> + C = 1，所以化簡後為 AB。<br><br>4. <strong>得出最終結果</strong><br>把化簡後的結果加總起來：<br>Y = AB + BC + CA<br>這就是為什麼這個電路最終可以用三個 AND 閘（分別計算 AB、BC、CA）再加上一個 OR 閘來組合而成！"
                }
     },
     {
@@ -795,7 +795,7 @@
                               "1,312"
                           ],
                    "an":  3,
-                   "al":  "D/A変換器では、マイコンやプロセッサなどのデジタル回路がポート（I/O端子）にビット列を書き込むことで、出力を制御します。設問では16進数で82をD/A変換器に書き込んだときの出力電圧が問われています。まず、設問の条件を整理すると次のようになります。 @1@データ0のとき ⇒ 出力0ミリV @2@最下位の1ビット（LSB）の変化で10ミリV変化 ⇒ 分解能※は10ミリV※D/A変換器が区別できる最小の電圧差"
+                   "al": "8ビットの D/A 変換器を使用し、入力データが 0 のとき出力が 0 mV、最下位の 1 ビット（LSB）の変化で出力が 10 mV 変化する場合、入力データが 16 進数で <strong>82</strong> のときの出力を求める問題です。<br><br>1. <strong>16 進数を十進数に変換する：</strong><br>・16 進数の 82 を十進数に換算します。<br>・8 × 16¹ ＋ 2 × 16⁰ ＝ 128 ＋ 2 ＝ 130<br><br>2. <strong>出力電圧を計算する：</strong><br>・十進数の値に 1 ビットあたりの電圧変化（10 mV）を掛け合わせます。<br>・130 × 10 mV ＝ 1,300 mV"
                },
         "zh":  {
                    "ti":  "令和3年度 問21",
@@ -808,7 +808,7 @@
                               "1,312"
                           ],
                    "an":  3,
-                   "al":  "在 D/A 轉換器中，微控制器或處理器等數位電路是透過向埠（I/O 端子）寫入位元串來控制輸出的。本題詢問的是向 D/A 轉換器寫入十六進制 82 時的輸出電壓。首先，將題目條件整理如下： @1@ 數據為 0 時 ⇒ 輸出 0 毫伏特 @2@ 最低位元 (LSB) 變化時 ⇒ 輸出變化 10 毫伏特 ⇒ 解析度※為 10 毫伏特 ※D/A 轉換器所能區別的最小電壓差"
+                   "al": "這是一道關於 8 位元 D/A 轉換器的計算題。已知當輸入資料為 0 時輸出為 0 mV，且最下位 1 位元（LSB）變化會使輸出改變 10 mV，求輸入十六進位 <strong>82</strong> 時的輸出電壓。<br><br>1. <strong>將十六進位轉換為十進位：</strong><br>・將十六進位的 82 換算成十進位。<br>・8 × 16¹ ＋ 2 × 16⁰ ＝ 128 ＋ 2 ＝ 130<br><br>2. <strong>計算對應的輸出電壓：</strong><br>・將十進位數值乘以每個位元代表的電壓（10 mV）。<br>・130 × 10 mV ＝ 1,300 mV"
                }
     },
     {
@@ -1159,7 +1159,7 @@
                               "エ"
                           ],
                    "an":  1,
-                   "al":  "桁上げの出力cは入力される2つの数値がともに\"1\"のときにだけ\"1\"を出力します。この関係はAND回路(論理積)の真理値表と一致します。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/25_1.png\" alt=\"\"\u003e"
+                   "al":  "桁上げの出力cは入力される2つの数値がともに'1'のときにだけ'1'を出力します。この関係はAND回路(論理積)の真理値表と一致します。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/23_toku/img/25_1.png' width='299' height='153' alt='25_1.png/image-size:299×153'></div>また和の1桁目zは、入力される2つの数値が同じ場合に'0'、異なる場合には'1'が出力されます。この関係はXOR回路(排他的論理和)の真理値表と一致します。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/23_toku/img/25_2.png' width='299' height='153' alt='25_2.png/image-size:299×153'></div>したがって、Aの回路は<em class='r'>排他的論理和</em>(XOR)、Bの回路は<em class='r'>論理積</em>（AND）です。"
                },
         "zh":  {
                    "ti":  "平成23年特別 問25",
@@ -1172,7 +1172,7 @@
                               "エ"
                           ],
                    "an":  1,
-                   "al":  "進位輸出 c 僅在兩個輸入數值皆為 \"1\" 時才會輸出 \"1\"。此關係與 AND 電路（邏輯積）的真值表一致。\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/25_1.png\" alt=\"\"\u003e"
+                   "al":  "進位輸出 c 只有在輸入的兩個數值皆為 '1' 時才會輸出 '1'。此關係與 AND 電路（邏輯積）的真理值表相符。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/23_toku/img/25_1.png' width='299' height='153' alt='25_1.png/image-size:299×153'></div>另外，和的第 1 位 z 在輸入的兩個數值相同時輸出 '0'，不同時則輸出 '1'。此關係與 XOR 電路（排他的論理和）的真理值表相符。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/23_toku/img/25_2.png' width='299' height='153' alt='25_2.png/image-size:299×153'></div>因此，A 的電路是 <em class='r'>排他的論理和</em> (XOR)，B 的電路是 <em class='r'>論理積</em>（AND）。"
                }
     },
     {
@@ -1355,7 +1355,7 @@
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/22e.png\" alt=\"\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "否定論理積(2入力NAND)は、2つの入力がともに1のときにだけ結果が0、その他の場合は1となる論理演算です。NAND素子を組み合わせることによってAND、OR、XOR、NOT、NORなどの回路を構成することができます。\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/22_1.png\" alt=\"\"\u003e"
+                   "al": "<strong>第1ステップ：2入力ごとの NAND</strong><br>・X = <span style=\"border-top: 1px solid; display: inline-block; padding-top: 2px;\">A · B</span><br>・Z = <span style=\"border-top: 1px solid; display: inline-block; padding-top: 2px;\">C · D</span><br>まず2つの反転結果 X と Z を得ます。<br><br><strong>第2ステップ：NAND を NOT として利用する</strong><br>同じ信号を NAND の2つの入力端に接続し、反転信号の反転、すなわち元の AND 結果を得ます。<br>・<span style=\"border-top: 1px solid; display: inline-block; padding-top: 3px;\">X · X</span> = <span style=\"border-top: 1px solid; display: inline-block; padding-top: 3px;\">X</span>= <span style=\"border-top: 1px solid; display: inline-block; padding-top: 3px;\"><span style=\"border-top: 1px solid; display: inline-block; padding-top: 2px;\">A · B</span></span> = A · B<br>・<span style=\"border-top: 1px solid; display: inline-block; padding-top: 3px;\">Z · Z</span> = C · D<br>X と Z はそれぞれ 0 または 1 のみを受け取るため、X · X = X となります。<br><br><strong>第3ステップ：最後の NAND 処理</strong><br>・Y = <span style=\"border-top: 1px solid; display: inline-block; padding-top: 3px;\">(A · B) (C · D)</span><br>・Y = <span style=\"border-top: 1px solid; display: inline-block; padding-top: 3px;\">A · B · C · D</span><br>これで 4入力 NAND 回路が完成します。"
                },
         "zh":  {
                    "ti":  "平成30年秋季 問22",
@@ -1368,7 +1368,7 @@
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/22e.png\" alt=\"\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "反及閘（2 輸入 NAND）是一種僅在兩個輸入皆為 1 時結果才為 0，其餘情況皆為 1 的邏輯運算。透過組合 NAND 元件，可以構成 AND、OR、XOR、NOT、NOR 等邏輯電路。\u003cimg src=\"https://www.fe-siken.com/kakomon/30_aki/img/22_1.png\" alt=\"\"\u003e"
+                   "al": "<strong>第一步：兩兩輸入 NAND</strong><br>・X = <span style=\"border-top: 1px solid; display: inline-block; padding-top: 2px;\">A · B</span><br>・Z = <span style=\"border-top: 1px solid; display: inline-block; padding-top: 2px;\">C · D</span><br>先得到兩個反相結果 X 和 Z。<br><br><strong>第二步：利用 NAND 當 NOT</strong><br>將同一個訊號接到 NAND 的兩個輸入端，就可以得到反相訊號的反相，也就是原來的 AND 結果。<br>・<span style=\"border-top: 1px solid; display: inline-block; padding-top: 3px;\">X · X</span> = <span style=\"border-top: 1px solid; display: inline-block; padding-top: 3px;\">X</span>= <span style=\"border-top: 1px solid; display: inline-block; padding-top: 3px;\"><span style=\"border-top: 1px solid; display: inline-block; padding-top: 2px;\">A · B</span></span> = A · B<br>・<span style=\"border-top: 1px solid; display: inline-block; padding-top: 3px;\">Z · Z</span> = C · D<br>因為 X 和 Z 各自只會接收 0 或 1，而 X · X = X。<br><br><strong>第三步：最後再做 NAND</strong><br>・Y = <span style=\"border-top: 1px solid; display: inline-block; padding-top: 3px;\">(A · B) (C · D)</span><br>・Y = <span style=\"border-top: 1px solid; display: inline-block; padding-top: 3px;\">A · B · C · D</span><br>這就完成了 4 輸入 NAND 電路。"
                }
     },
     {
@@ -1489,26 +1489,26 @@
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
                    "q":  "図に示すデジタル回路と等価な論理式はどれか。ここで，論理式中の\"・\"は論理積，\"＋\"は論理和，<span style='text-decoration: overline;'>X\u003c/span\u003eはXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/23.png\" alt=\"\"\u003e",
                    "op":  [
-                              "X＝A・B＋<span style='text-decoration: overline;'>A・B",
-                              "X＝A・B＋<span style='text-decoration: overline;'>A",
-                              "X＝A・<span style='text-decoration: overline;'>B",
-                              "X＝(<span style='text-decoration: overline;'>A"
+                              "X = A · B + <span style='text-decoration: overline;'>A · B</span>",
+                              "X = A · B + <span style='text-decoration: overline;'>A</span> · <span style='text-decoration: overline;'>B</span>",
+                              "X = A · <span style='text-decoration: overline;'>B</span> + <span style='text-decoration: overline;'>A</span> · B",
+                              "X = (<span style='text-decoration: overline;'>A</span> + B) · (A + <span style='text-decoration: overline;'>B</span>)"
                           ],
                    "an":  3,
-                   "al":  "複雑な論理回路図の問題では、手間はかかりますが確実に答えがでる方法で解くのがおすすめです。まず(A=0, B=0),(A=1, B=0),(A=0, B=1),(A=1, B=1)の4つのケースについて回路図を追跡し、結果Xを真理値表にまとめます。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/23a.png\" alt=\"\"\u003e"
+                   "al":  "複雑な論理回路図の問題では、手間はかかりますが確実に答えがでる方法で解くのがおすすめです。<br><br>まず(A=0, B=0),(A=1, B=0),(A=0, B=1),(A=1, B=1)の4つのケースについて回路図を追跡し、結果Xを真理値表にまとめます。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24a.png' width='400' height='251' alt='24a.png/image-size:400×251'></div>設問の論理回路図は「XOR回路」と等価であることがわかります。<br>次に各選択肢の論理式を解いて、回路図と一致するものを探します。<ul><li class='lia'><span class='cite'>X＝A・B＋<span class='ol'>A・B</span></span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_1.png' width='417' height='128' alt='24_1.png/image-size:417×128'></div></li><li class='lii'><span class='cite'>X＝A・B＋<span class='ol'>A</span>・<span class='ol'>B</span></span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_2.png' width='417' height='128' alt='24_2.png/image-size:417×128'></div></li><li class='liu'><span class='cite'>X＝A・<span class='ol'>B</span>＋<span class='ol'>A</span>・B</span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_3.png' width='417' height='128' alt='24_3.png/image-size:417×128'></div></li><li class='lie'><span class='cite'>X＝(<span class='ol'>A</span>＋B)・(A＋<span class='ol'>B</span>)</span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_4.png' width='417' height='128' alt='24_4.png/image-size:417×128'></div></li></ul>したがって上表のように論理回路図と等価な論理式は「ウ」ということになります。<br><br>またこの設問を早く解く方法として、回路図を論理式で表した後、それを変形する方法があります。(掲示板No.0272のスレッドより)<br><br>回路図より、<br><br>X ＝A・(<span class='ol'>A</span>＋<span class='ol'>B</span>) ＋ (<span class='ol'>A</span>＋<span class='ol'>B</span>)・B<br>　＝A・<span class='ol'>A</span> ＋ A・<span class='ol'>B</span> ＋ <span class='ol'>A</span>・B ＋ <span class='ol'>B</span>・B　<em class='g'>//分配の法則を適用</em><br>　＝0 ＋ A・<span class='ol'>B</span> ＋ <span class='ol'>A</span>・B ＋ 0　<em class='g'>//A・<span class='ol'>A</span>＝0を適用</em><br>　＝A・<span class='ol'>B</span> ＋ <span class='ol'>A</span>・B　<em class='g'>//0＋A＝Aを適用</em>"
                },
         "zh":  {
                    "ti":  "平成29年秋季 問23",
                    "ca":  "技術系 » 硬體 » 硬體",
                    "q":  "圖中所示的數位電路，其等價的邏輯式為何？在此，邏輯式中的「・」代表邏輯積（AND），「＋」代表邏輯和（OR），<span style='text-decoration: overline;'>X\u003c/span\u003e代表X的否定（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/23.png\" alt=\"\"\u003e",
                    "op":  [
-                              "X＝A・B＋<span style='text-decoration: overline;'>A・B\u003c/span\u003e",
-                              "X＝A・B＋<span style='text-decoration: overline;'>A\u003c/span\u003e",
-                              "X＝A・<span style='text-decoration: overline;'>B\u003c/span\u003e",
-                              "X＝(<span style='text-decoration: overline;'>A\u003c/span\u003e"
+                              "X = A · B + <span style='text-decoration: overline;'>A · B</span>",
+                              "X = A · B + <span style='text-decoration: overline;'>A</span> · <span style='text-decoration: overline;'>B</span>",
+                              "X = A · <span style='text-decoration: overline;'>B</span> + <span style='text-decoration: overline;'>A</span> · B",
+                              "X = (<span style='text-decoration: overline;'>A</span> + B) · (A + <span style='text-decoration: overline;'>B</span>)"
                           ],
                    "an":  3,
-                   "al":  "面對複雜的邏輯電路圖題目，雖然較花時間，但建議採用能確保得出正確答案的方法。首先，針對 (A=0, B=0)、(A=1, B=0)、(A=0, B=1)、(A=1, B=1) 這四種情況追蹤電路圖，並將結果 X 整理成真值表。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/23a.png\" alt=\"\"\u003e"
+                   "al":  "複雜的邏輯電路圖題目中，雖然比較花時間，但建議用能確保得出答案的方法來解題。<br><br>首先，針對 (A=0, B=0)、(A=1, B=0)、(A=0, B=1)、(A=1, B=1) 這四種情況追蹤電路圖，並將結果 X 整理成真理值表。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24a.png' width='400' height='251' alt='24a.png/image-size:400×251'></div>可以發現題目的邏輯電路圖與「XOR 電路」等價。<br>接著求解各選項的邏輯式，尋找與電路圖一致的選項。<ul><li class='lia'><span class='cite'>X＝A・B＋<span class='ol'>A・B</span></span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_1.png' width='417' height='128' alt='24_1.png/image-size:417×128'></div></li><li class='lii'><span class='cite'>X＝A・B＋<span class='ol'>A</span>・<span class='ol'>B</span></span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_2.png' width='417' height='128' alt='24_2.png/image-size:417×128'></div></li><li class='liu'><span class='cite'>X＝A・<span class='ol'>B</span>＋<span class='ol'>A</span>・B</span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_3.png' width='417' height='128' alt='24_3.png/image-size:417×128'></div></li><li class='lie'><span class='cite'>X＝(<span class='ol'>A</span>＋B)・(A＋<span class='ol'>B</span>)</span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_4.png' width='417' height='128' alt='24_4.png/image-size:417×128'></div></li></ul>因此如上表所示，與邏輯電路圖等價的邏輯式為「ウ」。<br><br>另外，作為快速解開這道題目的方法，可以先將電路圖表示為邏輯式，然後再進行變形。（取自討論板編號 0272 的討論串）<br><br>根據電路圖，<br><br>X ＝A・(<span class='ol'>A</span>＋<span class='ol'>B</span>) ＋ (<span class='ol'>A</span>＋<span class='ol'>B</span>)・B<br> ＝A・<span class='ol'>A</span> ＋ A・<span class='ol'>B</span> ＋ <span class='ol'>A</span>・B ＋ <span class='ol'>B</span>・B <em class='g'>//套用分配律</em><br> ＝0 ＋ A・<span class='ol'>B</span> ＋ <span class='ol'>A</span>・B ＋ 0 <em class='g'>//套用 A・<span class='ol'>A</span>＝0</em><br> ＝A・<span class='ol'>B</span> ＋ <span class='ol'>A</span>・B <em class='g'>//套用 0＋A＝A</em>"
                }
     },
     {
@@ -1797,26 +1797,26 @@
                    "ca":  "テクノロジ系 » ハードウェア » ハードウェア",
                    "q":  "図に示すデジタル回路と等価な論理式はどれか。ここで，論理式中の・は論理積，＋は論理和，<span style='text-decoration: overline;'>X\u003c/span\u003eはXの否定を表す。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/24.png\" alt=\"\"\u003e",
                    "op":  [
-                              "X＝A・B＋<span style='text-decoration: overline;'>A・B",
-                              "X＝A・B＋<span style='text-decoration: overline;'>A",
-                              "X＝A・<span style='text-decoration: overline;'>B",
-                              "X＝(<span style='text-decoration: overline;'>A"
+                              "X = A · B + <span style='text-decoration: overline;'>A · B</span>",
+                              "X = A · B + <span style='text-decoration: overline;'>A</span> · <span style='text-decoration: overline;'>B</span>",
+                              "X = A · <span style='text-decoration: overline;'>B</span> + <span style='text-decoration: overline;'>A</span> · B",
+                              "X = (<span style='text-decoration: overline;'>A</span> + B) · (A + <span style='text-decoration: overline;'>B</span>)"
                           ],
                    "an":  3,
-                   "al":  "複雑な論理回路図の問題では、手間はかかりますが確実に答えがでる方法で解くのがおすすめです。まず(A=0, B=0),(A=1, B=0),(A=0, B=1),(A=1, B=1)の4つのケースについて回路図を追跡し、結果Xを真理値表にまとめます。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/24a.png\" alt=\"\"\u003e"
+                   "al":  "複雑な論理回路図の問題では、手間はかかりますが確実に答えがでる方法で解くのがおすすめです。<br><br>まず(A=0, B=0),(A=1, B=0),(A=0, B=1),(A=1, B=1)の4つのケースについて回路図を追跡し、結果Xを真理値表にまとめます。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24a.png' width='400' height='251' alt='24a.png/image-size:400×251'></div>設問の論理回路図は「XOR回路」と等価であることがわかります。<br>次に各選択肢の論理式を解いて、回路図と一致するものを探します。<ul><li class='lia'><span class='cite'>X＝A・B＋<span class='ol'>A・B</span></span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_1.png' width='417' height='128' alt='24_1.png/image-size:417×128'></div></li><li class='lii'><span class='cite'>X＝A・B＋<span class='ol'>A</span>・<span class='ol'>B</span></span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_2.png' width='417' height='128' alt='24_2.png/image-size:417×128'></div></li><li class='liu'><span class='cite'>X＝A・<span class='ol'>B</span>＋<span class='ol'>A</span>・B</span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_3.png' width='417' height='128' alt='24_3.png/image-size:417×128'></div></li><li class='lie'><span class='cite'>X＝(<span class='ol'>A</span>＋B)・(A＋<span class='ol'>B</span>)</span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_4.png' width='417' height='128' alt='24_4.png/image-size:417×128'></div></li></ul>したがって上表のように論理回路図と等価な論理式は「ウ」ということになります。<br><br>またこの設問を早く解く方法として、回路図を論理式で表した後、それを変形する方法があります。(掲示板No.0272のスレッドより)<br><br>回路図より、<br><br>X ＝A・(<span class='ol'>A</span>＋<span class='ol'>B</span>) ＋ (<span class='ol'>A</span>＋<span class='ol'>B</span>)・B<br>　＝A・<span class='ol'>A</span> ＋ A・<span class='ol'>B</span> ＋ <span class='ol'>A</span>・B ＋ <span class='ol'>B</span>・B　<em class='g'>//分配の法則を適用</em><br>　＝0 ＋ A・<span class='ol'>B</span> ＋ <span class='ol'>A</span>・B ＋ 0　<em class='g'>//A・<span class='ol'>A</span>＝0を適用</em><br>　＝A・<span class='ol'>B</span> ＋ <span class='ol'>A</span>・B　<em class='g'>//0＋A＝Aを適用</em>"
                },
         "zh":  {
                    "ti":  "平成22年秋期　問24",
                    "ca":  "技術系 » 硬體 » 硬體",
                    "q":  "與圖中所示數位電路等效的邏輯運算式為何？在此，邏輯運算式中的「・」代表邏輯乘（AND），「＋」代表邏輯和（OR），「<span style='text-decoration: overline;'>X\u003c/span\u003e」代表X的非（NOT）。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/24.png\" alt=\"\"\u003e",
                    "op":  [
-                              "X＝A・B＋<span style='text-decoration: overline;'>A・B\u003c/span\u003e",
-                              "X＝A・B＋<span style='text-decoration: overline;'>A\u003c/span\u003e",
-                              "X＝A・<span style='text-decoration: overline;'>B\u003c/span\u003e",
-                              "X＝(<span style='text-decoration: overline;'>A\u003c/span\u003e)"
+                              "X = A · B + <span style='text-decoration: overline;'>A · B</span>",
+                              "X = A · B + <span style='text-decoration: overline;'>A</span> · <span style='text-decoration: overline;'>B</span>",
+                              "X = A · <span style='text-decoration: overline;'>B</span> + <span style='text-decoration: overline;'>A</span> · B",
+                              "X = (<span style='text-decoration: overline;'>A</span> + B) · (A + <span style='text-decoration: overline;'>B</span>)"
                           ],
                    "an":  3,
-                   "al":  "對於複雜的邏輯電路圖問題，建議使用雖然費時但能準確得出答案的方法來解題。首先針對(A=0, B=0), (A=1, B=0), (A=0, B=1), (A=1, B=1)這4種情況追蹤電路圖，並將結果X整理成真值表。\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/24a.png\" alt=\"\"\u003e"
+                   "al":  "複雜的邏輯電路圖題目中，雖然比較花時間，但建議用能確保得出答案的方法來解題。<br><br>首先，針對 (A=0, B=0)、(A=1, B=0)、(A=0, B=1)、(A=1, B=1) 這四種情況追蹤電路圖，並將結果 X 整理成真理值表。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24a.png' width='400' height='251' alt='24a.png/image-size:400×251'></div>可以發現題目的邏輯電路圖與「XOR 電路」等價。<br>接著求解各選項的邏輯式，尋找與電路圖一致的選項。<ul><li class='lia'><span class='cite'>X＝A・B＋<span class='ol'>A・B</span></span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_1.png' width='417' height='128' alt='24_1.png/image-size:417×128'></div></li><li class='lii'><span class='cite'>X＝A・B＋<span class='ol'>A</span>・<span class='ol'>B</span></span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_2.png' width='417' height='128' alt='24_2.png/image-size:417×128'></div></li><li class='liu'><span class='cite'>X＝A・<span class='ol'>B</span>＋<span class='ol'>A</span>・B</span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_3.png' width='417' height='128' alt='24_3.png/image-size:417×128'></div></li><li class='lie'><span class='cite'>X＝(<span class='ol'>A</span>＋B)・(A＋<span class='ol'>B</span>)</span><br><div class='img_margin'><img src='https://www.fe-siken.com/kakomon/22_aki/img/24_4.png' width='417' height='128' alt='24_4.png/image-size:417×128'></div></li></ul>因此如上表所示，與邏輯電路圖等價的邏輯式為「ウ」。<br><br>另外，作為快速解開這道題目的方法，可以先將電路圖表示為邏輯式，然後再進行變形。（取自討論板編號 0272 的討論串）<br><br>根據電路圖，<br><br>X ＝A・(<span class='ol'>A</span>＋<span class='ol'>B</span>) ＋ (<span class='ol'>A</span>＋<span class='ol'>B</span>)・B<br> ＝A・<span class='ol'>A</span> ＋ A・<span class='ol'>B</span> ＋ <span class='ol'>A</span>・B ＋ <span class='ol'>B</span>・B <em class='g'>//套用分配律</em><br> ＝0 ＋ A・<span class='ol'>B</span> ＋ <span class='ol'>A</span>・B ＋ 0 <em class='g'>//套用 A・<span class='ol'>A</span>＝0</em><br> ＝A・<span class='ol'>B</span> ＋ <span class='ol'>A</span>・B <em class='g'>//套用 0＋A＝A</em>"
                }
     },
     {
