@@ -143,7 +143,7 @@
         "ja":  {
                    "ti":  "令和7年度　問6",
                    "ca":  "テクノロジ系 » データベース » データ操作",
-                   "q":  "\"商品\"表に対するSQL文と同じ結果が得られるSELECT文はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/07_haru/img/06.png\" alt=\"\"\u003e",
+                   "q":  "\"商品\"表に対するSQL文と同じ結果が得られるSELECT文はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/07_haru/img/06.png\" alt=\"\"\u003e\n\n〔SQL文〕\nSELECT * FROM 商品 WHERE 仕入先ID IN('M002'，'M004')",
                    "op":  [
                               "SELECT * FROM 商品 WHERE 仕入先ID = \u0027M002\u0027 AND 仕入先ID = \u0027M004\u0027",
                               "SELECT * FROM 商品 WHERE 仕入先ID = \u0027M002\u0027\u003cbr\u003eINTERSECT\u003cbr\u003eSELECT * FROM 商品 WHERE 仕入先ID = \u0027M004\u0027",
@@ -156,7 +156,7 @@
         "zh":  {
                    "ti":  "令和7年度　問6",
                    "ca":  "科技類 » 資料庫 » 數據操作",
-                   "q":  "與對「商品」表執行的SQL語句有相同結果的SELECT語句是哪一個？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/07_haru/img/06.png\" alt=\"\"\u003e\u003c/div\u003e",
+                   "q":  "與對「商品」表執行的SQL語句有相同結果的SELECT語句是哪一個？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/07_haru/img/06.png\" alt=\"\"\u003e\u003c/div\u003e\n\n〔SQL文〕\nSELECT * FROM 商品 WHERE 仕入先ID IN('M002'，'M004')",
                    "op":  [
                               "SELECT * FROM 商品 WHERE 仕入先ID = \u0027M002\u0027 AND 仕入先ID = \u0027M004\u0027",
                               "SELECT * FROM 商品 WHERE 仕入先ID = \u0027M002\u0027\u003cbr\u003eINTERSECT\u003cbr\u003eSELECT * FROM 商品 WHERE 仕入先ID = \u0027M004\u0027",
@@ -227,7 +227,7 @@
         "ja":  {
                    "ti":  "平成24年春期　問31",
                    "ca":  "テクノロジ系 » データベース » データ操作",
-                   "q":  "表Rに対する次のSQL文の操作はどの関係演算か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/31.png\" alt=\"\"\u003e",
+                   "q":  "表Rに対する次のSQL文の操作はどの関係演算か。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/31.png\" alt=\"\"\u003e\n\n〔SQL文〕\nSELECT A1, A3, A5, FROM R",
                    "op":  [
                               "結合",
                               "差",
@@ -235,12 +235,12 @@
                               "直積"
                           ],
                    "an":  3,
-                   "al":  "それぞれの演算は関係データベースの表に対する次のような操作を表してます。射影表から選択した列を取り出す操作差基準となる表から別の表に属する行を取り除いたものを新しい表とする操作結合2つの表がもつ共通の属性で表を繋ぎ新しい表を作りだす操作直積関係データベースの2つの表の要素をすべて掛け合わせたものを新しい表とする操作SELECT文は対象の表から指定されたデータを抽出するSQL文で、SELECT句につづき列名をカンマで区切って指定することでその列だけを抜き出すことが可能です。設問のSQL文は表RからA1，A3，A5列を抜き出すものなので、答えは「射影」になります。"
+                   "al":  "それぞれの演算は関係データベースの表に対する次のような操作を表してます。\n射影:表から選択した列を取り出す操作\n差:基準となる表から別の表に属する行を取り除いたものを新しい表とする操作\n結合:2つの表がもつ共通の属性で表を繋ぎ新しい表を作りだす操作\n直積:関係データベースの2つの表の要素をすべて掛け合わせたものを新しい表とする操作\nSELECT文は対象の表から指定されたデータを抽出するSQL文で、SELECT句につづき列名をカンマで区切って指定することでその列だけを抜き出すことが可能です。設問のSQL文は表RからA1，A3，A5列を抜き出すものなので、答えは「射影」になります。"
                },
         "zh":  {
                    "ti":  "平成24年春季 問31",
                    "ca":  "技術系 » 資料庫 » 資料操作",
-                   "q":  "針對資料表 R 執行下列 SQL 語句，該操作屬於哪一種關係運算？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/31.png\" alt=\"\"\u003e",
+                   "q":  "針對資料表 R 執行下列 SQL 語句，該操作屬於哪一種關係運算？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/31.png\" alt=\"\"\u003e\n\n〔SQL文〕\nSELECT A1, A3, A5, FROM R",
                    "op":  [
                               "結合 (Join)",
                               "差集 (Difference)",
@@ -451,7 +451,7 @@
         "ja":  {
                    "ti":  "平成24年春期　問30",
                    "ca":  "テクノロジ系 » データベース » データ操作",
-                   "q":  "\"注文\"表と\"製品\"表に対して，次のSQL文を実行したときに得られる結果はどれか。\u003cbr\u003e\u003cbr\u003e\u003cdiv class=\"code\"\u003eSELECT 製品名, 数量 FROM 注文, 製品\u003cbr\u003e　　　WHERE 注文.製品コード = 製品.製品コード",
+                   "q":  "\"注文\"表と\"製品\"表に対して，次のSQL文を実行したときに得られる結果はどれか。\u003cbr\u003e\u003cbr\u003e\u003cdiv class=\"code\"\u003eSELECT 製品名, 数量 FROM 注文, 製品\u003cbr\u003e　　　WHERE 注文.製品コード = 製品.製品コード\n\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/30.png\" \u003e",
                    "op":  [
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/30a.png\" alt=\"\"\u003e",
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/30i.png\" alt=\"\"\u003e",
@@ -459,12 +459,12 @@
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/30e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "\"注文\"表と\"製品\"表を、2つの表の共通属性である製品コード列で結合すると次のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/30_1.png\" alt=\"問30画像\"\u003e"
+                   "al":  "'注文'表と'製品'表を、2つの表の共通属性である製品コード列で結合すると次のようになります。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/24_haru/img/30_1.png' width='209' height='122' alt='30_1.png/image-size:209×122'></div>この結合表から、<span class='code'>SELECT 製品名, 数量</span>によって製品名と数量の列を抜き出すので、得られる結果表は以下のようになります。したがって@3@が正解です。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/24_haru/img/30u.png' width='86' height='120' alt='30u.png/image-size:86×120'></div>"
                },
         "zh":  {
                    "ti":  "平成24年春季 問30",
                    "ca":  "技術系 » 資料庫 » 資料操作",
-                   "q":  "對「訂單」資料表與「產品」資料表執行下列 SQL 指令，得到的結果為何？\u003cbr\u003e\u003cbr\u003e\u003cdiv class=\"code\"\u003eSELECT 產品名稱, 數量 FROM 訂單, 產品\u003cbr\u003e　　　WHERE 訂單.產品代碼 = 產品.產品代碼",
+                   "q":  "對「訂單」資料表與「產品」資料表執行下列 SQL 指令，得到的結果為何？\u003cbr\u003e\u003cbr\u003e\u003cdiv class=\"code\"\u003eSELECT 產品名稱, 數量 FROM 訂單, 產品\u003cbr\u003e　　　WHERE 訂單.產品代碼 = 產品.產品代碼\n\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/30.png\" \u003e",
                    "op":  [
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/30a.png\" alt=\"\"\u003e",
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/30i.png\" alt=\"\"\u003e",
@@ -472,7 +472,7 @@
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/30e.png\" alt=\"\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "將「訂單」資料表與「產品」資料表以兩表共通屬性的產品代碼欄位進行結合，結果如下：\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/30_1.png\" alt=\"問30圖片\"\u003e"
+                   "al":  "將「注文」表與「製品」表透過兩者的共同屬性「製品代碼」欄位進行結合，結果如下。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/24_haru/img/30_1.png' width='209' height='122' alt='30_1.png/image-size:209×122'></div>從此結合表中，藉由<span class='code'>SELECT 製品名, 数量</span>萃取出製品名稱與數量的欄位，因此得到的結果表如下所示。因此@3@為正解。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/24_haru/img/30u.png' width='86' height='120' alt='30u.png/image-size:86×120'></div>"
                }
     },
     {
@@ -593,10 +593,10 @@
                    "ca":  "テクノロジ系 » データベース » データ操作",
                    "q":  "関係データベース\"注文\"表の\"顧客番号\"は\"顧客\"表の主キー\"顧客番号\"に対応する外部キーである。このとき、参照の整合性を損なうデータ操作はどれか。ここで、ア～エの記述におけるデータの並びは、それぞれの表の列の並びと同順とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/33.png\" alt=\"問33画像\"\u003e",
                    "op":  [
-                              "\"顧客\"表の行\u003cspan class=\"bb\"\u003eL035",
-                              "\"注文\"表に行\u003cspan class=\"bb\"\u003e0005",
-                              "\"注文\"表に行\u003cspan class=\"bb\"\u003e0006",
-                              "\"注文\"表の行\u003cspan class=\"bb\"\u003e0002"
+                              "\"顧客\"表の行【L035】【宮崎】を削除する。",
+                              "\"注文\"表に行【0005】【D010】を追加する。",
+                              "\"注文\"表に行【0006】【F020】を追加する。",
+                              "\"注文\"表の行【0002】【K001】を削除する。"
                           ],
                    "an":  3,
                    "al":  "\"注文\"表の\"顧客番号\"列が、\"顧客\"表の\"顧客番号\"列を参照しています。例をあげると、\"注文\"表の外部キーである\"顧客番号\"列に\"C005\"の行があるなら、\"顧客\"表の\"顧客番号\"列にも\"C005\"の値をもつ行が存在していなくてはならないということになります。参照制約が問題になるのは、\"注文\"表への行の追加の時と、\"顧客\"表の行の削除でこの処理をチェックしてみることが必要です。 @1@\"顧客\"表の行L035宮崎を削除する。\"注文\"表の\"顧客番号\"列には、\"LO35\"の値をもつ行がないので削除可能です。 @2@\"注文\"表に行0005D010を追加する。\"顧客番号\"が\"D010\"の行は、顧客表にすでに存在しているので、問題なく追加できます。 @3@\"注文\"表に行0006F020を追加する。正しい。\"顧客番号\"が\"F020\"の行は、\"顧客\"表に存在していないので追加できません。このようなときには先に\"顧客\"表にレコードを追加してから\"注文\"表への追加を行う必要があります。 @4@\"注文\"表の行0002K001を削除する。この問題の場合、\"注文\"表の行の削除は特に問題になることはありません。"
@@ -606,10 +606,10 @@
                    "ca":  "技術系 » 資料庫 » 資料操作",
                    "q":  "關聯式資料庫「訂單」資料表的「顧客編號」是對應「顧客」資料表主鍵「顧客編號」的外鍵。請問下列何者會損害參照完整性（Referential Integrity）的資料操作？此外，選項 A 到 D 的資料排列順序與各資料表的欄位順序相同。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/22_aki/img/33.png\" alt=\"問33圖片\"\u003e",
                    "op":  [
-                              "刪除「顧客」資料表的列 \u003cspan class=\"bb\"\u003eL035",
-                              "新增「訂單」資料表的列 \u003cspan class=\"bb\"\u003e0005",
-                              "新增「訂單」資料表的列 \u003cspan class=\"bb\"\u003e0006",
-                              "刪除「訂單」資料表的列 \u003cspan class=\"bb\"\u003e0002"
+                              "刪除「顧客」資料表的列【L035】【宮崎】",
+                              "在「訂單」資料表新增列【0005】【D010】",
+                              "在「訂單」資料表新增列【0006】【F020】",
+                              "刪除「訂單」資料表的列【0002】【K001】"
                           ],
                    "an":  3,
                    "al":  "「訂單」資料表的「顧客編號」欄位參照了「顧客」資料表的「顧客編號」欄位。舉例來說，若「訂單」資料表的外鍵「顧客編號」欄位中有「C005」的資料列，則「顧客」資料表的「顧客編號」欄位中也必須存在值為「C005」的資料列。參照限制問題通常發生在向「訂單」資料表新增資料時，以及從「顧客」資料表刪除資料時，需要特別檢查這些操作。 @1@ 刪除「顧客」資料表的列 L035（宮崎）。由於「訂單」資料表的「顧客編號」欄位中沒有值為「L035」的資料列，因此可以刪除。 @2@ 新增「訂單」資料表的列 0005（D010）。由於「顧客編號」為「D010」的列已存在於顧客資料表中，因此可以無誤地新增。 @3@ 新增「訂單」資料表的列 0006（F020）。正確。由於「顧客編號」為「F020」的列並不存在於「顧客」資料表中，因此無法新增。遇到這種情況時，必須先在「顧客」資料表中新增該筆紀錄，才能執行對「訂單」資料表的新增操作。 @4@ 刪除「訂單」資料表的列 0002（K001）。在本題的情況下，刪除「訂單」資料表的列不會產生特別問題。"
@@ -627,7 +627,7 @@
                               "選択と和"
                           ],
                    "an":  1,
-                   "al":  "まず関係Xと関係Yを、共通の属性\"学部コード\"で自然結合すると以下のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/27_1.png\" alt=\"\"\u003e"
+                   "al":  "まず関係Xと関係Yを、共通の属性'学部コード'で自然結合すると以下のようになります。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/28_haru/img/27_1.png' width='218' height='145' alt='27_1.png/image-size:218×145'></div>関係Zは結合後の関係から'学部コード'がBである2行を抽出し、さらに｛学生番号，氏名，学部名｝の3つの列を取り出した結果です。<br><br>関係から条件に合う行（レコード／タプル）を取り出す操作を<em class='r'>選択</em>といい、'学部コード'がBである2行を抽出する操作がこれに該当します。また、関係から指定した列（属性）を取り出す操作を<em class='r'>射影</em>といい、｛学生番号，氏名，学部名｝の3つの列を取り出す操作がこれに該当します。<br><br>関係Zを得るために行われた関係演算はこの2つなので、正解は@1@となります。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/28_haru/img/27_2.png' width='520' height='185' alt='27_2.png/image-size:520×185'></div>"
                },
         "zh":  {
                    "ti":  "平成28年春季 問27",
@@ -640,14 +640,14 @@
                               "選擇與聯集"
                           ],
                    "an":  1,
-                   "al":  "首先，將關係 X 與關係 Y 透過共同屬性「學部代碼」進行自然結合，結果如下。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_haru/img/27_1.png\" alt=\"\"\u003e"
+                   "al":  "首先將關係 X 與關係 Y 透過共同的屬性「學部代碼」進行自然結合，結果如下。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/28_haru/img/27_1.png' width='218' height='145' alt='27_1.png/image-size:218×145'></div>關係 Z 是從結合後的關係中萃取出「學部代碼」為 B 的 2 行，並進一步取出 {學生編號，姓名，學部名} 這 3 個欄位的結果。<br><br>從關係中取出符合條件的行（記錄／元組）的操作稱為<em class='r'>選擇</em>，而萃取出「學部代碼」為 B 的 2 行的操作即符合此項。此外，從關係中取出指定欄位（屬性）的操作稱為<em class='r'>射影</em>，而取出 {學生編號，姓名，學部名} 這 3 個欄位的操作即符合此項。<br><br>為了得到關係 Z 所進行的關係運算正是這兩項，因此正解為@1@。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/28_haru/img/27_2.png' width='520' height='185' alt='27_2.png/image-size:520×185'></div>"
                }
     },
     {
         "ja":  {
                    "ti":  "平成31年春期　問29",
                    "ca":  "テクノロジ系 » データベース » データ操作",
-                   "q":  "\"学生\"表と\"学部\"表に対して次のSQL文を実行した結果として，正しいものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/29.png\" alt=\"\"\u003e",
+                   "q":  "\"学生\"表と\"学部\"表に対して次のSQL文を実行した結果として，正しいものはどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/29.png\" alt=\"\"\u003e\n\n〔SQL文〕\nSELECT 氏名 FROM 学生, 学部\n　　WHERE 所属 = 学部名 AND 学部.住所 = '新宿'",
                    "op":  [
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/29a.png\" alt=\"問29ア\"\u003e",
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/29i.png\" alt=\"問29イ\"\u003e",
@@ -655,12 +655,12 @@
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/29e.png\" alt=\"問29エ\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "設問のSQL文は「\"学生\"表と\"学部\"表を\"所属\"列と\"学部名\"列で結合し、\"学部\"表の\"住所\"列の値が\"新宿\"である行を選択し、その中から\"氏名\"列を抜きだす」と解釈できます。結果を得るまでの手順を以下に示します。まず、\"学生\"表と\"学部\"表を、\"所属\"列と\"学部名\"列の値が同じ行同士で結合します。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/29_1.png\" alt=\"結合した表\"\u003e"
+                   "al":  "設問のSQL文は「\"学生\"表と\"学部\"表を\"所属\"列と\"学部名\"列で結合し、\"学部\"表の\"住所\"列の値が\"新宿\"である行を選択し、その中から\"氏名\"列を抜きだす」と解釈できます。結果を得るまでの手順を以下に示します。まず、\"学生\"表と\"学部\"表を、\"所属\"列と\"学部名\"列の値が同じ行同士で結合します。\n\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/29_1.png\" alt=\"結合した表\"\u003e\nその中で\"学部\"表の\"住所\"列の値が\"新宿\"である行だけを選択します。\n<img src=\"https://www.fe-siken.com/kakomon/31_haru/img/29_2.png\" alt=\"結合した表\">\n最後に\"氏名\"列を抜き出すと@3@の結果が得られます。\n<img src=\"https://www.fe-siken.com/kakomon/31_haru/img/29_3.png\" alt=\"結合した表\">"
                },
         "zh":  {
                    "ti":  "平成31年春季 問29",
                    "ca":  "技術系 » 資料庫 » 資料操作",
-                   "q":  "針對「學生」資料表與「學部」資料表執行下列 SQL 語句，其正確結果為何。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/29.png\" alt=\"\"\u003e",
+                   "q":  "針對「學生」資料表與「學部」資料表執行下列 SQL 語句，其正確結果為何。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/29.png\" alt=\"\"\u003e\n\n〔SQL文〕\nSELECT 氏名 FROM 学生, 学部\n　　WHERE 所属 = 学部名 AND 学部.住所 = '新宿'",
                    "op":  [
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/29a.png\" alt=\"問29ア\"\u003e",
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/29i.png\" alt=\"問29イ\"\u003e",
@@ -668,7 +668,7 @@
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/29e.png\" alt=\"問29エ\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "本題的 SQL 語句可解讀為「將『學生』資料表與『學部』資料表以『所屬』欄位與『學部名』欄位進行連結，篩選出『學部』資料表中『地址』欄位值為『新宿』的資料列，並從中提取『姓名』欄位」。取得結果的步驟如下：首先，將「學生」資料表與「學部」資料表，依據「所屬」欄位與「學部名」欄位值相同的資料列進行連結。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/29_1.png\" alt=\"連結後的資料表\"\u003e"
+                   "al":  "本題的 SQL 語句可解讀為「將『學生』資料表與『學部』資料表以『所屬』欄位與『學部名』欄位進行連結，篩選出『學部』資料表中『地址』欄位值為『新宿』的資料列，並從中提取『姓名』欄位」。取得結果的步驟如下：首先，將「學生」資料表與「學部」資料表，依據「所屬」欄位與「學部名」欄位值相同的資料列進行連結。\n\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/29_1.png\" alt=\"連結後的資料表\"\u003e\n其中，只選擇「學部」表中「地址」欄位的值為「新宿」的行。\n<img src=\"https://www.fe-siken.com/kakomon/31_haru/img/29_2.png\" >\n最後萃取出「姓名」欄位，即可得到@3@的結果。\n<img src=\"https://www.fe-siken.com/kakomon/31_haru/img/29_3.png\" >"
                }
     },
     {
@@ -1207,7 +1207,7 @@
         "ja":  {
                    "ti":  "平成23年特別　問31",
                    "ca":  "テクノロジ系 » データベース » データ操作",
-                   "q":  "\"商品\"表のデータが次の状態のとき，〔ビュー定義〕で示すビュー\"収益商品\"の行数が減少する更新処理はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/31.png\" alt=\"問31画像\"\u003e",
+                   "q":  "\"商品\"表のデータが次の状態のとき，〔ビュー定義〕で示すビュー\"収益商品\"の行数が減少する更新処理はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/31.png\" alt=\"問31画像\"\u003e\n\n〔ビュー定義〕\nCREATE VIEW 収益商品\n　　AS SELECT * FROM 商品\n　　　　WHERE 売値－仕入値 >= 40000",
                    "op":  [
                               "商品コードがS001の売値を130,000に更新する。",
                               "商品コードがS003の仕入値を150,000に更新する。",
@@ -1220,7 +1220,7 @@
         "zh":  {
                    "ti":  "平成23年特別 問31",
                    "ca":  "技術系 » 資料庫 » 資料操作",
-                   "q":  "當「商品」表的資料處於以下狀態時，下列哪一項更新處理會導致〔視觀表定義〕中所示的「收益商品」視觀表之行數減少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/31.png\" alt=\"問31圖片\"\u003e",
+                   "q":  "當「商品」表的資料處於以下狀態時，下列哪一項更新處理會導致〔視觀表定義〕中所示的「收益商品」視觀表之行數減少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/23_toku/img/31.png\" alt=\"問31圖片\"\u003e\n\n〔ビュー定義〕\nCREATE VIEW 収益商品\n　　AS SELECT * FROM 商品\n　　　　WHERE 売値－仕入値 >= 40000",
                    "op":  [
                               "將商品代碼為 S001 的售價更新為 130,000。",
                               "將商品代碼為 S003 的進貨價更新為 150,000。",
@@ -2189,10 +2189,10 @@
                    "ca":  "テクノロジ系 » データベース » データ操作",
                    "q":  "関係データベース\"注文\"表の\"顧客番号\"は\"顧客\"表の主キー\"顧客番号\"に対応する外部キーである。このとき、参照の整合性を損なうデータ操作はどれか。ここで、ア～エの記述におけるデータの並びは、それぞれの表の列の並びと同順とする。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/31.png\" alt=\"問31画像\"\u003e",
                    "op":  [
-                              "\"顧客\"表の行\u003cspan class=\"bb\"\u003eL035",
-                              "\"注文\"表に行\u003cspan class=\"bb\"\u003e0005",
-                              "\"注文\"表に行\u003cspan class=\"bb\"\u003e0006",
-                              "\"注文\"表の行\u003cspan class=\"bb\"\u003e0002"
+                              "\"顧客\"表の行【L035】【宮崎】を削除する。",
+                              "\"注文\"表に行【0005】【D010】を追加する。",
+                              "\"注文\"表に行【0006】【F020】を追加する。",
+                              "\"注文\"表の行【0002】【K001】を削除する。"
                           ],
                    "an":  3,
                    "al":  "\"注文\"表の\"顧客番号\"列が、\"顧客\"表の\"顧客番号\"列を参照しています。例をあげると、\"注文\"表の外部キーである\"顧客番号\"列に\"C005\"の行があるなら、\"顧客\"表の\"顧客番号\"列にも\"C005\"の値をもつ行が存在していなくてはならないということになります。参照制約が問題になるのは、\"注文\"表への行の追加の時と、\"顧客\"表の行の削除でこの処理をチェックしてみることが必要です。 @1@\"顧客\"表の行L035宮崎を削除する。\"注文\"表の\"顧客番号\"列には、\"LO35\"の値をもつ行がないので削除可能です。 @2@\"注文\"表に行0005D010を追加する。\"顧客番号\"が\"D010\"の行は、顧客表にすでに存在しているので、問題なく追加できます。 @3@\"注文\"表に行0006F020を追加する。正しい。\"顧客番号\"が\"F020\"の行は、\"顧客\"表に存在していないので追加できません。このようなときには先に\"顧客\"表にレコードを追加してから\"注文\"表への追加を行う必要があります。 @4@\"注文\"表の行0002K001を削除する。この問題の場合、\"注文\"表の行の削除は特に問題になることはありません。"
@@ -2202,10 +2202,10 @@
                    "ca":  "技術系 » 資料庫 » 資料操作",
                    "q":  "關聯式資料庫「訂單」資料表的「顧客編號」是對應「顧客」資料表主鍵「顧客編號」的外鍵。請問下列何者會損害參照完整性（Referential Integrity）的資料操作？此外，選項 A 至 D 的資料順序與對應資料表的欄位順序相同。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/31.png\" alt=\"問31圖片\"\u003e",
                    "op":  [
-                              "刪除「顧客」資料表的列 \u003cspan class=\"bb\"\u003eL035",
-                              "在「訂單」資料表新增列 \u003cspan class=\"bb\"\u003e0005",
-                              "在「訂單」資料表新增列 \u003cspan class=\"bb\"\u003e0006",
-                              "刪除「訂單」資料表的列 \u003cspan class=\"bb\"\u003e0002"
+                              "刪除「顧客」資料表的列【L035】【宮崎】",
+                              "在「訂單」資料表新增列【0005】【D010】",
+                              "在「訂單」資料表新增列【0006】【F020】",
+                              "刪除「訂單」資料表的列【0002】【K001】"
                           ],
                    "an":  3,
                    "al":  "「訂單」資料表的「顧客編號」欄位參照了「顧客」資料表的「顧客編號」欄位。舉例來說，若「訂單」資料表的外鍵「顧客編號」欄位中有「C005」這一列，則「顧客」資料表的「顧客編號」欄位中也必須存在值為「C005」的列。參照限制的問題發生在對「訂單」資料表新增資料行，以及刪除「顧客」資料表的資料行時，需要檢查這些操作。@1@ 刪除「顧客」資料表的列 L035 宮崎。由於「訂單」資料表的「顧客編號」欄位中沒有值為「L035」的列，因此可以刪除。@2@ 在「訂單」資料表新增列 0005 D010。由於「顧客編號」為「D010」的列已存在於顧客表中，因此可以順利新增。@3@ 在「訂單」資料表新增列 0006 F020。正確答案。由於「顧客編號」為「F020」的列並不存在於「顧客」資料表中，因此無法新增。遇到此情況時，必須先在「顧客」資料表中新增該紀錄，才能對「訂單」資料表進行新增操作。@4@ 刪除「訂單」資料表的列 0002 K001。在此題的情況下，刪除「訂單」資料表的列並不會產生任何問題。"
@@ -2223,7 +2223,7 @@
                               "ビュー"
                           ],
                    "an":  1,
-                   "al":  "埋込みSQLとは、CやCOBOL、Pascalのような表データを直接扱えない手続き型プログラミングに、関係データベースを操作するためのSQLを埋め込むための手法です。埋込みSQLでは、問合せによって得られた導出表を1行ずつ親プログラムに引き渡しながら処理をしていきますが、この操作において結果表内のある1行を参照する仕組みをカーソルといいます。親プログラム内では、カーソルから値を取り出したり、カーソルに対して更新または削除処理を行ったりします。設問のSQLにおいては、Xがカーソルに当たります。カーソル操作の流れは以下の通りです。 @1@DECLARE CURSOR文でカーソルを定義する。 @2@OPEN文でカーソルを開く。 @3@1行ずつ目的の処理を行う。 @4@CLOSE文でカーソルを閉じる。"
+                   "al":  "埋込みSQLとは、CやCOBOL、Pascalのような表データを直接扱えない手続き型プログラミングに、関係データベースを操作するためのSQLを埋め込むための手法です。埋込みSQLでは、問合せによって得られた導出表を1行ずつ親プログラムに引き渡しながら処理をしていきますが、この操作において結果表内のある1行を参照する仕組みをカーソルといいます。親プログラム内では、カーソルから値を取り出したり、カーソルに対して更新または削除処理を行ったりします。設問のSQLにおいては、Xがカーソルに当たります。カーソル操作の流れは以下の通りです。 \nDECLARE CURSOR文でカーソルを定義する。 \nOPEN文でカーソルを開く。 \n1行ずつ目的の処理を行う。 \nCLOSE文でカーソルを閉じる。"
                },
         "zh":  {
                    "ti":  "平成30年春季 問28",
@@ -2236,7 +2236,7 @@
                               "檢視表 (View)"
                           ],
                    "an":  1,
-                   "al":  "嵌入式SQL是一種將SQL語法嵌入到如C、COBOL、Pascal等無法直接處理表格資料的程序語言中，藉以操作關聯式資料庫的技術。在嵌入式SQL中，是將查詢所獲得的結果表逐行傳遞給主程式進行處理，而在此操作中，用來參照結果表中特定某一行的機制稱為「游標」。在主程式中，可以從游標取出值，或是對游標進行更新或刪除處理。在本題的SQL中，X對應的就是游標。游標的操作流程如下： @1@ 使用DECLARE CURSOR語句定義游標。 @2@ 使用OPEN語句開啟游標。 @3@ 逐行進行目的處理。 @4@ 使用CLOSE語句關閉游標。"
+                   "al":  "嵌入式SQL是一種將SQL語法嵌入到如C、COBOL、Pascal等無法直接處理表格資料的程序語言中，藉以操作關聯式資料庫的技術。在嵌入式SQL中，是將查詢所獲得的結果表逐行傳遞給主程式進行處理，而在此操作中，用來參照結果表中特定某一行的機制稱為「游標」。在主程式中，可以從游標取出值，或是對游標進行更新或刪除處理。在本題的SQL中，X對應的就是游標。游標的操作流程如下： \n 使用DECLARE CURSOR語句定義游標。 \n使用OPEN語句開啟游標。 \n 逐行進行目的處理。 \n 使用CLOSE語句關閉游標。"
                }
     },
     {
@@ -3091,7 +3091,7 @@
                               "部署名→配送先"
                           ],
                    "an":  1,
-                   "al":  "関係データベースにおける関数従属とは、「社員ID→社員名」や「保険証番号→{個人名，住所，生年月日}」などのように、ある属性の値によって別の属性の値が一意に決まる関係をいいます。設問の表では\"部署ID\"に\"部署名\"が関数従属していることは一目瞭然ですが、この関係は選択肢から除外されているため別の関数従属関係を探すことになります。 @1@配送先→部品ID正しい。秋田事業所 → 1342 @2@名古屋工場 → 2346 @3@川崎事業所 → 1342"
+                   "al":  "関係データベースにおける関数従属とは、「社員ID→社員名」や「保険証番号→{個人名，住所，生年月日}」などのように、ある属性の値によって別の属性の値が一意に決まる関係をいいます。設問の表では\"部署ID\"に\"部署名\"が関数従属していることは一目瞭然ですが、この関係は選択肢から除外されているため別の関数従属関係を探すことになります。 /n配送先→部品ID正しい。/n秋田事業所 → 1342 /n名古屋工場 → 2346 /n川崎事業所 → 1342"
                },
         "zh":  {
                    "ti":  "平成28年秋季 問27",
@@ -3104,7 +3104,7 @@
                               "部門名→配送地"
                           ],
                    "an":  1,
-                   "al":  "關聯式資料庫中的函數相依，是指如「員工ID→員工姓名」或「保險證號碼→{個人姓名，地址，出生年月日}」這樣，藉由某個屬性的值可以唯一決定另一個屬性值的關係。在題目給出的資料表中，雖然「部門ID」函數決定「部門名」是一目了然的，但由於該選項未列在選項中，因此需要尋找其他的函數相依關係。@1@配送地→零件ID 正確。秋田事業所 → 1342 @2@名古屋工廠 → 2346 @3@川崎事業所 → 1342"
+                   "al":  "關聯式資料庫中的函數相依，是指如「員工ID→員工姓名」或「保險證號碼→{個人姓名，地址，出生年月日}」這樣，藉由某個屬性的值可以唯一決定另一個屬性值的關係。在題目給出的資料表中，雖然「部門ID」函數決定「部門名」是一目了然的，但由於該選項未列在選項中，因此需要尋找其他的函數相依關係。/n配送地→零件ID 正確。/n秋田事業所 → 1342/n名古屋工廠 → 2346 /n川崎事業所 → 1342"
                }
     },
     {
@@ -3259,7 +3259,7 @@
                               "エ"
                           ],
                    "an":  4,
-                   "al":  "移動表の取引番号を見ると、それぞれの取引(取引番号\"122\"と\"124\")について2件ずつのレコードが記録されていることわかります。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/26_1.png\" alt=\"\"\u003e"
+                   "al":  "移動表の取引番号を見ると、それぞれの取引(取引番号'122'と'124')について2件ずつのレコードが記録されていることわかります。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/29_haru/img/26_1.png' width='500' height='173' alt='26_1.png/image-size:500×173'></div>さらに移動表の取引番号'124'のレコードを見ると、以下の様に1つの取引について'812:旅費，借方'と'510:現金，貸方'が一対で登録されていることがわかります。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/29_haru/img/26_2.png' width='500' height='212' alt='26_2.png/image-size:500×212'></div>取引番号'122'は「売上50,000円を，現金勘定に計上した」で、既に'208，貸方'のレコードが登録されているので、a，bにはもう片方の'<em class='r'>510，借方</em>'が入ります。<br><br>したがって正しい組合せは「エ」です。<br><br>※簿記を勉強したことのある方ならわかると思いますが、企業の帳簿は複式簿記で記録されており一つの取引について必ず2つ以上の勘定科目の変化が生じます。この設問のように現金売上取引の場合は以下の仕訳が記録されます。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/29_haru/img/26_3.png' width='348' height='46' alt='26_3.png/image-size:348×46'></div>"
                },
         "zh":  {
                    "ti":  "平成29年春季 問26",
@@ -3272,7 +3272,7 @@
                               "エ"
                           ],
                    "an":  4,
-                   "al":  "觀察「移動」資料表的交易編號可知，每一筆交易（交易編號「122」與「124」）皆記錄了兩筆紀錄。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_haru/img/26_1.png\" alt=\"\"\u003e"
+                   "al":  "查看移動表的交易編號，可以發現針對各個交易（交易編號「122」與「124」）各記錄了 2 筆記錄。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/29_haru/img/26_1.png' width='500' height='173' alt='26_1.png/image-size:500×173'></div>此外，查看移動表中交易編號「124」的記錄，可以發現針對 1 個交易，如下所示成對登錄了「812：旅費，借方」與「510：現金，貸方」。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/29_haru/img/26_2.png' width='500' height='212' alt='26_2.png/image-size:500×212'></div>交易編號「122」為「將 50,000 日圓的營業額計入現金帳戶」，由於已經登錄了「208，貸方」的記錄，因此 a 與 b 中會填入另一側的「<em class='r'>510，借方</em>」。<br><br>因此正確的組合是「エ」。<br><br>※學過會計（簿記）的人應該都知道，企業的帳簿是以複式記帳法記錄的，對於一筆交易，必然會產生兩個以上的會計科目變化。像本題這樣的現金銷售交易，會記錄以下分錄：<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/29_haru/img/26_3.png' width='348' height='46' alt='26_3.png/image-size:348×46'></div>"
                }
     },
     {
@@ -3623,7 +3623,7 @@
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/57e.png\" alt=\"問57エ\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "関係データベースの正規化は次のように3段階に分けて行います。第１正規化繰り返し項目をなくす第２正規化主キーの一部によって一意に決まる項目を別表に移す第３正規化主キー以外の項目によって一意に決まる項目を別表に移すこの手順どおりに正規化を進めていきます。まず第1正規化では繰返し項目をなくすためにそれらを複数のレコードに分割します。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/57_1.png\" alt=\"第１正規形\"\u003e"
+                   "al":  "関係データベースの<strong>正規化</strong>は次のように3段階に分けて行います。<dl><dt>第１正規化</dt><dd>繰り返し項目をなくす</dd><dt>第２正規化</dt><dd>主キーの一部によって一意に決まる項目を別表に移す</dd><dt>第３正規化</dt><dd>主キー以外の項目によって一意に決まる項目を別表に移す</dd></dl>この手順どおりに正規化を進めていきます。まず第1正規化では繰返し項目をなくすためにそれらを複数のレコードに分割します。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/20_aki/img/57_1.png' width='407' height='19' alt='57_1.png/image-size:407×19'></div>1つの紙に複数の商品が記載された伝票をイメージすると、<br><div class='pre'>(伝票番号1234, …，商品コード111, …)<br>(伝票番号1234, …，商品コード222, …)</div>というように、同じ伝票番号を持つレコードが複数存在することになるので、表中のレコードを一意に特定するためには「伝票番号」＋「商品コード」の複合主キーにしなければならないことがわかります。<br><br>第2正規化では主キーの一部によって一意に決まる項目を別表に移します。表を見ると「伝票番号」から「日付」「顧客コード」「顧客名」「住所」の4つ、「商品コード」から「単位」「単価」の2つが一意に定まることがわかるのでこれらの関係を別表に分離します。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/20_aki/img/57_2.png' width='236' height='79' alt='57_2.png/image-size:236×79'></div>第3正規化では主キー<u>以外</u>の項目によって一意に決まる項目を別表に移します。主キー以外の項目をみると、「顧客コード」から「顧客名」「住所」が一意に定めることがわかるためこの関係を別表に分離します。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/20_aki/img/57i.png' width='159' height='93' alt='57i.png/image-size:159×93'></div>以上より、設問のデータを第3正規化まで完了すると@2@のデータベース構造となります。"
                },
         "zh":  {
                    "ti":  "平成20年秋季 問57",
@@ -3636,7 +3636,7 @@
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/57e.png\" alt=\"問57エ\"\u003e"
                           ],
                    "an":  2,
-                   "al":  "關聯式資料庫的正規化分為以下三個階段進行：第一正規化：消除重複項目；第二正規化：將僅由主鍵一部分所決定的項目移至另一個資料表；第三正規化：將由非主鍵項目所決定的項目移至另一個資料表。依照此步驟進行正規化。首先，在第一正規化中，為了消除重複項目，將其分割為多個記錄。\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/57_1.png\" alt=\"第一正規形式\"\u003e"
+                   "al":  "關係資料庫的<strong>正規化</strong>分為以下 3 個階段進行：<dl><dt>第 1 正規化</dt><dd>消除重複項目</dd><dt>第 2 正規化</dt><dd>將由主鍵的一部分所唯一決定的項目移至獨立的表格</dd><dt>第 3 正規化</dt><dd>將由主鍵以外的項目所唯一決定的項目移至獨立的表格</dd></dl>我們將按照這個步驟推進正規化。首先在第 1 正規化中，為了消除重複項目，會將其分割成多筆記錄。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/20_aki/img/57_1.png' width='407' height='19' alt='57_1.png/image-size:407×19'></div>如果想像一張紙上記載多種商品的傳票，<br><div class='pre'>(傳票編號 1234, …，商品代碼 111, …)<br>(傳票編號 1234, …，商品代碼 222, …)</div>可以看出，會存在多筆擁有相同傳票編號的記錄。因此，為了在表格中唯一識別一筆記錄，必須將其設為「傳票編號」＋「商品代碼」的複合主鍵。<br><br>在第 2 正規化中，會將由主鍵的一部分所唯一決定的項目移至獨立的表格。觀看表格可以發現，「傳票編號」可以唯一決定「日期」、「客戶代碼」、「客戶名稱」、「地址」這 4 個項目，「商品代碼」可以唯一決定「單位」、「單價」這 2 個項目，因此將這些關係分離成獨立的表格。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/20_aki/img/57_2.png' width='236' height='79' alt='57_2.png/image-size:236×79'></div>在第 3 正規化中，會將由主鍵<u>以外</u>的項目所唯一決定的項目移至獨立的表格。觀察主鍵以外的項目，可以發現「客戶代碼」能唯一決定「客戶名稱」與「地址」，因此將此關係分離成獨立的表格。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/20_aki/img/57i.png' width='159' height='93' alt='57i.png/image-size:159×93'></div>綜上所述，當把題目的資料完成到第 3 正規化時，就會形成 @2@ 的資料庫結構。"
                }
     },
     {
@@ -3791,7 +3791,7 @@
                               "4"
                           ],
                    "an":  3,
-                   "al":  "まずWHERE句にあるように、社員表と部門表を所属列と部門名列をキー列として結合します。結合処理を行うとフロア列が追加された次のような中間表になります。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/29_1.png\" alt=\"\"\u003e"
+                   "al":  "まずWHERE句にあるように、社員表と部門表を所属列と部門名列をキー列として結合します。結合処理を行うとフロア列が追加された次のような中間表になります。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/28_aki/img/29_1.png' width='210' height='233' alt='29_1.png/image-size:210×233'></div>そして結合された表中でフロア列の値が'2'である行(部門.フロア＝2)の数を、COUNT(*)で集計しています。下表で示すようにフロア列の値が'2'の行は3行あるので、SQL文を実行した結果は <em class='r'>3</em> になります。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/28_aki/img/29_2.png' width='386' height='233' alt='29_2.png/image-size:386×233'></div>"
                },
         "zh":  {
                    "ti":  "平成28年秋季 問29",
@@ -3804,7 +3804,7 @@
                               "4"
                           ],
                    "an":  3,
-                   "al":  "首先，如 WHERE 子句所示，將員工資料表與部門資料表以「所屬」欄位與「部門名稱」欄位作為關鍵欄位進行結合。執行結合處理後，會形成增加「樓層」欄位的中間表，如下所示。\u003cimg src=\"https://www.fe-siken.com/kakomon/28_aki/img/29_1.png\" alt=\"\"\u003e"
+                   "al":  "首先，如 WHERE 子句所示，將員工表與部門表以所屬欄位和部門名稱欄位作為關鍵欄位進行結合。執行結合處理後，會變成新增了樓層欄位如下的中間表。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/28_aki/img/29_1.png' width='210' height='233' alt='29_1.png/image-size:210×233'></div>接著，在結合後的表中，利用 COUNT(*) 統計樓層欄位的值為 '2' 的行數（部門.フロア＝2）。如下表所示，樓層欄位值為 '2' 的行共有 3 行，因此執行 SQL 敘述的結果為 <em class='r'>3</em>。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/28_aki/img/29_2.png' width='386' height='233' alt='29_2.png/image-size:386×233'></div>"
                }
     },
     {
@@ -4091,7 +4091,7 @@
         "ja":  {
                    "ti":  "平成19年秋期　問61",
                    "ca":  "テクノロジ系 » データベース » データ操作",
-                   "q":  "\"商品\"表のデータが次の状態のとき，〔ビュー定義〕で示すビュー\"収益商品\"表に現れる行数が減少する更新処理はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/61.png\" alt=\"問61画像\"\u003e",
+                   "q":  "\"商品\"表のデータが次の状態のとき，〔ビュー定義〕で示すビュー\"収益商品\"表に現れる行数が減少する更新処理はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/61.png\" alt=\"問61画像\"\u003e\n\n〔ビュー定義〕\nCREATE VIEW 収益商品\n　　AS SELECT * FROM 商品\n　　　　WHERE 売値－仕入値 >= 40000",
                    "op":  [
                               "商品コードがS001の行の売値を130,000に更新する。",
                               "商品コードがS003の行の仕入値を150,000に更新する。",
@@ -4104,7 +4104,7 @@
         "zh":  {
                    "ti":  "平成19年秋期　問61",
                    "ca":  "技術系 » 資料庫 » 資料操作",
-                   "q":  "當「商品」表的資料處於以下狀態時，下列哪一項更新處理會導致「檢視定義」中所示的檢視「收益商品」表的行數減少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/61.png\" alt=\"問61圖片\"\u003e",
+                   "q":  "當「商品」表的資料處於以下狀態時，下列哪一項更新處理會導致「檢視定義」中所示的檢視「收益商品」表的行數減少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/19_aki/img/61.png\" alt=\"問61圖片\"\u003e\n\n〔ビュー定義〕\nCREATE VIEW 収益商品\n　　AS SELECT * FROM 商品\n　　　　WHERE 売値－仕入値 >= 40000",
                    "op":  [
                               "將商品代碼為 S001 的行的售價更新為 130,000。",
                               "將商品代碼為 S003 的行的進價更新為 150,000。",
@@ -4175,7 +4175,7 @@
         "ja":  {
                    "ti":  "平成17年秋期　問61",
                    "ca":  "テクノロジ系 » データベース » データ操作",
-                   "q":  "\"商品\"表のデータが次の状態のとき，〔ビュー定義〕で示すビュー\"収益商品\"表に現れる行数が減少する更新処理はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/61.png\" alt=\"問61画像\"\u003e",
+                   "q":  "\"商品\"表のデータが次の状態のとき，〔ビュー定義〕で示すビュー\"収益商品\"表に現れる行数が減少する更新処理はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/61.png\" alt=\"問61画像\"\u003e\n\n〔ビュー定義〕\nCREATE VIEW 収益商品\n　　AS SELECT * FROM 商品\n　　　　WHERE 売値－仕入値 >= 40000",
                    "op":  [
                               "型式がR2003の売値を130,000に更新する。",
                               "型式がR2003の仕入値を90,000に更新する。",
@@ -4188,7 +4188,7 @@
         "zh":  {
                    "ti":  "平成17年秋期　問61",
                    "ca":  "技術系 » 資料庫 » 資料操作",
-                   "q":  "當「商品」表的資料處於以下狀態時，下列哪一項更新處理會導致〔檢視定義〕所示的「收益商品」表中的行數減少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/61.png\" alt=\"問61圖片\"\u003e",
+                   "q":  "當「商品」表的資料處於以下狀態時，下列哪一項更新處理會導致〔檢視定義〕所示的「收益商品」表中的行數減少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/17_aki/img/61.png\" alt=\"問61圖片\"\u003e\n\n〔ビュー定義〕\nCREATE VIEW 収益商品\n　　AS SELECT * FROM 商品\n　　　　WHERE 売値－仕入値 >= 40000",
                    "op":  [
                               "將型號為R2003的售價更新為130,000。",
                               "將型號為R2003的進價更新為90,000。",
@@ -4483,7 +4483,7 @@
         "ja":  {
                    "ti":  "令和2年度　問28",
                    "ca":  "テクノロジ系 » データベース » データ操作",
-                   "q":  "\"注文\"表と\"製品\"表に対して，次のSQL文を実行したときに得られる結果はどれか。\u003cbr\u003e\u003cbr\u003e\u003cdiv class=\"code\"\u003eSELECT 製品名, 数量 FROM 注文, 製品\u003cbr\u003e　　　WHERE 注文.製品コード = 製品.製品コード",
+                   "q":  "\"注文\"表と\"製品\"表に対して，次のSQL文を実行したときに得られる結果はどれか。\u003cbr\u003e\u003cbr\u003e\u003cdiv class=\"code\"\u003eSELECT 製品名, 数量 FROM 注文, 製品\u003cbr\u003e　　　WHERE 注文.製品コード = 製品.製品コード\n\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/30.png\" \u003e",
                    "op":  [
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/28a.png\" alt=\"28a.png\"\u003e",
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/28i.png\" alt=\"28i.png\"\u003e",
@@ -4491,12 +4491,12 @@
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/28e.png\" alt=\"28e.png\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "注文表と製品表それぞれにある製品コードで2つの表を結合すると次のようになります。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/28_1.png\" alt=\"28_1.png\"\u003e"
+                   "al":  "'注文'表と'製品'表を、2つの表の共通属性である製品コード列で結合すると次のようになります。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/24_haru/img/30_1.png' width='209' height='122' alt='30_1.png/image-size:209×122'></div>この結合表から、<span class='code'>SELECT 製品名, 数量</span>によって製品名と数量の列を抜き出すので、得られる結果表は以下のようになります。したがって@3@が正解です。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/24_haru/img/30u.png' width='86' height='120' alt='30u.png/image-size:86×120'></div>"
                },
         "zh":  {
                    "ti":  "令和2年度 問28",
                    "ca":  "技術系 » 資料庫 » 資料操作",
-                   "q":  "對「訂單」資料表與「產品」資料表執行下列 SQL 語句後，所得到的結果為何？\u003cbr\u003e\u003cbr\u003e\u003cdiv class=\"code\"\u003eSELECT 產品名稱, 數量 FROM 訂單, 產品\u003cbr\u003e　　　WHERE 訂單.產品代碼 = 產品.產品代碼",
+                   "q":  "對「訂單」資料表與「產品」資料表執行下列 SQL 語句後，所得到的結果為何？\u003cbr\u003e\u003cbr\u003e\u003cdiv class=\"code\"\u003eSELECT 產品名稱, 數量 FROM 訂單, 產品\u003cbr\u003e　　　WHERE 訂單.產品代碼 = 產品.產品代碼\n\u003cimg src=\"https://www.fe-siken.com/kakomon/24_haru/img/30.png\" \u003e",
                    "op":  [
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/28a.png\" alt=\"28a.png\"\u003e",
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/28i.png\" alt=\"28i.png\"\u003e",
@@ -4504,7 +4504,7 @@
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/28e.png\" alt=\"28e.png\"\u003e"
                           ],
                    "an":  3,
-                   "al":  "使用訂單資料表與產品資料表各自擁有的產品代碼將兩個資料表進行結合（JOIN），結果如下：\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/28_1.png\" alt=\"28_1.png\"\u003e"
+                   "al":  "將「注文」表與「製品」表透過兩者的共同屬性「製品代碼」欄位進行結合，結果如下。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/24_haru/img/30_1.png' width='209' height='122' alt='30_1.png/image-size:209×122'></div>從此結合表中，藉由<span class='code'>SELECT 製品名, 数量</span>萃取出製品名稱與數量的欄位，因此得到的結果表如下所示。因此@3@為正解。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/24_haru/img/30u.png' width='86' height='120' alt='30u.png/image-size:86×120'></div>"
                }
     },
     {
@@ -4679,7 +4679,7 @@
         "ja":  {
                    "ti":  "平成24年秋期　問29",
                    "ca":  "テクノロジ系 » データベース » データ操作",
-                   "q":  "\"商品\"表のデータが次の状態のとき，〔ビュー定義〕で示すビュー\"収益商品\"の行数が減少する更新処理はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/29.png\" alt=\"問29画像\"\u003e",
+                   "q":  "\"商品\"表のデータが次の状態のとき，〔ビュー定義〕で示すビュー\"収益商品\"の行数が減少する更新処理はどれか。\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/29.png\" alt=\"問29画像\"\u003e\n\n〔ビュー定義〕\nCREATE VIEW 収益商品\n　　AS SELECT * FROM 商品\n　　　　WHERE 売値－仕入値 >= 40000",
                    "op":  [
                               "商品コードがS001の売値を130,000に更新する。",
                               "商品コードがS003の仕入値を150,000に更新する。",
@@ -4692,14 +4692,14 @@
         "zh":  {
                    "ti":  "平成24年秋季 第29題",
                    "ca":  "技術類 » 資料庫 » 資料操作",
-                   "q":  "當「商品」資料表的資料為以下狀態時，執行下列哪一個更新處理會使〔檢視表定義〕中所示的檢視表「收益商品」的列數減少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/29.png\" alt=\"問29圖片\"\u003e",
+                   "q":  "當「商品」資料表的資料為以下狀態時，執行下列哪一個更新處理會使〔檢視表定義〕中所示的檢視表「收益商品」的列數減少？\u003cdiv class=\"img_margin\"\u003e\u003cimg src=\"https://www.fe-siken.com/kakomon/24_aki/img/29.png\" alt=\"問29圖片\"\u003e\n\n〔ビュー定義〕\nCREATE VIEW 収益商品\n　　AS SELECT * FROM 商品\n　　　　WHERE 売値－仕入値 >= 40000",
                    "op":  [
                               "將商品代碼為 S001 的售價更新為 130,000。",
                               "將商品代碼為 S003 的進貨價更新為 150,000。",
                               "將商品代碼為 S005 的售價更新為 130,000。",
                               "將商品代碼為 S005 的進貨價更新為 90,000。"
                           ],
-                   "an":  0,
+                   "an":  1,
                    "al":  "從〔檢視表定義〕中的「WHERE 售價－進貨價 \u0026gt;= 40000」部分可知，這是一段從資料表中擷取售價與進貨價之差在 40,000 以上的資料列來建立檢視表的敘述。在更新處理前，將 WHERE 子句的條件套用到「商品」資料表時：  S001: 150,000－100,000＝50,000  S003: 200,000－170,000＝30,000  S005: 140,000－80,000＝60,000 @1@ 將商品代碼為 S001 的售價更新為 130,000。正確。S001 的售價與進貨價之差變為「130,000－100,000＝30,000」，因此 S001 的資料列將不會顯示在檢視表中。這會使得檢視表中顯示的列數從 2 列減少為 1 列。 @2@ 將商品代碼為 S003 的進貨價更新為 150,000。S003 的售價與進貨價之差變為「200,000－150,000＝50,000」，因此檢視表中顯示的列會增加為 S001、S003、S005 共 3 列。 @3@ 將商品代碼為 S005 的售價更新為 130,000。S005 的售價與進貨價之差變為「130,000－80,000＝50,000」，但 S005 的資料列原本就顯示在檢視表中，因此列數沒有變化。 @4@ 將商品代碼為 S005 的進貨價更新為 90,000。S005 的售價與進貨價之差變為「140,000－90,000＝50,000」，但 S005 的資料列原本就顯示在檢視表中，因此列數沒有變化。"
                }
     },
@@ -5443,7 +5443,7 @@
                               "エ"
                           ],
                    "an":  4,
-                   "al":  "移動表の取引番号を見ると、それぞれの取引(取引番号\"122\"と\"124\")について2件ずつのレコードが記録されていることわかります。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/28_1.png\" alt=\"\"\u003e"
+                   "al":  "移動表の取引番号を見ると、それぞれの取引(取引番号'122'と'124')について2件ずつのレコードが記録されていることわかります。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/29_haru/img/26_1.png' width='500' height='173' alt='26_1.png/image-size:500×173'></div>さらに移動表の取引番号'124'のレコードを見ると、以下の様に1つの取引について'812:旅費，借方'と'510:現金，貸方'が一対で登録されていることがわかります。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/29_haru/img/26_2.png' width='500' height='212' alt='26_2.png/image-size:500×212'></div>取引番号'122'は「売上50,000円を，現金勘定に計上した」で、既に'208，貸方'のレコードが登録されているので、a，bにはもう片方の'<em class='r'>510，借方</em>'が入ります。<br><br>したがって正しい組合せは「エ」です。<br><br>※簿記を勉強したことのある方ならわかると思いますが、企業の帳簿は複式簿記で記録されており一つの取引について必ず2つ以上の勘定科目の変化が生じます。この設問のように現金売上取引の場合は以下の仕訳が記録されます。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/29_haru/img/26_3.png' width='348' height='46' alt='26_3.png/image-size:348×46'></div>"
                },
         "zh":  {
                    "ti":  "平成27年春季 問28",
@@ -5456,7 +5456,7 @@
                               "エ"
                           ],
                    "an":  4,
-                   "al":  "觀察移動表格的交易編號，可以發現每一筆交易（交易編號「122」與「124」）都分別記錄了兩筆紀錄。\u003cimg src=\"https://www.fe-siken.com/kakomon/27_haru/img/28_1.png\" alt=\"\"\u003e"
+                   "al":  "查看移動表的交易編號，可以發現針對各個交易（交易編號「122」與「124」）各記錄了 2 筆記錄。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/29_haru/img/26_1.png' width='500' height='173' alt='26_1.png/image-size:500×173'></div>此外，查看移動表中交易編號「124」的記錄，可以發現針對 1 個交易，如下所示成對登錄了「812：旅費，借方」與「510：現金，貸方」。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/29_haru/img/26_2.png' width='500' height='212' alt='26_2.png/image-size:500×212'></div>交易編號「122」為「將 50,000 日圓的營業額計入現金帳戶」，由於已經登錄了「208，貸方」的記錄，因此 a 與 b 中會填入另一側的「<em class='r'>510，借方</em>」。<br><br>因此正確的組合是「エ」。<br><br>※學過會計（簿記）的人應該都知道，企業的帳簿是以複式記帳法記錄的，對於一筆交易，必然會產生兩個以上的會計科目變化。像本題這樣的現金銷售交易，會記錄以下分錄：<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/29_haru/img/26_3.png' width='348' height='46' alt='26_3.png/image-size:348×46'></div>"
                }
     },
     {
@@ -5603,7 +5603,7 @@
         "ja":  {
                    "ti":  "平成20年秋期　問59",
                    "ca":  "テクノロジ系 » データベース » データ操作",
-                   "q":  "次のSQL文の実行結果がA表のようになった。aに入れるべき適切な字句はどれか。\u003cbr\u003e\u003cbr\u003e\u003cdiv class=\"code\"\u003eSELECT S_CODE，S_NAME，BU_NAME\u003cbr\u003e　　FROM BUSHO，SHAIN\u003cbr\u003e　　WHERE \u003cspan class=\"bb\"\u003ea\u003c/span\u003e",
+                   "q":  "次のSQL文の実行結果がA表のようになった。aに入れるべき適切な字句はどれか。\u003cbr\u003e\u003cbr\u003e\u003cdiv class=\"code\"\u003eSELECT S_CODE，S_NAME，BU_NAME\u003cbr\u003e　　FROM BUSHO，SHAIN\u003cbr\u003e　　WHERE \u003cspan class=\"bb\"\u003ea\u003c/span\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/59.png\" alt=\"\"\u003e",
                    "op":  [
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/59a.png\" alt=\"\"\u003e",
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/59i.png\" alt=\"\"\u003e",
@@ -5616,7 +5616,7 @@
         "zh":  {
                    "ti":  "平成20年秋期 問59",
                    "ca":  "技術系 » 資料庫 » 資料操作",
-                   "q":  "下列SQL語句的執行結果如A表所示。請問a中應填入的正確字句為何？\u003cbr\u003e\u003cbr\u003e\u003cdiv class=\"code\"\u003eSELECT S_CODE，S_NAME，BU_NAME\u003cbr\u003e　　FROM BUSHO，SHAIN\u003cbr\u003e　　WHERE \u003cspan class=\"bb\"\u003ea\u003c/span\u003e",
+                   "q":  "下列SQL語句的執行結果如A表所示。請問a中應填入的正確字句為何？\u003cbr\u003e\u003cbr\u003e\u003cdiv class=\"code\"\u003eSELECT S_CODE，S_NAME，BU_NAME\u003cbr\u003e　　FROM BUSHO，SHAIN\u003cbr\u003e　　WHERE \u003cspan class=\"bb\"\u003ea\u003c/span\u003e\n\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/59.png\" alt=\"\"\u003e",
                    "op":  [
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/59a.png\" alt=\"\"\u003e",
                               "\u003cimg src=\"https://www.fe-siken.com/kakomon/20_aki/img/59i.png\" alt=\"\"\u003e",
