@@ -599,7 +599,7 @@
                               "D"
                           ],
                    "an":  3,
-                   "al":  "それぞれのセキュアプロトコルの特徴と位置する階層は次の通りです。IPsec (IP Security)IP(Internet Protocol)を拡張してセキュリティを高めたプロトコルで、改ざんの検知、通信データの暗号化、送信元の認証などの機能をOSI基本参照モデルのネットワーク層レベル(TCP/IPモデルではIP層)で提供する。認証プロトコルAHや認証／暗号化プロトコルESPを含む。L2TP (Layer 2 Tunneling Protocol)PPPなどのデータリンク層のフレームをカプセル化し、UDPおよびIPデータグラムに埋め込むことで、公衆ネットワーク上で伝達可能にするトンネリングプロトコル。暗号化の機能はないため必要に応じてIPsecと併用する必要がある。その名の通りOSI基本参照モデルの第2層のデータリンク層で動作する。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/43a.png\" alt=\"43a.png\"\u003e"
+                   "al":  "それぞれのセキュアプロトコルの特徴と位置する階層は次の通りです。<dl><dt>IPsec (IP Security)</dt><dd>IP(Internet Protocol)を拡張してセキュリティを高めたプロトコルで、改ざんの検知、通信データの暗号化、送信元の認証などの機能をOSI基本参照モデルのネットワーク層レベル(TCP/IPモデルではIP層)で提供する。認証プロトコルAHや認証／暗号化プロトコルESPを含む。</dd><dt>L2TP (Layer 2 Tunneling Protocol)</dt><dd>PPPなどのデータリンク層のフレームをカプセル化し、UDPおよびIPデータグラムに埋め込むことで、公衆ネットワーク上で伝達可能にするトンネリングプロトコル。暗号化の機能はないため必要に応じてIPsecと併用する必要がある。その名の通りOSI基本参照モデルの第2層のデータリンク層で動作する。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/02_menjo/img/43a.png' width='427' height='109' alt='43a.png/image-size:427×109'></div></dd><dt>TLS (Transport Layer Security)</dt><dd>通信の暗号化、デジタル証明書を利用した改ざん検知、ノード認証を含む統合セキュアプロトコル。その名の通りOSI基本参照モデルのトランスポート層で動作する。</dd></dl>IPsecはIPが属するネットワーク層(第3層)、L2TPはデータリンク層(第2層)、TLSはトランスポート層(第4層)にするので、適切な位置関係は上層から TLS→IPsec→L2TP の順です。したがって「C」が正解です。"
                },
         "zh":  {
                    "ti":  "令和2年度 問43",
@@ -612,7 +612,7 @@
                               "D"
                           ],
                    "an":  3,
-                   "al":  "各安全協定的特徵及其所在的層級如下：IPsec (IP Security) 是對 IP (Internet Protocol) 進行擴展以提高安全性的協定，在 OSI 基本參考模型中的網路層級（TCP/IP 模型中為 IP 層）提供資料篡改檢測、通訊資料加密及發送來源認證等功能。包含認證協定 AH 以及認證/加密協定 ESP。L2TP (Layer 2 Tunneling Protocol) 是一種隧道協定，透過將 PPP 等資料連結層的訊框進行封裝，並嵌入至 UDP 及 IP 資料報中，使其能在公共網路上進行傳輸。由於不具備加密功能，通常需要根據需求與 IPsec 併用。正如其名，運作於 OSI 基本參考模型的第 2 層（資料連結層）。\u003cimg src=\"https://www.fe-siken.com/kakomon/02_menjo/img/43a.png\" alt=\"43a.png\"\u003e"
+                   "al":  "各安全通訊協定的特徵與其所處的層級如下：<dl><dt>IPsec (IP Security)</dt><dd>擴展 IP (Internet Protocol) 以提高安全性的協定，在 OSI 基本參考模型的網路層級（在 TCP/IP 模型中為 IP 層）提供偵測竄改、通訊資料加密、傳送端驗證等功能。包含驗證協定 AH 以及驗證／加密協定 ESP。</dd><dt>L2TP (Layer 2 Tunneling Protocol)</dt><dd>將 PPP 等資料連結層的訊框進行封裝，並嵌入 UDP 及 IP 資料包中，使其能夠在公共網路上傳輸的通道協定（Tunneling Protocol）。由於沒有加密功能，因此必要時需要與 IPsec 併用。顧名思義，它在 OSI 基本參考模型的第 2 層資料連結層運作。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/02_menjo/img/43a.png' width='427' height='109' alt='43a.png/image-size:427×109'></div></dd><dt>TLS (Transport Layer Security)</dt><dd>包含通訊加密、利用數位憑證進行竄改偵測、節點驗證的綜合安全通訊協定。顧名思義，它在 OSI 基本參考模型的傳輸層運作。</dd></dl>由於 IPsec 屬於 IP 所屬的網路層（第 3 層）、L2TP 屬於資料連結層（第 2 層）、TLS 屬於傳輸層（第 4 層），因此從上層開始的適當位置關係順序為 TLS → IPsec → L2TP。因此「C」為正確答案。"
                }
     },
     {
