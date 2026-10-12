@@ -1691,7 +1691,7 @@
                               "後置記法：葉ならばそこの記号を書いて戻る。演算子ならば下りるときに左括弧を書き，左の枝から右の枝に移るときに記号を書き，上に戻るときに右括弧を書く。"
                           ],
                    "an":  3,
-                   "al":  "暫無詳解"
+                   "al": "<ul><li class='lia'><span class='cite'>前置記法：節から上に戻るときにそこの記号を書く。</span><br>節から上に戻るときに記号を書いていくと、式は「abc－d＊＋」となります。これは後置記法による式であるため誤りです。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/18_aki/img/12a.png' width='135' height='182' alt='12a.png/image-size:135×182'></div></li><li class='lii'><span class='cite'>中置記法：節に下りたときにそこの記号を書く。</span><br>節に下りたときに記号を書いていくと、式は「＋a＊－bcd」となります。これは前置記法による式であるため誤りです。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/18_aki/img/12i.png' width='131' height='182' alt='12i.png/image-size:131×182'></div></li><li class='liu'><span class='cite'>後置記法：節から上に戻るときにそこの記号を書く。</span><br><em class='m'>正しい</em>。「ア」と同じ手順なので、式は後置記法の「abc－d＊＋」となります。したがって適切です。</li><li class='lie'><span class='cite'>後置記法：葉ならばそこの記号を書いて戻る。演算子ならば下りるときに左括弧を書き，左の枝から右の枝に移るときに記号を書き，上に戻るときに右括弧を書く。</span><br>手順どおりに記号を書いていくと、式は「(a＋((b－c)＊d))」となります。これは中置記法による式であるため誤りです。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/18_aki/img/12e.png' width='136' height='182' alt='12e.png/image-size:136×182'></div></li></ul>"
                },
         "zh":  {
                    "ti":  "民國95年秋期　問12",
@@ -1704,7 +1704,7 @@
                               "後置記法：若是葉節點則寫下該記號並返回。若是運算子則在下行時寫下左括號，從左枝移至右枝時寫下記號，向上返回時寫下右括號。"
                           ],
                    "an":  3,
-                   "al":  "暫無詳解"
+                   "al": "<ul><li class='lia'><span class='cite'>前綴表示法：從節點返回上方時寫下該處的符號。</span><br>從節點返回上方時依序寫下符號，算式會變成「abc－d＊＋」。此為後綴表示法的算式，因此錯誤。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/18_aki/img/12a.png' width='135' height='182' alt='12a.png/image-size:135×182'></div></li><li class='lii'><span class='cite'>中綴表示法：下降至節點時寫下該處的符號。</span><br>下降至節點時依序寫下符號，算式會變成「＋a＊－bcd」。此為前綴表示法的算式，因此錯誤。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/18_aki/img/12i.png' width='131' height='182' alt='12i.png/image-size:131×182'></div></li><li class='liu'><span class='cite'>後綴表示法：從節點返回上方時寫下該處的符號。</span><br><em class='m'>正確</em>。由於步驟與「A」相同，算式為後綴表示法的「abc－d＊＋」。因此合適。</li><li class='lie'><span class='cite'>後綴表示法：若為葉節點，則寫下該處的符號並返回。若為運算子，下降時寫下左括號，從左分支移至右分支時寫下符號，返回上方時寫下右括號。</span><br>按照步驟寫下符號，算式會變成「(a＋((b－c)＊d))」。此為中綴表示法的算式，因此錯誤。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/18_aki/img/12e.png' width='136' height='182' alt='12e.png/image-size:136×182'></div></li></ul>"
                }
     },
     {
@@ -3287,7 +3287,7 @@
                               "4/25"
                           ],
                    "an":  3,
-                   "al": "<h2>5本中2本が当たりくじの確率問題</h2>5 本のくじから同時に 2 本引くとき、両方とも当たりである確率を求めます：<br><ul><li><strong>1. 全事象（すべての起こりうる場合）の計算：</strong><br>5 本のくじから同時に 2 本を選ぶ組み合わせの数は、組合せ公式（<sub>5</sub>C<sub>2</sub>）を使って求めます：<br><div style=\"display:inline-block; text-align:center; vertical-align:middle;\"><span style=\"display:block; border-bottom:1px solid #000; padding-bottom:2px;\">5 × 4</span><span style=\"display:block; padding-top:2px;\">2 × 1</span></div> = 10 通り（これが分母になります）。</li><br><li><strong>2. 事象（条件に合う場合）の計算：</strong><br>2 本の当たりくじから 2 本とも当たりを選ぶ組み合わせの数は、<sub>2</sub>C<sub>2</sub> で求めます：<br><div style=\"display:inline-block; text-align:center; vertical-align:middle;\"><span style=\"display:block; border-bottom:1px solid #000; padding-bottom:2px;\">2 × 1</span><span style=\"display:block; padding-top:2px;\">1 × 1</span></div> = 1 通り（これが分子になります）。</li><br><li><strong>3. 確率の算出：</strong><br>条件を満たす組み合わせの数を全体の数で割ります：<br><div style=\"display:inline-block; text-align:center; vertical-align:middle;\"><span style=\"display:block; border-bottom:1px solid #000; padding-bottom:2px;\">1</span><span style=\"display:block; padding-top:2px;\">10</span></div> = <strong>0.1（または 10%）</strong></li></ul>"
+                   "al": "<h2>5本中2本が当たりくじの確率問題</h2>5 本のくじから同時に 2 本引くとき、両方とも当たりである確率を求めます：<br><ul><li><strong>1. 全事象（すべての起こりうる場合）の計算：</strong><br>5 本のくじから同時に 2 本を選ぶ組み合わせの数は、組合せ公式（<sub>5</sub>C<sub>2</sub>）を使って求めます：<br><div style=\"display:inline-block; text-align:center; vertical-align:middle;\"><span style=\"display:block; border-bottom:1px solid #000; padding-bottom:2px;\">5 × 4</span><span style=\"display:block; padding-top:2px;\">2 × 1</span></div> = 10 通り（これが分母になります）。</li><br><li><strong>2. 事象（条件に合う場合）の計算：</strong><br>2 本の当たりくじから 2 本とも当たりを選ぶ組み合わせの数は、<sub>2</sub>C<sub>2</sub> で求めます：<br><div style=\"display:inline-block; text-align:center; vertical-align:middle;\"><span style=\"display:block; border-bottom:1px solid #000; padding-bottom:2px;\">2 × 1</span><span style=\"display:block; padding-top:2px;\">2 × 1</span></div> = 1 通り（これが分子になります）。</li><br><li><strong>3. 確率の算出：</strong><br>条件を満たす組み合わせの数を全体の数で割ります：<br><div style=\"display:inline-block; text-align:center; vertical-align:middle;\"><span style=\"display:block; border-bottom:1px solid #000; padding-bottom:2px;\">1</span><span style=\"display:block; padding-top:2px;\">10</span></div> = <strong>0.1（または 10%）</strong></li></ul>"
                },
         "zh":  {
                    "ti":  "令和4年度 問4",
@@ -3300,7 +3300,7 @@
                               "4/25"
                           ],
                    "an":  3,
-                   "al": "<h2>5張彩券中有2張中獎的機率問題</h2>從 5 張彩券中同時抽出 2 張，求兩張都中獎的機率：<br><ul><li><strong>1. 計算全事象（所有可能的總情況數）：</strong><br>從 5 張彩券中同時選出 2 張的組合數，使用組合公式（<sub>5</sub>C<sub>2</sub>）來計算：<br><div style=\"display:inline-block; text-align:center; vertical-align:middle;\"><span style=\"display:block; border-bottom:1px solid #000; padding-bottom:2px;\">5 × 4</span><span style=\"display:block; padding-top:2px;\">2 × 1</span></div> = 10 種（作為分母）。</li><br><li><strong>2. 計算事象（符合條件的組合數）：</strong><br>從 2 張中獎彩券中選出 2 張都中獎的組合數，使用 <sub>2</sub>C<sub>2</sub> 來計算：<br><div style=\"display:inline-block; text-align:center; vertical-align:middle;\"><span style=\"display:block; border-bottom:1px solid #000; padding-bottom:2px;\">2 × 1</span><span style=\"display:block; padding-top:2px;\">1 × 1</span></div> = 1 種（作為分子）。</li><br><li><strong>3. 計算機率：</strong><br>將符合條件的數量除以全部的數量：<br><div style=\"display:inline-block; text-align:center; vertical-align:middle;\"><span style=\"display:block; border-bottom:1px solid #000; padding-bottom:2px;\">1</span><span style=\"display:block; padding-top:2px;\">10</span></div> = <strong>0.1（或 10%）</strong></li></ul>"
+                   "al": "<h2>5張彩券中有2張中獎的機率問題</h2>從 5 張彩券中同時抽出 2 張，求兩張都中獎的機率：<br><ul><li><strong>1. 計算全事象（所有可能的總情況數）：</strong><br>從 5 張彩券中同時選出 2 張的組合數，使用組合公式（<sub>5</sub>C<sub>2</sub>）來計算：<br><div style=\"display:inline-block; text-align:center; vertical-align:middle;\"><span style=\"display:block; border-bottom:1px solid #000; padding-bottom:2px;\">5 × 4</span><span style=\"display:block; padding-top:2px;\">2 × 1</span></div> = 10 種（作為分母）。</li><br><li><strong>2. 計算事象（符合條件的組合數）：</strong><br>從 2 張中獎彩券中選出 2 張都中獎的組合數，使用 <sub>2</sub>C<sub>2</sub> 來計算：<br><div style=\"display:inline-block; text-align:center; vertical-align:middle;\"><span style=\"display:block; border-bottom:1px solid #000; padding-bottom:2px;\">2 × 1</span><span style=\"display:block; padding-top:2px;\">2 × 1</span></div> = 1 種（作為分子）。</li><br><li><strong>3. 計算機率：</strong><br>將符合條件的數量除以全部的數量：<br><div style=\"display:inline-block; text-align:center; vertical-align:middle;\"><span style=\"display:block; border-bottom:1px solid #000; padding-bottom:2px;\">1</span><span style=\"display:block; padding-top:2px;\">10</span></div> = <strong>0.1（或 10%）</strong></li></ul>"
                }
     },
     {
@@ -4771,7 +4771,7 @@
                               "2.8"
                           ],
                    "an":  2,
-                   "al":  "各文字を表すビット数とその出現確率をかけたものを足し合わせて平均ビット数を求めます。 \nA→1ビット×0.5＝0.5ビット \nB→2ビット×0.3＝0.6ビット \nC→3ビット×0.1＝0.3ビット \nD→4ビット×0.05＝0.2ビット \nE→4ビット×0.05＝0.2ビット"
+                   "al": "各文字を表すビット数とその出現確率をかけたものを足し合わせて平均ビット数を求めます。<ul><li>A→1ビット×0.5＝0.5ビット</li><li>B→2ビット×0.3＝0.6ビット</li><li>C→3ビット×0.1＝0.3ビット</li><li>D→4ビット×0.05＝0.2ビット</li><li>E→4ビット×0.05＝0.2ビット</li></ul>すべてを足し合わせると、<br> 0.5＋0.6＋0.3＋0.2＋0.2＝1.8ビット<br><br>したがって平均ビット数は<em class='r'>1.8ビット</em>になります。<br><br>このように情報の出現確率が高いデータには短い符号を，低いデータには長い符号を与えることで圧縮を効率よく行う方法を<em class='r'>ハフマン符号</em>といいます。"
                },
         "zh":  {
                    "ti":  "平成23年特別 問3",
@@ -4784,7 +4784,7 @@
                               "2.8"
                           ],
                    "an":  2,
-                   "al":  "將每個文字表示的位元數乘以其出現機率並相加，即可求出平均位元數。  \nA → 1 位元 × 0.5 = 0.5 位元\nB → 2 位元 × 0.3 = 0.6 位元 \nC → 3 位元 × 0.1 = 0.3 位元 \nD → 4 位元 × 0.05 = 0.2 位元 \nE → 4 位元 × 0.05 = 0.2 位元"
+                   "al": "將代表各文字的位元數乘以其出現概率後相加，即可求得平均位元數。<ul><li>A→1 位元×0.5＝0.5 位元</li><li>B→2 位元×0.3＝0.6 位元</li><li>C→3 位元×0.1＝0.3 位元</li><li>D→4 位元×0.05＝0.2 位元</li><li>E→4 位元×0.05＝0.2 位元</li></ul>全部相加後：<br> 0.5＋0.6＋0.3＋0.2＋0.2＝1.8 位元<br><br>因此平均位元數為 <em class='r'>1.8 位元</em>。<br><br>像這樣對於出現概率高的高頻資料賦予較短的編碼，對出現概率低的資料賦予較長的編碼，以有效進行壓縮的方法稱為<em class='r'>霍夫曼編碼（Huffman Coding）</em>。"
                }
     },
     {
