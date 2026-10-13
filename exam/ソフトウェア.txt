@@ -1663,7 +1663,7 @@
                               "Bの実行中にAに起動がかかると，Bを待ち状態にしてAを実行する。"
                           ],
                    "an":  3,
-                   "al":  "プリエンプティブなタスクスケジューリングでは、CPU資源の使用をOSが管理し、タスクを動的に切り替えながら実行していきます。OSの動作は、A・Bの優先度及びA・Bの状態によって変わります。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/18.png\" alt=\"\"\u003e"
+                   "al": "プリエンプティブなタスクスケジューリングでは、CPU資源の使用をOSが管理し、タスクを動的に切り替えながら実行していきます。OSの動作は、A・Bの優先度及びA・Bの状態によって変わります。<div class='img_margin'><img https://www.fe-siken.com/kakomon/25_aki/img/18.png' width='288' height='154' alt='18.png/image-size:288×154'></div>[Aの実行中にBに起動がかかる]<br>タスクの優先度は「A＞B」なので、Bは実行可能状態となり、Aの実行が継続されます。待ち状態は、入出力待ちなどですぐにCPU処理に移れないタスクが遷移する状態なので、Bは待ち状態ではなく実行可能状態に移されます。<br><br>[Bの実行中にAに起動がかかる]<br>タスクの優先度は「A＞B」なので、Bは実行可能状態に移され、AにCPU使用権が与えられます。<ul><li class='lia'><span class='cite'>Aの実行中にBに起動がかかると，Aを実行可能状態にしてBを実行する。</span><br>Aの実行が継続されます。</li><li class='lii'><span class='cite'>Aの実行中にBに起動がかかると，Aを待ち状態にしてBを実行する。</span><br>Aの実行が継続されます。</li><li class='liu'><span class='cite'>Bの実行中にAに起動がかかると，Bを実行可能状態にしてAを実行する。</span><br><em class='m'>正しい</em>。</li><li class='lie'><span class='cite'>Bの実行中にAに起動がかかると，Bを待ち状態にしてAを実行する。</span><br>Bは実行可能状態に移されます。</li></ul>"
                },
         "zh":  {
                    "ti":  "平成29年秋季 問18",
@@ -1676,7 +1676,7 @@
                               "在 B 執行期間若 A 啟動，將 B 變更為等待狀態並執行 A。"
                           ],
                    "an":  3,
-                   "al":  "在搶佔式任務排程中，作業系統負責管理 CPU 資源的使用，並在執行過程中動態地切換任務。作業系統的動作會根據 A 與 B 的優先級以及 A 與 B 的狀態而有所不同。\u003cimg src=\"https://www.fe-siken.com/kakomon/29_aki/img/18.png\" alt=\"\"\u003e"
+                   "al": "在搶佔式工作排程中，作業系統會管理 CPU 資源的使用，並在動態切換工作的同時進行執行。作業系統的動作會根據 A 與 B 的優先度以及 A 與 B 的狀態而有所不同。<div class='img_margin'><img https://www.fe-siken.com/kakomon/25_aki/img/18.png' width='288' height='154' alt='18.png/image-size:288×154'></div>[當 A 執行中觸發 B 啟動時]<br>由於工作的優先度為「A＞B」，因此 B 成為就緒狀態（可執行狀態），而 A 繼續執行。等待狀態是等待輸入輸出等無法立即轉入 CPU 處理的工作所轉移的狀態，因此 B 並非轉入等待狀態，而是轉入就緒狀態。<br><br>[當 B 執行中觸發 A 啟動時]<br>由於工作的優先度為「A＞B」，因此 B 被轉移至就緒狀態，並將 CPU 使用權賦予 A。<ul><li class='lia'><span class='cite'>當 A 執行中觸發 B 啟動時，將 A 設為就緒狀態並執行 B。</span><br>A 的執行會持續。</li><li class='lii'><span class='cite'>當 A 執行中觸發 B 啟動時，將 A 設為等待狀態並執行 B。</span><br>A 的執行會持續。</li><li class='liu'><span class='cite'>當 B 執行中觸發 A 啟動時，將 B 設為就緒狀態並執行 A。</span><br><em class='m'>正確</em>。</li><li class='lie'><span class='cite'>當 B 執行中觸發 A 啟動時，將 B 設為等待狀態並執行 A。</span><br>B 會被轉移至就緒狀態。</li></ul>"
                }
     },
     {
@@ -3175,7 +3175,7 @@
                               "Bの実行中にAに起動がかかると，Bを待ち状態にしてAを実行する。"
                           ],
                    "an":  3,
-                   "al":  "プリエンプティブなタスクスケジューリングでは、CPU資源の使用をOSが管理し、タスクを動的に切り替えながら実行していきます。OSの動作は、A・Bの優先度及びA・Bの状態によって変わります。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/18.png\" alt=\"\"\u003e"
+                   "al": "プリエンプティブなタスクスケジューリングでは、CPU資源の使用をOSが管理し、タスクを動的に切り替えながら実行していきます。OSの動作は、A・Bの優先度及びA・Bの状態によって変わります。<div class='img_margin'><img https://www.fe-siken.com/kakomon/25_aki/img/18.png' width='288' height='154' alt='18.png/image-size:288×154'></div>[Aの実行中にBに起動がかかる]<br>タスクの優先度は「A＞B」なので、Bは実行可能状態となり、Aの実行が継続されます。待ち状態は、入出力待ちなどですぐにCPU処理に移れないタスクが遷移する状態なので、Bは待ち状態ではなく実行可能状態に移されます。<br><br>[Bの実行中にAに起動がかかる]<br>タスクの優先度は「A＞B」なので、Bは実行可能状態に移され、AにCPU使用権が与えられます。<ul><li class='lia'><span class='cite'>Aの実行中にBに起動がかかると，Aを実行可能状態にしてBを実行する。</span><br>Aの実行が継続されます。</li><li class='lii'><span class='cite'>Aの実行中にBに起動がかかると，Aを待ち状態にしてBを実行する。</span><br>Aの実行が継続されます。</li><li class='liu'><span class='cite'>Bの実行中にAに起動がかかると，Bを実行可能状態にしてAを実行する。</span><br><em class='m'>正しい</em>。</li><li class='lie'><span class='cite'>Bの実行中にAに起動がかかると，Bを待ち状態にしてAを実行する。</span><br>Bは実行可能状態に移されます。</li></ul>"
                },
         "zh":  {
                    "ti":  "令和元年秋期　問18",
@@ -3188,7 +3188,7 @@
                               "當 B 執行中 A 被啟動時，將 B 設為等待狀態，並執行 A。"
                           ],
                    "an":  3,
-                   "al":  "在搶佔式任務排程中，作業系統負責管理 CPU 資源的使用，並在執行過程中動態切換任務。作業系統的動作會根據 A 與 B 的優先級以及 A 與 B 的狀態而有所不同。\u003cimg src=\"https://www.fe-siken.com/kakomon/01_aki/img/18.png\" alt=\"\"\u003e"
+                   "al": "在搶佔式工作排程中，作業系統會管理 CPU 資源的使用，並在動態切換工作的同時進行執行。作業系統的動作會根據 A 與 B 的優先度以及 A 與 B 的狀態而有所不同。<div class='img_margin'><img https://www.fe-siken.com/kakomon/25_aki/img/18.png' width='288' height='154' alt='18.png/image-size:288×154'></div>[當 A 執行中觸發 B 啟動時]<br>由於工作的優先度為「A＞B」，因此 B 成為就緒狀態（可執行狀態），而 A 繼續執行。等待狀態是等待輸入輸出等無法立即轉入 CPU 處理的工作所轉移的狀態，因此 B 並非轉入等待狀態，而是轉入就緒狀態。<br><br>[當 B 執行中觸發 A 啟動時]<br>由於工作的優先度為「A＞B」，因此 B 被轉移至就緒狀態，並將 CPU 使用權賦予 A。<ul><li class='lia'><span class='cite'>當 A 執行中觸發 B 啟動時，將 A 設為就緒狀態並執行 B。</span><br>A 的執行會持續。</li><li class='lii'><span class='cite'>當 A 執行中觸發 B 啟動時，將 A 設為等待狀態並執行 B。</span><br>A 的執行會持續。</li><li class='liu'><span class='cite'>當 B 執行中觸發 A 啟動時，將 B 設為就緒狀態並執行 A。</span><br><em class='m'>正確</em>。</li><li class='lie'><span class='cite'>當 B 執行中觸發 A 啟動時，將 B 設為等待狀態並執行 A。</span><br>B 會被轉移至就緒狀態。</li></ul>"
                }
     },
     {
@@ -3959,7 +3959,7 @@
                               "Bの実行中にAに起動がかかると，Bを待ち状態にしてAを実行する。"
                           ],
                    "an":  3,
-                   "al":  "プリエンプティブなタスクスケジューリングでは、CPU資源の使用をOSが管理し、タスクを動的に切り替えながら実行していきます。OSの動作は、A・Bの優先度及びA・Bの状態によって変わります。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/18.png\" alt=\"\"\u003e"
+                   "al": "プリエンプティブなタスクスケジューリングでは、CPU資源の使用をOSが管理し、タスクを動的に切り替えながら実行していきます。OSの動作は、A・Bの優先度及びA・Bの状態によって変わります。<div class='img_margin'><img https://www.fe-siken.com/kakomon/25_aki/img/18.png' width='288' height='154' alt='18.png/image-size:288×154'></div>[Aの実行中にBに起動がかかる]<br>タスクの優先度は「A＞B」なので、Bは実行可能状態となり、Aの実行が継続されます。待ち状態は、入出力待ちなどですぐにCPU処理に移れないタスクが遷移する状態なので、Bは待ち状態ではなく実行可能状態に移されます。<br><br>[Bの実行中にAに起動がかかる]<br>タスクの優先度は「A＞B」なので、Bは実行可能状態に移され、AにCPU使用権が与えられます。<ul><li class='lia'><span class='cite'>Aの実行中にBに起動がかかると，Aを実行可能状態にしてBを実行する。</span><br>Aの実行が継続されます。</li><li class='lii'><span class='cite'>Aの実行中にBに起動がかかると，Aを待ち状態にしてBを実行する。</span><br>Aの実行が継続されます。</li><li class='liu'><span class='cite'>Bの実行中にAに起動がかかると，Bを実行可能状態にしてAを実行する。</span><br><em class='m'>正しい</em>。</li><li class='lie'><span class='cite'>Bの実行中にAに起動がかかると，Bを待ち状態にしてAを実行する。</span><br>Bは実行可能状態に移されます。</li></ul>"
                },
         "zh":  {
                    "ti":  "平成25年秋期　問18",
@@ -3972,7 +3972,7 @@
                               "B 執行中若 A 啟動，則將 B 設為等待狀態（Waiting）並執行 A。"
                           ],
                    "an":  3,
-                   "al":  "在搶佔式任務排程中，作業系統會管理 CPU 資源的使用，並在執行時動態切換任務。作業系統的動作會根據 A 與 B 的優先級及其狀態而有所不同。\u003cimg src=\"https://www.fe-siken.com/kakomon/25_aki/img/18.png\" alt=\"\"\u003e"
+                   "al": "在搶佔式工作排程中，作業系統會管理 CPU 資源的使用，並在動態切換工作的同時進行執行。作業系統的動作會根據 A 與 B 的優先度以及 A 與 B 的狀態而有所不同。<div class='img_margin'><img https://www.fe-siken.com/kakomon/25_aki/img/18.png' width='288' height='154' alt='18.png/image-size:288×154'></div>[當 A 執行中觸發 B 啟動時]<br>由於工作的優先度為「A＞B」，因此 B 成為就緒狀態（可執行狀態），而 A 繼續執行。等待狀態是等待輸入輸出等無法立即轉入 CPU 處理的工作所轉移的狀態，因此 B 並非轉入等待狀態，而是轉入就緒狀態。<br><br>[當 B 執行中觸發 A 啟動時]<br>由於工作的優先度為「A＞B」，因此 B 被轉移至就緒狀態，並將 CPU 使用權賦予 A。<ul><li class='lia'><span class='cite'>當 A 執行中觸發 B 啟動時，將 A 設為就緒狀態並執行 B。</span><br>A 的執行會持續。</li><li class='lii'><span class='cite'>當 A 執行中觸發 B 啟動時，將 A 設為等待狀態並執行 B。</span><br>A 的執行會持續。</li><li class='liu'><span class='cite'>當 B 執行中觸發 A 啟動時，將 B 設為就緒狀態並執行 A。</span><br><em class='m'>正確</em>。</li><li class='lie'><span class='cite'>當 B 執行中觸發 A 啟動時，將 B 設為等待狀態並執行 A。</span><br>B 會被轉移至就緒狀態。</li></ul>"
                }
     },
     {

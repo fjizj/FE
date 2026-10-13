@@ -1411,7 +1411,7 @@
                               "状態遷移図"
                           ],
                    "an":  3,
-                   "al":  "UML(Unified Modeling Language)は、オブジェクト指向開発で用いられる標準表記法群です。オブジェクト間の関連や動作・構成を表現する13種の図表があります。 @1@アクティビティ図アクティビティ図は、システムなどのフローを記述する図です。 @2@コンポーネント図コンポーネント図は、インタフェースを介したコンポーネント同士の関係やコンポーネントの内容を表現する図です。"
+                   "al": "<b>UML</b>(Unified Modeling Language)は、オブジェクト指向開発で用いられる標準表記法群です。オブジェクト間の関連や動作・構成を表現する13種の図表があります。<ul><li class='lia'><span class='cite'>アクティビティ図</span><br>アクティビティ図は、システムなどのフローを記述する図です。</li><li class='lii'><span class='cite'>コンポーネント図</span><br>コンポーネント図は、インタフェースを介したコンポーネント同士の関係やコンポーネントの内容を表現する図です。</li><li class='liu'><span class='cite'>シーケンス図</span><br><em class='m'>正しい</em>。シーケンス図は、オブジェクト間のメッセージの流れを時系列に表す図です。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/06_menjo/img/34a.png' width='467' height='277' alt='34a.png/image-size:467×277'></div></li><li class='lie'><span class='cite'>状態遷移図</span><br>状態遷移図は、時間の経過や事象の発生に応じて状態が変わるようなシステムの振る舞いを記述するときに適した図式化手法です。</li></ul>"
                },
         "zh":  {
                    "ti":  "令和6年度 問34",
@@ -1424,7 +1424,7 @@
                               "狀態遷移圖"
                           ],
                    "an":  3,
-                   "al":  "UML (Unified Modeling Language) 是一組用於物件導向開發的標準表記法。其中包含 13 種用來表現物件間關聯、動作及構成的圖表。@1@ 活動圖：活動圖是用來描述系統等作業流程的圖表。@2@ 元件圖：元件圖是用來表現元件之間透過介面的關聯性，以及元件內容的圖表。"
+                   "al": "<b>UML</b>（Unified Modeling Language）是用於物件導向開發的標準標記法群組。共有 13 種圖表，用來表達物件之間的關聯、動作與結構。<ul><li class='lia'><span class='cite'>活動圖（Activity Diagram）</span><br>活動圖是用來描述系統等流程的圖表。</li><li class='lii'><span class='cite'>元件圖（Component Diagram）</span><br>元件圖是用來表達透過介面互動的元件彼此關係或元件內容的圖表。</li><li class='liu'><span class='cite'>循序圖（Sequence Diagram）</span><br><em class='m'>正確</em>。循序圖是以時間順序來表示物件之間訊息流向的圖表。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/06_menjo/img/34a.png' width='467' height='277' alt='img/34a.png/image-size:467×277'></div></li><li class='lie'><span class='cite'>狀態轉移圖（State Machine Diagram）</span><br>狀態轉移圖是適合用來描述隨著時間經過或事件發生而改變狀態之系統行為的圖形化手法。</li></ul>"
                }
     },
     {
