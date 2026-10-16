@@ -2587,7 +2587,7 @@
                               "データフロー図やアクティビティ図などを活用し，業務プロセスの問題点を発見して改善を行うための，業務分析と可視化ソフトウェアの技術"
                           ],
                    "an":  3,
-                   "al":  "OpenFlowとは、既存のネットワーク機器がもつ制御処理と転送処理を分離したアーキテクチャです。制御部をネットワーク管理者が自ら設計・実装することで、ネットワーク機器ベンダーの設定範囲を超えた柔軟な制御機能を実現できます。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/35.png\" alt=\"\"\u003e"
+                   "al": "<strong>OpenFlow</strong>とは、既存のネットワーク機器がもつ制御処理と転送処理を分離したアーキテクチャです。制御部をネットワーク管理者が自ら設計・実装することで、ネットワーク機器ベンダーの設定範囲を超えた柔軟な制御機能を実現できます。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/31_haru/img/35.png' width='341' height='190' alt='35.png/image-size:341×190'></div><strong>SDN</strong>(Software-Defined Networking)とは、このOpenFlow上でソフトウェア制御による動的で柔軟なネットワークを作り上げる技術全般を意味します。SDNを用いると、物理的に接続されたネットワーク上で、 別途仮想的なネットワークを構築するといった柔軟な制御が可能になります。<ul><li class='lia'><span class='cite'>RFIDを用いるIoT(Internet of Things)技術の一つであり，物流ネットワークを最適化するためのソフトウェアアーキテクチャ</span><br>EPCglobalネットワークアーキテクチャの説明です。</li><li class='lii'><span class='cite'>音樂や動画，オンラインゲームなどの様々なソフトウェアコンテンツをインターネット経由で効率的に配信するために開発された，ネットワーク上のサーバの最適配置手法</span><br>CDN(Content Delivery Network)の説明です。</li><li class='liu'><span class='cite'>データ転送と経路制御の機能を論理的に分離し，データ転送に特化したネットワーク機器とソフトウェアによる経路制御の組合せで実現するネットワーク技術</span><br><em class='m'>正しい</em>。SDNの説明です。</li><li class='lie'><span class='cite'>データフロー図やアクティビティ図などを活用して，業務プロセスの問題点を発見し改善を行うための，業務分析と可視化ソフトウェアの技術</span><br>UML(Unified Modeling Language)の説明です。</li></ul>"
                },
         "zh":  {
                    "ti":  "平成31年春季 問35",
@@ -2600,7 +2600,7 @@
                               "利用資料流程圖或活動圖等，用於發現並改善業務流程問題的業務分析與視覺化軟體技術"
                           ],
                    "an":  3,
-                   "al":  "OpenFlow 是一種將現有網路設備所具備的控制處理與轉送處理分離開來的架構。透過由網路管理員自行設計與實作控制部分，能夠實現超越網路設備廠商設定範圍的靈活控制功能。\u003cimg src=\"https://www.fe-siken.com/kakomon/31_haru/img/35.png\" alt=\"\"\u003e"
+                   "al": "<strong>OpenFlow</strong> 是指將現有網路設備所具有的控制處理與轉發處理分離的架構。透過由網路管理者親自設計與實作控制部，能夠實現超出網路設備廠商設定範圍的靈活控制功能。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/31_haru/img/35.png' width='341' height='190' alt='img/35.png/image-size:341×190'></div><strong>SDN</strong>（Software-Defined Networking）是指在此種 OpenFlow 之上，透過軟體控制來打造動態且靈活網路之技術的總稱。使用 SDN 可以在實體連接的網路之上，額外建構虛擬網路等靈活的控制。<ul><li class='lia'><span class='cite'>作為使用 RFID 的 IoT（Internet of Things）技術之一，是用於最佳化物流網路的軟體架構</span><br>這是對 EPCglobal 網路架構的說明。</li><li class='lii'><span class='cite'>為了透過網際網路有效率地分發音樂、影片、線上遊戲等各種軟體內容而開發的網路伺服器最佳配置手法</span><br>這是對 CDN（Content Delivery Network）的說明。</li><li class='liu'><span class='cite'>將資料轉發與路徑控制的功能在邏輯上分離，並由專門負責資料轉發的網路設備與透過軟體進行路徑控制的組合來實現的網路技術</span><br><em class='m'>正確</em>。這是對 SDN 的說明。</li><li class='lie'><span class='cite'>活用資料流程圖或活動圖等，用以發現業務流程問題並進行改善的業務分析與視覺化軟體技術</span><br>這是對 UML（Unified Modeling Language）的說明。</li></ul>"
                }
     },
     {
