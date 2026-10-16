@@ -3679,7 +3679,7 @@
                               "C5D4"
                           ],
                    "an":  4,
-                   "al":  "〔ASCIIコード表の一部〕を参照すると、\"E\"は100 0101、\"T\"は101 0100とわかります。\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/11a.png\" alt=\"EとTの位置\"\u003e"
+                   "al": "〔ASCIIコード表の一部〕を参照すると、\"E\"は100 0101、\"T\"は101 0100とわかります。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/19_haru/img/11a.png' width='304' height='237' alt='11a.png/image-size:304×237'></div>パリティビットの付加方式は偶数パリティなので、次のように考えて付加するビットを決定します。<ul><li>E(100 0101)→1の数が奇数→パリティは1→1100 0101</li><li>T(101 0100)→1の数が奇数→パリティは1→1101 0100</li></ul>パリティビットを付加した2つの文字をつなぐと「1100 0101 1101 0100」で、これを16進数に変換すると「C5D4」になります。"
                },
         "zh":  {
                    "ti":  "平成19年春季 問11",
@@ -3692,7 +3692,7 @@
                               "C5D4"
                           ],
                    "an":  4,
-                   "al":  "參考〔ASCII 編碼表局部〕，可知“E”為 100 0101，“T”為 101 0100。\u003cimg src=\"https://www.fe-siken.com/kakomon/19_haru/img/11a.png\" alt=\"E與T的位置\"\u003e"
+                   "al": "參照〔ASCII 代碼表的一部分〕，可知「E」為 100 0101，「T」為 101 0100。<div class='img_margin'><img src='https://www.fe-siken.com/kakomon/19_haru/img/11a.png' width='304' height='237' alt='img/11a.png/image-size:304×237'></div>由於同位位元（Parity Bit）的附加方式為偶同位（Even Parity），因此透過以下方式來決定要附加的位元：<ul><li>E (100 0101) → 1 的個數為奇數 → 同位位元為 1 → 1100 0101</li><li>T (101 0100) → 1 的個數為奇數 → 同位位元為 1 → 1101 0100</li></ul>將附加了同位位元的兩個字元連結起來為「1100 0101 1101 0100」，將其轉換為 16 進位則為「C5D4」。"
                }
     },
     {
